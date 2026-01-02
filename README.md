@@ -126,10 +126,10 @@ StreetDesignAI/
 ├── Transcript/                # Interview transcripts (26 sessions)
 │   ├── 01.txt - 26.txt
 ├── log data/                  # System interaction logs (JSON)
-├── survey data1/              # Survey responses
-│   ├── ChatGPT Survey1.numbers
-│   ├── Pre-study Survey.numbers
-│   └── StreetDesignAI Survey1.numbers
+├── survey data/               # Survey responses
+│   ├── ChatGPT Survey.xlsx
+│   ├── Pre-study Survey.xlsx
+│   └── StreetDesignAI Survey.xlsx
 ├── Study hot take-pilots.docx
 └── Study hot takes-professionals.docx
 ```
