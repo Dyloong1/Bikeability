@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-### ACL_data/
+### data/
 Survey data files:
 - `bike_lane_info.csv` - Bike lane information
 - `indicator_pool.json` - Indicator pool for evaluation
@@ -10,7 +10,7 @@ Survey data files:
 - `ratings_anonymous.json` - Anonymous rating data
 - `surveys_anonymous.json` - Anonymous survey data
 
-### ACL_code/
+### code/
 Code for Qwen VL training and baseline experiments:
 - `train_qwen_vl.py` - Qwen VL model training script
 - `qwen_vl_predict.py` - Qwen VL prediction
