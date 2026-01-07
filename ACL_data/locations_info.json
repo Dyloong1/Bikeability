@@ -1,0 +1,4272 @@
+{
+  "metadata": {
+    "total_locations": 203,
+    "generated_at": "2025-07-16 03:47:01",
+    "source_file": "DC_sample_0507_with_idx_swapped 1_updated.xlsx"
+  },
+  "locations": [
+    {
+      "id": "loc_1",
+      "index": 1,
+      "name": "34th Street Northwest",
+      "coordinates": {
+        "lat": 38.910494,
+        "lng": -77.067872
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 174.74797,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'37.7%22N+77%C2%B004'04.3%22W/@38.9104936,-77.067872,3a,75y,174.75h,90t/data=!3m7!1e1!3m5!1stEVNtKpWVw9cl-_S9roFAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DtEVNtKpWVw9cl-_S9roFAg%26yaw%3D174.74797!7i13312!8i6656!4m4!3m3!8m2!3d38.9104661!4d-77.0678609?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "1.png"
+    },
+    {
+      "id": "loc_2",
+      "index": 2,
+      "name": "Farragut Street Northwest",
+      "coordinates": {
+        "lat": 38.950758,
+        "lng": -77.033455
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 186.28335512226312,
+        "pitch": 1.3610989203967279
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'00.2%22N+77%C2%B002'00.4%22W/@38.950758,-77.0334553,3a,75y,186.28h,88.64t/data=!3m7!1e1!3m5!1saYTluXWuNO-MUKYNSSTGDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3610989203967279%26panoid%3DaYTluXWuNO-MUKYNSSTGDw%26yaw%3D186.28335512226312!7i16384!8i8192!4m4!3m3!8m2!3d38.9500566!4d-77.0334313?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "2.png"
+    },
+    {
+      "id": "loc_3",
+      "index": 3,
+      "name": "Irving Street Northeast",
+      "coordinates": {
+        "lat": 38.930949,
+        "lng": -77.003119
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 309.94272,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'51.4%22N+77%C2%B000'11.3%22W/@38.9309487,-77.003119,3a,75y,309.94h,90t/data=!3m7!1e1!3m5!1sbKiuITWCtMoQNK0jBUg4Uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DbKiuITWCtMoQNK0jBUg4Uw%26yaw%3D309.94272!7i16384!8i8192!4m4!3m3!8m2!3d38.9309391!4d-77.0031446?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "3.png"
+    },
+    {
+      "id": "loc_4",
+      "index": 4,
+      "name": "Porter Street Northwest",
+      "coordinates": {
+        "lat": 38.934869,
+        "lng": -77.053582
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 303.78731379588874,
+        "pitch": -6.576033363653579
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'06.5%22N+77%C2%B003'15.6%22W/@38.9348691,-77.0535818,3a,75y,303.79h,96.58t/data=!3m7!1e1!3m5!1sQM2APBxFZIHx_BghLvR3hw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.576033363653579%26panoid%3DQM2APBxFZIHx_BghLvR3hw%26yaw%3D303.78731379588874!7i16384!8i8192!4m4!3m3!8m2!3d38.9351416!4d-77.0543248?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "4.png"
+    },
+    {
+      "id": "loc_5",
+      "index": 5,
+      "name": "33rd Street Northwest",
+      "coordinates": {
+        "lat": 38.909545,
+        "lng": -77.066096
+      },
+      "roadType": "residential",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 358.3906390719039,
+        "pitch": 1.6422404373618775
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'34.7%22N+77%C2%B003'58.0%22W/@38.9095445,-77.0660957,3a,75y,358.39h,88.36t/data=!3m7!1e1!3m5!1sxVPY3L6-5EiyElPWYiDRPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.6422404373618775%26panoid%3DxVPY3L6-5EiyElPWYiDRPQ%26yaw%3D358.3906390719039!7i16384!8i8192!4m4!3m3!8m2!3d38.9096322!4d-77.0661011?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "5.png"
+    },
+    {
+      "id": "loc_7",
+      "index": 7,
+      "name": "14th Street Northwest",
+      "coordinates": {
+        "lat": 38.960447,
+        "lng": -77.033398
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 355.36455106217045,
+        "pitch": 0.593549459595053
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'37.6%22N+77%C2%B002'00.4%22W/@38.9604474,-77.0333978,3a,75y,355.36h,89.41t/data=!3m7!1e1!3m5!1sXSj-t96FkcpK8xBRGbyLDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.593549459595053%26panoid%3DXSj-t96FkcpK8xBRGbyLDg%26yaw%3D355.36455106217045!7i16384!8i8192!4m4!3m3!8m2!3d38.9604457!4d-77.0334499?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "7.png"
+    },
+    {
+      "id": "loc_8",
+      "index": 8,
+      "name": "Columbia Road Northwest",
+      "coordinates": {
+        "lat": 38.924383,
+        "lng": -77.040079
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 54.51142805888421,
+        "pitch": 3.092365011998737
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'28.1%22N+77%C2%B002'23.8%22W/@38.9243827,-77.0400787,3a,75y,54.51h,86.91t/data=!3m7!1e1!3m5!1sJKaMGM9jQWvgQleEzYwJCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.092365011998737%26panoid%3DJKaMGM9jQWvgQleEzYwJCg%26yaw%3D54.51142805888421!7i16384!8i8192!4m4!3m3!8m2!3d38.9244735!4d-77.0399523?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "8.png"
+    },
+    {
+      "id": "loc_10",
+      "index": 10,
+      "name": "West Virginia Avenue Northeast",
+      "coordinates": {
+        "lat": 38.912181,
+        "lng": -76.983856
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 52.15706,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'44.0%22N+76%C2%B059'01.7%22W/@38.9121806,-76.983856,3a,75y,52.16h,90t/data=!3m7!1e1!3m5!1srSa6NBkEIbUaYWetTIeexg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DrSa6NBkEIbUaYWetTIeexg%26yaw%3D52.15706!7i16384!8i8192!4m4!3m3!8m2!3d38.9122089!4d-76.9838109?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "10.png"
+    },
+    {
+      "id": "loc_12",
+      "index": 12,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.845077,
+        "lng": -77.007539
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 87.60619377712418,
+        "pitch": 0.2557079204393773
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.3%22N+77%C2%B000'27.1%22W/@38.8450774,-77.0075386,3a,75y,87.61h,89.74t/data=!3m7!1e1!3m5!1sVxsCXT6sDrVGmeXXy2YjPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2557079204393773%26panoid%3DVxsCXT6sDrVGmeXXy2YjPQ%26yaw%3D87.60619377712418!7i13312!8i6656!4m4!3m3!8m2!3d38.8450949!4d-77.0075344?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "12.png"
+    },
+    {
+      "id": "loc_13",
+      "index": 13,
+      "name": "New Hampshire Avenue Northwest",
+      "coordinates": {
+        "lat": 38.904511,
+        "lng": -77.048248
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 29.937735216293145,
+        "pitch": 8.208442215019176
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'16.6%22N+77%C2%B002'53.4%22W/@38.9045111,-77.0482477,3a,75y,29.94h,81.79t/data=!3m7!1e1!3m5!1skhim3DzY5kz02efbkdz6bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.208442215019176%26panoid%3Dkhim3DzY5kz02efbkdz6bg%26yaw%3D29.937735216293145!7i16384!8i8192!4m4!3m3!8m2!3d38.9046063!4d-77.0481738?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "13.png"
+    },
+    {
+      "id": "loc_14",
+      "index": 14,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.931192,
+        "lng": -77.00692
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 23.41725892364975,
+        "pitch": 4.083360505145748
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'52.6%22N+77%C2%B000'24.7%22W/@38.9311916,-77.0069201,3a,75y,23.42h,85.92t/data=!3m7!1e1!3m5!1s6YbLrGB2zyyWjOfKqAdAwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.083360505145748%26panoid%3D6YbLrGB2zyyWjOfKqAdAwQ%26yaw%3D23.41725892364975!7i16384!8i8192!4m4!3m3!8m2!3d38.931269!4d-77.0068548?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "14.png"
+    },
+    {
+      "id": "loc_15",
+      "index": 15,
+      "name": "Van Ness Street Northwest",
+      "coordinates": {
+        "lat": 38.943173,
+        "lng": -77.079102
+      },
+      "roadType": "secondary",
+      "surface": "concrete",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 272.25750584416386,
+        "pitch": 7.954911833332844
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'35.4%22N+77%C2%B004'45.1%22W/@38.9431728,-77.0791021,3a,75y,272.26h,82.05t/data=!3m7!1e1!3m5!1sWKUzo3EY0XTN8ASsCndkTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.954911833332844%26panoid%3DWKUzo3EY0XTN8ASsCndkTw%26yaw%3D272.25750584416386!7i16384!8i8192!4m4!3m3!8m2!3d38.9431625!4d-77.079181?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "15.png"
+    },
+    {
+      "id": "loc_16",
+      "index": 16,
+      "name": "2nd Street Northwest",
+      "coordinates": {
+        "lat": 38.94224,
+        "lng": -77.013704
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 265.21515086150725,
+        "pitch": 1.018823268050852
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'32.0%22N+77%C2%B000'48.9%22W/@38.9422403,-77.0137044,3a,75y,265.22h,88.98t/data=!3m7!1e1!3m5!1sl59QdBfRBGTKNKaJdrsO_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.018823268050852%26panoid%3Dl59QdBfRBGTKNKaJdrsO_w%26yaw%3D265.21515086150725!7i16384!8i8192!4m4!3m3!8m2!3d38.942217!4d-77.0135822?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "16.png"
+    },
+    {
+      "id": "loc_17",
+      "index": 17,
+      "name": "Belmont Street Northwest",
+      "coordinates": {
+        "lat": 38.920706,
+        "lng": -77.031823
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 357.04130105077274,
+        "pitch": 1.0392044992301805
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'14.1%22N+77%C2%B001'54.6%22W/@38.9207059,-77.031823,3a,75y,357.04h,88.96t/data=!3m7!1e1!3m5!1sAYt5A2heTZt529LpyA8aUw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0392044992301805%26panoid%3DAYt5A2heTZt529LpyA8aUw%26yaw%3D357.04130105077274!7i16384!8i8192!4m4!3m3!8m2!3d38.9205808!4d-77.0318404?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "17.png"
+    },
+    {
+      "id": "loc_18",
+      "index": 18,
+      "name": "Florida Avenue Northwest",
+      "coordinates": {
+        "lat": 38.91796,
+        "lng": -77.024125
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 336.8258360379582,
+        "pitch": 3.051579943194227
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'04.8%22N+77%C2%B001'27.0%22W/@38.9179602,-77.0241247,3a,75y,336.83h,86.95t/data=!3m7!1e1!3m5!1s7zmFQk2x78_o_ISIO2J0Dg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.051579943194227%26panoid%3D7zmFQk2x78_o_ISIO2J0Dg%26yaw%3D336.8258360379582!7i16384!8i8192!4m4!3m3!8m2!3d38.9179978!4d-77.0241707?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "18.png"
+    },
+    {
+      "id": "loc_19",
+      "index": 19,
+      "name": "Dorsett Place Northwest",
+      "coordinates": {
+        "lat": 38.926663,
+        "lng": -77.106209
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 55.61976496333639,
+        "pitch": -2.7978600468238994
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'36.9%22N+77%C2%B006'21.0%22W/@38.9266634,-77.1062088,3a,75y,55.62h,92.8t/data=!3m7!1e1!3m5!1spUitEC-uepNs7XOX_ZilPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7978600468238994%26panoid%3DpUitEC-uepNs7XOX_ZilPQ%26yaw%3D55.61976496333639!7i16384!8i8192!4m4!3m3!8m2!3d38.9269016!4d-77.1058193?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "19.png"
+    },
+    {
+      "id": "loc_20",
+      "index": 20,
+      "name": "Q Street Northwest",
+      "coordinates": {
+        "lat": 38.910652,
+        "lng": -77.026561
+      },
+      "roadType": "trunk",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 67.65208358472387,
+        "pitch": -4.032466661839138
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'38.7%22N+77%C2%B001'36.0%22W/@38.9106524,-77.026561,3a,75y,67.65h,94.03t/data=!3m7!1e1!3m5!1sd1h8Z0aJbB4HIttVO0fFgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.032466661839138%26panoid%3Dd1h8Z0aJbB4HIttVO0fFgQ%26yaw%3D67.65208358472387!7i16384!8i8192!4m4!3m3!8m2!3d38.9107509!4d-77.0266717?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "20.png"
+    },
+    {
+      "id": "loc_23",
+      "index": 23,
+      "name": "Butternut Street Northwest",
+      "coordinates": {
+        "lat": 38.973509,
+        "lng": -77.022919
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 211.85781529153846,
+        "pitch": 1.3043296673669005
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'25.4%22N+77%C2%B001'21.5%22W/@38.9735095,-77.0229192,3a,75y,211.86h,88.7t/data=!3m7!1e1!3m5!1stGCtcjZBP4eMe_sg1vNZvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3043296673669005%26panoid%3DtGCtcjZBP4eMe_sg1vNZvg%26yaw%3D211.85781529153846!7i16384!8i8192!4m4!3m3!8m2!3d38.9737157!4d-77.0226499?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "23.png"
+    },
+    {
+      "id": "loc_24",
+      "index": 24,
+      "name": "Piney Branch Road Northwest",
+      "coordinates": {
+        "lat": 38.97246,
+        "lng": -77.023528
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 30.45865047426376,
+        "pitch": 7.707442685433406
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'20.4%22N+77%C2%B001'25.2%22W/@38.9724603,-77.0235279,3a,75y,30.46h,82.29t/data=!3m7!1e1!3m5!1sKWSO3kzzpy8S1e9Ibg11uA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.707442685433406%26panoid%3DKWSO3kzzpy8S1e9Ibg11uA%26yaw%3D30.45865047426376!7i16384!8i8192!4m4!3m3!8m2!3d38.9723402!4d-77.023655?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "24.png"
+    },
+    {
+      "id": "loc_25",
+      "index": 25,
+      "name": "19th Street Northeast",
+      "coordinates": {
+        "lat": 38.890967,
+        "lng": -76.977245
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 0.9832583724693222,
+        "pitch": 0.34344548478262027
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'27.3%22N+76%C2%B058'38.1%22W/@38.8909672,-76.9772454,3a,75y,0.98h,89.66t/data=!3m7!1e1!3m5!1sAB-WmooPjjA_yDWaib_-xQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.34344548478262027%26panoid%3DAB-WmooPjjA_yDWaib_-xQ%26yaw%3D0.9832583724693222!7i16384!8i8192!4m4!3m3!8m2!3d38.8909266!4d-76.9772433?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "25.png"
+    },
+    {
+      "id": "loc_26",
+      "index": 26,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.84508,
+        "lng": -77.006609
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 89.83916298144509,
+        "pitch": 1.1001332858489548
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.4%22N+77%C2%B000'22.8%22W/@38.8450803,-77.0066087,3a,75y,89.84h,88.9t/data=!3m7!1e1!3m5!1sqRfMrXGNigLYEuhYSKPB7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1001332858489548%26panoid%3DqRfMrXGNigLYEuhYSKPB7g%26yaw%3D89.83916298144509!7i13312!8i6656!4m4!3m3!8m2!3d38.8450961!4d-77.0063386?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "26.png"
+    },
+    {
+      "id": "loc_28",
+      "index": 28,
+      "name": "P Street Northwest",
+      "coordinates": {
+        "lat": 38.909731,
+        "lng": -77.031952
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 3.162745897088334,
+        "pitch": 2.0300138842490014
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'35.0%22N+77%C2%B001'55.0%22W/@38.9097314,-77.031952,3a,75y,3.16h,87.97t/data=!3m7!1e1!3m5!1sOuGFnddmbIUKLlM-bfygoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0300138842490014%26panoid%3DOuGFnddmbIUKLlM-bfygoQ%26yaw%3D3.162745897088334!7i16384!8i8192!4m4!3m3!8m2!3d38.9097105!4d-77.0319522?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "28.png"
+    },
+    {
+      "id": "loc_29",
+      "index": 29,
+      "name": "Sherman Avenue Northwest",
+      "coordinates": {
+        "lat": 38.920249,
+        "lng": -77.025216
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 191.02258320327897,
+        "pitch": 0.10264913077155313
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'12.8%22N+77%C2%B001'30.7%22W/@38.9202487,-77.0252157,3a,75y,191.02h,89.9t/data=!3m7!1e1!3m5!1sA5_SGzAkTfyY1635Gjdijw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.10264913077155313%26panoid%3DA5_SGzAkTfyY1635Gjdijw%26yaw%3D191.02258320327897!7i16384!8i8192!4m4!3m3!8m2!3d38.9202274!4d-77.0251809?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "29.png"
+    },
+    {
+      "id": "loc_30",
+      "index": 30,
+      "name": "Piney Branch Road Northwest",
+      "coordinates": {
+        "lat": 38.967233,
+        "lng": -77.027938
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 40.91752819837889,
+        "pitch": 2.0437352623242617
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'02.4%22N+77%C2%B001'40.2%22W/@38.9672328,-77.0279382,3a,75y,40.92h,87.96t/data=!3m7!1e1!3m5!1sEgHAISFJhuWe81XPnMis5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0437352623242617%26panoid%3DEgHAISFJhuWe81XPnMis5Q%26yaw%3D40.91752819837889!7i16384!8i8192!4m4!3m3!8m2!3d38.9673421!4d-77.0278334?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "30.png"
+    },
+    {
+      "id": "loc_31",
+      "index": 31,
+      "name": "New Jersey Avenue Southeast",
+      "coordinates": {
+        "lat": 38.880641,
+        "lng": -77.005629
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 351.2566690556185,
+        "pitch": 7.489991635472862
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'51.6%22N+77%C2%B000'21.2%22W/@38.8806409,-77.0056285,3a,75y,351.26h,82.51t/data=!3m7!1e1!3m5!1seawPWSSGUrsivEHipSjpRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.489991635472862%26panoid%3DeawPWSSGUrsivEHipSjpRA%26yaw%3D351.2566690556185!7i16384!8i8192!4m4!3m3!8m2!3d38.8810003!4d-77.0058828?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "31.png"
+    },
+    {
+      "id": "loc_32",
+      "index": 32,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.956239,
+        "lng": -77.032812
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 264.9061323592021,
+        "pitch": 1.8552780923389065
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'22.5%22N+77%C2%B001'59.6%22W/@38.9562393,-77.0328117,3a,75y,264.91h,88.14t/data=!3m7!1e1!3m5!1sX4Cd3ABnYWuNkdAp8zAx1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8552780923389065%26panoid%3DX4Cd3ABnYWuNkdAp8zAx1w%26yaw%3D264.9061323592021!7i16384!8i8192!4m4!3m3!8m2!3d38.9562542!4d-77.0332097?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "32.png"
+    },
+    {
+      "id": "loc_33",
+      "index": 33,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.876319,
+        "lng": -76.991581
+      },
+      "roadType": "secondary",
+      "surface": "concrete",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 190.1166758483601,
+        "pitch": -1.6062646601086357
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'33.7%22N+76%C2%B059'29.7%22W/@38.8763192,-76.9915807,3a,75y,190.12h,91.61t/data=!3m7!1e1!3m5!1s8DJlsWlG6aoMsb_lvidBtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6062646601086357%26panoid%3D8DJlsWlG6aoMsb_lvidBtg%26yaw%3D190.1166758483601!7i16384!8i8192!4m4!3m3!8m2!3d38.8760352!4d-76.99158?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "33.png"
+    },
+    {
+      "id": "loc_34",
+      "index": 34,
+      "name": "A Street Northeast",
+      "coordinates": {
+        "lat": 38.891093,
+        "lng": -76.993352
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 296.3938540061251,
+        "pitch": 1.3092330699262789
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'27.7%22N+76%C2%B059'35.7%22W/@38.8910929,-76.993352,3a,75y,296.39h,88.69t/data=!3m7!1e1!3m5!1sJoVLAhuEmtNmZ546AIi-jw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3092330699262789%26panoid%3DJoVLAhuEmtNmZ546AIi-jw%26yaw%3D296.3938540061251!7i16384!8i8192!4m4!3m3!8m2!3d38.8910314!4d-76.9932485?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "34.png"
+    },
+    {
+      "id": "loc_35",
+      "index": 35,
+      "name": "M Street Southeast",
+      "coordinates": {
+        "lat": 38.876469,
+        "lng": -77.000309
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 92.65890428890185,
+        "pitch": 3.151827565492482
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'35.6%22N+77%C2%B000'02.2%22W/@38.8764693,-77.0003086,3a,75y,92.66h,86.85t/data=!3m7!1e1!3m5!1sABx2kzoqkZDFnlFMnjUFfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.151827565492482%26panoid%3DABx2kzoqkZDFnlFMnjUFfg%26yaw%3D92.65890428890185!7i16384!8i8192!4m4!3m3!8m2!3d38.8765429!4d-77.0006177?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "35.png"
+    },
+    {
+      "id": "loc_36",
+      "index": 36,
+      "name": "Alabama Avenue Southeast",
+      "coordinates": {
+        "lat": 38.849608,
+        "lng": -76.977174
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 46.01375706380537,
+        "pitch": 5.601357726126835
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'57.5%22N+76%C2%B058'38.9%22W/@38.8496083,-76.9771735,3a,75y,46.01h,84.4t/data=!3m7!1e1!3m5!1sxoSQa4FrDmRJdikzogmXFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.601357726126835%26panoid%3DxoSQa4FrDmRJdikzogmXFA%26yaw%3D46.01375706380537!7i16384!8i8192!4m4!3m3!8m2!3d38.8493092!4d-76.9774767?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "36.png"
+    },
+    {
+      "id": "loc_38",
+      "index": 38,
+      "name": "Piney Branch Road Northwest",
+      "coordinates": {
+        "lat": 38.972778,
+        "lng": -77.023313
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 29.064805140924474,
+        "pitch": -3.867380819563863
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'22.4%22N+77%C2%B001'23.7%22W/@38.9727777,-77.0233125,3a,75y,29.06h,93.87t/data=!3m7!1e1!3m5!1sgWT8IgZw0f0Iq4VCea-bxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.867380819563863%26panoid%3DgWT8IgZw0f0Iq4VCea-bxQ%26yaw%3D29.064805140924474!7i16384!8i8192!4m4!3m3!8m2!3d38.9728953!4d-77.0232356?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "38.png"
+    },
+    {
+      "id": "loc_39",
+      "index": 39,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.954815,
+        "lng": -77.016375
+      },
+      "roadType": "tertiary",
+      "surface": "unknown",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 213.33752830924038,
+        "pitch": 5.495915484192992
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'17.8%22N+77%C2%B000'58.4%22W/@38.9548148,-77.0163753,3a,75y,213.34h,84.5t/data=!3m7!1e1!3m5!1shY4PY_dq8e5GRfHhSJ16NA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.495915484192992%26panoid%3DhY4PY_dq8e5GRfHhSJ16NA%26yaw%3D213.33752830924038!7i16384!8i8192!4m4!3m3!8m2!3d38.9549381!4d-77.0162253?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "39.png"
+    },
+    {
+      "id": "loc_40",
+      "index": 40,
+      "name": "West Virginia Avenue Northeast",
+      "coordinates": {
+        "lat": 38.916682,
+        "lng": -76.978875
+      },
+      "roadType": "trunk",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 221.0587474465468,
+        "pitch": -3.365854317111939
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/West+Virginia+Ave+NE,+Washington,+DC+20002/@38.9166817,-76.9788752,3a,75y,221.06h,93.37t/data=!3m7!1e1!3m5!1scUW5JvSq9pxSYM_2NNCCFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.365854317111939%26panoid%3DcUW5JvSq9pxSYM_2NNCCFA%26yaw%3D221.0587474465468!7i16384!8i8192!4m15!1m8!3m7!1s0x89b7b86d49c84029:0x7ce5912a76a0f0f9!2sWest+Virginia+Ave+NE,+Washington,+DC+20002!3b1!8m2!3d38.9094998!4d-76.9869046!16s%2Fg%2F1w1131yl!3m5!1s0x89b7b86d49c84029:0x7ce5912a76a0f0f9!8m2!3d38.9094998!4d-76.9869046!16s%2Fg%2F1w1131yl?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "40.png"
+    },
+    {
+      "id": "loc_41",
+      "index": 41,
+      "name": "Malcolm X Avenue Southeast",
+      "coordinates": {
+        "lat": 38.845066,
+        "lng": -77.007917
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 93.03084129720497,
+        "pitch": 0.2963543867306129
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.5%22N+77%C2%B000'30.7%22W/@38.8450664,-77.0079172,3a,75y,93.03h,89.7t/data=!3m7!1e1!3m5!1soXVy8xnAnEUkmqmh5BF6Ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2963543867306129%26panoid%3DoXVy8xnAnEUkmqmh5BF6Ig%26yaw%3D93.03084129720497!7i13312!8i6656!4m4!3m3!8m2!3d38.8451397!4d-77.0085132?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "41.png"
+    },
+    {
+      "id": "loc_42",
+      "index": 42,
+      "name": "3rd Street Northwest",
+      "coordinates": {
+        "lat": 38.968023,
+        "lng": -77.016161
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 0.08620113348325731,
+        "pitch": -2.649492845701289
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'04.9%22N+77%C2%B000'58.3%22W/@38.9680233,-77.0161606,3a,75y,0.09h,92.65t/data=!3m7!1e1!3m5!1sGbTuFQ8k5y9HyRC8MDEiQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.649492845701289%26panoid%3DGbTuFQ8k5y9HyRC8MDEiQg%26yaw%3D0.08620113348325731!7i16384!8i8192!4m4!3m3!8m2!3d38.9680386!4d-77.0161877?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "42.png"
+    },
+    {
+      "id": "loc_45",
+      "index": 45,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.908286,
+        "lng": -77.038525
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 177.02747658471202,
+        "pitch": 4.863918569616743
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'29.3%22N+77%C2%B002'18.6%22W/@38.9082856,-77.0385246,3a,75y,177.03h,85.14t/data=!3m7!1e1!3m5!1siFX-csmFK4AChvKa4WJrWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.863918569616743%26panoid%3DiFX-csmFK4AChvKa4WJrWQ%26yaw%3D177.02747658471202!7i16384!8i8192!4m4!3m3!8m2!3d38.9081472!4d-77.0384858?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "45.png"
+    },
+    {
+      "id": "loc_46",
+      "index": 46,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.962998,
+        "lng": -77.033399
+      },
+      "roadType": "tertiary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 355.62931760024026,
+        "pitch": 3.541077369765901
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'46.8%22N+77%C2%B002'00.3%22W/@38.9629985,-77.0333986,3a,75y,355.63h,86.46t/data=!3m7!1e1!3m5!1sQNbdGSjqRNCgGXMDJ4-D2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.541077369765901%26panoid%3DQNbdGSjqRNCgGXMDJ4-D2w%26yaw%3D355.62931760024026!7i16384!8i8192!4m4!3m3!8m2!3d38.9629853!4d-77.0334208?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "46.png"
+    },
+    {
+      "id": "loc_48",
+      "index": 48,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.942471,
+        "lng": -77.019246
+      },
+      "roadType": "tertiary",
+      "surface": "paving_stones",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 173.89115115608357,
+        "pitch": 6.800941985084776
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'32.7%22N+77%C2%B001'09.2%22W/@38.9424711,-77.0192457,3a,75y,173.89h,83.2t/data=!3m7!1e1!3m5!1s7WkDLdLsHIyJdtD222b4hQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.800941985084776%26panoid%3D7WkDLdLsHIyJdtD222b4hQ%26yaw%3D173.89115115608357!7i16384!8i8192!4m4!3m3!8m2!3d38.9424139!4d-77.0192164?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "48.png"
+    },
+    {
+      "id": "loc_53",
+      "index": 53,
+      "name": "7th Street Northwest",
+      "coordinates": {
+        "lat": 38.913988,
+        "lng": -77.021948
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 178.14484692025778,
+        "pitch": 3.499273965531117
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'50.7%22N+77%C2%B001'18.9%22W/@38.9139883,-77.0219478,3a,75y,178.14h,86.5t/data=!3m7!1e1!3m5!1s8q27Gjab3lxjDL9hT_ygQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.499273965531117%26panoid%3D8q27Gjab3lxjDL9hT_ygQw%26yaw%3D178.14484692025778!7i16384!8i8192!4m4!3m3!8m2!3d38.9140942!4d-77.0219211?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "53.png"
+    },
+    {
+      "id": "loc_54",
+      "index": 54,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.915378,
+        "lng": -77.023991
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 175.26736537751756,
+        "pitch": 0.3454419163652176
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'55.5%22N+77%C2%B001'26.3%22W/@38.9153778,-77.0239913,3a,75y,175.27h,89.65t/data=!3m7!1e1!3m5!1sAsFR1OFc920-QMn4fXkp2Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.3454419163652176%26panoid%3DAsFR1OFc920-QMn4fXkp2Q%26yaw%3D175.26736537751756!7i16384!8i8192!4m4!3m3!8m2!3d38.9154252!4d-77.0239702?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "54.png"
+    },
+    {
+      "id": "loc_55",
+      "index": 55,
+      "name": "MacArthur Boulevard Northwest",
+      "coordinates": {
+        "lat": 38.927162,
+        "lng": -77.103909
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 131.44479621683539,
+        "pitch": 3.720957453780585
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'38.1%22N+77%C2%B006'13.6%22W/@38.9271617,-77.1039085,3a,75y,131.44h,86.28t/data=!3m7!1e1!3m5!1sD8dP0IqxAI4SEM3byG4Ziw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.720957453780585%26panoid%3DD8dP0IqxAI4SEM3byG4Ziw%26yaw%3D131.44479621683539!7i16384!8i8192!4m4!3m3!8m2!3d38.927246!4d-77.1037783?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "55.png"
+    },
+    {
+      "id": "loc_58",
+      "index": 58,
+      "name": "V Street Northwest",
+      "coordinates": {
+        "lat": 38.918119,
+        "lng": -77.032969
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 262.1178764939529,
+        "pitch": 5.132270930516128
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'05.2%22N+77%C2%B001'58.5%22W/@38.9181194,-77.032969,3a,75y,262.12h,84.87t/data=!3m7!1e1!3m5!1s6fIcs0Aazi0fgU61O0ezbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.132270930516128%26panoid%3D6fIcs0Aazi0fgU61O0ezbA%26yaw%3D262.1178764939529!7i16384!8i8192!4m4!3m3!8m2!3d38.9181138!4d-77.0329149?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "58.png"
+    },
+    {
+      "id": "loc_59",
+      "index": 59,
+      "name": "East Capitol Street Southeast",
+      "coordinates": {
+        "lat": 38.889837,
+        "lng": -76.977631
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 265.2391001600547,
+        "pitch": 1.4627401207620068
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'23.3%22N+76%C2%B058'38.1%22W/@38.8898367,-76.9776308,3a,75y,265.24h,88.54t/data=!3m7!1e1!3m5!1sXx5DjE8ahEQUI9qeWvj5SA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4627401207620068%26panoid%3DXx5DjE8ahEQUI9qeWvj5SA%26yaw%3D265.2391001600547!7i16384!8i8192!4m4!3m3!8m2!3d38.8898077!4d-76.9772489?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "59.png"
+    },
+    {
+      "id": "loc_60",
+      "index": 60,
+      "name": "Woodley Place Northwest",
+      "coordinates": {
+        "lat": 38.926565,
+        "lng": -77.052033
+      },
+      "roadType": "residential",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 151.26215492559712,
+        "pitch": 8.742972307003825
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'35.7%22N+77%C2%B003'07.4%22W/@38.9265651,-77.0520335,3a,75y,151.26h,81.26t/data=!3m7!1e1!3m5!1sEnhvwQOxTOYmy9elCFnX1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.742972307003825%26panoid%3DEnhvwQOxTOYmy9elCFnX1w%26yaw%3D151.26215492559712!7i16384!8i8192!4m4!3m3!8m2!3d38.9265869!4d-77.0520495?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "60.png"
+    },
+    {
+      "id": "loc_61",
+      "index": 61,
+      "name": "Massachusetts Avenue Northeast",
+      "coordinates": {
+        "lat": 38.892524,
+        "lng": -76.996865
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 297.7869305412835,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'33.0%22N+76%C2%B059'48.6%22W/@38.8925244,-76.9968654,3a,75y,297.79h,90t/data=!3m7!1e1!3m5!1sa2mxvWammDa-HsvG7g_7EA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3Da2mxvWammDa-HsvG7g_7EA%26yaw%3D297.7869305412835!7i16384!8i8192!4m4!3m3!8m2!3d38.8924928!4d-76.9968358?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "61.png"
+    },
+    {
+      "id": "loc_62",
+      "index": 62,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.90967,
+        "lng": -77.038939
+      },
+      "roadType": "secondary",
+      "surface": "paving_stones",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 266.02395718449804,
+        "pitch": -2.006176540590886
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'34.8%22N+77%C2%B002'19.1%22W/@38.9096701,-77.0389395,3a,75y,266.02h,92.01t/data=!3m7!1e1!3m5!1s2uEVOCMDF0xJY96i2Va5gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.006176540590886%26panoid%3D2uEVOCMDF0xJY96i2Va5gQ%26yaw%3D266.02395718449804!7i16384!8i8192!4m4!3m3!8m2!3d38.9096521!4d-77.03865?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "62.png"
+    },
+    {
+      "id": "loc_63",
+      "index": 63,
+      "name": "Upshur Street Northwest",
+      "coordinates": {
+        "lat": 38.942057,
+        "lng": -77.018889
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 267.1130967740587,
+        "pitch": 0.1714125990017692
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'31.4%22N+77%C2%B001'08.0%22W/@38.9420572,-77.0188886,3a,75y,267.11h,89.83t/data=!3m7!1e1!3m5!1sPXrvzQMexFXBDMNpMCCerA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.1714125990017692%26panoid%3DPXrvzQMexFXBDMNpMCCerA%26yaw%3D267.1130967740587!7i16384!8i8192!4m4!3m3!8m2!3d38.9420623!4d-77.0188953?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "63.png"
+    },
+    {
+      "id": "loc_66",
+      "index": 66,
+      "name": "Calvert Street Northwest",
+      "coordinates": {
+        "lat": 38.923266,
+        "lng": -77.045831
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 266.2733499335995,
+        "pitch": 8.72368044171371
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'23.7%22N+77%C2%B002'44.9%22W/@38.9232657,-77.045831,3a,75y,266.27h,81.28t/data=!3m7!1e1!3m5!1sHYwSgh53O737R64k7aSpUw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.72368044171371%26panoid%3DHYwSgh53O737R64k7aSpUw%26yaw%3D266.2733499335995!7i13312!8i6656!4m4!3m3!8m2!3d38.9232435!4d-77.045798?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "66.png"
+    },
+    {
+      "id": "loc_68",
+      "index": 68,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.876237,
+        "lng": -76.93111
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 337.2753196770288,
+        "pitch": 6.47953334966931
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'34.5%22N+76%C2%B055'52.0%22W/@38.8762369,-76.93111,3a,75y,337.28h,83.52t/data=!3m7!1e1!3m5!1s4s-sQ83IzyLBcw4CFeSyfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.47953334966931%26panoid%3D4s-sQ83IzyLBcw4CFeSyfA%26yaw%3D337.2753196770288!7i16384!8i8192!4m4!3m3!8m2!3d38.8762453!4d-76.9311093?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "68.png"
+    },
+    {
+      "id": "loc_69",
+      "index": 69,
+      "name": "Marion Barry Avenue Southeast",
+      "coordinates": {
+        "lat": 38.868261,
+        "lng": -76.98931
+      },
+      "roadType": "motorway_link",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 307.70644298039,
+        "pitch": 3.6134490412934213
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'05.7%22N+76%C2%B059'21.6%22W/@38.868261,-76.9893096,3a,75y,307.71h,86.39t/data=!3m7!1e1!3m5!1s-TxcC_I7P_DYx0F3ud442g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.6134490412934213%26panoid%3D-TxcC_I7P_DYx0F3ud442g%26yaw%3D307.70644298039!7i16384!8i8192!4m4!3m3!8m2!3d38.8682494!4d-76.9893212?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "69.png"
+    },
+    {
+      "id": "loc_71",
+      "index": 71,
+      "name": "Southern Avenue Southeast",
+      "coordinates": {
+        "lat": 38.851393,
+        "lng": -76.962663
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 216.25303473004945,
+        "pitch": 9.710116631694575
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'05.1%22N+76%C2%B057'45.4%22W/@38.851393,-76.9626634,3a,75y,216.25h,80.29t/data=!3m7!1e1!3m5!1sCOqtBCR6at2N_FXljtIh9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.710116631694575%26panoid%3DCOqtBCR6at2N_FXljtIh9A%26yaw%3D216.25303473004945!7i16384!8i8192!4m4!3m3!8m2!3d38.851403!4d-76.9626098?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "71.png"
+    },
+    {
+      "id": "loc_72",
+      "index": 72,
+      "name": "Potomac Avenue Southwest",
+      "coordinates": {
+        "lat": 38.870698,
+        "lng": -77.00954
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 179.55165063936568,
+        "pitch": 3.5761214105272074
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'14.6%22N+77%C2%B000'34.5%22W/@38.870698,-77.0095398,3a,75y,179.55h,86.42t/data=!3m7!1e1!3m5!1s7OnWtagfv2oHHcprpyqr9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.5761214105272074%26panoid%3D7OnWtagfv2oHHcprpyqr9Q%26yaw%3D179.55165063936568!7i16384!8i8192!4m4!3m3!8m2!3d38.8707164!4d-77.0095816?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "72.png"
+    },
+    {
+      "id": "loc_73",
+      "index": 73,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.875449,
+        "lng": -76.991141
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 179.51435773222457,
+        "pitch": 11.56162752632396
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'31.7%22N+76%C2%B059'27.9%22W/@38.875449,-76.9911405,3a,75y,179.51h,78.44t/data=!3m7!1e1!3m5!1szCON64nBVpVfFn7IJweSOA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.56162752632396%26panoid%3DzCON64nBVpVfFn7IJweSOA%26yaw%3D179.51435773222457!7i16384!8i8192!4m4!3m3!8m2!3d38.8754744!4d-76.9910902?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "73.png"
+    },
+    {
+      "id": "loc_74",
+      "index": 74,
+      "name": "New York Avenue Northeast",
+      "coordinates": {
+        "lat": 38.916221,
+        "lng": -76.983421
+      },
+      "roadType": "trunk",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 62.35876935595757,
+        "pitch": 14.64626149675513
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'58.3%22N+76%C2%B059'00.1%22W/@38.9162208,-76.9834211,3a,75y,62.36h,75.35t/data=!3m7!1e1!3m5!1sr2jJUCjONLiB5hvsnZPB1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.64626149675513%26panoid%3Dr2jJUCjONLiB5hvsnZPB1Q%26yaw%3D62.35876935595757!7i16384!8i8192!4m4!3m3!8m2!3d38.9161947!4d-76.9833525?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "74.png"
+    },
+    {
+      "id": "loc_75",
+      "index": 75,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.83949,
+        "lng": -76.99357
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 353.7313050711364,
+        "pitch": 7.499998189318063
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'22.2%22N+76%C2%B059'36.9%22W/@38.8394902,-76.9935699,3a,75y,353.73h,82.5t/data=!3m7!1e1!3m5!1sKNJvFIw20JA20UyIAs1BZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.499998189318063%26panoid%3DKNJvFIw20JA20UyIAs1BZQ%26yaw%3D353.7313050711364!7i16384!8i8192!4m4!3m3!8m2!3d38.8395009!4d-76.9935883?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "75.png"
+    },
+    {
+      "id": "loc_76",
+      "index": 76,
+      "name": "George Washington Memorial Parkway",
+      "coordinates": {
+        "lat": 38.902188,
+        "lng": -77.082697
+      },
+      "roadType": "motorway",
+      "surface": "paved",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 259.64536,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'07.9%22N+77%C2%B004'57.8%22W/@38.9021879,-77.0826974,3a,75y,259.65h,90t/data=!3m7!1e1!3m5!1stOiCcEZgoLa65F9NcDDdfw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DtOiCcEZgoLa65F9NcDDdfw%26yaw%3D259.64536!7i16384!8i8192!4m4!3m3!8m2!3d38.9022009!4d-77.0827326?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "76.png"
+    },
+    {
+      "id": "loc_77",
+      "index": 77,
+      "name": "South Capitol Street Southeast",
+      "coordinates": {
+        "lat": 38.874333,
+        "lng": -77.008996
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 356.8032295539272,
+        "pitch": -5.124312059314008
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'27.5%22N+77%C2%B000'32.4%22W/@38.8743335,-77.0089963,3a,75y,356.8h,95.12t/data=!3m7!1e1!3m5!1sx2-T0N-zqG6uc8s_bKICaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.124312059314008%26panoid%3Dx2-T0N-zqG6uc8s_bKICaw%26yaw%3D356.8032295539272!7i16384!8i8192!4m4!3m3!8m2!3d38.8742918!4d-77.0090115?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "77.png"
+    },
+    {
+      "id": "loc_79",
+      "index": 79,
+      "name": "Suitland Parkway Southeast",
+      "coordinates": {
+        "lat": 38.849534,
+        "lng": -76.969674
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 286.56858609155626,
+        "pitch": -3.350931842939403
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'58.3%22N+76%C2%B058'10.7%22W/@38.8495343,-76.9696739,3a,75y,286.57h,93.35t/data=!3m7!1e1!3m5!1sdAZXtAEcgiNAumKiXDA8qQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.350931842939403%26panoid%3DdAZXtAEcgiNAumKiXDA8qQ%26yaw%3D286.56858609155626!7i16384!8i8192!4m4!3m3!8m2!3d38.8495129!4d-76.9696505?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "79.png"
+    },
+    {
+      "id": "loc_80",
+      "index": 80,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.90288,
+        "lng": -77.056718
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 2.0324167541367615,
+        "pitch": -8.97095951610747
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'10.3%22N+77%C2%B003'24.3%22W/@38.9028799,-77.0567181,3a,75y,2.03h,98.97t/data=!3m7!1e1!3m5!1smPX62oMSfyPHsfN0wtJuRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.97095951610747%26panoid%3DmPX62oMSfyPHsfN0wtJuRw%26yaw%3D2.0324167541367615!7i16384!8i8192!4m4!3m3!8m2!3d38.9028488!4d-77.0567488?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "80.png"
+    },
+    {
+      "id": "loc_81",
+      "index": 81,
+      "name": "I 66",
+      "coordinates": {
+        "lat": 38.90192,
+        "lng": -77.057177
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 192.55263878250645,
+        "pitch": -3.8473341271837285
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'06.9%22N+77%C2%B003'25.9%22W/@38.9019203,-77.0571766,3a,75y,192.55h,93.85t/data=!3m7!1e1!3m5!1slI-_1uPtwjEtsuH0P5QtLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8473341271837285%26panoid%3DlI-_1uPtwjEtsuH0P5QtLA%26yaw%3D192.55263878250645!7i16384!8i8192!4m4!3m3!8m2!3d38.9019151!4d-77.0571923?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "81.png"
+    },
+    {
+      "id": "loc_82",
+      "index": 82,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.882261,
+        "lng": -77.026889
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 87.89973867142294,
+        "pitch": -6.218144092330064
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'55.9%22N+77%C2%B001'37.4%22W/@38.882261,-77.0268895,3a,75y,87.9h,96.22t/data=!3m7!1e1!3m5!1s6wUzK-wU0_5cr2yuU45KAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.218144092330064%26panoid%3D6wUzK-wU0_5cr2yuU45KAg%26yaw%3D87.89973867142294!7i16384!8i8192!4m4!3m3!8m2!3d38.882205!4d-77.0270598?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "82.png"
+    },
+    {
+      "id": "loc_83",
+      "index": 83,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.903222,
+        "lng": -76.943094
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 220.23190455356453,
+        "pitch": 2.9327361740842406
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'11.4%22N+76%C2%B056'35.1%22W/@38.9032224,-76.943094,3a,75y,220.23h,87.07t/data=!3m8!1e1!3m6!1s_8kNxmuyHGKqCbgIvnlZFw!2e0!5s20241001T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.9327361740842406%26panoid%3D_8kNxmuyHGKqCbgIvnlZFw%26yaw%3D220.23190455356453!7i16384!8i8192!4m4!3m3!8m2!3d38.9031608!4d-76.943074?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "83.png"
+    },
+    {
+      "id": "loc_85",
+      "index": 85,
+      "name": "3rd Street Tunnel",
+      "coordinates": {
+        "lat": 38.882339,
+        "lng": -77.015102
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 79.05544322733981,
+        "pitch": 1.8165585267331892
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'56.5%22N+77%C2%B000'54.5%22W/@38.8823393,-77.0151015,3a,75y,79.06h,88.18t/data=!3m8!1e1!3m6!1shEugNb0McWBd61PHKmu-_Q!2e0!5s20241201T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8165585267331892%26panoid%3DhEugNb0McWBd61PHKmu-_Q%26yaw%3D79.05544322733981!7i16384!8i8192!4m4!3m3!8m2!3d38.8823662!4d-77.0151303?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "85.png"
+    },
+    {
+      "id": "loc_86",
+      "index": 86,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.877966,
+        "lng": -76.992132
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 111.39783236055868,
+        "pitch": -11.356578051745629
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'40.8%22N+76%C2%B059'31.7%22W/@38.8779664,-76.9921319,3a,75y,111.4h,101.36t/data=!3m7!1e1!3m5!1siJrqOjouKqWbkmEu7PORZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.356578051745629%26panoid%3DiJrqOjouKqWbkmEu7PORZw%26yaw%3D111.39783236055868!7i16384!8i8192!4m4!3m3!8m2!3d38.8780003!4d-76.9921249?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "86.png"
+    },
+    {
+      "id": "loc_87",
+      "index": 87,
+      "name": "South Capitol Street Southeast",
+      "coordinates": {
+        "lat": 38.873679,
+        "lng": -77.009162
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 185.63177434320343,
+        "pitch": -2.8365338155571465
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'25.4%22N+77%C2%B000'33.0%22W/@38.8736786,-77.0091619,3a,75y,185.63h,92.84t/data=!3m7!1e1!3m5!1s08uvy2vjRCAD8QqavE8HIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8365338155571465%26panoid%3D08uvy2vjRCAD8QqavE8HIA%26yaw%3D185.63177434320343!7i16384!8i8192!4m4!3m3!8m2!3d38.8737086!4d-77.0091623?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "87.png"
+    },
+    {
+      "id": "loc_88",
+      "index": 88,
+      "name": "Dalecarlia Parkway Northwest",
+      "coordinates": {
+        "lat": 38.943892,
+        "lng": -77.103678
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 355.03458,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'38.2%22N+77%C2%B006'13.3%22W/@38.9438924,-77.1036777,3a,75y,355.03h,90t/data=!3m7!1e1!3m5!1sZo5M-YPD7tQXWWp1aNUHuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DZo5M-YPD7tQXWWp1aNUHuQ%26yaw%3D355.03458!7i16384!8i8192!4m4!3m3!8m2!3d38.9439329!4d-77.1036966?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "88.png"
+    },
+    {
+      "id": "loc_89",
+      "index": 89,
+      "name": "Theodore Roosevelt Memorial Bridge",
+      "coordinates": {
+        "lat": 38.892454,
+        "lng": -77.058283
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 78.33489099087382,
+        "pitch": -1.0678000090391464
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'33.0%22N+77%C2%B003'29.8%22W/@38.8924544,-77.0582825,3a,75y,78.33h,91.07t/data=!3m7!1e1!3m5!1saCruH_CTROOw2ETqCxoUuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0678000090391464%26panoid%3DaCruH_CTROOw2ETqCxoUuQ%26yaw%3D78.33489099087382!7i16384!8i8192!4m4!3m3!8m2!3d38.8924885!4d-77.0582835?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "89.png"
+    },
+    {
+      "id": "loc_90",
+      "index": 90,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.899784,
+        "lng": -77.019668
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "6",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 93.52613821473632,
+        "pitch": -2.7321580931666603
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'59.3%22N+77%C2%B001'10.7%22W/@38.8997837,-77.0196676,3a,75y,93.53h,92.73t/data=!3m7!1e1!3m5!1sNHbulmyT4Fw_Xcd3XPiKKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7321580931666603%26panoid%3DNHbulmyT4Fw_Xcd3XPiKKA%26yaw%3D93.52613821473632!7i16384!8i8192!4m4!3m3!8m2!3d38.8998173!4d-77.0196463?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "90.png"
+    },
+    {
+      "id": "loc_91",
+      "index": 91,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.839035,
+        "lng": -77.009499
+      },
+      "roadType": "primary_link",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 204.41165,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'20.4%22N+77%C2%B000'34.2%22W/@38.8390349,-77.0094986,3a,75y,204.41h,90t/data=!3m7!1e1!3m5!1sRwkR4Mqw7IvVpLRWL4abEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DRwkR4Mqw7IvVpLRWL4abEw%26yaw%3D204.41165!7i16384!8i8192!4m4!3m3!8m2!3d38.8389973!4d-77.0095009?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "91.png"
+    },
+    {
+      "id": "loc_92",
+      "index": 92,
+      "name": "9th Street Expressway",
+      "coordinates": {
+        "lat": 38.891369,
+        "lng": -77.023964
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 184.08313,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'28.9%22N+77%C2%B001'26.3%22W/@38.8913694,-77.023964,3a,75y,184.08h,90t/data=!3m7!1e1!3m5!1si1YfmgBtrXqI8JVfxLz07Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3Di1YfmgBtrXqI8JVfxLz07Q%26yaw%3D184.08313!7i16384!8i8192!4m4!3m3!8m2!3d38.8913578!4d-77.023963?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "92.png"
+    },
+    {
+      "id": "loc_93",
+      "index": 93,
+      "name": "Independence Avenue Southwest",
+      "coordinates": {
+        "lat": 38.88726,
+        "lng": -77.050405
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 283.7193164365457,
+        "pitch": 1.0185125245479156
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'14.1%22N+77%C2%B003'00.6%22W/@38.8872599,-77.0504049,3a,75y,283.72h,88.98t/data=!3m7!1e1!3m5!1sXwqpOs7Zw4Bncv63pv_vng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0185125245479156%26panoid%3DXwqpOs7Zw4Bncv63pv_vng%26yaw%3D283.7193164365457!7i16384!8i8192!4m4!3m3!8m2!3d38.8872517!4d-77.0501706?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "93.png"
+    },
+    {
+      "id": "loc_94",
+      "index": 94,
+      "name": "Saint Elizabeths Road Southeast",
+      "coordinates": {
+        "lat": 38.856465,
+        "lng": -77.003872
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 21.962135164673793,
+        "pitch": -4.26930824976634
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'23.2%22N+77%C2%B000'14.1%22W/@38.8564654,-77.0038724,3a,75y,21.96h,94.27t/data=!3m7!1e1!3m5!1sBpI-Ui5RRLU7QfgUT9m2uQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.26930824976634%26panoid%3DBpI-Ui5RRLU7QfgUT9m2uQ%26yaw%3D21.962135164673793!7i16384!8i8192!4m4!3m3!8m2!3d38.8564544!4d-77.0039181?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "94.png"
+    },
+    {
+      "id": "loc_95",
+      "index": 95,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.809876,
+        "lng": -77.022546
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 187.4669816382427,
+        "pitch": -3.337130050259759
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B048'35.7%22N+77%C2%B001'21.0%22W/@38.8098764,-77.0225458,3a,75y,187.47h,93.34t/data=!3m7!1e1!3m5!1sTb4c9XK5JraCH20L4oOZ5g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.337130050259759%26panoid%3DTb4c9XK5JraCH20L4oOZ5g%26yaw%3D187.4669816382427!7i16384!8i8192!4m4!3m3!8m2!3d38.8099095!4d-77.0224921?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "95.png"
+    },
+    {
+      "id": "loc_97",
+      "index": 97,
+      "name": "42nd Street Northwest",
+      "coordinates": {
+        "lat": 38.943158,
+        "lng": -77.081813
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 97.12452713736023,
+        "pitch": -2.2803502977496635
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'35.4%22N+77%C2%B004'54.2%22W/@38.9431581,-77.0818132,3a,75y,97.12h,92.28t/data=!3m7!1e1!3m5!1sEWyxoFQ3AB8jsAOtWwXzxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.2803502977496635%26panoid%3DEWyxoFQ3AB8jsAOtWwXzxg%26yaw%3D97.12452713736023!7i16384!8i8192!4m4!3m3!8m2!3d38.943164!4d-77.0817315?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "97.png"
+    },
+    {
+      "id": "loc_98",
+      "index": 98,
+      "name": "North Capitol Street Northeast",
+      "coordinates": {
+        "lat": 38.936724,
+        "lng": -77.006323
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 356.72214,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'12.3%22N+77%C2%B000'22.8%22W/@38.9367238,-77.006323,3a,75y,356.72h,90t/data=!3m7!1e1!3m5!1sjcP1JFUcr4VT2a4xwXaXnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DjcP1JFUcr4VT2a4xwXaXnA%26yaw%3D356.72214!7i16384!8i8192!4m4!3m3!8m2!3d38.9367458!4d-77.0063277?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "98.png"
+    },
+    {
+      "id": "loc_101",
+      "index": 101,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.867393,
+        "lng": -77.002779
+      },
+      "roadType": "primary",
+      "surface": "concrete",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 290.39629967727166,
+        "pitch": 1.970201923572418
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'02.6%22N+77%C2%B000'10.0%22W/@38.8673931,-77.0027792,3a,75y,290.4h,88.03t/data=!3m7!1e1!3m5!1sqDzn6eqrjev5dEpMxFAVQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.970201923572418%26panoid%3DqDzn6eqrjev5dEpMxFAVQQ%26yaw%3D290.39629967727166!7i16384!8i8192!4m4!3m3!8m2!3d38.8673965!4d-77.00279?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "101.png"
+    },
+    {
+      "id": "loc_103",
+      "index": 103,
+      "name": "Rock Creek and Potomac Parkway Northwest",
+      "coordinates": {
+        "lat": 38.914153,
+        "lng": -77.055662
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 302.3524119544354,
+        "pitch": -0.6883030178002372
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'51.0%22N+77%C2%B003'20.3%22W/@38.9141535,-77.0556617,3a,75y,302.35h,90.69t/data=!3m7!1e1!3m5!1sfYPDgWpTAAcnuisl0GWbXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6883030178002372%26panoid%3DfYPDgWpTAAcnuisl0GWbXg%26yaw%3D302.3524119544354!7i16384!8i8192!4m4!3m3!8m2!3d38.9141726!4d-77.0556436?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "103.png"
+    },
+    {
+      "id": "loc_104",
+      "index": 104,
+      "name": "Washington Boulevard",
+      "coordinates": {
+        "lat": 38.882363,
+        "lng": -77.05761
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 340.6103345298261,
+        "pitch": 1.9619400975576298
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'56.5%22N+77%C2%B003'27.5%22W/@38.8823633,-77.0576104,3a,82.3y,340.61h,88.04t/data=!3m7!1e1!3m5!1sEXe57AkFQNYhlxG3r2-H_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9619400975576298%26panoid%3DEXe57AkFQNYhlxG3r2-H_w%26yaw%3D340.6103345298261!7i16384!8i8192!4m4!3m3!8m2!3d38.8823555!4d-77.0576335?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "104.png"
+    },
+    {
+      "id": "loc_105",
+      "index": 105,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.960251,
+        "lng": -77.086374
+      },
+      "roadType": "primary",
+      "surface": "paving_stones",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 49.49842626457702,
+        "pitch": -1.887693695320948
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'37.0%22N+77%C2%B005'11.0%22W/@38.9602513,-77.0863738,3a,75y,49.5h,91.89t/data=!3m7!1e1!3m5!1s75iWRgd9RMbbgNyAVxHrRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.887693695320948%26panoid%3D75iWRgd9RMbbgNyAVxHrRw%26yaw%3D49.49842626457702!7i16384!8i8192!4m4!3m3!8m2!3d38.960265!4d-77.0863997?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "105.png"
+    },
+    {
+      "id": "loc_106",
+      "index": 106,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.836724,
+        "lng": -77.010276
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 33.36861818510342,
+        "pitch": -1.557135398039648
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'12.2%22N+77%C2%B000'36.9%22W/@38.8367243,-77.0102755,3a,75y,33.37h,91.56t/data=!3m7!1e1!3m5!1shHTNhe4rwNkJ8VbF2u7LaQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.557135398039648%26panoid%3DhHTNhe4rwNkJ8VbF2u7LaQ%26yaw%3D33.36861818510342!7i16384!8i8192!4m4!3m3!8m2!3d38.8367094!4d-77.0102498?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "106.png"
+    },
+    {
+      "id": "loc_107",
+      "index": 107,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.960574,
+        "lng": -77.085608
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 331.12545874828476,
+        "pitch": 13.403431572373194
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'39.2%22N+77%C2%B005'08.7%22W/@38.960574,-77.085608,3a,75y,331.13h,76.6t/data=!3m7!1e1!3m5!1sJlLFx3pJ4-fP3QiL8y3qbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D13.403431572373194%26panoid%3DJlLFx3pJ4-fP3QiL8y3qbA%26yaw%3D331.12545874828476!7i16384!8i8192!4m4!3m3!8m2!3d38.9608993!4d-77.0857371?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "107.png"
+    },
+    {
+      "id": "loc_108",
+      "index": 108,
+      "name": "Alabama Avenue Southeast",
+      "coordinates": {
+        "lat": 38.860676,
+        "lng": -76.965019
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 254.8574392813859,
+        "pitch": 1.8718304342357754
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'38.4%22N+76%C2%B057'54.1%22W/@38.8606762,-76.9650195,3a,75y,254.86h,88.13t/data=!3m7!1e1!3m5!1sjtpN-pYoVztYKZuuYUDLDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8718304342357754%26panoid%3DjtpN-pYoVztYKZuuYUDLDg%26yaw%3D254.8574392813859!7i16384!8i8192!4m4!3m3!8m2!3d38.8606695!4d-76.9650127?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "108.png"
+    },
+    {
+      "id": "loc_109",
+      "index": 109,
+      "name": "Rock Creek and Potomac Parkway",
+      "coordinates": {
+        "lat": 38.903678,
+        "lng": -77.056547
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 10.742535477887184,
+        "pitch": -0.6676381022518711
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'13.2%22N+77%C2%B003'23.8%22W/@38.9036779,-77.0565473,3a,75y,10.74h,90.67t/data=!3m7!1e1!3m5!1swdQa4mOatpGIkLi-hDIeJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6676381022518711%26panoid%3DwdQa4mOatpGIkLi-hDIeJw%26yaw%3D10.742535477887184!7i16384!8i8192!4m4!3m3!8m2!3d38.903678!4d-77.0566115?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "109.png"
+    },
+    {
+      "id": "loc_112",
+      "index": 112,
+      "name": "Reno Road Northwest",
+      "coordinates": {
+        "lat": 38.954298,
+        "lng": -77.072523
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 147.85231522537896,
+        "pitch": 5.743166713304362
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'15.4%22N+77%C2%B004'21.0%22W/@38.954298,-77.0725227,3a,75y,147.85h,84.26t/data=!3m7!1e1!3m5!1s1XJOqx08ZkN5JwtCwSjr5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.743166713304362%26panoid%3D1XJOqx08ZkN5JwtCwSjr5A%26yaw%3D147.85231522537896!7i16384!8i8192!4m4!3m3!8m2!3d38.9542862!4d-77.0724948?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "112.png"
+    },
+    {
+      "id": "loc_113",
+      "index": 113,
+      "name": "Underwood Street Northwest",
+      "coordinates": {
+        "lat": 38.968933,
+        "lng": -77.027349
+      },
+      "roadType": "trunk",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 196.75979345135497,
+        "pitch": 2.343805232818184
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'08.1%22N+77%C2%B001'38.5%22W/@38.968933,-77.0273487,3a,75y,196.76h,87.66t/data=!3m7!1e1!3m5!1sI_V5EEV9VZTbL3uykX5MZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.343805232818184%26panoid%3DI_V5EEV9VZTbL3uykX5MZw%26yaw%3D196.75979345135497!7i16384!8i8192!4m4!3m3!8m2!3d38.9689184!4d-77.0273532?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "113.png"
+    },
+    {
+      "id": "loc_114",
+      "index": 114,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.847244,
+        "lng": -76.967922
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 43.64041469296645,
+        "pitch": 0.11034214950882415
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'50.1%22N+76%C2%B058'04.5%22W/@38.8472436,-76.9679223,3a,75y,43.64h,89.89t/data=!3m8!1e1!3m6!1sNZwIx5mALRsgj_slTbdcEw!2e0!5s20181001T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.11034214950882415%26panoid%3DNZwIx5mALRsgj_slTbdcEw%26yaw%3D43.64041469296645!7i16384!8i8192!4m4!3m3!8m2!3d38.8472489!4d-76.9679174?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "114.png"
+    },
+    {
+      "id": "loc_115",
+      "index": 115,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.895964,
+        "lng": -76.951482
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 43.85956140514278,
+        "pitch": 1.4471504633429504
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'45.3%22N+76%C2%B057'05.3%22W/@38.8959635,-76.9514825,3a,75y,43.86h,88.55t/data=!3m7!1e1!3m5!1s12fmz0NdDqpov-ZLZp8Oow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4471504633429504%26panoid%3D12fmz0NdDqpov-ZLZp8Oow%26yaw%3D43.85956140514278!7i16384!8i8192!4m4!3m3!8m2!3d38.8959164!4d-76.9514606?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "115.png"
+    },
+    {
+      "id": "loc_116",
+      "index": 116,
+      "name": "V Street Northwest",
+      "coordinates": {
+        "lat": 38.918114,
+        "lng": -77.012342
+      },
+      "roadType": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 95.2875850203139,
+        "pitch": 0.9584863706468525
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'05.1%22N+77%C2%B000'43.7%22W/@38.9181143,-77.012342,3a,75y,95.29h,89.04t/data=!3m7!1e1!3m5!1sLe-_fpCGj9--9S_Ms0evIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.9584863706468525%26panoid%3DLe-_fpCGj9--9S_Ms0evIg%26yaw%3D95.2875850203139!7i16384!8i8192!4m4!3m3!8m2!3d38.918086!4d-77.0121502?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "116.png"
+    },
+    {
+      "id": "loc_117",
+      "index": 117,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.863401,
+        "lng": -76.997973
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 260.9050711068162,
+        "pitch": -0.11067755753245478
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'48.3%22N+76%C2%B059'52.7%22W/@38.8634012,-76.9979733,3a,75y,260.91h,90.11t/data=!3m7!1e1!3m5!1sNBAT0YrBker7iQea-Vig0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.11067755753245478%26panoid%3DNBAT0YrBker7iQea-Vig0A%26yaw%3D260.9050711068162!7i16384!8i8192!4m4!3m3!8m2!3d38.8634048!4d-76.9979605?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "117.png"
+    },
+    {
+      "id": "loc_118",
+      "index": 118,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.851628,
+        "lng": -77.007305
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 33.52296776540393,
+        "pitch": 3.853387055207307
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'05.9%22N+77%C2%B000'26.4%22W/@38.8516283,-77.007305,3a,75y,33.52h,86.15t/data=!3m7!1e1!3m5!1sAPlyGVkCWxG7seizpTYhWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.853387055207307%26panoid%3DAPlyGVkCWxG7seizpTYhWw%26yaw%3D33.52296776540393!7i16384!8i8192!4m4!3m3!8m2!3d38.8516389!4d-77.0073333?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "118.png"
+    },
+    {
+      "id": "loc_120",
+      "index": 120,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.869504,
+        "lng": -76.987507
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 68.570340124354,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'10.2%22N+76%C2%B059'15.0%22W/@38.8695039,-76.9875067,3a,75y,68.57h,90t/data=!3m7!1e1!3m5!1sgb6Zw4dLpVZdoFlAbxAgyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3Dgb6Zw4dLpVZdoFlAbxAgyQ%26yaw%3D68.570340124354!7i16384!8i8192!4m4!3m3!8m2!3d38.8695051!4d-76.9874898?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "120.png"
+    },
+    {
+      "id": "loc_121",
+      "index": 121,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.843022,
+        "lng": -77.007513
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 16.223454926621045,
+        "pitch": -0.11156736010865131
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'34.9%22N+77%C2%B000'27.1%22W/@38.8430221,-77.0075128,3a,75y,16.22h,90.11t/data=!3m7!1e1!3m5!1sSnV-MGPguGZLg5jS8LJLAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.11156736010865131%26panoid%3DSnV-MGPguGZLg5jS8LJLAQ%26yaw%3D16.223454926621045!7i16384!8i8192!4m4!3m3!8m2!3d38.8430213!4d-77.0075332?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "121.png"
+    },
+    {
+      "id": "loc_123",
+      "index": 123,
+      "name": "16th Street Northwest",
+      "coordinates": {
+        "lat": 38.943363,
+        "lng": -77.036399
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 7.206646440819213,
+        "pitch": 1.984366817980856
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'36.0%22N+77%C2%B002'11.0%22W/@38.9433634,-77.0363988,3a,75y,7.21h,88.02t/data=!3m7!1e1!3m5!1sovBjltDx6BwS_fVjgQmg9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.984366817980856%26panoid%3DovBjltDx6BwS_fVjgQmg9g%26yaw%3D7.206646440819213!7i16384!8i8192!4m4!3m3!8m2!3d38.9433388!4d-77.036383?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "123.png"
+    },
+    {
+      "id": "loc_124",
+      "index": 124,
+      "name": "New York Avenue Northeast",
+      "coordinates": {
+        "lat": 38.916029,
+        "lng": -76.984114
+      },
+      "roadType": "trunk",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 247.91728023654056,
+        "pitch": 0.11119291487230498
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'57.8%22N+76%C2%B059'02.9%22W/@38.9160293,-76.9841135,3a,75y,247.92h,89.89t/data=!3m7!1e1!3m5!1s65QIp60y2ekwjlHz816HTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.11119291487230498%26panoid%3D65QIp60y2ekwjlHz816HTA%26yaw%3D247.91728023654056!7i16384!8i8192!4m4!3m3!8m2!3d38.9160538!4d-76.9841285?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "124.png"
+    },
+    {
+      "id": "loc_126",
+      "index": 126,
+      "name": "Raleigh Place Southeast",
+      "coordinates": {
+        "lat": 38.844492,
+        "lng": -76.997927
+      },
+      "roadType": "secondary",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 213.56293186980818,
+        "pitch": 4.120935192898074
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'40.2%22N+76%C2%B059'52.4%22W/@38.8444921,-76.9979272,3a,75y,213.56h,85.88t/data=!3m7!1e1!3m5!1sooONwD0dZTjbQ31xe8tXkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.120935192898074%26panoid%3DooONwD0dZTjbQ31xe8tXkQ%26yaw%3D213.56293186980818!7i16384!8i8192!4m4!3m3!8m2!3d38.8444895!4d-76.9978996?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "126.png"
+    },
+    {
+      "id": "loc_127",
+      "index": 127,
+      "name": "Rock Creek and Potomac Parkway Northwest",
+      "coordinates": {
+        "lat": 38.901238,
+        "lng": -77.057264
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 178.50161085373318,
+        "pitch": -0.11150815858187002
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'04.3%22N+77%C2%B003'26.2%22W/@38.9012378,-77.0572644,3a,75y,178.5h,90.11t/data=!3m7!1e1!3m5!1sNIQsUiwAclilC0ZxYe1w1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.11150815858187002%26panoid%3DNIQsUiwAclilC0ZxYe1w1w%26yaw%3D178.50161085373318!7i16384!8i8192!4m4!3m3!8m2!3d38.9011896!4d-77.057281?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "127.png"
+    },
+    {
+      "id": "loc_128",
+      "index": 128,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.864696,
+        "lng": -76.992909
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 43.21056747053121,
+        "pitch": 2.976110796784994
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'52.7%22N+76%C2%B059'34.9%22W/@38.8646959,-76.9929086,3a,75y,43.21h,87.02t/data=!3m7!1e1!3m5!1su0VMDyMyO1AkIKeVgrqmjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.976110796784994%26panoid%3Du0VMDyMyO1AkIKeVgrqmjg%26yaw%3D43.21056747053121!7i13312!8i6656!4m4!3m3!8m2!3d38.8646383!4d-76.993034?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "128.png"
+    },
+    {
+      "id": "loc_129",
+      "index": 129,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.848833,
+        "lng": -77.007176
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 5.820632567713631,
+        "pitch": 10.36336786878502
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'55.6%22N+77%C2%B000'25.9%22W/@38.8488334,-77.007176,3a,75y,5.82h,79.64t/data=!3m8!1e1!3m6!1snADRAA5QgrEGnPGsWzAkIA!2e0!5s20250401T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.36336786878502%26panoid%3DnADRAA5QgrEGnPGsWzAkIA%26yaw%3D5.820632567713631!7i16384!8i8192!4m4!3m3!8m2!3d38.8487845!4d-77.0071937?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "129.png"
+    },
+    {
+      "id": "loc_130",
+      "index": 130,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.885613,
+        "lng": -77.048544
+      },
+      "roadType": "construction",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 143.6684162590757,
+        "pitch": -0.11113998765287647
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'08.1%22N+77%C2%B002'54.7%22W/@38.8856129,-77.0485439,3a,75y,143.67h,90.11t/data=!3m7!1e1!3m5!1sG53u0nQigHHVuAjtOk_Hfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.11113998765287647%26panoid%3DG53u0nQigHHVuAjtOk_Hfg%26yaw%3D143.6684162590757!7i16384!8i8192!4m4!3m3!8m2!3d38.8855805!4d-77.0485225?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "130.png"
+    },
+    {
+      "id": "loc_132",
+      "index": 132,
+      "name": "George Washington Memorial Parkway",
+      "coordinates": {
+        "lat": 38.884701,
+        "lng": -77.057922
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 336.42742848911087,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'05.1%22N+77%C2%B003'28.6%22W/@38.8847008,-77.0579215,3a,75y,336.43h,90t/data=!3m7!1e1!3m5!1s_M-W-c1IEm5L0zR3mCP3yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3D_M-W-c1IEm5L0zR3mCP3yw%26yaw%3D336.42742848911087!7i16384!8i8192!4m4!3m3!8m2!3d38.8847435!4d-77.057947?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "132.png"
+    },
+    {
+      "id": "loc_133",
+      "index": 133,
+      "name": "George Washington Memorial Parkway",
+      "coordinates": {
+        "lat": 38.874783,
+        "lng": -77.046706
+      },
+      "roadType": "motorway",
+      "surface": "paved",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 138.75956532510978,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'29.2%22N+77%C2%B002'48.0%22W/@38.8747833,-77.0467065,3a,75y,138.76h,90t/data=!3m7!1e1!3m5!1saxcJTn7F7Vkx3twj-i9GvQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DaxcJTn7F7Vkx3twj-i9GvQ%26yaw%3D138.75956532510978!7i16384!8i8192!4m4!3m3!8m2!3d38.8747836!4d-77.0466627?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "133.png"
+    },
+    {
+      "id": "loc_134",
+      "index": 134,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.863267,
+        "lng": -76.997785
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 83.8074618560407,
+        "pitch": 3.540073633608529
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'47.8%22N+76%C2%B059'51.9%22W/@38.8632674,-76.9977847,3a,75y,83.81h,86.46t/data=!3m7!1e1!3m5!1ssQe26vGqL-8_ElJAFO9ttg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.540073633608529%26panoid%3DsQe26vGqL-8_ElJAFO9ttg%26yaw%3D83.8074618560407!7i16384!8i8192!4m4!3m3!8m2!3d38.8632749!4d-76.9977363?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "134.png"
+    },
+    {
+      "id": "loc_135",
+      "index": 135,
+      "name": "Foxhall Road Northwest",
+      "coordinates": {
+        "lat": 38.906129,
+        "lng": -77.080415
+      },
+      "roadType": "secondary",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 121.52550045869148,
+        "pitch": 6.060272310195046
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'22.1%22N+77%C2%B004'49.5%22W/@38.9061288,-77.0804153,3a,75y,121.53h,83.94t/data=!3m7!1e1!3m5!1sq0x_MuoJHA8K9tG59Z6ODA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.060272310195046%26panoid%3Dq0x_MuoJHA8K9tG59Z6ODA%26yaw%3D121.52550045869148!7i16384!8i8192!4m4!3m3!8m2!3d38.9061421!4d-77.0804055?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "135.png"
+    },
+    {
+      "id": "loc_137",
+      "index": 137,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.881761,
+        "lng": -77.009813
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 104.83717558675255,
+        "pitch": 2.4079089207882447
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'54.3%22N+77%C2%B000'35.4%22W/@38.8817606,-77.0098133,3a,75y,104.84h,87.59t/data=!3m7!1e1!3m5!1squg743VJWXLhkc4L8Qc0-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.4079089207882447%26panoid%3Dqug743VJWXLhkc4L8Qc0-g%26yaw%3D104.83717558675255!7i16384!8i8192!4m4!3m3!8m2!3d38.8817579!4d-77.0098408?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "137.png"
+    },
+    {
+      "id": "loc_138",
+      "index": 138,
+      "name": "Marion Barry Avenue Southeast",
+      "coordinates": {
+        "lat": 38.868391,
+        "lng": -76.989478
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 317.89602907266624,
+        "pitch": 10.454143241651593
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'06.3%22N+76%C2%B059'22.4%22W/@38.8683907,-76.9894778,3a,75y,317.9h,79.55t/data=!3m8!1e1!3m6!1s3AGXWny7ETXQaWs5WQDnXA!2e0!5s20241101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.454143241651593%26panoid%3D3AGXWny7ETXQaWs5WQDnXA%26yaw%3D317.89602907266624!7i16384!8i8192!4m4!3m3!8m2!3d38.8684259!4d-76.9895441?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "138.png"
+    },
+    {
+      "id": "loc_139",
+      "index": 139,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.820446,
+        "lng": -77.017072
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 5.130033635654655,
+        "pitch": -0.8496037366795548
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B049'13.4%22N+77%C2%B001'01.3%22W/@38.8204458,-77.0170721,3a,75y,5.13h,90.85t/data=!3m7!1e1!3m5!1simuug7EjaSL9R4zUrnSYnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8496037366795548%26panoid%3Dimuug7EjaSL9R4zUrnSYnA%26yaw%3D5.130033635654655!7i16384!8i8192!4m4!3m3!8m2!3d38.8203778!4d-77.0170362?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "139.png"
+    },
+    {
+      "id": "loc_140",
+      "index": 140,
+      "name": "Wisconsin Avenue Northwest",
+      "coordinates": {
+        "lat": 38.926381,
+        "lng": -77.073216
+      },
+      "roadType": "primary",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "6",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 182.9802462802407,
+        "pitch": -0.4572227345498874
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'34.4%22N+77%C2%B004'23.5%22W/@38.9263814,-77.0732159,3a,75y,182.98h,90.46t/data=!3m7!1e1!3m5!1snkGAPfdLZ8iu9_slxQYK8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4572227345498874%26panoid%3DnkGAPfdLZ8iu9_slxQYK8Q%26yaw%3D182.9802462802407!7i16384!8i8192!4m4!3m3!8m2!3d38.92623!4d-77.073188?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "140.png"
+    },
+    {
+      "id": "loc_141",
+      "index": 141,
+      "name": "Washington Boulevard",
+      "coordinates": {
+        "lat": 38.880438,
+        "lng": -77.057285
+      },
+      "roadType": "motorway",
+      "surface": "concrete",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 171.37771031459434,
+        "pitch": 1.5018059078016108
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'49.7%22N+77%C2%B003'26.4%22W/@38.8804385,-77.0572849,3a,75y,171.38h,88.5t/data=!3m8!1e1!3m6!1s_rYwweAv6IgmUqaW9C2HCA!2e0!5s20221101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5018059078016108%26panoid%3D_rYwweAv6IgmUqaW9C2HCA%26yaw%3D171.37771031459434!7i16384!8i8192!4m4!3m3!8m2!3d38.8804617!4d-77.0573282?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "141.png"
+    },
+    {
+      "id": "loc_142",
+      "index": 142,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.863473,
+        "lng": -76.996733
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 78.05795281488065,
+        "pitch": 1.0010663399227724
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'48.5%22N+76%C2%B059'48.0%22W/@38.8634733,-76.9967329,3a,75y,78.06h,89t/data=!3m8!1e1!3m6!1sTsZhknM1BNSnPIW70iTI-A!2e0!5s20250401T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0010663399227724%26panoid%3DTsZhknM1BNSnPIW70iTI-A%26yaw%3D78.05795281488065!7i16384!8i8192!4m4!3m3!8m2!3d38.8634802!4d-76.9966784?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "142.png"
+    },
+    {
+      "id": "loc_144",
+      "index": 144,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.814717,
+        "lng": -77.019862
+      },
+      "roadType": "motorway",
+      "surface": "asphalt",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 200.36264318632954,
+        "pitch": 3.4541438919592338
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B048'52.8%22N+77%C2%B001'11.4%22W/@38.814717,-77.0198618,3a,75y,200.36h,86.55t/data=!3m7!1e1!3m5!1sluEKyR260bdAzOvIbO723A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.4541438919592338%26panoid%3DluEKyR260bdAzOvIbO723A%26yaw%3D200.36264318632954!7i16384!8i8192!4m4!3m3!8m2!3d38.8146667!4d-77.0198333?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "144.png"
+    },
+    {
+      "id": "loc_145",
+      "index": 145,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.883876,
+        "lng": -77.026931
+      },
+      "roadType": "motorway",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 2.6253598625260643,
+        "pitch": 1.90725122216827
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'01.8%22N+77%C2%B001'36.9%22W/@38.8838755,-77.0269311,3a,75y,2.63h,88.09t/data=!3m7!1e1!3m5!1sFIt81f4kqP4zgrQB8poGJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.90725122216827%26panoid%3DFIt81f4kqP4zgrQB8poGJQ%26yaw%3D2.6253598625260643!7i16384!8i8192!4m4!3m3!8m2!3d38.8838398!4d-77.0269236?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "145.png"
+    },
+    {
+      "id": "loc_147",
+      "index": 147,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.838432,
+        "lng": -77.009025
+      },
+      "roadType": "primary",
+      "surface": "concrete",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 155.91551289182436,
+        "pitch": 2.0818705306412255
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'18.5%22N+77%C2%B000'32.5%22W/@38.8384321,-77.009025,3a,75y,155.92h,87.92t/data=!3m7!1e1!3m5!1sqhaIHBThbTD7IzGQnH5bPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0818705306412255%26panoid%3DqhaIHBThbTD7IzGQnH5bPQ%26yaw%3D155.91551289182436!7i16384!8i8192!4m4!3m3!8m2!3d38.8384602!4d-77.0090298?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "147.png"
+    },
+    {
+      "id": "loc_148",
+      "index": 148,
+      "name": "North Capitol Street Northeast",
+      "coordinates": {
+        "lat": 38.941932,
+        "lng": -77.008156
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 16.94449,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'31.1%22N+77%C2%B000'29.3%22W/@38.9419324,-77.0081565,3a,75y,16.94h,90t/data=!3m7!1e1!3m5!1sS1tQ7JYKsxJ1YXvcvULQew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DS1tQ7JYKsxJ1YXvcvULQew%26yaw%3D16.94449!7i16384!8i8192!4m4!3m3!8m2!3d38.9419714!4d-77.0081331?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "148.png"
+    },
+    {
+      "id": "loc_149",
+      "index": 149,
+      "name": "I 66",
+      "coordinates": {
+        "lat": 38.903408,
+        "lng": -77.056593
+      },
+      "roadType": "primary",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 9.928454763497866,
+        "pitch": -0.15118484937096355
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'12.1%22N+77%C2%B003'23.8%22W/@38.9034076,-77.0565926,3a,75y,9.93h,90.15t/data=!3m7!1e1!3m5!1sFbN4uRTkOvNV63cik24VyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.15118484937096355%26panoid%3DFbN4uRTkOvNV63cik24VyQ%26yaw%3D9.928454763497866!7i16384!8i8192!4m4!3m3!8m2!3d38.9033718!4d-77.0566133?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "149.png"
+    },
+    {
+      "id": "loc_152",
+      "index": 152,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.931029,
+        "lng": -77.007243
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 202.20341969358793,
+        "pitch": 0.39468910144098857
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'51.8%22N+77%C2%B000'25.7%22W/@38.9310286,-77.0072427,3a,75y,202.2h,89.61t/data=!3m7!1e1!3m5!1sYFdu6lc7PHgq6jTGg2IjEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.39468910144098857%26panoid%3DYFdu6lc7PHgq6jTGg2IjEw%26yaw%3D202.20341969358793!7i16384!8i8192!4m4!3m3!8m2!3d38.9310436!4d-77.0071466?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "152.png"
+    },
+    {
+      "id": "loc_153",
+      "index": 153,
+      "name": "3rd Street Tunnel",
+      "coordinates": {
+        "lat": 38.886893,
+        "lng": -77.013118
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 325.3961215636091,
+        "pitch": 9.538968078114976
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'13.5%22N+77%C2%B000'48.1%22W/@38.8868932,-77.0131184,3a,75y,325.4h,80.46t/data=!3m7!1e1!3m5!1sczZ-SSyKW4jK6V3zGVglrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.538968078114976%26panoid%3DczZ-SSyKW4jK6V3zGVglrA%26yaw%3D325.3961215636091!7i16384!8i8192!4m4!3m3!8m2!3d38.8870833!4d-77.0133611?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "153.png"
+    },
+    {
+      "id": "loc_154",
+      "index": 154,
+      "name": "Van Ness Street Northwest",
+      "coordinates": {
+        "lat": 38.943203,
+        "lng": -77.066551
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 278.34480646072046,
+        "pitch": 0.2217563951380157
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'35.6%22N+77%C2%B003'59.7%22W/@38.9432033,-77.0665512,3a,75y,278.34h,89.78t/data=!3m7!1e1!3m5!1sHVef_pdV5RbNC5I4VHKlCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2217563951380157%26panoid%3DHVef_pdV5RbNC5I4VHKlCQ%26yaw%3D278.34480646072046!7i16384!8i8192!4m4!3m3!8m2!3d38.9432134!4d-77.0665748?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "154.png"
+    },
+    {
+      "id": "loc_156",
+      "index": 156,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.878459,
+        "lng": -76.99509
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 97.4494330390542,
+        "pitch": 2.482356581395649
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'42.5%22N+76%C2%B059'42.4%22W/@38.8784589,-76.9950898,3a,75y,97.45h,87.52t/data=!3m7!1e1!3m5!1sN_YK1P3MqFvUfu1UoGFAkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.482356581395649%26panoid%3DN_YK1P3MqFvUfu1UoGFAkA%26yaw%3D97.4494330390542!7i16384!8i8192!4m4!3m3!8m2!3d38.8784745!4d-76.9951135?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "156.png"
+    },
+    {
+      "id": "loc_157",
+      "index": 157,
+      "name": "V Street Northwest",
+      "coordinates": {
+        "lat": 38.918117,
+        "lng": -77.029312
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 269.0934649554355,
+        "pitch": 6.424558477385361
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'05.2%22N+77%C2%B001'46.6%22W/@38.9181167,-77.0293124,3a,75y,269.09h,83.58t/data=!3m7!1e1!3m5!1sVmrRAIKEAslH5QbeB7-CdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.424558477385361%26panoid%3DVmrRAIKEAslH5QbeB7-CdA%26yaw%3D269.0934649554355!7i13312!8i6656!4m4!3m3!8m2!3d38.9181111!4d-77.0296111?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "157.png"
+    },
+    {
+      "id": "loc_159",
+      "index": 159,
+      "name": "Piney Branch Road Northwest",
+      "coordinates": {
+        "lat": 38.967164,
+        "lng": -77.02801
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 43.75987758758706,
+        "pitch": 8.195067649321217
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'02.0%22N+77%C2%B001'40.8%22W/@38.9671637,-77.0280098,3a,75y,43.76h,81.8t/data=!3m8!1e1!3m6!1svpkP5NmBb34vIJ7pf2Euyg!2e0!5s20220801T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.195067649321217%26panoid%3DvpkP5NmBb34vIJ7pf2Euyg%26yaw%3D43.75987758758706!7i16384!8i8192!4m4!3m3!8m2!3d38.9672235!4d-77.0280018?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "159.png"
+    },
+    {
+      "id": "loc_161",
+      "index": 161,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.893538,
+        "lng": -76.975162
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 180.0491698857028,
+        "pitch": -1.6539638989464436
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'35.5%22N+76%C2%B058'30.6%22W/@38.893538,-76.9751617,3a,75y,180.05h,91.65t/data=!3m7!1e1!3m5!1sp2t5hUYmyLHjv7d5KE88lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6539638989464436%26panoid%3Dp2t5hUYmyLHjv7d5KE88lg%26yaw%3D180.0491698857028!7i16384!8i8192!4m4!3m3!8m2!3d38.8931944!4d-76.9751667?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "161.png"
+    },
+    {
+      "id": "loc_163",
+      "index": 163,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.911617,
+        "lng": -77.03194
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 2.445623869289566,
+        "pitch": -2.124647552454988
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'42.8%22N+77%C2%B001'55.0%22W/@38.9116169,-77.03194,3a,75y,2.45h,92.12t/data=!3m7!1e1!3m5!1sn95otJpmuHfgDtkrppJP5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.124647552454988%26panoid%3Dn95otJpmuHfgDtkrppJP5Q%26yaw%3D2.445623869289566!7i16384!8i8192!4m4!3m3!8m2!3d38.9118889!4d-77.0319444?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "163.png"
+    },
+    {
+      "id": "loc_164",
+      "index": 164,
+      "name": "Rhode Island Avenue Northwest",
+      "coordinates": {
+        "lat": 38.91253,
+        "lng": -77.021666
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 244.21765474018838,
+        "pitch": 2.615278972989003
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'44.7%22N+77%C2%B001'18.9%22W/@38.9125297,-77.0216658,3a,75y,244.22h,87.38t/data=!3m7!1e1!3m5!1suyobr-i2YB9TBVUObdJWNg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.615278972989003%26panoid%3Duyobr-i2YB9TBVUObdJWNg%26yaw%3D244.21765474018838!7i16384!8i8192!4m4!3m3!8m2!3d38.9124167!4d-77.0219167?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "164.png"
+    },
+    {
+      "id": "loc_165",
+      "index": 165,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.845095,
+        "lng": -77.007553
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 50,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 185.3001036495056,
+        "pitch": 1.1022363568631448
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.4%22N+77%C2%B000'27.1%22W/@38.8450947,-77.0075526,3a,75y,185.3h,88.9t/data=!3m7!1e1!3m5!1sHLWVMMOkUwc3G2rC-1MD2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1022363568631448%26panoid%3DHLWVMMOkUwc3G2rC-1MD2w%26yaw%3D185.3001036495056!7i13312!8i6656!4m4!3m3!8m2!3d38.845111!4d-77.0075339?entry=ttu&g_ep=EgoyMDI1MDYwOS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "165.png"
+    },
+    {
+      "id": "loc_167",
+      "index": 167,
+      "name": "R Street Northwest",
+      "coordinates": {
+        "lat": 38.912624,
+        "lng": -77.012829
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 271.79174553930557,
+        "pitch": 0.34260456521380434
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'45.5%22N+77%C2%B000'46.2%22W/@38.9126242,-77.012829,3a,75y,271.79h,89.66t/data=!3m7!1e1!3m5!1sdb6B8elZXjjKjLS0Q4A2Bw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.34260456521380434%26panoid%3Ddb6B8elZXjjKjLS0Q4A2Bw%26yaw%3D271.79174553930557!7i16384!8i8192!4m4!3m3!8m2!3d38.9126242!4d-77.012829?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "167.png"
+    },
+    {
+      "id": "loc_168",
+      "index": 168,
+      "name": "Malcolm X Avenue Southeast",
+      "coordinates": {
+        "lat": 38.845136,
+        "lng": -77.007909
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 272.09934468519043,
+        "pitch": -0.4646156815093576
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.5%22N+77%C2%B000'28.5%22W/@38.8451356,-77.0079088,3a,75y,272.1h,90.46t/data=!3m7!1e1!3m5!1s29_Dlhu-JE1yYBx9C7IvWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4646156815093576%26panoid%3D29_Dlhu-JE1yYBx9C7IvWA%26yaw%3D272.09934468519043!7i13312!8i6656!4m4!3m3!8m2!3d38.8451356!4d-77.0079088?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "168.png"
+    },
+    {
+      "id": "loc_169",
+      "index": 169,
+      "name": "Ridge Road Southeast",
+      "coordinates": {
+        "lat": 38.875906,
+        "lng": -76.940618
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 130.4277541893087,
+        "pitch": 2.0308504169232435
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.8759059,-76.9406183,3a,75y,130.43h,87.97t/data=!3m7!1e1!3m5!1sXQc0fGbmrsGrtLDmViwU1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0308504169232435%26panoid%3DXQc0fGbmrsGrtLDmViwU1g%26yaw%3D130.4277541893087!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "169.png"
+    },
+    {
+      "id": "loc_170",
+      "index": 170,
+      "name": "L Street Southeast",
+      "coordinates": {
+        "lat": 38.877237,
+        "lng": -76.991548
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "8",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 186.36292191357578,
+        "pitch": -0.1096509599221207
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'38.0%22N+76%C2%B059'29.5%22W/@38.877237,-76.9915478,3a,75y,186.36h,90.11t/data=!3m7!1e1!3m5!1sO8e_IyJhboZuR7cro2RLQA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1096509599221207%26panoid%3DO8e_IyJhboZuR7cro2RLQA%26yaw%3D186.36292191357578!7i16384!8i8192!4m4!3m3!8m2!3d38.8772343!4d-76.9915187?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "170.png"
+    },
+    {
+      "id": "loc_171",
+      "index": 171,
+      "name": "Southeast Freeway",
+      "coordinates": {
+        "lat": 38.879497,
+        "lng": -76.998612
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 45,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 113.05813206151848,
+        "pitch": 4.131024086911225
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'46.3%22N+76%C2%B059'55.1%22W/@38.879497,-76.9986121,3a,75y,113.06h,85.87t/data=!3m7!1e1!3m5!1sejNSEY93Hzi0Ap_AGa7vcg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.131024086911225%26panoid%3DejNSEY93Hzi0Ap_AGa7vcg%26yaw%3D113.05813206151848!7i16384!8i8192!4m4!3m3!8m2!3d38.8795178!4d-76.99864?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "171.png"
+    },
+    {
+      "id": "loc_172",
+      "index": 172,
+      "name": "12th Street Southwest",
+      "coordinates": {
+        "lat": 38.881527,
+        "lng": -77.027231
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 114.7923073950439,
+        "pitch": 11.172334258104698
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.8815266,-77.0272311,3a,75y,114.79h,78.83t/data=!3m7!1e1!3m5!1sSbeq5_8JTpvjrSoUwdshiw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.172334258104698%26panoid%3DSbeq5_8JTpvjrSoUwdshiw%26yaw%3D114.7923073950439!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "172.png"
+    },
+    {
+      "id": "loc_173",
+      "index": 173,
+      "name": "6th Street Northwest",
+      "coordinates": {
+        "lat": 38.915929,
+        "lng": -77.020075
+      },
+      "roadType": "nan",
+      "surface": "paving_stones",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 170.88729738891107,
+        "pitch": 11.750823985792806
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.9159295,-77.0200752,3a,75y,170.89h,78.25t/data=!3m7!1e1!3m5!1s7i3dTF9aXrGWDu7yeDgnKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.750823985792806%26panoid%3D7i3dTF9aXrGWDu7yeDgnKw%26yaw%3D170.88729738891107!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "173.png"
+    },
+    {
+      "id": "loc_174",
+      "index": 174,
+      "name": "14th Street Northwest",
+      "coordinates": {
+        "lat": 38.963699,
+        "lng": -77.033402
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 354.5675692736167,
+        "pitch": 8.18228786550408
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.9636987,-77.0334022,3a,75y,354.57h,81.82t/data=!3m7!1e1!3m5!1sAWeSGKPHM5Iw40KLl_utuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.18228786550408%26panoid%3DAWeSGKPHM5Iw40KLl_utuw%26yaw%3D354.5675692736167!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "174.png"
+    },
+    {
+      "id": "loc_179",
+      "index": 179,
+      "name": "Pennsylvania Avenue Southeast",
+      "coordinates": {
+        "lat": 38.88163,
+        "lng": -76.988897
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 113.04425864517553,
+        "pitch": 5.235652949564866
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.8816299,-76.9888973,3a,75y,113.04h,84.76t/data=!3m7!1e1!3m5!1svs_C6h--2GPrCvpLRrWuGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.235652949564866%26panoid%3Dvs_C6h--2GPrCvpLRrWuGQ%26yaw%3D113.04425864517553!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "179.png"
+    },
+    {
+      "id": "loc_180",
+      "index": 180,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.878819,
+        "lng": -76.996339
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 107.69367680914314,
+        "pitch": -0.4663088381103506
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'43.9%22N+76%C2%B059'47.0%22W/@38.8788187,-76.9963387,3a,75y,107.69h,90.47t/data=!3m7!1e1!3m5!1sfe9WRtbXIsHHVSm6wtmF6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4663088381103506%26panoid%3Dfe9WRtbXIsHHVSm6wtmF6Q%26yaw%3D107.69367680914314!7i16384!8i8192!4m4!3m3!8m2!3d38.878847!4d-76.9963941?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "180.png"
+    },
+    {
+      "id": "loc_181",
+      "index": 181,
+      "name": "Van Ness Street Northwest",
+      "coordinates": {
+        "lat": 38.943145,
+        "lng": -77.069766
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 86.4656735341344,
+        "pitch": 3.4639921197823327
+      },
+      "googleMapsUrl": "https://www.google.com/maps/@38.9431454,-77.0697662,3a,75y,86.47h,86.54t/data=!3m7!1e1!3m5!1sVdZOyhYxtWffGC1Es-_fow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.4639921197823327%26panoid%3DVdZOyhYxtWffGC1Es-_fow%26yaw%3D86.4656735341344!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "181.png"
+    },
+    {
+      "id": "loc_182",
+      "index": 182,
+      "name": "11th Street Southeast",
+      "coordinates": {
+        "lat": 38.885453,
+        "lng": -76.99155
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 182.25211483289033,
+        "pitch": -1.9653968647830453
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'07.0%22N+76%C2%B059'29.6%22W/@38.8854533,-76.99155,3a,75y,182.25h,91.97t/data=!3m7!1e1!3m5!1sWPIiuq682HwJHBRepedjCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9653968647830453%26panoid%3DWPIiuq682HwJHBRepedjCA%26yaw%3D182.25211483289033!7i16384!8i8192!4m4!3m3!8m2!3d38.8852666!4d-76.9915506?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "182.png"
+    },
+    {
+      "id": "loc_184",
+      "index": 184,
+      "name": "14th Street Northwest",
+      "coordinates": {
+        "lat": 38.961366,
+        "lng": -77.033368
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 355.37315903811486,
+        "pitch": 1.0049333790806116
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'40.8%22N+77%C2%B002'00.2%22W/@38.9613659,-77.0333677,3a,75y,355.37h,89t/data=!3m7!1e1!3m5!1s-I-lnQIb0c8JVJbih3Z9rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0049333790806116%26panoid%3D-I-lnQIb0c8JVJbih3Z9rw%26yaw%3D355.37315903811486!7i16384!8i8192!4m4!3m3!8m2!3d38.9613299!4d-77.033398?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "184.png"
+    },
+    {
+      "id": "loc_185",
+      "index": 185,
+      "name": "Calvert Street Northwest",
+      "coordinates": {
+        "lat": 38.923508,
+        "lng": -77.050734
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 276.3289760432889,
+        "pitch": 4.146700307266755
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'24.6%22N+77%C2%B003'02.6%22W/@38.9235079,-77.0507337,3a,75y,276.33h,85.85t/data=!3m7!1e1!3m5!1sTt1n0dcoi4jZj5ye68ttWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.146700307266755%26panoid%3DTt1n0dcoi4jZj5ye68ttWg%26yaw%3D276.3289760432889!7i16384!8i8192!4m4!3m3!8m2!3d38.9235079!4d-77.0507337?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "185.png"
+    },
+    {
+      "id": "loc_187",
+      "index": 187,
+      "name": "7th Street Northwest",
+      "coordinates": {
+        "lat": 38.9139,
+        "lng": -77.021948
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 176.00386942921932,
+        "pitch": -2.4359311564995068
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'50.0%22N+77%C2%B001'19.0%22W/@38.9138997,-77.0219477,3a,75y,176h,92.44t/data=!3m7!1e1!3m5!1sxXDKiMWhv7U6yOMND-Kb4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4359311564995068%26panoid%3DxXDKiMWhv7U6yOMND-Kb4Q%26yaw%3D176.00386942921932!7i16384!8i8192!4m4!3m3!8m2!3d38.9138997!4d-77.0219477?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "187.png"
+    },
+    {
+      "id": "loc_188",
+      "index": 188,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.962548,
+        "lng": -77.033404
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 35,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 358.9737201582979,
+        "pitch": -2.4327313384650324
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'44.2%22N+77%C2%B002'00.4%22W/@38.9625477,-77.0334039,3a,75y,358.97h,92.43t/data=!3m7!1e1!3m5!1sDenW7XounnDgWn5KfhfKvA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4327313384650324%26panoid%3DDenW7XounnDgWn5KfhfKvA%26yaw%3D358.9737201582979!7i16384!8i8192!4m4!3m3!8m2!3d38.9622776!4d-77.0334548?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "188.png"
+    },
+    {
+      "id": "loc_190",
+      "index": 190,
+      "name": "Rhode Island Avenue Northwest",
+      "coordinates": {
+        "lat": 38.913873,
+        "lng": -77.017325
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 63.88459658172657,
+        "pitch": -3.5324300735096443
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'50.3%22N+77%C2%B001'01.5%22W/@38.9138731,-77.017325,3a,75y,63.88h,93.53t/data=!3m7!1e1!3m5!1sGeOgbJCur_gXctH8RzjXwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5324300735096443%26panoid%3DGeOgbJCur_gXctH8RzjXwA%26yaw%3D63.88459658172657!7i13312!8i6656!4m4!3m3!8m2!3d38.9139636!4d-77.0170719?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "190.png"
+    },
+    {
+      "id": "loc_192",
+      "index": 192,
+      "name": "Mozart Place Northwest",
+      "coordinates": {
+        "lat": 38.925648,
+        "lng": -77.03788
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 51.905173804784276,
+        "pitch": -5.062332703843509
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'33.6%22N+77%C2%B002'14.6%22W/@38.9256483,-77.0378799,3a,75y,51.91h,95.06t/data=!3m7!1e1!3m5!1s-_tnLd2nKe6am3jzYuT9OQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.062332703843509%26panoid%3D-_tnLd2nKe6am3jzYuT9OQ%26yaw%3D51.905173804784276!7i13312!8i6656!4m4!3m3!8m2!3d38.925987!4d-77.0373756?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "192.png"
+    },
+    {
+      "id": "loc_193",
+      "index": 193,
+      "name": "International Drive Northwest",
+      "coordinates": {
+        "lat": 38.942389,
+        "lng": -77.067726
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 354.71883483743017,
+        "pitch": 9.39420138541297
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'34.0%22N+77%C2%B004'03.8%22W/@38.9423895,-77.0677257,3a,75y,354.72h,80.61t/data=!3m7!1e1!3m5!1sA-q56-0ddrtnCdBh1hFeUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.39420138541297%26panoid%3DA-q56-0ddrtnCdBh1hFeUg%26yaw%3D354.71883483743017!7i13312!8i6656!4m4!3m3!8m2!3d38.9427815!4d-77.0677119?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "193.png"
+    },
+    {
+      "id": "loc_194",
+      "index": 194,
+      "name": "Malcolm X Avenue Southeast",
+      "coordinates": {
+        "lat": 38.845232,
+        "lng": -77.008421
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 172.30772073008808,
+        "pitch": 8.248129208444894
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'42.7%22N+77%C2%B000'30.3%22W/@38.8452322,-77.0084211,3a,75y,172.31h,81.75t/data=!3m7!1e1!3m5!1sXQck7qTXs95YiHX9-Pp_FA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.248129208444894%26panoid%3DXQck7qTXs95YiHX9-Pp_FA%26yaw%3D172.30772073008808!7i16384!8i8192!4m4!3m3!8m2!3d38.8451889!4d-77.0084038?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "194.png"
+    },
+    {
+      "id": "loc_195",
+      "index": 195,
+      "name": "9th Street Northwest",
+      "coordinates": {
+        "lat": 38.916477,
+        "lng": -77.024025
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 176.50518150110452,
+        "pitch": 4.749834543299173
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'59.3%22N+77%C2%B001'26.3%22W/@38.916477,-77.024025,3a,75y,176.51h,85.25t/data=!3m7!1e1!3m5!1s8-xNG0_-fZJ91zNSFPbW0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.749834543299173%26panoid%3D8-xNG0_-fZJ91zNSFPbW0g%26yaw%3D176.50518150110452!7i16384!8i8192!4m4!3m3!8m2!3d38.9164814!4d-77.0239697?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "195.png"
+    },
+    {
+      "id": "loc_196",
+      "index": 196,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.93104,
+        "lng": -77.006964
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 15.938909769212525,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'51.8%22N+77%C2%B000'25.1%22W/@38.9310404,-77.006964,3a,75y,15.94h,90t/data=!3m7!1e1!3m5!1srAPCfeceT5vYwnExUj7BOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DrAPCfeceT5vYwnExUj7BOQ%26yaw%3D15.938909769212525!7i13312!8i6656!4m4!3m3!8m2!3d38.9310458!4d-77.0069718?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "196.png"
+    },
+    {
+      "id": "loc_198",
+      "index": 198,
+      "name": "Calvert Street Northwest",
+      "coordinates": {
+        "lat": 38.923274,
+        "lng": -77.0442
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 268.96215468923316,
+        "pitch": 2.530326035151319
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'23.7%22N+77%C2%B002'39.1%22W/@38.9232736,-77.0442003,3a,75y,268.96h,87.47t/data=!3m7!1e1!3m5!1suFhStUU4P0sOtRwV9dUx_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.530326035151319%26panoid%3DuFhStUU4P0sOtRwV9dUx_Q%26yaw%3D268.96215468923316!7i16384!8i8192!4m4!3m3!8m2!3d38.923246!4d-77.0441823?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "198.png"
+    },
+    {
+      "id": "loc_199",
+      "index": 199,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.931269,
+        "lng": -77.007101
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 197.91574209032188,
+        "pitch": -0.22177282712935664
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'52.5%22N+77%C2%B000'25.3%22W/@38.9312685,-77.0071014,3a,75y,197.92h,90.22t/data=!3m7!1e1!3m5!1swsqxcBBScqKmGYf1vPIwoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.22177282712935664%26panoid%3DwsqxcBBScqKmGYf1vPIwoQ%26yaw%3D197.91574209032188!7i16384!8i8192!4m4!3m3!8m2!3d38.9312511!4d-77.0070355?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "199.png"
+    },
+    {
+      "id": "loc_201",
+      "index": 201,
+      "name": "15th Street Northwest",
+      "coordinates": {
+        "lat": 38.919199,
+        "lng": -77.034725
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 85.85112296050764,
+        "pitch": 0.23102854403519757
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'09.1%22N+77%C2%B002'05.0%22W/@38.9191986,-77.0347248,3a,75y,85.85h,89.77t/data=!3m7!1e1!3m5!1sX9nsyuLCcaly390F8Trj-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.23102854403519757%26panoid%3DX9nsyuLCcaly390F8Trj-A%26yaw%3D85.85112296050764!7i16384!8i8192!4m4!3m3!8m2!3d38.9191968!4d-77.0347083?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "201.png"
+    },
+    {
+      "id": "loc_203",
+      "index": 203,
+      "name": "19th Street Northwest",
+      "coordinates": {
+        "lat": 38.919385,
+        "lng": -77.044933
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 155.33859740435196,
+        "pitch": 0.5068870530243004
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'09.5%22N+77%C2%B002'41.7%22W/@38.9193853,-77.0449329,3a,75y,155.34h,89.49t/data=!3m7!1e1!3m5!1syzmiNzv9tn7BcdsRz0Hfpw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.5068870530243004%26panoid%3DyzmiNzv9tn7BcdsRz0Hfpw%26yaw%3D155.33859740435196!7i16384!8i8192!4m4!3m3!8m2!3d38.9193001!4d-77.044902?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "203.png"
+    },
+    {
+      "id": "loc_204",
+      "index": 204,
+      "name": "New Hampshire Avenue Northwest",
+      "coordinates": {
+        "lat": 38.942377,
+        "lng": -77.019879
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 207.69235192730363,
+        "pitch": 8.453499383168904
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'32.0%22N+77%C2%B001'12.0%22W/@38.9423773,-77.0198793,3a,75y,207.69h,81.55t/data=!3m7!1e1!3m5!1snAcHs3fFrP02ixzdqegyEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.453499383168904%26panoid%3DnAcHs3fFrP02ixzdqegyEg%26yaw%3D207.69235192730363!7i16384!8i8192!4m4!3m3!8m2!3d38.9422167!4d-77.0199978?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "204.png"
+    },
+    {
+      "id": "loc_205",
+      "index": 205,
+      "name": "Kansas Avenue Northwest",
+      "coordinates": {
+        "lat": 38.961949,
+        "lng": -77.010993
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 25.913451385687594,
+        "pitch": 8.137014009293011
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'43.1%22N+77%C2%B000'39.5%22W/@38.9619487,-77.0109933,3a,75y,25.91h,81.86t/data=!3m7!1e1!3m5!1splXGVGMV2QR-r0OLnkq-ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.137014009293011%26panoid%3DplXGVGMV2QR-r0OLnkq-ig%26yaw%3D25.913451385687594!7i16384!8i8192!4m4!3m3!8m2!3d38.9619647!4d-77.0109599?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "205.png"
+    },
+    {
+      "id": "loc_207",
+      "index": 207,
+      "name": "Piney Branch Road Northwest",
+      "coordinates": {
+        "lat": 38.976273,
+        "lng": -77.020713
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 24.76290688361066,
+        "pitch": 0.11613953444273761
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'34.7%22N+77%C2%B001'14.6%22W/@38.976273,-77.0207127,3a,75y,24.76h,89.88t/data=!3m7!1e1!3m5!1sW5eMtnTdkYBNvZf4ybfyxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.11613953444273761%26panoid%3DW5eMtnTdkYBNvZf4ybfyxg%26yaw%3D24.76290688361066!7i16384!8i8192!4m4!3m3!8m2!3d38.976292!4d-77.0207136?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "207.png"
+    },
+    {
+      "id": "loc_208",
+      "index": 208,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.919202,
+        "lng": -77.035068
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 81.16560287113634,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'09.1%22N+77%C2%B002'06.1%22W/@38.9192019,-77.0350684,3a,75y,81.17h,90t/data=!3m7!1e1!3m5!1svSrYNjiAxgB69WjNSMRr4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DvSrYNjiAxgB69WjNSMRr4w%26yaw%3D81.16560287113634!7i16384!8i8192!4m4!3m3!8m2!3d38.9191962!4d-77.0350393?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "208.png"
+    },
+    {
+      "id": "loc_210",
+      "index": 210,
+      "name": "15th Street Northwest Cycle Track",
+      "coordinates": {
+        "lat": 38.912846,
+        "lng": -77.034532
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 351.1617663051728,
+        "pitch": 0.587683565300793
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'46.3%22N+77%C2%B002'04.3%22W/@38.9128461,-77.0345322,3a,75y,351.16h,89.41t/data=!3m7!1e1!3m5!1sxuOdET9ZSBqIYzQhHIKlXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.587683565300793%26panoid%3DxuOdET9ZSBqIYzQhHIKlXg%26yaw%3D351.1617663051728!7i16384!8i8192!4m4!3m3!8m2!3d38.9128461!4d-77.0345322?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "210.png"
+    },
+    {
+      "id": "loc_211",
+      "index": 211,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.917432,
+        "lng": -77.031933
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 348.70945252889777,
+        "pitch": 0.46027047848356517
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'02.8%22N+77%C2%B001'55.0%22W/@38.917432,-77.0319326,3a,75y,348.71h,89.54t/data=!3m7!1e1!3m5!1sI5fcwAs7hlsll8WtU-4uIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.46027047848356517%26panoid%3DI5fcwAs7hlsll8WtU-4uIg%26yaw%3D348.70945252889777!7i16384!8i8192!4m4!3m3!8m2!3d38.9174403!4d-77.0319533?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "211.png"
+    },
+    {
+      "id": "loc_212",
+      "index": 212,
+      "name": "Garfield Street Northwest",
+      "coordinates": {
+        "lat": 38.927554,
+        "lng": -77.066643
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 266.7673488466108,
+        "pitch": -0.6308465350283541
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'39.2%22N+77%C2%B003'59.9%22W/@38.9275545,-77.0666435,3a,75y,266.77h,90.63t/data=!3m7!1e1!3m5!1sH04r7yK_XApxrp-0Y2Ke2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6308465350283541%26panoid%3DH04r7yK_XApxrp-0Y2Ke2w%26yaw%3D266.7673488466108!7i16384!8i8192!4m4!3m3!8m2!3d38.9275545!4d-77.0666435?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "212.png"
+    },
+    {
+      "id": "loc_213",
+      "index": 213,
+      "name": "West Virginia Avenue Northeast",
+      "coordinates": {
+        "lat": 38.913943,
+        "lng": -76.98187
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 37.58455030411115,
+        "pitch": 1.516151185937943
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'50.2%22N+76%C2%B058'54.8%22W/@38.9139426,-76.9818705,3a,75y,37.58h,88.48t/data=!3m7!1e1!3m5!1skCbS-Jiia8yilMQH3GaqBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.516151185937943%26panoid%3DkCbS-Jiia8yilMQH3GaqBA%26yaw%3D37.58455030411115!7i16384!8i8192!4m4!3m3!8m2!3d38.9139357!4d-76.9819009?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "213.png"
+    },
+    {
+      "id": "loc_214",
+      "index": 214,
+      "name": "Blair Road Northwest",
+      "coordinates": {
+        "lat": 38.962046,
+        "lng": -77.010402
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 325.72220306619613,
+        "pitch": 0.7964090181261128
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'43.8%22N+77%C2%B000'37.8%22W/@38.9620463,-77.0104025,3a,75y,325.72h,89.2t/data=!3m7!1e1!3m5!1smCTh0ePuE9Ocac4h_eG4gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7964090181261128%26panoid%3DmCTh0ePuE9Ocac4h_eG4gQ%26yaw%3D325.72220306619613!7i16384!8i8192!4m4!3m3!8m2!3d38.9621763!4d-77.0105078?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "214.png"
+    },
+    {
+      "id": "loc_215",
+      "index": 215,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.941549,
+        "lng": -77.026151
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 22.88683064234214,
+        "pitch": -13.515889519605622
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'30.1%22N+77%C2%B001'34.0%22W/@38.9415493,-77.0261515,3a,75y,22.89h,103.52t/data=!3m7!1e1!3m5!1sjxy-8fCk7G9c046_XDUEXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.515889519605622%26panoid%3Djxy-8fCk7G9c046_XDUEXQ%26yaw%3D22.88683064234214!7i16384!8i8192!4m4!3m3!8m2!3d38.9417!4d-77.026105?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "215.png"
+    },
+    {
+      "id": "loc_216",
+      "index": 216,
+      "name": "7th Street Northwest",
+      "coordinates": {
+        "lat": 38.946763,
+        "lng": -77.021813
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 66.81200515922743,
+        "pitch": 1.0431190662763328
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'48.4%22N+77%C2%B001'18.7%22W/@38.9467629,-77.0218131,3a,75y,66.81h,88.96t/data=!3m7!1e1!3m5!1sW50n-kjwQm1yx6hxpjzcdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0431190662763328%26panoid%3DW50n-kjwQm1yx6hxpjzcdA%26yaw%3D66.81200515922743!7i16384!8i8192!4m4!3m3!8m2!3d38.9467791!4d-77.0218558?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "216.png"
+    },
+    {
+      "id": "loc_217",
+      "index": 217,
+      "name": "15th Street Northwest Cycle Track",
+      "coordinates": {
+        "lat": 38.914634,
+        "lng": -77.034532
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 0.7166357332633879,
+        "pitch": -1.7015292358711491
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'52.7%22N+77%C2%B002'04.3%22W/@38.9146341,-77.0345319,3a,75y,0.72h,91.7t/data=!3m7!1e1!3m5!1saNScSGzS_FJKTPBCoKZDzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7015292358711491%26panoid%3DaNScSGzS_FJKTPBCoKZDzQ%26yaw%3D0.7166357332633879!7i16384!8i8192!4m4!3m3!8m2!3d38.9146341!4d-77.0345319?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "217.png"
+    },
+    {
+      "id": "loc_220",
+      "index": 220,
+      "name": "13th Street Northwest",
+      "coordinates": {
+        "lat": 38.908752,
+        "lng": -77.029559
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 0.29268744135902836,
+        "pitch": 5.601354489155781
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'37.7%22N+77%C2%B001'39.0%22W/@38.908752,-77.0295591,3a,75y,0.29h,84.4t/data=!3m7!1e1!3m5!1sUZVW5oXu7brDWS5AQzalbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.601354489155781%26panoid%3DUZVW5oXu7brDWS5AQzalbw%26yaw%3D0.29268744135902836!7i16384!8i8192!4m4!3m3!8m2!3d38.9104648!4d-77.0275095?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "220.png"
+    },
+    {
+      "id": "loc_221",
+      "index": 221,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.845228,
+        "lng": -77.007549
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 50,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 176.42861577767664,
+        "pitch": 0.1282053529845939
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B050'43.0%22N+77%C2%B000'27.1%22W/@38.8452282,-77.0075486,3a,75y,176.43h,89.87t/data=!3m7!1e1!3m5!1soJLmRlgOtWbn9Tqjf-9jow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.1282053529845939%26panoid%3DoJLmRlgOtWbn9Tqjf-9jow%26yaw%3D176.42861577767664!7i13312!8i6656!4m4!3m3!8m2!3d38.8452631!4d-77.0075301?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "221.png"
+    },
+    {
+      "id": "loc_222",
+      "index": 222,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.878379,
+        "lng": -76.994754
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 98.89463033719822,
+        "pitch": -10.547442654088456
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'42.2%22N+76%C2%B059'41.1%22W/@38.8783793,-76.9947544,3a,75y,98.89h,100.55t/data=!3m7!1e1!3m5!1s6ddK-JvqWWGviMg8GStrdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.547442654088456%26panoid%3D6ddK-JvqWWGviMg8GStrdg%26yaw%3D98.89463033719822!7i16384!8i8192!4m4!3m3!8m2!3d38.8783943!4d-76.9947553?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "222.png"
+    },
+    {
+      "id": "loc_224",
+      "index": 224,
+      "name": "5th Street Northeast",
+      "coordinates": {
+        "lat": 38.890295,
+        "lng": -76.999529
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 180.81262301557433,
+        "pitch": -5.203650248384619
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'24.1%22N+76%C2%B059'58.4%22W/@38.8902951,-76.999529,3a,75y,180.81h,95.2t/data=!3m7!1e1!3m5!1sE4VZmRFUEwCAXXQ-tZfsuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.203650248384619%26panoid%3DE4VZmRFUEwCAXXQ-tZfsuQ%26yaw%3D180.81262301557433!7i16384!8i8192!4m4!3m3!8m2!3d38.8900316!4d-76.9995403?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "224.png"
+    },
+    {
+      "id": "loc_225",
+      "index": 225,
+      "name": "Pennsylvania Avenue Southeast",
+      "coordinates": {
+        "lat": 38.880298,
+        "lng": -76.985628
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": true,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 112.87985693318464,
+        "pitch": 1.5853376854065147
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'49.0%22N+76%C2%B059'08.4%22W/@38.8802979,-76.9856276,3a,75y,112.88h,88.41t/data=!3m7!1e1!3m5!1s1pejOPGEci-Boxmqi93j5g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5853376854065147%26panoid%3D1pejOPGEci-Boxmqi93j5g%26yaw%3D112.87985693318464!7i16384!8i8192!4m4!3m3!8m2!3d38.8802899!4d-76.9856752?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "225.png"
+    },
+    {
+      "id": "loc_226",
+      "index": 226,
+      "name": "Constitution Avenue Northeast",
+      "coordinates": {
+        "lat": 38.892,
+        "lng": -76.988728
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 261.8034931585734,
+        "pitch": 3.644739868923537
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'31.2%22N+76%C2%B059'19.4%22W/@38.8919998,-76.9887284,3a,75y,261.8h,86.36t/data=!3m7!1e1!3m5!1sKSzcuG1cYpHgV2sPdMc1vw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.644739868923537%26panoid%3DKSzcuG1cYpHgV2sPdMc1vw%26yaw%3D261.8034931585734!7i16384!8i8192!4m4!3m3!8m2!3d38.8919998!4d-76.9887284?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "226.png"
+    },
+    {
+      "id": "loc_227",
+      "index": 227,
+      "name": "14th Street Northwest",
+      "coordinates": {
+        "lat": 38.949372,
+        "lng": -77.032906
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 20,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 133.2445655646231,
+        "pitch": 2.266256252568212
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'57.7%22N+77%C2%B001'58.3%22W/@38.9493723,-77.0329061,3a,75y,133.24h,87.73t/data=!3m7!1e1!3m5!1sY9te9i30_ESQex6ZNJ8Alg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.266256252568212%26panoid%3DY9te9i30_ESQex6ZNJ8Alg%26yaw%3D133.2445655646231!7i16384!8i8192!4m4!3m3!8m2!3d38.949355!4d-77.032868?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "227.png"
+    },
+    {
+      "id": "loc_228",
+      "index": 228,
+      "name": "Kansas Avenue Northwest",
+      "coordinates": {
+        "lat": 38.95799,
+        "lng": -77.013954
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 22.437972382756648,
+        "pitch": 2.103007776487459
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'28.2%22N+77%C2%B000'50.9%22W/@38.9579897,-77.0139542,3a,75y,22.44h,87.9t/data=!3m7!1e1!3m5!1sjmI9D-6EqRpB6SGTFPxngw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.103007776487459%26panoid%3DjmI9D-6EqRpB6SGTFPxngw%26yaw%3D22.437972382756648!7i16384!8i8192!4m4!3m3!8m2!3d38.9578413!4d-77.0141363?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "228.png"
+    },
+    {
+      "id": "loc_230",
+      "index": 230,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.92683,
+        "lng": -77.01222
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 15,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 169.97271532653252,
+        "pitch": 1.9495687405097328
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'36.5%22N+77%C2%B000'43.9%22W/@38.9268302,-77.0122205,3a,75y,169.97h,88.05t/data=!3m7!1e1!3m5!1sVlUthuAHTIdEqtRlibZJ0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9495687405097328%26panoid%3DVlUthuAHTIdEqtRlibZJ0A%26yaw%3D169.97271532653252!7i16384!8i8192!4m4!3m3!8m2!3d38.9268081!4d-77.0122025?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "230.png"
+    },
+    {
+      "id": "loc_231",
+      "index": 231,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.88094,
+        "lng": -77.00705
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 50,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 97.29368585602461,
+        "pitch": 4.314094616439192
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'51.5%22N+77%C2%B000'25.2%22W/@38.8809398,-77.0070501,3a,75y,97.29h,85.69t/data=!3m7!1e1!3m5!1s7hnBAEAAKTr1sZS2lZ9Nhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.314094616439192%26panoid%3D7hnBAEAAKTr1sZS2lZ9Nhg%26yaw%3D97.29368585602461!7i16384!8i8192!4m4!3m3!8m2!3d38.8809779!4d-77.0069984?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "231.png"
+    },
+    {
+      "id": "loc_235",
+      "index": 235,
+      "name": "Aspen Street Northwest",
+      "coordinates": {
+        "lat": 38.972273,
+        "lng": -77.027819
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 89.03281558861562,
+        "pitch": 11.566111966475873
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'20.2%22N+77%C2%B001'40.2%22W/@38.9722727,-77.0278188,3a,75y,89.03h,78.43t/data=!3m7!1e1!3m5!1sP7xVfKQW4fFCBF_IYTX64A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.566111966475873%26panoid%3DP7xVfKQW4fFCBF_IYTX64A%26yaw%3D89.03281558861562!7i16384!8i8192!4m4!3m3!8m2!3d38.9722684!4d-77.0278377?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "235.png"
+    },
+    {
+      "id": "loc_237",
+      "index": 237,
+      "name": "24th Street Northwest",
+      "coordinates": {
+        "lat": 38.924787,
+        "lng": -77.052188
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 330.10916,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'29.2%22N+77%C2%B003'08.1%22W/@38.9247868,-77.0521878,3a,75y,330.11h,90t/data=!3m7!1e1!3m5!1sDSfvp76sYkfarb8Uwkl_3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DDSfvp76sYkfarb8Uwkl_3Q%26yaw%3D330.10916!7i16384!8i8192!4m4!3m3!8m2!3d38.9247811!4d-77.0522394?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "237.png"
+    },
+    {
+      "id": "loc_240",
+      "index": 240,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.882143,
+        "lng": -77.021908
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 358.2677696176295,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'55.7%22N+77%C2%B001'19.0%22W/@38.882143,-77.0219084,3a,75y,358.27h,90t/data=!3m7!1e1!3m5!1sNhoCk-F3ArDLvD1LRpKIIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DNhoCk-F3ArDLvD1LRpKIIg%26yaw%3D358.2677696176295!7i16384!8i8192!4m4!3m3!8m2!3d38.882137!4d-77.0219398?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "240.png"
+    },
+    {
+      "id": "loc_241",
+      "index": 241,
+      "name": "T Street Northwest",
+      "coordinates": {
+        "lat": 38.915307,
+        "lng": -77.072839
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 172.6244096527342,
+        "pitch": 16.692760393977494
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'55.4%22N+77%C2%B004'22.2%22W/@38.9153071,-77.0728387,3a,75y,172.62h,73.31t/data=!3m7!1e1!3m5!1sMSjuTx65bLwbWTEq-BlLBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D16.692760393977494%26panoid%3DMSjuTx65bLwbWTEq-BlLBQ%26yaw%3D172.6244096527342!7i16384!8i8192!4m4!3m3!8m2!3d38.9153903!4d-77.0728182?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "241.png"
+    },
+    {
+      "id": "loc_242",
+      "index": 242,
+      "name": "North Capitol Street Northeast",
+      "coordinates": {
+        "lat": 38.934219,
+        "lng": -77.006136
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 40,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 199.39405762933868,
+        "pitch": 0.8631279373765466
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'03.0%22N+77%C2%B000'22.2%22W/@38.9342195,-77.0061364,3a,75y,199.39h,89.14t/data=!3m7!1e1!3m5!1sOEEXy749jshHDKkOId81vQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.8631279373765466%26panoid%3DOEEXy749jshHDKkOId81vQ%26yaw%3D199.39405762933868!7i16384!8i8192!4m4!3m3!8m2!3d38.9341776!4d-77.0061577?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "242.png"
+    },
+    {
+      "id": "loc_243",
+      "index": 243,
+      "name": "Idaho Avenue Northwest",
+      "coordinates": {
+        "lat": 38.937322,
+        "lng": -77.07188
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 288.0041196496724,
+        "pitch": 16.467522470141134
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'14.4%22N+77%C2%B004'19.6%22W/@38.9373215,-77.0718797,3a,75y,288h,73.53t/data=!3m7!1e1!3m5!1s7Z3JVN7XX4UmRVOnng_b3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D16.467522470141134%26panoid%3D7Z3JVN7XX4UmRVOnng_b3Q%26yaw%3D288.0041196496724!7i16384!8i8192!4m4!3m3!8m2!3d38.937331!4d-77.072112?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "243.png"
+    },
+    {
+      "id": "loc_245",
+      "index": 245,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.917198,
+        "lng": -76.978982
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 102.61481880509497,
+        "pitch": 7.103544759150424
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'01.8%22N+76%C2%B058'44.5%22W/@38.9171977,-76.978982,3a,75y,102.61h,82.9t/data=!3m7!1e1!3m5!1sPopyxV1-1kTt2DikPK9RMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.103544759150424%26panoid%3DPopyxV1-1kTt2DikPK9RMA%26yaw%3D102.61481880509497!7i16384!8i8192!4m4!3m3!8m2!3d38.9171562!4d-76.97902?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "245.png"
+    },
+    {
+      "id": "loc_248",
+      "index": 248,
+      "name": "3rd Street Tunnel",
+      "coordinates": {
+        "lat": 38.904528,
+        "lng": -77.015826
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 45,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 327.4331114495635,
+        "pitch": 5.0282623840145675
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'16.2%22N+77%C2%B000'57.0%22W/@38.9045275,-77.0158263,3a,75y,327.43h,84.97t/data=!3m7!1e1!3m5!1syXYC1Hv_5p3kUImmsU8SpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.0282623840145675%26panoid%3DyXYC1Hv_5p3kUImmsU8SpQ%26yaw%3D327.4331114495635!7i16384!8i8192!4m4!3m3!8m2!3d38.904488!4d-77.0158243?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "248.png"
+    },
+    {
+      "id": "loc_253",
+      "index": 253,
+      "name": "Florida Avenue Northwest",
+      "coordinates": {
+        "lat": 38.916638,
+        "lng": -77.022703
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 290.5843700586289,
+        "pitch": 14.291604915939786
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'59.9%22N+77%C2%B001'21.7%22W/@38.9166375,-77.0227034,3a,75y,290.58h,75.71t/data=!3m7!1e1!3m5!1s1Zsy3h2jucWOUNvQRbva0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.291604915939786%26panoid%3D1Zsy3h2jucWOUNvQRbva0A%26yaw%3D290.5843700586289!7i16384!8i8192!4m4!3m3!8m2!3d38.9166375!4d-77.0227034?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "253.png"
+    },
+    {
+      "id": "loc_254",
+      "index": 254,
+      "name": "Naylor Road Southeast",
+      "coordinates": {
+        "lat": 38.859386,
+        "lng": -76.968225
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 175.046721018627,
+        "pitch": -0.17493158124592867
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'33.8%22N+76%C2%B058'05.5%22W/@38.8593856,-76.9682251,3a,75y,175.05h,90.17t/data=!3m7!1e1!3m5!1sxAg9rhd7XNsqYn5tD8fBYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.17493158124592867%26panoid%3DxAg9rhd7XNsqYn5tD8fBYw%26yaw%3D175.046721018627!7i16384!8i8192!4m4!3m3!8m2!3d38.859401!4d-76.9681976?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "254.png"
+    },
+    {
+      "id": "loc_255",
+      "index": 255,
+      "name": "Dana Place Northwest",
+      "coordinates": {
+        "lat": 38.924859,
+        "lng": -77.101254
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 326.9410126434765,
+        "pitch": 6.401605668147852
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'29.7%22N+77%C2%B006'05.3%22W/@38.9248592,-77.101254,3a,75y,326.94h,83.6t/data=!3m7!1e1!3m5!1s9O7s7tH5Xezy4I77JEl02g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.401605668147852%26panoid%3D9O7s7tH5Xezy4I77JEl02g%26yaw%3D326.9410126434765!7i16384!8i8192!4m4!3m3!8m2!3d38.9249278!4d-77.1014591?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "255.png"
+    },
+    {
+      "id": "loc_260",
+      "index": 260,
+      "name": "Anacostia Freeway",
+      "coordinates": {
+        "lat": 38.862939,
+        "lng": -76.99896
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "5",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 120.59478316010774,
+        "pitch": 1.069157700552907
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B051'46.4%22N+76%C2%B059'55.9%22W/@38.8629386,-76.9989604,3a,75y,120.59h,88.93t/data=!3m7!1e1!3m5!1s1VXz-mZ-O0sVN67diWVTOg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.069157700552907%26panoid%3D1VXz-mZ-O0sVN67diWVTOg%26yaw%3D120.59478316010774!7i16384!8i8192!4m4!3m3!8m2!3d38.8628838!4d-76.998857?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "260.png"
+    },
+    {
+      "id": "loc_261",
+      "index": 261,
+      "name": "Constitution Avenue Northeast",
+      "coordinates": {
+        "lat": 38.892362,
+        "lng": -77.0023
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 47.18644574643382,
+        "pitch": 10.785623262944199
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'32.2%22N+77%C2%B000'08.8%22W/@38.8923618,-77.0022997,3a,75y,47.19h,79.21t/data=!3m7!1e1!3m5!1sMhrasjryl6b8-U0yuB6lYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.785623262944199%26panoid%3DMhrasjryl6b8-U0yuB6lYA%26yaw%3D47.18644574643382!7i16384!8i8192!4m4!3m3!8m2!3d38.8922685!4d-77.0024539?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "261.png"
+    },
+    {
+      "id": "loc_262",
+      "index": 262,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.925679,
+        "lng": -77.05354
+      },
+      "roadType": "nan",
+      "surface": "paving_stones",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 265.7801604427365,
+        "pitch": 2.132054210378044
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'32.3%22N+77%C2%B003'12.6%22W/@38.9256794,-77.0535402,3a,75y,265.78h,87.87t/data=!3m7!1e1!3m5!1sNwnG2J14nzcetjl5BaXHow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.132054210378044%26panoid%3DNwnG2J14nzcetjl5BaXHow%26yaw%3D265.7801604427365!7i16384!8i8192!4m4!3m3!8m2!3d38.9256511!4d-77.0535069?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "262.png"
+    },
+    {
+      "id": "loc_266",
+      "index": 266,
+      "name": "Sargent Road Northeast",
+      "coordinates": {
+        "lat": 38.952165,
+        "lng": -76.98941
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 35.46834652742304,
+        "pitch": 12.756533213475649
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'08.1%22N+76%C2%B059'21.7%22W/@38.9521653,-76.9894097,3a,75y,35.47h,77.24t/data=!3m7!1e1!3m5!1sYlXZtssbrNc09vYW1rZouQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.756533213475649%26panoid%3DYlXZtssbrNc09vYW1rZouQ%26yaw%3D35.46834652742304!7i16384!8i8192!4m4!3m3!8m2!3d38.9522441!4d-76.9893713?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "266.png"
+    },
+    {
+      "id": "loc_267",
+      "index": 267,
+      "name": "22nd Street Northeast",
+      "coordinates": {
+        "lat": 38.891097,
+        "lng": -76.97387
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 172.72686944742324,
+        "pitch": 8.141458381784474
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'28.6%22N+76%C2%B058'25.9%22W/@38.8910965,-76.9738698,3a,75y,172.73h,81.86t/data=!3m7!1e1!3m5!1s96gRKbY-_RlXoL0RvK2sVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.141458381784474%26panoid%3D96gRKbY-_RlXoL0RvK2sVQ%26yaw%3D172.72686944742324!7i16384!8i8192!4m4!3m3!8m2!3d38.891282!4d-76.973871?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "267.png"
+    },
+    {
+      "id": "loc_272",
+      "index": 272,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.876473,
+        "lng": -77.002288
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 94.10008124925781,
+        "pitch": 7.767229049814645
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'35.3%22N+77%C2%B000'08.2%22W/@38.8764727,-77.0022879,3a,75y,94.1h,82.23t/data=!3m7!1e1!3m5!1sTJg1zXzPyF_fAn9-0P2Eqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.767229049814645%26panoid%3DTJg1zXzPyF_fAn9-0P2Eqw%26yaw%3D94.10008124925781!7i16384!8i8192!4m4!3m3!8m2!3d38.8764727!4d-77.0022879?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "272.png"
+    },
+    {
+      "id": "loc_274",
+      "index": 274,
+      "name": "Riggs Road Northeast",
+      "coordinates": {
+        "lat": 38.956237,
+        "lng": -77.003078
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 270.80792,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B057'22.4%22N+77%C2%B000'11.2%22W/@38.9562367,-77.003078,3a,75y,270.81h,90t/data=!3m7!1e1!3m5!1sOfAIcqe4cAt8WNjtEI5F0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DOfAIcqe4cAt8WNjtEI5F0g%26yaw%3D270.80792!7i16384!8i8192!4m4!3m3!8m2!3d38.9562222!4d-77.0031111?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "274.png"
+    },
+    {
+      "id": "loc_275",
+      "index": 275,
+      "name": "South Capitol Street Southeast",
+      "coordinates": {
+        "lat": 38.823046,
+        "lng": -77.004488
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 110.114136,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B049'23.0%22N+77%C2%B000'15.8%22W/@38.8230459,-77.0044885,3a,75y,110.11h,90t/data=!3m7!1e1!3m5!1sOFC_M73FSTMK9cDX1Lbv0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DOFC_M73FSTMK9cDX1Lbv0A%26yaw%3D110.114136!7i16384!8i8192!4m4!3m3!8m2!3d38.8230578!4d-77.0043965?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "275.png"
+    },
+    {
+      "id": "loc_276",
+      "index": 276,
+      "name": "3rd Street Tunnel",
+      "coordinates": {
+        "lat": 38.899348,
+        "lng": -77.013987
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 96.26310653614148,
+        "pitch": -1.1064558352699976
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'57.3%22N+77%C2%B000'49.2%22W/@38.899348,-77.013987,3a,75y,96.26h,91.11t/data=!3m7!1e1!3m5!1slbpLbxylCFSIKVON2yW4Pg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1064558352699976%26panoid%3DlbpLbxylCFSIKVON2yW4Pg%26yaw%3D96.26310653614148!7i16384!8i8192!4m4!3m3!8m2!3d38.8992369!4d-77.0136729?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "276.png"
+    },
+    {
+      "id": "loc_279",
+      "index": 279,
+      "name": "G Street Southwest",
+      "coordinates": {
+        "lat": 38.88127,
+        "lng": -77.02152
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 269.4697912368487,
+        "pitch": 10.72100356328589
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'52.6%22N+77%C2%B001'17.5%22W/@38.8812696,-77.02152,3a,75y,269.47h,79.28t/data=!3m7!1e1!3m5!1s8yIzQPdHnpdF5y-um1b6rA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.72100356328589%26panoid%3D8yIzQPdHnpdF5y-um1b6rA%26yaw%3D269.4697912368487!7i16384!8i8192!4m4!3m3!8m2!3d38.8812696!4d-77.02152?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "279.png"
+    },
+    {
+      "id": "loc_283",
+      "index": 283,
+      "name": "Wiltberger Street Northwest",
+      "coordinates": {
+        "lat": 38.914104,
+        "lng": -77.020867
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 90.22123896624228,
+        "pitch": 11.944422023725465
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'50.7%22N+77%C2%B001'15.2%22W/@38.9141041,-77.0208673,3a,75y,90.22h,78.06t/data=!3m7!1e1!3m5!1sk5a1Sao1Rt8pr5pNgj8qiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.944422023725465%26panoid%3Dk5a1Sao1Rt8pr5pNgj8qiQ%26yaw%3D90.22123896624228!7i16384!8i8192!4m4!3m3!8m2!3d38.9140934!4d-77.0208739?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "283.png"
+    },
+    {
+      "id": "loc_285",
+      "index": 285,
+      "name": "Canal Road Northwest",
+      "coordinates": {
+        "lat": 38.905463,
+        "lng": -77.075185
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 93.518265,
+        "pitch": 0.0
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'19.6%22N+77%C2%B004'30.6%22W/@38.905463,-77.0751848,3a,75y,93.52h,90t/data=!3m7!1e1!3m5!1smFdzQwxYCBGY9a5q1xRPeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DmFdzQwxYCBGY9a5q1xRPeg%26yaw%3D93.518265!7i16384!8i8192!4m4!3m3!8m2!3d38.9054458!4d-77.0751781?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "285.png"
+    },
+    {
+      "id": "loc_289",
+      "index": 289,
+      "name": "New York Avenue Northeast",
+      "coordinates": {
+        "lat": 38.917175,
+        "lng": -76.977262
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 35,
+      "hasCycleway": false,
+      "lanes": "3",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 78.63878750426723,
+        "pitch": -4.548173358810615
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B055'01.9%22N+76%C2%B058'38.2%22W/@38.9171755,-76.9772621,3a,75y,78.64h,94.55t/data=!3m7!1e1!3m5!1sOIDqh2werJjIqi-oCIeHFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.548173358810615%26panoid%3DOIDqh2werJjIqi-oCIeHFw%26yaw%3D78.63878750426723!7i16384!8i8192!4m4!3m3!8m2!3d38.9171909!4d-76.9772673?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "289.png"
+    },
+    {
+      "id": "loc_290",
+      "index": 290,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.944289,
+        "lng": -77.090602
+      },
+      "roadType": "nan",
+      "surface": "concrete",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 187.4542072805995,
+        "pitch": -1.1336795813224683
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'39.4%22N+77%C2%B005'26.2%22W/@38.9442886,-77.0906018,3a,72.1y,187.45h,91.13t/data=!3m7!1e1!3m5!1sV5cXUf2yYo38MQ0LL0APiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1336795813224683%26panoid%3DV5cXUf2yYo38MQ0LL0APiA%26yaw%3D187.4542072805995!7i16384!8i8192!4m4!3m3!8m2!3d38.9442886!4d-77.0906018?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "290.png"
+    },
+    {
+      "id": "loc_291",
+      "index": 291,
+      "name": "Holly Street Northwest",
+      "coordinates": {
+        "lat": 38.980695,
+        "lng": -77.03629
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 30,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 353.22327284313116,
+        "pitch": -0.33564946267422613
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'50.5%22N+77%C2%B002'10.7%22W/@38.9806952,-77.0362897,3a,75y,353.22h,90.34t/data=!3m7!1e1!3m5!1sDfCK14HmtlpAyS2K9289tA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.33564946267422613%26panoid%3DDfCK14HmtlpAyS2K9289tA%26yaw%3D353.22327284313116!7i16384!8i8192!4m4!3m3!8m2!3d38.9807042!4d-77.036296?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "291.png"
+    },
+    {
+      "id": "loc_292",
+      "index": 292,
+      "name": "Cedar Street Northwest",
+      "coordinates": {
+        "lat": 38.975063,
+        "lng": -77.016381
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": true,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 265.1283714419778,
+        "pitch": 19.171939575914223
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B058'30.2%22N+77%C2%B000'58.9%22W/@38.9750634,-77.0163815,3a,75y,265.13h,70.83t/data=!3m7!1e1!3m5!1sKh1EtFucNgERU-Et9vl8iA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.171939575914223%26panoid%3DKh1EtFucNgERU-Et9vl8iA%26yaw%3D265.1283714419778!7i16384!8i8192!4m4!3m3!8m2!3d38.9750651!4d-77.0163727?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "292.png"
+    },
+    {
+      "id": "loc_294",
+      "index": 294,
+      "name": "Georgia Avenue Northwest",
+      "coordinates": {
+        "lat": 38.9355,
+        "lng": -77.024239
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "4",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 162.76583162894687,
+        "pitch": -10.284934548408742
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B056'06.8%22N+77%C2%B001'26.9%22W/@38.9355004,-77.0242392,3a,75y,162.77h,100.28t/data=!3m7!1e1!3m5!1sUdGByAr-laBHOZHXy1IgWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.284934548408742%26panoid%3DUdGByAr-laBHOZHXy1IgWQ%26yaw%3D162.76583162894687!7i16384!8i8192!4m4!3m3!8m2!3d38.935233!4d-77.02413?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "294.png"
+    },
+    {
+      "id": "loc_297",
+      "index": 297,
+      "name": "Independence Avenue Southeast",
+      "coordinates": {
+        "lat": 38.887606,
+        "lng": -77.001792
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 267.65116182841575,
+        "pitch": -6.551935556616101
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B053'15.4%22N+77%C2%B000'06.5%22W/@38.8876064,-77.0017921,3a,75y,267.65h,96.55t/data=!3m7!1e1!3m5!1sIPAwJiSODvEZcYq00-Y7Fg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.551935556616101%26panoid%3DIPAwJiSODvEZcYq00-Y7Fg%26yaw%3D267.65116182841575!7i16384!8i8192!4m4!3m3!8m2!3d38.8876064!4d-77.0017921?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "297.png"
+    },
+    {
+      "id": "loc_298",
+      "index": 298,
+      "name": "Unnamed Road",
+      "coordinates": {
+        "lat": 38.908832,
+        "lng": -76.937445
+      },
+      "roadType": "nan",
+      "surface": "unknown",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "1",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 208.9248495095832,
+        "pitch": 0.30705719457137093
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B054'31.8%22N+76%C2%B056'14.8%22W/@38.9088319,-76.9374454,3a,75y,208.92h,89.69t/data=!3m7!1e1!3m5!1sE-mTVrUt8ZvEbbBmnmgA7Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.30705719457137093%26panoid%3DE-mTVrUt8ZvEbbBmnmgA7Q%26yaw%3D208.9248495095832!7i16384!8i8192!4m4!3m3!8m2!3d38.908842!4d-76.937436?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "298.png"
+    },
+    {
+      "id": "loc_299",
+      "index": 299,
+      "name": "South Capitol Street Southwest",
+      "coordinates": {
+        "lat": 38.875941,
+        "lng": -77.008968
+      },
+      "roadType": "nan",
+      "surface": "asphalt",
+      "maxspeed": 25,
+      "hasCycleway": false,
+      "lanes": "2",
+      "width": "unknown",
+      "viewAngle": {
+        "yaw": 6.783545637426693,
+        "pitch": -4.380698933157419
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/38%C2%B052'33.4%22N+77%C2%B000'32.2%22W/@38.8759414,-77.008968,3a,75y,6.78h,94.38t/data=!3m7!1e1!3m5!1sIb2WvnqbrOevQgv9-MeSRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.380698933157419%26panoid%3DIb2WvnqbrOevQgv9-MeSRw%26yaw%3D6.783545637426693!7i16384!8i8192!4m4!3m3!8m2!3d38.8759546!4d-77.0089408?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "imageFile": "299.png"
+    }
+  ]
+}
