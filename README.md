@@ -1,53 +1,40 @@
 <p align="center">
-<h1 align="center"><strong>Persona-Aware Bikeability Assessment & StreetDesignAI</strong></h1>
-  <p align="center">
-              <a>Yilong Dai<sup>3,*</sup>,</a>
-              <a>Ziyi Wang<sup>1,*</sup>,</a>
-              <a>Chenguang Wang<sup>2</sup>,</a>
-              <a>Duanya Lyu<sup>3</sup>,</a>
-              <a>Mateo Nader<sup>3</sup>,</a>
-              <a>Sihan Chen<sup>4</sup>,</a>
-              <a>Kexin Zhou<sup>3</sup>,</a>
-              <a>Yiheng Qian<sup>3</sup>,</a>
-              <a>Wanghao Ye<sup>1</sup>,</a>
-              <a>Zijian Ding<sup>1</sup>,</a>
-              <a>Susu Xu<sup>5</sup>,</a>
-              <a>Xiang Yan<sup>3,†</sup></a>
-    <br>
-    <sup>1</sup>University of Maryland &nbsp;
-    <sup>2</sup>Stony Brook University &nbsp;
-    <sup>3</sup>University of Florida &nbsp;
-    <sup>4</sup>Carnegie Mellon University &nbsp;
-    <sup>5</sup>Johns Hopkins University
-  </p>
+<h1 align="center"><strong>From Bikeability Assessment to Inclusive Street Design:<br>A Vision-Language Framework</strong></h1>
+</p>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2601.03534" target="_blank">
+    <img src="https://img.shields.io/badge/ArXiv-2601.03534-red">
+  </a>
+  <a href="https://arxiv.org/abs/2509.05469" target="_blank">
+    <img src="https://img.shields.io/badge/ArXiv-2509.05469-red">
+  </a>
   <a href="https://arxiv.org/abs/2601.15671" target="_blank">
     <img src="https://img.shields.io/badge/ArXiv-2601.15671-red">
-  </a>
-  <a href="https://github.com/Dyloong1/Bikeability" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Bikeability-blue">
   </a>
   <a href="https://github.com/Dyloong1/Bikeability" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-green">
   </a>
 </p>
-</p>
 
-This repository hosts two interconnected research projects on **human-centered cycling infrastructure assessment**. The first, **BikeabilityAssessment**, develops a persona-aware Vision-Language Model (VLM) backbone that produces cyclist-type-specific bikeability ratings with interpretable explanations, grounded in the established "Four Types of Cyclists" typology and trained on 12,400 persona-conditioned assessments from 427 real cyclists in Washington DC. The second, **StreetDesignAI**, builds on this VLM backbone to create an interactive multi-persona evaluation system that enables infrastructure designers to receive parallel feedback from simulated cyclist personas, iteratively modify street designs with AI-rendered visualizations, and navigate trade-offs across diverse user needs.
+This repository hosts three interconnected research projects on **human-centered cycling infrastructure assessment and design**. Together, they form a coherent pipeline: **(1)** a persona-aware Vision-Language Model (VLM) that produces cyclist-type-specific bikeability ratings with interpretable explanations, **(2)** a multi-agent image generation pipeline that renders realistic street redesign scenarios directly on real-world street-view imagery, and **(3)** an interactive multi-persona evaluation system that enables infrastructure designers to iteratively evaluate and refine street designs through structured feedback from diverse simulated cyclist personas.
 
 ---
 
 ## Table of Contents
 
-- [BikeabilityAssessment: VLM Backbone](#-bikeabilityassessment-vlm-backbone)
-- [StreetDesignAI: Interactive Design Evaluation](#-streetdesignai-interactive-design-evaluation)
+- [BikeabilityAssessment: Persona-Aware VLM Backbone](#-bikeabilityassessment-persona-aware-vlm-backbone)
+- [Image Generation: Multi-Agent Street Design Pipeline](#-image-generation-multi-agent-street-design-pipeline)
+- [StreetDesignAI: Interactive Design Evaluation System](#-streetdesignai-interactive-design-evaluation-system)
 - [Citation](#-citation)
 - [Acknowledgments](#-acknowledgments)
 
 ---
 
-## 🧠 BikeabilityAssessment: VLM Backbone
+## 🧠 BikeabilityAssessment: Persona-Aware VLM Backbone
+
+**Yilong Dai<sup>1,\*</sup>, Ziyi Wang<sup>2,\*</sup>, Chenguang Wang<sup>3</sup>, Kexin Zhou<sup>1</sup>, Yiheng Qian<sup>1</sup>, Susu Xu<sup>4</sup>, Xiang Yan<sup>1</sup>**
+<br><sup>1</sup>University of Florida &nbsp; <sup>2</sup>University of Maryland &nbsp; <sup>3</sup>Stony Brook University &nbsp; <sup>4</sup>Johns Hopkins University
 
 <p align="center">
   <img src="assets/bikeability_framework.png" alt="BikeabilityAssessment Framework" width="700"/>
@@ -85,13 +72,36 @@ BikeabilityAssessment/
 
 ---
 
-## 🛠️ StreetDesignAI: Interactive Design Evaluation
+## 🎨 Image Generation: Multi-Agent Street Design Pipeline
+
+**Chenguang Wang<sup>1,2</sup>, Xiang Yan<sup>3</sup>, Yilong Dai<sup>3</sup>, Ziyi Wang<sup>4</sup>, Susu Xu<sup>1</sup>**
+<br><sup>1</sup>Johns Hopkins University &nbsp; <sup>2</sup>Stony Brook University &nbsp; <sup>3</sup>University of Florida &nbsp; <sup>4</sup>University of Maryland
+
+<p align="center">
+  <img src="assets/imageedit_framework.png" alt="Image Generation Pipeline" width="700"/>
+</p>
+
+This work introduces a **multi-agent system** that edits and redesigns bicycle facilities directly on real-world street-view imagery. The framework integrates four specialized agents into a coherent pipeline:
+
+- **Locator Agent** — generates contextually accurate descriptions of bike-lane positions using MLLMs for spatial grounding
+- **Prompt Optimization Agent** — refines user prompts by integrating illustrative references with contextual descriptions, reducing semantic misinterpretation
+- **Design Generation Agent** — decouples geometric and design-pattern constraints via cascading generation, yielding multiple candidate designs
+- **Evaluator Agent** — re-ranks candidates via CLIP similarity and conducts binary compliance checks with reasoning MLLMs
+
+Experiments across diverse urban scenarios demonstrate that the system can adapt to varying road geometries and environmental conditions, consistently yielding visually coherent and instruction-compliant results.
+
+---
+
+## 🛠️ StreetDesignAI: Interactive Design Evaluation System
+
+**Ziyi Wang<sup>1,\*</sup>, Yilong Dai<sup>2,\*</sup>, Duanya Lyu<sup>2</sup>, Mateo Nader<sup>2</sup>, Sihan Chen<sup>3</sup>, Wanghao Ye<sup>1</sup>, Zijian Ding<sup>1</sup>, Xiang Yan<sup>2</sup>**
+<br><sup>1</sup>University of Maryland &nbsp; <sup>2</sup>University of Florida &nbsp; <sup>3</sup>Carnegie Mellon University
 
 <p align="center">
   <img src="assets/streetdesignai_overview.png" alt="StreetDesignAI System Overview" width="700"/>
 </p>
 
-**StreetDesignAI** is an interactive evaluation system for inclusive cycling infrastructure design. It operationalizes persona-based multi-agent evaluation to make experiential conflicts explicit during the design process. The system enables designers to:
+**StreetDesignAI** is an interactive evaluation system for inclusive cycling infrastructure design. Building on the VLM backbone from BikeabilityAssessment and the image generation pipeline, it operationalizes persona-based multi-agent evaluation to make experiential conflicts explicit during the design process. The system enables designers to:
 
 1. **Ground evaluation in real street context** through Street View imagery and OpenStreetMap data
 2. **Receive parallel feedback** from simulated cyclist personas spanning confident to cautious users
@@ -130,13 +140,20 @@ If you find this work useful, please cite our papers:
 @article{dai2026persona,
   title={Persona-aware and Explainable Bikeability Assessment: A Vision-Language Model Approach},
   author={Dai, Yilong and Wang, Ziyi and Wang, Chenguang and Zhou, Kexin and Qian, Yiheng and Xu, Susu and Yan, Xiang},
-  journal={Landscape and Urban Planning},
+  journal={arXiv preprint arXiv:2601.03534},
   year={2026}
+}
+
+@article{wang2025image,
+  title={From image generation to infrastructure design: a multi-agent pipeline for street design generation},
+  author={Wang, Chenguang and Yan, Xiang and Dai, Yilong and Wang, Ziyi and Xu, Susu},
+  journal={arXiv preprint arXiv:2509.05469},
+  year={2025}
 }
 
 @article{wang2026streetdesignai,
   title={StreetDesignAI: A Multi-Persona Evaluation System for Inclusive Infrastructure Design},
-  author={Wang, Ziyi and Dai, Yilong and Lyu, Duanya and Nader, Mateo and Chen, Sihan and Ye, Wanghao and Ding, Zijian and Yan, Xiang},
+  author={Wang, Ziyi and Dai, Yilong and Lyu, Duanya and Nader, Mateo and Chen, Sihan and Ye, Wanghao and Ding, Zjian and Yan, Xiang},
   journal={arXiv preprint arXiv:2601.15671},
   year={2026}
 }
@@ -147,9 +164,3 @@ If you find this work useful, please cite our papers:
 ## 🙏 Acknowledgments
 
 This work is supported by the **University of Florida** and the **National Science Foundation (NSF)**.
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Florida_seal.svg/200px-University_of_Florida_seal.svg.png" alt="University of Florida" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/National_Science_Foundation_logo.svg/200px-National_Science_Foundation_logo.svg.png" alt="NSF" height="80"/>
-</p>
