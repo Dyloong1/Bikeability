@@ -1,0 +1,518 @@
+{
+  "total_indicators": 25,
+  "indicators": [
+    "auto_speed",
+    "auto_volume",
+    "bike_lane_quality",
+    "bridge",
+    "bus_lane_conflict",
+    "construction",
+    "debris",
+    "double_parking",
+    "driveways",
+    "hill",
+    "intersection_complexity",
+    "merge_area",
+    "multiple_lanes",
+    "navigation_difficulty",
+    "one_way_street",
+    "pavement_condition",
+    "separation_moving",
+    "separation_parked",
+    "shoulder_width",
+    "single_lane",
+    "surrounding_environment",
+    "traffic_signals",
+    "tunnel",
+    "turn_lane",
+    "visibility"
+  ],
+  "merged_indicators": {
+    "merged_into_bike_lane_quality": [
+      "painted_bike_lane",
+      "green_bike_lane",
+      "no_bike_lane",
+      "protected_bike_lane",
+      "separated_bike_lane",
+      "bike_path",
+      "lane_sharing"
+    ],
+    "merged_into_auto_speed": [
+      "high_speed_road",
+      "low_speed_road"
+    ],
+    "merged_into_auto_volume": [
+      "high_traffic",
+      "low_traffic"
+    ],
+    "merged_into_surrounding_environment": [
+      "residential_area",
+      "highway"
+    ]
+  },
+  "categories": {
+    "fixed_factors": [
+      "auto_speed",
+      "auto_volume",
+      "bike_lane_quality",
+      "surrounding_environment",
+      "separation_moving",
+      "separation_parked"
+    ],
+    "road_configuration": [
+      "multiple_lanes",
+      "single_lane",
+      "turn_lane",
+      "one_way_street",
+      "merge_area"
+    ],
+    "cyclist_experience": [
+      "navigation_difficulty"
+    ],
+    "road_conditions": [
+      "pavement_condition",
+      "construction",
+      "debris",
+      "visibility"
+    ],
+    "infrastructure_conflicts": [
+      "driveways",
+      "intersection_complexity",
+      "double_parking",
+      "bus_lane_conflict"
+    ],
+    "road_features": [
+      "shoulder_width"
+    ],
+    "special_features": [
+      "tunnel",
+      "bridge",
+      "hill"
+    ],
+    "traffic_control": [
+      "traffic_signals"
+    ]
+  },
+  "indicator_mappings": {
+    "bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["bike lane", "bike lanes", "bicycle lane", "bike line", "bike land", "cycle lane", "bike facilities", "bike infrastructure", "bike lane and bike infrastructure", "bike_lane", "bike_lane_quality", "bike exclusive lane", "decent bike lane", "good bike lanes", "bike lane and parking lane", "bike lane curb side", "bike road paint", "travel and bike lane", "poor quality bike lane"]
+    },
+    "separated_bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["separated bike lane", "separated bike lanes", "completely separate bike lanes", "completely separated bicycle track", "fully separated bike facilities", "separated bicycle lane", "separated but unbuffered lane", "visible separated bike lane", "visible and separated bike lane"]
+    },
+    "protected_bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["protected bike lane", "buffered bike lane", "buffered and protected bike lane"]
+    },
+    "painted_bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["painted bike lane", "painted bike lanes", "painted lane", "painted but unbuffered lane"]
+    },
+    "green_bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["green bike lane", "green lane", "bike lane green", "neon bike lane", "improved bike lane visibility"]
+    },
+    "no_bike_lane_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["no bike", "no bike lane", "no bike lanes", "no lane", "no separate bike lane", "no separate bike infrastructure", "no bike infrastructure"]
+    },
+    "bike_path_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["bike path", "bike trail", "bike route", "favorite bike routes", "known bike route", "uncomfortable bike route", "shared pedestrian and bike path"]
+    },
+    "high_traffic_variants": {
+      "merged_into": "auto_volume",
+      "includes": ["heavy traffic", "high traffic", "high volume", "high traffic road", "high volume road", "busy road", "busy streets", "significant traffic", "always traffic", "too many cars", "more cars", "busy and wide roadway", "so many cars - moving cars"]
+    },
+    "low_traffic_variants": {
+      "merged_into": "auto_volume",
+      "includes": ["low traffic", "little traffic", "few cars", "no traffic", "quiet", "less travelled road", "lower volume road", "probably not many car", "low-ish car volume", "traffic and low-ish car volume", "one or two cars"]
+    },
+    "car_speed_variants": {
+      "merged_into": "auto_speed",
+      "includes": ["car speed", "car speeds", "auto_speed", "high car speed", "fast cars", "fast traffic", "high speed cars", "speeding car", "how fast cars", "cars' max speed"]
+    },
+    "high_speed_variants": {
+      "merged_into": "auto_speed",
+      "includes": ["high speed road", "high speed traffic", "high speed roadway", "higher speed roadway", "40+mpm road", "50 mph road", "50-60mph cars", "fast moving single lane road", "cars treat highway", "higher speed higher volume streets", "too close to fast moving car traffic"]
+    },
+    "low_speed_variants": {
+      "merged_into": "auto_speed",
+      "includes": ["low speed road", "low speed roadway", "low speed residential road", "low speed largely residential road", "low speed low volume road", "slow traffic", "slower traffic", "likely very low car speed", "slower, less traffic"]
+    },
+    "residential_variants": {
+      "merged_into": "surrounding_environment",
+      "includes": ["residential street", "residential streets", "residential road", "smaller residential road", "quiet neighborhood street", "neighborhood", "my neighborhood", "familiar area", "residential area"]
+    },
+    "highway_variants": {
+      "merged_into": "surrounding_environment",
+      "includes": ["highway", "motorway", "freeway", "expressway"]
+    },
+    "moving_cars_variants": {
+      "merged_into": "separation_moving",
+      "includes": ["moving cars", "moving car", "moving traffic", "fast moving cars", "both moving cars", "incoming cars", "oncoming traffic", "btwn moving cars", "separation_moving", "separated", "separation"]
+    },
+    "parked_cars_variants": {
+      "merged_into": "separation_parked",
+      "includes": ["parked cars", "parked car", "parking", "only parked cars", "all parked cars", "all  parked cars", "parking lane", "parking lanes", "not parked cars", "parked and moving cars", "moving and parked cars", "either moving or parked cars", "curbside, then parked cars", "separation_parked", "car doors", "car door", "door zone", "door zone bike lane", "parked car doors", "suicidal door zone bike lane"]
+    },
+    "multiple_lanes_variants": {
+      "merged_into": "multiple_lanes",
+      "includes": ["multiple lanes", "two lanes", "couple lanes", "two car lanes", "too many lanes", "several lanes", "couple lanes of traffic"]
+    },
+    "turn_lane_variants": {
+      "merged_into": "turn_lane",
+      "includes": ["turn lane", "turning lane", "turn only lane", "left turn lane", "different turning lanes", "turning lane issue", "turn only lanes"]
+    },
+    "environment_variants": {
+      "merged_into": "surrounding_environment",
+      "includes": ["surrounding_environment", "environment", "residential area", "commercial area", "downtown area", "suburban area", "familiar area", "neighborhood"]
+    },
+    "navigation_difficulty_variants": {
+      "merged_into": "navigation_difficulty",
+      "includes": ["navigation difficulty", "tricky to navigate", "navigate"]
+    },
+    "lane_sharing_variants": {
+      "merged_into": "bike_lane_quality",
+      "includes": ["lane sharing", "take the lane", "taking the lane", "lane_sharing", "sharrow", "shared lane marking", "mixed traffic"]
+    },
+    "traffic_signals_variants": {
+      "merged_into": "traffic_signals",
+      "includes": ["traffic light", "traffic lights", "traffic signal", "stop lights", "dedicated light for cyclists", "traffic control", "stop sign", "stoplights", "lights"]
+    },
+    "pavement_condition_variants": {
+      "merged_into": "pavement_condition",
+      "includes": ["pavement sucks", "road surface", "smooth road", "uneven pavement", "patched pavement", "poor condition", "road condition", "uniform road surface", "road looks very smooth", "painted surfaces", "slick", "grates"]
+    },
+    "construction_variants": {
+      "merged_into": "construction",
+      "includes": ["construction", "construction zone", "construction blocks", "repaving project", "construction across the intersection", "presence of construction"]
+    },
+    "debris_variants": {
+      "merged_into": "debris",
+      "includes": ["debris", "gravel", "trash", "road filled with", "disgusting gravel and trash", "gravel and trash and stuff", "risk of hitting debris"]
+    },
+    "visibility_variants": {
+      "merged_into": "visibility",
+      "includes": ["visibility", "limited visibility", "bad visibility", "blind spot", "blind turn", "can't see", "patches of darkness", "hard to see", "visible", "sightlines", "blind turns"]
+    },
+    "driveways_variants": {
+      "merged_into": "driveways",
+      "includes": ["driveways", "driveway", "side road", "car park entrance", "auto repair shop driveway", "side road/car park", "cars coming out of the side road", "active driveway"]
+    },
+    "intersection_complexity_variants": {
+      "merged_into": "intersection_complexity",
+      "includes": ["confusing intersection", "multiple directions", "different turning lanes", "complex intersection", "annoying intersection", "this intersection", "multiple directions with different turning lanes"]
+    },
+    "tunnel_variants": {
+      "merged_into": "tunnel",
+      "includes": ["tunnel", "under tunnel", "tunnel under highway", "underpass", "dark tunnel", "exiting a tunnel under a highway", "under the tunnel"]
+    },
+    "bridge_variants": {
+      "merged_into": "bridge",
+      "includes": ["bridge", "on bridge", "cross bridge", "overpass", "this bridge", "cross this bridge", "riding on the west side of the bridge"]
+    },
+    "hill_variants": {
+      "merged_into": "hill",
+      "includes": ["hill", "incline", "uphill", "downhill", "grade", "slope", "elevation", "going uphill", "hill is tough", "up hills", "going up hills"]
+    },
+    "double_parking_variants": {
+      "merged_into": "double_parking",
+      "includes": ["double park", "double parking", "cars would park here", "illegally parked", "blocked bike lane", "cars would double park", "people wont' double park", "parking at a crossing"]
+    },
+    "one_way_street_variants": {
+      "merged_into": "one_way_street",
+      "includes": ["one way street", "one-way street", "one way road", "it's a one way", "one-way section", "it is a one way street", "one-way"]
+    },
+    "bus_lane_conflict_variants": {
+      "merged_into": "bus_lane_conflict",
+      "includes": ["bus/bike lanes", "bus lane", "stopping buses", "buses stopping", "buses pulling in", "lots of buses", "when there are a lot of buses", "bus stop"]
+    },
+    "shoulder_width_variants": {
+      "merged_into": "shoulder_width",
+      "includes": ["shoulder", "shoulder width", "narrow shoulder", "no shoulder", "breakdown lane", "wide shoulder", "room on the shoulder", "shoulder is uninterrupted"]
+    },
+    "merge_area_variants": {
+      "merged_into": "merge_area",
+      "includes": ["merge lane", "merging lane", "lanes merge", "cloverleaf", "highway ramp", "lanes that merge", "different lane movements"]
+    }
+  },
+  "gpt4o_mappings": {
+    "traffic_volume": {
+      "moderate_traffic": ["auto_volume"],
+      "moderate_traffic_volume": ["auto_volume"],
+      "high_traffic": ["auto_volume"],
+      "low_traffic": ["auto_volume"],
+      "low_traffic_volume": ["auto_volume"],
+      "heavy_traffic": ["auto_volume"],
+      "light_traffic": ["auto_volume"],
+      "mixed_traffic": ["auto_volume", "separation_moving"],
+      "low_to_moderate_traffic": ["auto_volume"],
+      "potential_high_traffic": ["auto_volume"],
+      "potential_traffic": ["auto_volume"]
+    },
+    "road_width_lanes": {
+      "wide_road": ["auto_volume", "separation_moving"],
+      "narrow_road": ["auto_volume", "separation_moving"],
+      "moderate_road_width": ["auto_volume"],
+      "moderate_width": ["auto_volume"],
+      "narrow_lanes": ["separation_moving"],
+      "wide_lanes": ["separation_moving"],
+      "standard_lane_width": ["auto_volume"],
+      "adequate_road_width": ["auto_volume"],
+      "road_width": ["auto_volume"],
+      "multiple_lanes": ["auto_volume", "separation_moving"],
+      "single_lane": ["auto_volume"]
+    },
+    "bike_infrastructure": {
+      "striped_bike_lane": ["bike_lane_quality"],
+      "painted_bike_lane": ["bike_lane_quality"],
+      "protected_lane": ["bike_lane_quality", "separation_moving"],
+      "dedicated_bike_lane": ["bike_lane_quality", "separation_moving"],
+      "bike_lane": ["bike_lane_quality"],
+      "buffered_bike_lane": ["bike_lane_quality", "separation_moving"],
+      "buffered_lane": ["bike_lane_quality", "separation_moving"],
+      "painted_buffer_zone": ["bike_lane_quality", "separation_moving"],
+      "painted_buffer": ["bike_lane_quality", "separation_moving"],
+      "unprotected_bike_lane": ["bike_lane_quality"],
+      "unprotected_lane": ["bike_lane_quality"],
+      "marked_bike_lane": ["bike_lane_quality"],
+      "designated_bike_lane": ["bike_lane_quality"],
+      "visible_bike_lane": ["bike_lane_quality"],
+      "green_painted_bike_lane": ["bike_lane_quality"],
+      "bike_lane_on_sidewalk": ["bike_lane_quality"],
+      "sidewalk_bike_lane": ["bike_lane_quality"],
+      "sidewalk_cycling": ["bike_lane_quality"],
+      "sidewalk_cycleway": ["bike_lane_quality"],
+      "roadway_bike_lane": ["bike_lane_quality"],
+      "separated_lane": ["bike_lane_quality", "separation_moving"],
+      "no_bike_lane": ["bike_lane_quality"],
+      "no_dedicated_bike_lane": ["bike_lane_quality"],
+      "no_protected_bike_lane": ["bike_lane_quality"],
+      "no_protected_lane": ["bike_lane_quality"],
+      "no_protected_infrastructure": ["bike_lane_quality"],
+      "painted_bike_lane": ["bike_lane_quality"],
+      "green_bike_lane": ["bike_lane_quality"],
+      "protected_bike_lane": ["bike_lane_quality", "separation_moving"],
+      "separated_bike_lane": ["bike_lane_quality", "separation_moving"],
+      "bike_path": ["bike_lane_quality", "separation_moving"]
+    },
+    "separation_barriers": {
+      "no_physical_barrier": ["separation_moving"],
+      "no_physical_separation": ["separation_moving"],
+      "no_physical_protection": ["separation_moving"],
+      "no_physical_barriers": ["separation_moving"],
+      "lack_of_physical_barrier": ["separation_moving"],
+      "lack_of_physical_separation": ["separation_moving"],
+      "lack_of_physical_protection": ["separation_moving"],
+      "low_physical_separation": ["separation_moving"],
+      "no_separation": ["separation_moving"],
+      "no_protection": ["separation_moving"],
+      "low_protection": ["separation_moving"],
+      "buffer_zone": ["separation_moving"],
+      "physical_separation": ["separation_moving"],
+      "physical_barrier": ["separation_moving"],
+      "physical_barriers": ["separation_moving"],
+      "physical_separators": ["separation_moving"],
+      "bollards": ["separation_moving"],
+      "flexible_bollards": ["separation_moving"],
+      "plastic_bollards": ["separation_moving"],
+      "bollard_protection": ["separation_moving"],
+      "bollards_separation": ["separation_moving"],
+      "concrete_barriers": ["separation_moving"],
+      "separated_infrastructure": ["separation_moving"],
+      "separated_from_traffic": ["separation_moving"]
+    },
+    "parking_dooring": {
+      "parked_cars": ["separation_parked"],
+      "parked_vehicles": ["separation_parked"],
+      "parking_cars": ["separation_parked"],
+      "adjacent_parked_cars": ["separation_parked"],
+      "parking_lane": ["separation_parked"],
+      "risk_of_dooring": ["separation_parked"],
+      "door_zone_risk": ["separation_parked"],
+      "dooring_risk": ["separation_parked"],
+      "dooring_hazard": ["separation_parked"],
+      "door_zone": ["separation_parked"],
+      "potential_dooring": ["separation_parked"],
+      "potential_door_zone": ["separation_parked"],
+      "potential_dooring_zone": ["separation_parked"],
+      "potential_dooring_hazard": ["separation_parked"],
+      "high_dooring_risk": ["separation_parked"],
+      "proximity_to_parked_cars": ["separation_parked"],
+      "double_parking": ["separation_parked"]
+    },
+    "speed_limits": {
+      "low_speed_limit": ["auto_speed"],
+      "high_speed_limit": ["auto_speed"],
+      "moderate_speed_limit": ["auto_speed"],
+      "25_mph_speed_limit": ["auto_speed"],
+      "30_mph_speed_limit": ["auto_speed"],
+      "30_mph_speed": ["auto_speed"],
+      "speed_limit_35": ["auto_speed"],
+      "lower_speed_limit": ["auto_speed"],
+      "high_speed": ["auto_speed"],
+      "low_speed": ["auto_speed"],
+      "moderate_speed": ["auto_speed"],
+      "high_speed_traffic": ["auto_speed"],
+      "low_traffic_speed": ["auto_speed"],
+      "traffic_speed": ["auto_speed"],
+      "high_traffic_speed": ["auto_speed"],
+      "high_speed_vehicles": ["auto_speed"],
+      "potential_high_speed": ["auto_speed"],
+      "potential_high_speed_traffic": ["auto_speed"],
+      "high_speed_road": ["auto_speed"],
+      "low_speed_road": ["auto_speed"]
+    },
+    "environment_area": {
+      "pleasant_environment": ["surrounding_environment"],
+      "urban_environment": ["surrounding_environment"],
+      "urban_setting": ["surrounding_environment"],
+      "suburban_environment": ["surrounding_environment"],
+      "urban_congestion": ["surrounding_environment", "auto_volume"],
+      "mixed-use_environment": ["surrounding_environment"],
+      "greenery": ["surrounding_environment"],
+      "green_space": ["surrounding_environment"],
+      "tree_coverage": ["surrounding_environment"],
+      "tree_cover": ["surrounding_environment"],
+      "tree_shade": ["surrounding_environment"],
+      "shade_trees": ["surrounding_environment"],
+      "shade": ["surrounding_environment"],
+      "shade_and_trees": ["surrounding_environment"],
+      "trees_and_shade": ["surrounding_environment"],
+      "trees_and_vegetation": ["surrounding_environment"],
+      "trees_and_greenery": ["surrounding_environment"],
+      "tree-lined": ["surrounding_environment"],
+      "tree_lined_street": ["surrounding_environment"],
+      "dense_greenery": ["surrounding_environment"],
+      "scenic_surroundings": ["surrounding_environment"],
+      "residential_area": ["surrounding_environment"],
+      "highway": ["surrounding_environment", "auto_speed", "auto_volume"],
+      "motorway": ["surrounding_environment", "auto_speed", "auto_volume"],
+      "motorway_type": ["surrounding_environment", "auto_speed", "auto_volume"],
+      "motorway_link": ["surrounding_environment", "auto_speed", "auto_volume"],
+      "motorway_proximity": ["surrounding_environment", "auto_speed"],
+      "primary_road": ["surrounding_environment", "auto_volume", "auto_speed"]
+    },
+    "visibility_safety": {
+      "visibility_issues": ["surrounding_environment", "auto_speed"],
+      "good_visibility": ["surrounding_environment"],
+      "high_visibility": ["surrounding_environment"],
+      "poor_visibility": ["surrounding_environment", "auto_speed"],
+      "limited_visibility": ["surrounding_environment", "auto_speed"],
+      "reduced_visibility": ["surrounding_environment", "auto_speed"],
+      "underpass_visibility": ["surrounding_environment"],
+      "intersection_visibility": ["auto_speed"],
+      "visibility_at_intersections": ["auto_speed"],
+      "clear_markings": ["bike_lane_quality"],
+      "clear_lane_markings": ["bike_lane_quality"],
+      "visibility": ["surrounding_environment"]
+    },
+    "road_conditions": {
+      "good_road_condition": ["surrounding_environment"],
+      "good_road_surface": ["surrounding_environment"],
+      "good_surface": ["surrounding_environment"],
+      "good_surface_condition": ["surrounding_environment"],
+      "smooth_surface": ["surrounding_environment"],
+      "smooth_road_surface": ["surrounding_environment"],
+      "smooth_asphalt": ["surrounding_environment"],
+      "asphalt_surface": ["surrounding_environment"],
+      "concrete_surface": ["surrounding_environment"],
+      "paving_stones": ["surrounding_environment"],
+      "uneven_road_surface": ["surrounding_environment"],
+      "wet_pavement": ["surrounding_environment"],
+      "wet_road": ["surrounding_environment"],
+      "construction_zone": ["surrounding_environment", "auto_speed"],
+      "underpass": ["surrounding_environment"],
+      "overpass": ["surrounding_environment"],
+      "elevated_road": ["surrounding_environment", "auto_speed"],
+      "under_overpass": ["surrounding_environment"],
+      "pavement_condition": ["surrounding_environment"],
+      "construction": ["surrounding_environment", "auto_speed"],
+      "debris": ["surrounding_environment"],
+      "tunnel": ["surrounding_environment"],
+      "bridge": ["surrounding_environment"],
+      "hill": ["surrounding_environment"]
+    },
+    "shared_spaces": {
+      "shared_road": ["bike_lane_quality"],
+      "mixed_traffic": ["bike_lane_quality"],
+      "shared_roadway": ["bike_lane_quality"],
+      "shared_road_with_cars": ["bike_lane_quality"],
+      "shared_lane": ["bike_lane_quality"],
+      "shared_sidewalk": ["bike_lane_quality"],
+      "sidewalk_sharing": ["bike_lane_quality"],
+      "sidewalks": ["surrounding_environment"],
+      "sidewalks_present": ["surrounding_environment"],
+      "sidewalk_not_designated": ["bike_lane_quality"],
+      "sidewalks_not_suitable": ["bike_lane_quality"],
+      "sidewalks_used_for_cycling": ["bike_lane_quality"],
+      "lane_sharing": ["bike_lane_quality"]
+    },
+    "traffic_interactions": {
+      "proximity_to_traffic": ["separation_moving"],
+      "proximity_to_vehicles": ["separation_moving"],
+      "adjacent_traffic": ["separation_moving"],
+      "turning_lanes": ["auto_volume", "separation_moving"],
+      "turning_vehicles": ["auto_volume", "separation_moving"],
+      "bus_stop": ["auto_volume"],
+      "bus_stop_interaction": ["auto_volume"],
+      "bus_lane": ["auto_volume"],
+      "intersection": ["auto_volume", "auto_speed"],
+      "intersections": ["auto_volume", "auto_speed"],
+      "intersection_safety": ["auto_speed"],
+      "intersection_conflict": ["auto_volume", "auto_speed"],
+      "intersection_conflicts": ["auto_volume", "auto_speed"],
+      "intersection_risks": ["auto_speed"],
+      "intersection_ahead": ["auto_speed"],
+      "pedestrian_interaction": ["surrounding_environment"],
+      "pedestrian_conflicts": ["surrounding_environment"],
+      "conflict_with_pedestrians": ["surrounding_environment"],
+      "driveway_crossings": ["auto_volume"],
+      "turn_lane": ["auto_volume", "separation_moving"],
+      "intersection_complexity": ["auto_volume", "auto_speed"],
+      "driveways": ["auto_volume"],
+      "bus_lane_conflict": ["auto_volume"],
+      "merge_area": ["auto_volume", "auto_speed"],
+      "one_way_street": ["auto_volume"],
+      "traffic_signals": ["auto_volume"]
+    },
+    "vehicle_types": {
+      "large_vehicles": ["auto_volume", "separation_moving"],
+      "presence_of_trucks": ["auto_volume", "separation_moving"],
+      "presence_of_large_vehicles": ["auto_volume", "separation_moving"],
+      "presence_of_larger_vehicles": ["auto_volume", "separation_moving"],
+      "presence_of_motor_vehicles": ["auto_volume"]
+    },
+    "other_hazards": {
+      "noise": ["surrounding_environment", "auto_volume"],
+      "pollution": ["surrounding_environment", "auto_volume"],
+      "air_quality": ["surrounding_environment", "auto_volume"],
+      "graffiti": ["surrounding_environment"],
+      "street_lighting": ["surrounding_environment"],
+      "lighting": ["surrounding_environment"],
+      "adequate_lighting": ["surrounding_environment"],
+      "poor_lighting": ["surrounding_environment"],
+      "bright_sunlight": ["surrounding_environment"],
+      "guardrails": ["separation_moving"],
+      "guardrail_proximity": ["separation_moving"],
+      "high_curbs": ["separation_moving"],
+      "utility_poles": ["surrounding_environment"],
+      "roadside_hazards": ["surrounding_environment"],
+      "potential_hazards": ["surrounding_environment"],
+      "limited_escape_routes": ["separation_moving"],
+      "enclosed_space": ["surrounding_environment"],
+      "confined_space": ["surrounding_environment"],
+      "exposure_to_elements": ["surrounding_environment"],
+      "lack_of_traffic_calming": ["auto_speed"],
+      "raised_markers": ["bike_lane_quality"],
+      "narrow_bike_lane": ["bike_lane_quality", "separation_moving"],
+      "narrow_shoulders": ["separation_moving"],
+      "low_traffic_appearance": ["auto_volume"],
+      "shoulder_width": ["separation_moving"],
+      "navigation_difficulty": ["surrounding_environment"]
+    }
+  }
+}
