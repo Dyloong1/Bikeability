@@ -1,25 +1,24 @@
 <p align="center">
 <h1 align="center"><strong>Persona-Aware Bikeability Assessment & StreetDesignAI</strong></h1>
   <p align="center">
-              <a>Yilong Dai<sup>1,*</sup>,</a>
-              <a>Ziyi Wang<sup>2,*</sup>,</a>
-              <a>Chenguang Wang<sup>3</sup>,</a>
-              <a>Duanya Lyu<sup>4</sup>,</a>
-              <a>Mateo Nader<sup>4</sup>,</a>
-              <a>Sihan Chen<sup>5</sup>,</a>
-              <a>Kexin Zhou<sup>4</sup>,</a>
-              <a>Yiheng Qian<sup>4</sup>,</a>
-              <a>Wanghao Ye<sup>2</sup>,</a>
-              <a>Zijian Ding<sup>2</sup>,</a>
-              <a>Susu Xu<sup>6</sup>,</a>
-              <a>Xiang Yan<sup>4,†</sup></a>
+              <a>Yilong Dai<sup>3,*</sup>,</a>
+              <a>Ziyi Wang<sup>1,*</sup>,</a>
+              <a>Chenguang Wang<sup>2</sup>,</a>
+              <a>Duanya Lyu<sup>3</sup>,</a>
+              <a>Mateo Nader<sup>3</sup>,</a>
+              <a>Sihan Chen<sup>4</sup>,</a>
+              <a>Kexin Zhou<sup>3</sup>,</a>
+              <a>Yiheng Qian<sup>3</sup>,</a>
+              <a>Wanghao Ye<sup>1</sup>,</a>
+              <a>Zijian Ding<sup>1</sup>,</a>
+              <a>Susu Xu<sup>5</sup>,</a>
+              <a>Xiang Yan<sup>3,†</sup></a>
     <br>
-    <sup>1</sup>University of Alabama &nbsp;
-    <sup>2</sup>University of Maryland &nbsp;
-    <sup>3</sup>Stony Brook University &nbsp;
-    <sup>4</sup>University of Florida &nbsp;
-    <sup>5</sup>Carnegie Mellon University &nbsp;
-    <sup>6</sup>Johns Hopkins University
+    <sup>1</sup>University of Maryland &nbsp;
+    <sup>2</sup>Stony Brook University &nbsp;
+    <sup>3</sup>University of Florida &nbsp;
+    <sup>4</sup>Carnegie Mellon University &nbsp;
+    <sup>5</sup>Johns Hopkins University
   </p>
 
 <p align="center">
