@@ -1,0 +1,1389 @@
+[Liang Zhai] 13:08:33
+So… all parts?
+
+[Liang Zhai] 13:09:01
+is I? Okay. I don't have many design projects.
+
+[Liang Zhai] 13:09:11
+There's some, uh, context classification.
+
+[Mateo Nader] 13:09:14
+Mm-hmm.
+
+[Liang Zhai] 13:09:16
+If you know that.
+
+[Liang Zhai] 13:09:35
+The point is, is identifying and comprehended different. persona requirements.
+
+[Mateo Nader] 13:09:42
+Oh yeah, that's fair, because in the app. The AI will give you an evaluation from the perspective of four different cyclist personas.
+
+[Mateo Nader] 13:09:53
+Just based on, like, the… Their confidence.
+
+[Liang Zhai] 13:09:53
+Hmm.
+
+[Mateo Nader] 13:09:57
+Unlike perceived safety. Of a cycling lane. So there's like.
+
+[Liang Zhai] 13:10:01
+Hmm…
+
+[Mateo Nader] 13:10:04
+A persona who's very confident and. they'll still, like… Like, even if the conditions are kind of dangerous and then.
+
+[Mateo Nader] 13:10:14
+There's, like, the other extreme where… Even if there's, like, painted bike lanes or some protection, they'll still be pretty skeptical about.
+
+[Mateo Nader] 13:10:23
+cycling there.
+
+[Liang Zhai] 13:10:25
+Gotcha, thank you. Confident about becoming inclusive design decisions.
+
+[Liang Zhai] 13:10:35
+Um, how… They define inclusive design.
+
+[Mateo Nader] 13:10:39
+Some inclusive to the… Different perspectives.
+
+[Mateo Nader] 13:10:49
+Yeah.
+
+[Liang Zhai] 13:10:52
+Right?
+
+[Liang Zhai] 13:11:00
+Uh, the part one… Let's open this.
+
+[Mateo Nader] 13:11:02
+Yeah. Yeah.
+
+[Mateo Nader] 13:11:09
+And then, yeah, this, you can start off with the… Tus coordinates. If you press that button above.
+
+[Mateo Nader] 13:11:15
+Load location, they'll give us that. Yeah.
+
+[Liang Zhai] 13:11:20
+Are there just the one? Test.
+
+[Mateo Nader] 13:11:23
+Yeah, it's just the… They're all based in D.C.
+
+[Liang Zhai] 13:11:30
+Um, does other… test coordinates also works.
+
+[Liang Zhai] 13:11:36
+So, one suggestion… is to add a few more.
+
+[Liang Zhai] 13:11:39
+When people click, you can… Rotate 2 or 3 different.
+
+[Liang Zhai] 13:11:46
+coordinates.
+
+[Mateo Nader] 13:11:47
+Yeah. If there was somewhere specific you wanted to… test out, you could do that, too.
+
+[Mateo Nader] 13:12:15
+Alright, so… what we want to do here is just, like.
+
+[Mateo Nader] 13:12:19
+Look for a good view. of a road that you want to evaluate?
+
+[Mateo Nader] 13:12:25
+Basically, like, the view you pick. This is what will get sent to the… AI to do the evaluation.
+
+[Mateo Nader] 13:12:33
+And also the redesign later on. So, preferably, like, not, uh… Intersection.
+
+[Liang Zhai] 13:12:38
+Um…
+
+[Liang Zhai] 13:12:49
+Like this. Are we free to move?
+
+[Mateo Nader] 13:12:56
+Yeah.
+
+[Liang Zhai] 13:12:56
+To other places.
+
+[Liang Zhai] 13:13:13
+Try this.
+
+[Mateo Nader] 13:13:16
+Yeah. Yeah.
+
+[Liang Zhai] 13:13:18
+And… generate?
+
+[Liang Zhai] 13:13:23
+what is this download project?
+
+[Mateo Nader] 13:13:27
+Oh, that's right afterward. They'll download, like, the… response log, like a JSON file, and… Also, the images it uses and evaluates.
+
+[Liang Zhai] 13:13:41
+Yes, sir. Uh…
+
+[Liang Zhai] 13:13:46
+Does the viewpoint matter?
+
+[Mateo Nader] 13:13:51
+Not necessarily, it's like… It's like a… a frame like that would be better, yeah.
+
+[Liang Zhai] 13:13:55
+Okay. Okay.
+
+[Liang Zhai] 13:14:08
+So while this is generating… Who would be the users of this?
+
+[Liang Zhai] 13:14:14
+Cool.
+
+[Mateo Nader] 13:14:17
+That's what we're trying to gauge from this. So, I think.
+
+[Mateo Nader] 13:14:23
+In his sleeves, and… Uh, planners… And so, that's, like, the goal of this study is to see, like.
+
+[Mateo Nader] 13:14:31
+How they would use this, if they would use it.
+
+[Mateo Nader] 13:14:33
+Like, I guess in what stage of. They're like design planning process, they would use it.
+
+[Mateo Nader] 13:14:39
+We've had, like, some interviewees bringing up that. This could also be used for… The general public, like in.
+
+[Mateo Nader] 13:14:48
+Like, charrettes and public meetings. It's like an interactive tool for.
+
+[Mateo Nader] 13:14:54
+People still got acquainted with. Cycling design.
+
+[Liang Zhai] 13:15:07
+Yes. Yes.
+
+[Liang Zhai] 13:15:12
+Now it generates… And also focused on.
+
+[Liang Zhai] 13:15:17
+this section. zoom in.
+
+[Mateo Nader] 13:15:19
+Yeah, she seems on a bit. Yeah.
+
+[Mateo Nader] 13:15:24
+Yeah, these are the. Four personas I was talking about.
+
+[Mateo Nader] 13:15:31
+So this evaluates the safety and comfort from a cyclist's perspectives.
+
+[Mateo Nader] 13:15:36
+On the top right, it also shows the pros and cons of.
+
+[Mateo Nader] 13:15:41
+The driver.
+
+[Liang Zhai] 13:15:44
+strong and fairly striver. And I mean…
+
+[Mateo Nader] 13:15:49
+Those four… It's a bit confusing, but those four, those are always gonna be just for the cyclist, but… For the driver, it's just those pros and cons on the top right.
+
+[Liang Zhai] 13:15:56
+Okay.
+
+[Mateo Nader] 13:16:02
+And then you can switch between the cyclist's pros and cons as well.
+
+[Liang Zhai] 13:16:22
+says the prose presents of bike infrastructure. I don't see any.
+
+[Liang Zhai] 13:16:32
+bike infrastructure here.
+
+[Mateo Nader] 13:16:42
+I've noticed, like, in some cases that. Struggles to differentiate between.
+
+[Mateo Nader] 13:16:49
+Road use. Especially with the presence of, like.
+
+[Mateo Nader] 13:16:53
+Park cars, it can also struggle to. differentiate between, like, parked and moving cars.
+
+[Liang Zhai] 13:17:01
+So, this party is also from the… AI rating… this image interpreted.
+
+[Liang Zhai] 13:17:09
+Brilliant accounts. Is… is that right?
+
+[Mateo Nader] 13:17:16
+Yeah.
+
+[Liang Zhai] 13:17:22
+Is it using an open source? Larger large language model for.
+
+[Liang Zhai] 13:17:30
+Sweet. I'm not ChatGPT.
+
+[Mateo Nader] 13:17:35
+It should say open source, I'm not sure exactly which one it uses.
+
+[Liang Zhai] 13:17:40
+Hmm.
+
+[Liang Zhai] 13:17:52
+I always say it's strong. In series… Because, I mean, people, like you said.
+
+[Liang Zhai] 13:18:00
+Whatever. the obstacles are, those are the strong users of bikes.
+
+[Mateo Nader] 13:18:08
+Yeah.
+
+[Liang Zhai] 13:18:21
+Hmm. And next step, what should we do?
+
+[Mateo Nader] 13:18:27
+Uh, in-depth analysis.
+
+[Mateo Nader] 13:18:33
+Yeah, just click that, and then… Kind of more like a discussion style.
+
+[Liang Zhai] 13:18:39
+Oh.
+
+[Mateo Nader] 13:18:39
+responses. So you can read through those, and then you can also… Ask questions about the conditions or.
+
+[Mateo Nader] 13:18:51
+Sort of, like, design scenarios.
+
+[Liang Zhai] 13:19:33
+Sir. Answering the question.
+
+[Mateo Nader] 13:19:39
+Yeah, it's still, like… The personas, they're usually very, like, persistent about.
+
+[Mateo Nader] 13:19:47
+A certain opinion that they'd have.
+
+[Liang Zhai] 13:19:51
+Only…
+
+[Liang Zhai] 13:20:08
+Ask about the… background of this location.
+
+[Mateo Nader] 13:20:17
+Let's track some, like. Basic traffic data from the surrounding area.
+
+[Mateo Nader] 13:20:24
+But in terms of context like that. Not sure if it would have that information.
+
+[Liang Zhai] 13:20:35
+I want to see if that could be… interpreting which city this is.
+
+[Liang Zhai] 13:20:41
+And what type of community… And what's the purpose of this?
+
+[Liang Zhai] 13:20:47
+Corridor.
+
+[Mateo Nader] 13:20:49
+Mm-hmm.
+
+[Liang Zhai] 13:21:07
+It's not answering the question at all.
+
+[Liang Zhai] 13:21:13
+Now, we'll finish in depth analysis. Going to auto design, or… Comparative notes.
+
+[Mateo Nader] 13:21:20
+To the adjust design.
+
+[Mateo Nader] 13:21:27
+So based on what you put here, it'll generate a new design on top of the.
+
+[Mateo Nader] 13:21:33
+Existing image… So there's, like, those parameters you can choose from, and also.
+
+[Mateo Nader] 13:21:39
+In the enter design requirements box. You could either add more context about.
+
+[Mateo Nader] 13:21:45
+What's going on in the image, and also… add any other, like, specific design.
+
+[Mateo Nader] 13:21:52
+requirements you want to see.
+
+[Liang Zhai] 13:21:54
+Hmm…
+
+[Liang Zhai] 13:22:37
+Uh, buffer type.
+
+[Liang Zhai] 13:22:43
+familiar with those. Impenting no painting.
+
+[Mateo Nader] 13:22:47
+Yeah, so then… The standard are, like… Those posts that stick out of the ground. I think those ones are bendable.
+
+[Mateo Nader] 13:22:57
+When bollards are similar, but those ones do not bend.
+
+[Mateo Nader] 13:23:01
+They're more rigid than armadillo are just like these little humps that.
+
+[Mateo Nader] 13:23:06
+stick out, like, a couple inches from the ground.
+
+[Liang Zhai] 13:23:13
+Location of upper… Next to… Arctic cars, next to moving cars.
+
+[Liang Zhai] 13:23:24
+Let's try… next door parked. Cars.
+
+[Liang Zhai] 13:23:30
+What… what does that mean? Um, that means… Between the traffic and the parked cars.
+
+[Mateo Nader] 13:23:39
+I believe so, yeah.
+
+[Liang Zhai] 13:23:42
+I guess this is between the… traffic.
+
+[Liang Zhai] 13:23:49
+This is probably… Insight between… Crosswalk.
+
+[Liang Zhai] 13:24:01
+And see what happens.
+
+[Mateo Nader] 13:24:05
+Yeah. So, I'll just generate in the background.
+
+[Mateo Nader] 13:24:10
+For a bit, like a minute or two.
+
+[Liang Zhai] 13:24:13
+Okay. Yeah. Hope you can see something.
+
+[Liang Zhai] 13:24:20
+From the interface. Just in case we put… oh.
+
+[Liang Zhai] 13:24:27
+It says generating. And I'll put more.
+
+[Mateo Nader] 13:24:27
+Yeah. Yeah, it shows it there, but… Yeah, it's something.
+
+[Mateo Nader] 13:24:33
+More visible.
+
+[Mateo Nader] 13:24:47
+And so far, what do you think about, like, the responses from the personas?
+
+[Mateo Nader] 13:24:52
+In terms of their accuracy and. In terms of, like, accuracy with what's going on in the picture and accuracy of like.
+
+[Mateo Nader] 13:25:02
+That's what you can envision those people saying.
+
+[Liang Zhai] 13:25:07
+Um… We saw that pro in accounts sometimes are not…
+
+[Liang Zhai] 13:25:15
+Accurate.
+
+[Mateo Nader] 13:25:16
+Mm-hmm.
+
+[Liang Zhai] 13:25:35
+Like here, it doesn't have. Like, infrastructure.
+
+[Liang Zhai] 13:25:42
+Hmm… Oh, sure, yes. Pros is for the current status, or… for future.
+
+[Liang Zhai] 13:25:51
+status.
+
+[Mateo Nader] 13:25:54
+That's for the current status.
+
+[Liang Zhai] 13:25:59
+So there's… oh, this is cart. Existing condition.
+
+[Liang Zhai] 13:26:10
+Wow. That's pretty amazing.
+
+[Mateo Nader] 13:26:18
+And yeah, that one will have the pros and cons for that condition.
+
+[Liang Zhai] 13:26:50
+It did a great job fixing the pants.
+
+[Mateo Nader] 13:26:54
+Oh, yeah.
+
+[Liang Zhai] 13:26:57
+Yes. Not sure what… what are these?
+
+[Liang Zhai] 13:27:02
+Ending here.
+
+[Liang Zhai] 13:27:08
+Do I still have the… parameters.
+
+[Liang Zhai] 13:27:14
+Next to parked cars.
+
+[Liang Zhai] 13:27:20
+What is next moving card?
+
+[Mateo Nader] 13:27:27
+So let's put the wrong type of. Buffer also.
+
+[Mateo Nader] 13:27:32
+I think that looks more like a… A bollard and an armadillo buffer.
+
+[Liang Zhai] 13:27:47
+And, uh, the left side. Are there any effort?
+
+[Mateo Nader] 13:27:54
+No.
+
+[Liang Zhai] 13:27:56
+I don't see a bike lane.
+
+[Mateo Nader] 13:28:02
+I'm not sure if I was trying to make a bike lane there, it's just.
+
+[Liang Zhai] 13:28:02
+Label.
+
+[Mateo Nader] 13:28:09
+The side of the road.
+
+[Liang Zhai] 13:28:21
+Can we try different? Scenario.
+
+[Mateo Nader] 13:28:24
+Yeah.
+
+[Liang Zhai] 13:28:57
+Yeah, this is accurate.
+
+[Liang Zhai] 13:29:19
+Right, it's a physical separation.
+
+[Liang Zhai] 13:29:31
+Doselace is dangerous for cars. drive in at night.
+
+[Mateo Nader] 13:29:34
+Yeah.
+
+[Mateo Nader] 13:29:41
+Yeah, I think that's… Armadillo dividers would be better in that case. If they're lower, I think usually those ones are made.
+
+[Mateo Nader] 13:29:51
+Out of, like, a hard rubber. So you can still kind of drive over them.
+
+[Liang Zhai] 13:30:30
+Oh, there's another one.
+
+[Liang Zhai] 13:30:42
+say, standard.
+
+[Liang Zhai] 13:30:51
+Still no bike lanes.
+
+[Mateo Nader] 13:30:58
+Yeah. Unless it thinks that… Right, Lane is the bike lane.
+
+[Liang Zhai] 13:30:59
+Yeah.
+
+[Liang Zhai] 13:31:43
+3 feet buffer.
+
+[Liang Zhai] 13:31:55
+We'll see a buffer on the left. lack of special, and… reduce the perceived safety.
+
+[Liang Zhai] 13:32:04
+Um… Yeah, that's right, but we don't have intersection.
+
+[Liang Zhai] 13:32:10
+In this picture.
+
+[Liang Zhai] 13:32:30
+So, you can quickly render some scenarios.
+
+[Mateo Nader] 13:32:35
+Yeah.
+
+[Liang Zhai] 13:32:46
+Maybe there's… there's options. Can get some more… options from design.
+
+[Liang Zhai] 13:32:54
+People, design professionals. Yeah.
+
+[Mateo Nader] 13:32:57
+Yeah.
+
+[Liang Zhai] 13:33:09
+We put the exactly same.
+
+[Liang Zhai] 13:33:16
+Same carrier under this. Does it generate a different… Scenario.
+
+[Mateo Nader] 13:33:24
+Yeah. So I remember.
+
+[Mateo Nader] 13:33:30
+So, like… adjust that image, or just… Based off the… Initial existing condition.
+
+[Liang Zhai] 13:34:05
+Hmm. Hmm. One suggestion is to put the.
+
+[Liang Zhai] 13:34:11
+It is for Florida, or… national use.
+
+[Mateo Nader] 13:34:17
+It's for national use.
+
+[Liang Zhai] 13:34:21
+Yeah. Maybe you can put, uh… Detect which status is.
+
+[Liang Zhai] 13:34:28
+And to find the design. manual for… Bike and pedestrian.
+
+[Mateo Nader] 13:34:35
+Yeah.
+
+[Liang Zhai] 13:34:35
+Specifically, and train the AI, so.
+
+[Liang Zhai] 13:34:40
+AI, no more context from that. state.
+
+[Mateo Nader] 13:34:43
+Mm-hmm.
+
+[Liang Zhai] 13:34:49
+Have you seen this in Florida?
+
+[Mateo Nader] 13:34:56
+Like, that type of… Like, protection? Like, lane protection.
+
+[Liang Zhai] 13:35:00
+Yeah.
+
+[Mateo Nader] 13:35:05
+I don't think so, no.
+
+[Mateo Nader] 13:35:16
+Well, Florida's not. Known for… Good bike lanes, I don't think.
+
+[Mateo Nader] 13:35:25
+Especially, like, I'm from South Florida. Let me hear right now… It's probably worse than at least Gainesville.
+
+[Mateo Nader] 13:35:34
+There's a few areas where they're, like, trying it out.
+
+[Liang Zhai] 13:35:38
+Hmm…
+
+[Mateo Nader] 13:35:38
+I've seen like armadillo dividers in Gainesville.
+
+[Mateo Nader] 13:35:46
+Nothing like that down here.
+
+[Liang Zhai] 13:35:53
+I don't know how difficult this is. the image, and… take some existing… Type of bike lanes picture.
+
+[Liang Zhai] 13:36:06
+as a training material. For different states.
+
+[Liang Zhai] 13:36:25
+It's the same. Same picture, it's polished.
+
+[Liang Zhai] 13:36:31
+Serral surface and paint. And safety improved.
+
+[Mateo Nader] 13:36:32
+No.
+
+[Liang Zhai] 13:36:59
+So, after we're generating a few scenarios. What do we do?
+
+[Mateo Nader] 13:37:04
+You can do the comparative analysis. So you can click that on each, like, scenario that.
+
+[Mateo Nader] 13:37:14
+You'd want to compare. Yeah.
+
+[Liang Zhai] 13:37:14
+Oh, they're selected.
+
+[Mateo Nader] 13:37:19
+Hmm.
+
+[Mateo Nader] 13:37:25
+It might have generated somewhere else. Oh, yeah. If you go to the left… Let's start it.
+
+[Mateo Nader] 13:37:36
+So this has, like… Something similar to that analysis, as well as.
+
+[Mateo Nader] 13:37:42
+If you click on that other tab there, the… design scenario comparison.
+
+[Mateo Nader] 13:37:48
+It has, like, some… graphs that… Compare the scores between all the scenarios.
+
+[Liang Zhai] 13:37:53
+Oh.
+
+[Liang Zhai] 13:37:57
+This is cool. multi-agent discussions.
+
+[Liang Zhai] 13:38:02
+Wow. Each one. Speakers.
+
+[Liang Zhai] 13:38:10
+That's one point. There is no… considering… The second agent doesn't… Consider… Output of the first agent.
+
+[Mateo Nader] 13:38:24
+Yeah.
+
+[Liang Zhai] 13:38:25
+Yeah.
+
+[Liang Zhai] 13:38:35
+Maybe for the summary, for the discussion.
+
+[Liang Zhai] 13:38:45
+And there is… one or two, pretty much three and two.
+
+[Liang Zhai] 13:38:50
+Pretty much the same.
+
+[Liang Zhai] 13:39:01
+But it has high scores. It has better roads.
+
+[Liang Zhai] 13:39:15
+Oh, because it's from different. Persona.
+
+[Mateo Nader] 13:39:24
+There's the pros and cons from the drivers.
+
+[Liang Zhai] 13:39:31
+Where is the drivers?
+
+[Mateo Nader] 13:39:37
+On the bottom, it just says the pros and cons, but… No scoring.
+
+[Liang Zhai] 13:39:41
+Okay.
+
+[Liang Zhai] 13:40:17
+Yeah, this probably is nice to have.
+
+[Liang Zhai] 13:40:22
+It's a conclusion, right?
+
+[Mateo Nader] 13:40:24
+Yeah.
+
+[Liang Zhai] 13:40:30
+Uh, so the number… It is the choice, the final choice?
+
+[Liang Zhai] 13:40:36
+Also. I was a persona.
+
+[Mateo Nader] 13:40:40
+Yeah.
+
+[Liang Zhai] 13:40:40
+It's, like, stronger fare least picked scenario 3. And this, too.
+
+[Liang Zhai] 13:40:48
+take the scenario, too.
+
+[Liang Zhai] 13:40:59
+Um… Why… why wouldn't?
+
+[Liang Zhai] 13:41:03
+This two picked scenario 1.
+
+[Mateo Nader] 13:41:08
+Yeah, I was just looking at that. Not sure if there's… something else behind the scenes that it's considering.
+
+[Liang Zhai] 13:41:35
+So from this point, what the user can… To…
+
+[Mateo Nader] 13:41:44
+This is to consider the… Driver as well.
+
+[Mateo Nader] 13:41:49
+And now this one is focused on. Cyclists… I select your perspective.
+
+[Mateo Nader] 13:41:58
+Which would you… Like, how do you balance, like.
+
+[Mateo Nader] 13:42:03
+these different perspectives. Between drivers and cyclists.
+
+[Liang Zhai] 13:42:13
+So, if I'm doing a design guide. Oh.
+
+[Liang Zhai] 13:42:19
+Need a little bit more background. After… place.
+
+[Liang Zhai] 13:42:24
+And also the, uh, input from the agency.
+
+[Liang Zhai] 13:42:32
+And what type of… facing to the community once.
+
+[Liang Zhai] 13:42:37
+What's so as a persona? I can type in some description.
+
+[Liang Zhai] 13:42:42
+what I want, and what's up. communities think about.
+
+[Liang Zhai] 13:42:47
+And you can… Hope it can categorize.
+
+[Liang Zhai] 13:42:53
+this opinion as one of the. Persona.
+
+[Liang Zhai] 13:43:00
+it interpret… interprets the description I provided. You can categorize.
+
+[Liang Zhai] 13:43:07
+this as a… Norway, know how.
+
+[Liang Zhai] 13:43:14
+Community, or it's a strong affairs. Based on that.
+
+[Liang Zhai] 13:43:20
+input. It gives, um… Why not? Pop choice.
+
+[Mateo Nader] 13:43:31
+That makes sense.
+
+[Liang Zhai] 13:43:33
+If the agency local. Government just wants some basic bike lanes.
+
+[Liang Zhai] 13:43:40
+Hey, Total on fancy stuff. We can type in the description.
+
+[Liang Zhai] 13:43:45
+in detail, then. categorize as… one of his persona.
+
+[Liang Zhai] 13:43:52
+in the final output. Gives the best.
+
+[Liang Zhai] 13:43:56
+is I option.
+
+[Liang Zhai] 13:44:01
+That's what I was thinking about.
+
+[Liang Zhai] 13:44:18
+Um, because now it doesn't have… reference on a specific state.
+
+[Liang Zhai] 13:44:23
+or city guidance. Those could be important documents.
+
+[Liang Zhai] 13:44:30
+So, it was this… may not match the design criteria.
+
+[Liang Zhai] 13:44:38
+You want the final… Output follow the… Right? At least.
+
+[Liang Zhai] 13:45:01
+I haven't test how diverse these features can be.
+
+[Liang Zhai] 13:45:06
+Um, based on our test. It produced very similar.
+
+[Liang Zhai] 13:45:11
+pictures. Probably we didn't change.
+
+[Liang Zhai] 13:45:15
+Primeters that much.
+
+[Liang Zhai] 13:45:25
+I don't know how the background model. worked. Maybe get more.
+
+[Mateo Nader] 13:45:27
+Yes, sir.
+
+[Liang Zhai] 13:45:31
+Training data from… More bike lanes.
+
+[Mateo Nader] 13:45:40
+Yeah. A little bit ago.
+
+[Mateo Nader] 13:45:46
+Okay, so, so… Yeah.
+
+[Liang Zhai] 13:45:46
+I'm just thinking out. Yeah.
+
+[Mateo Nader] 13:45:53
+With a sort of shorter, like, chat GPT portion.
+
+[Mateo Nader] 13:45:57
+Of this interview. We can move on to that.
+
+[Mateo Nader] 13:46:08
+So for that, you need to… Click that download project first.
+
+[Liang Zhai] 13:46:13
+Oh, there's another part, sorry.
+
+[Mateo Nader] 13:46:16
+Yeah. No worries.
+
+[Mateo Nader] 13:46:22
+Yeah, you'll just send us… These files after in an email, but… We'll be using that existing condition PNG for… the ChatGPT input.
+
+[Liang Zhai] 13:46:38
+Yeah, I have ChatGPT… Yes.
+
+[Mateo Nader] 13:46:44
+Sunday, we have an account for. interview, so… I'll send you an email password for that login.
+
+[Mateo Nader] 13:46:59
+Okay, I sent in the Zoom chat.
+
+[Liang Zhai] 13:47:06
+Do you mind if I use my own? ChatGPT.
+
+[Mateo Nader] 13:47:13
+I've been having… Rather have it on our account so we can.
+
+[Liang Zhai] 13:47:18
+See the… Log.
+
+[Mateo Nader] 13:47:18
+go back and, yeah, see the log.
+
+[Liang Zhai] 13:47:28
+Do you need to log in?
+
+[Mateo Nader] 13:47:31
+Yeah, I sent, uh… In the Zoom chat, I sent the email and… password.
+
+[Liang Zhai] 13:47:40
+Oh, in Zoom chat.
+
+[Mateo Nader] 13:48:22
+Just set the code.
+
+[Mateo Nader] 13:48:32
+Yeah, so, this portion, I'll just. Copy those prompts from the Google Doc.
+
+[Mateo Nader] 13:48:40
+Well, yeah, so add the existing condition to this.
+
+[Liang Zhai] 13:48:46
+Just one picture.
+
+[Mateo Nader] 13:48:48
+Yeah.
+
+[Liang Zhai] 13:48:52
+And… Submit.
+
+[Mateo Nader] 13:48:57
+Oh, there's a prompt… I think you opened it.
+
+[Liang Zhai] 13:49:00
+Oh.
+
+[Mateo Nader] 13:49:00
+The Google Doc.
+
+[Liang Zhai] 13:49:08
+Hmm…
+
+[Liang Zhai] 13:49:15
+Yes. Prompt.
+
+[Mateo Nader] 13:49:21
+See, copy that first one, and then what's in bold is.
+
+[Mateo Nader] 13:49:27
+What you'll edit and input. So it's like replicating the… adjust design feature from our app.
+
+[Liang Zhai] 13:50:00
+So we have to… Find this.
+
+[Mateo Nader] 13:50:04
+Yeah, because… Uh, you can just do it however you want.
+
+[Liang Zhai] 13:50:04
+from that.
+
+[Liang Zhai] 13:50:17
+Let's see…
+
+[Liang Zhai] 13:50:22
+Standard, no paint, buffer, standard. They're moving traffic.
+
+[Liang Zhai] 13:50:39
+Wait… I'm gonna see if we have any.
+
+[Liang Zhai] 13:50:45
+With…
+
+[Mateo Nader] 13:50:47
+I think it's still stays the same. Since the first one.
+
+[Liang Zhai] 13:50:52
+Sales standard.
+
+[Liang Zhai] 13:50:59
+stay the same.
+
+[Liang Zhai] 13:51:09
+And we did…
+
+[Liang Zhai] 13:51:17
+Armin deal?
+
+[Mateo Nader] 13:51:19
+Yeah.
+
+[Liang Zhai] 13:51:24
+Location… I think it's moving cars.
+
+[Liang Zhai] 13:51:43
+going… of course. Yeah, where's the ChatGate?
+
+[Mateo Nader] 13:52:05
+I'll just… Submit that prompt.
+
+[Liang Zhai] 13:52:07
+Do we need to type the… Maurison.
+
+[Mateo Nader] 13:52:09
+No, you don't need to type anything else.
+
+[Liang Zhai] 13:52:13
+Set some… specific. Requirement.
+
+[Mateo Nader] 13:52:16
+Oh, yeah.
+
+[Liang Zhai] 13:52:24
+Just put it here.
+
+[Liang Zhai] 13:53:41
+Oh.
+
+[Liang Zhai] 13:53:48
+It's no vehicles.
+
+[Mateo Nader] 13:53:49
+Yeah, that's interesting. It's very European.
+
+[Mateo Nader] 13:53:59
+What's the first time I've seen it. Get rid of the road completely.
+
+[Liang Zhai] 13:54:03
+Cool. It is added on.
+
+[Liang Zhai] 13:54:08
+Right here.
+
+[Liang Zhai] 13:54:13
+It's cars are still here.
+
+[Liang Zhai] 13:54:31
+On the test. Interesting. Maybe the… the application is using on.
+
+[Mateo Nader] 13:54:37
+Yeah.
+
+[Liang Zhai] 13:54:40
+Different version of. ChatGPT.
+
+[Mateo Nader] 13:54:45
+Yeah. Let me double check which… on our upper season.
+
+[Liang Zhai] 13:54:50
+Yeah, I think this is better. Not perfect.
+
+[Liang Zhai] 13:54:58
+Still keeps the racks on the road. In the app, it fixed the… cracks.
+
+[Liang Zhai] 13:55:02
+The image generation is super good. Getting a realistic visualization that quickly is incredibly valuable for concept development.
+
+[Mateo Nader] 13:55:05
+Oh, yeah.
+
+[Mateo Nader] 13:55:11
+Let's move on to the second prompt now.
+
+[Liang Zhai] 13:55:18
+Uh, which went scenario 2.
+
+[Mateo Nader] 13:55:23
+Uh, on the Google Doc?
+
+[Mateo Nader] 13:55:30
+There's… yeah.
+
+[Liang Zhai] 13:55:31
+Oh, score generation.
+
+[Mateo Nader] 13:55:41
+You know…
+
+[Liang Zhai] 13:55:57
+Oh, there are local contacts.
+
+[Liang Zhai] 13:56:08
+Just click… submit.
+
+[Mateo Nader] 13:57:01
+No, Sunny major differences between. These responses and the one from the app.
+
+[Liang Zhai] 13:57:08
+Yeah, to the app. It's using a different… Oh, sounds familiar. This… Sounds more like… human.
+
+[Liang Zhai] 13:57:24
+Where's the app?
+
+[Liang Zhai] 13:57:48
+Yeah, it never touches. Different.
+
+[Liang Zhai] 13:58:07
+Let me move to the next part.
+
+[Mateo Nader] 13:58:11
+Yeah. So… Two more prompts.
+
+[Liang Zhai] 13:58:49
+Um, anything to change?
+
+[Mateo Nader] 13:58:52
+No, you can just enter this one in.
+
+[Liang Zhai] 13:59:57
+Oh. So it's still… The cars are allowed to.
+
+[Liang Zhai] 14:00:02
+Use this, the shared use. share use path.
+
+[Liang Zhai] 14:00:12
+Uh, you know, drivers came. Still use this route, but it'll share with Mike.
+
+[Mateo Nader] 14:00:16
+Oh…
+
+[Liang Zhai] 14:00:33
+Last one, compare it. Analysis.
+
+[Mateo Nader] 14:00:48
+Yeah, so you can also copy it in and enter it.
+
+[Liang Zhai] 14:01:43
+Yeah, that's a concern. Snow plowing.
+
+[Liang Zhai] 14:02:20
+Uh, what do we do next?
+
+[Mateo Nader] 14:02:25
+That's the last prompt. So… just… I'll see a few questions, I guess.
+
+[Mateo Nader] 14:02:33
+Your opinions on the two. different tools, if you had any.
+
+[Mateo Nader] 14:02:38
+Preferences between the two using ChatGPT and. our website, and which features you found to be the most useful.
+
+[Liang Zhai] 14:03:02
+Your ChatGPT is more… has more control on it.
+
+[Liang Zhai] 14:03:07
+Uh, but the toys… It's better utilization.
+
+[Mateo Nader] 14:03:14
+Mm-hmm.
+
+[Liang Zhai] 14:03:14
+Yeah. And I can download… Um, on the… The outputs easily.
+
+[Liang Zhai] 14:03:22
+is, like, a reopen, see, though. Where they are from.
+
+[Mateo Nader] 14:03:27
+Yeah.
+
+[Liang Zhai] 14:03:28
+Yeah. And at the model seems… ChatGPT.
+
+[Liang Zhai] 14:03:35
+As a better performance, I feel this is kind of…
+
+[Liang Zhai] 14:03:43
+Um, so… The response are… It's not that diverse competitor.
+
+[Liang Zhai] 14:03:49
+ChatGPT. I see. And pictures.
+
+[Liang Zhai] 14:03:54
+ChatGPT is more… We'll be providing a sign. Uh, we're not really required to provide any sort of… It's getting new.
+
+[Liang Zhai] 14:04:06
+It's more accurate. Because, like… This is roughly what it would be. I asked.
+
+[Mateo Nader] 14:04:12
+Yeah. So…
+
+[Liang Zhai] 14:04:22
+It generates this kind of… Thank you for chatting to give better.
+
+[Liang Zhai] 14:04:27
+Picture. Um, and then it's the same situation over here, um, because we're using.
+
+[Liang Zhai] 14:04:37
+Um, it puts our backup sidewalk.
+
+[Mateo Nader] 14:04:41
+The fact that ChatGPT model, it's definitely been. advancing a lot more over the… Past couple months, especially with the image generation.
+
+[Liang Zhai] 14:04:45
+kind of on each corner, so…
+
+[Liang Zhai] 14:04:51
+Yeah. But this module can be switched, right?
+
+[Mateo Nader] 14:04:54
+I guess the…
+
+[Mateo Nader] 14:04:59
+I'd assume so. Yes.
+
+[Liang Zhai] 14:05:01
+Yep.
+
+[Mateo Nader] 14:05:05
+So I could tell you more about… how it works, but…
+
+[Liang Zhai] 14:05:05
+Yeah, so if we… if we do succeed, it puts us in there as well, um, because I think we referenced FDA requirements. Yeah, if it is a customized model.
+
+[Mateo Nader] 14:05:14
+I sat there.
+
+[Liang Zhai] 14:05:17
+State, local. Um, requirements can be fit in.
+
+[Liang Zhai] 14:05:22
+in the model and all kinds of images. good examples.
+
+[Liang Zhai] 14:05:29
+This, like you said, this is, you know, like, Europeans.
+
+[Liang Zhai] 14:05:32
+It's not in the US. Yeah. Like, in that 1 to 3.
+
+[Mateo Nader] 14:05:36
+Yeah.
+
+[Liang Zhai] 14:05:41
+Um, there to have that 6-foot curve. Uh, it's a little further back.
+
+[Mateo Nader] 14:05:43
+I guess with the current state… of the model, that's, like, how it's performing.
+
+[Liang Zhai] 14:05:48
+Um, and you have the full AP. Um, which is what they… if we're meeting those requirements, um… Oh, maybe this?
+
+[Mateo Nader] 14:05:49
+How'd you use this for, like. see it being used by other designers and planners.
+
+[Liang Zhai] 14:05:59
+These options are limited. For others, and that the other part.
+
+[Liang Zhai] 14:06:07
+Feels better than ChatGPT. I think it still kind of puts us in a messy spot. The organization… Cleopatra.
+
+[Liang Zhai] 14:06:18
+Like, where are the last four deposits are. And, uh, what's the next button to click?
+
+[Liang Zhai] 14:06:25
+Better to have guidance. Or sometimes what… is on top of the other.
+
+[Liang Zhai] 14:06:35
+So, user cannot find it. It's just, uh, feedback on the… UI. Ux.
+
+[Mateo Nader] 14:07:00
+I think it's the last… big picture question is… How do you envision integrating, like, persona-based AI feedback into your.
+
+[Mateo Nader] 14:07:10
+road design workflow, and… What barriers or opportunities do you see to.
+
+[Mateo Nader] 14:07:16
+implementing this kind of technology into your work.
+
+[Liang Zhai] 14:07:20
+Um, just think of this framework, persona. Um, option is great.
+
+[Liang Zhai] 14:07:27
+Because, you know, like… engineer, design.
+
+[Liang Zhai] 14:07:31
+You have one answer. Uh.
+
+[Liang Zhai] 14:07:36
+The design piece has. All answers for different people.
+
+[Mateo Nader] 14:07:42
+Mm-hmm.
+
+[Liang Zhai] 14:07:44
+Different options. My work is mostly… It, uh… it has limited… options.
+
+[Mateo Nader] 14:07:55
+Yeah.
+
+[Liang Zhai] 14:07:55
+Yeah. Cannot get, uh, provide.
+
+[Liang Zhai] 14:08:02
+to manage feedbacks on this. Sorry about that.
+
+[Liang Zhai] 14:08:05
+AI can't take responsibility. There has to be a real person accountable for design decisions.
+
+[Mateo Nader] 14:08:08
+Oh, no worries. Right then, and that's all for the… interview portions like.
+
+[Mateo Nader] 14:08:17
+He thinks, once we're done. If you could email those things you downloaded to us.
+
+[Mateo Nader] 14:08:24
+The images in the JSON file. Then… in the PDF I sent you in the email, if you could finish.
+
+[Mateo Nader] 14:08:32
+Filling out the surveys on there. There's one survey for.
+
+[Mateo Nader] 14:08:38
+our tool, and then one survey for the ChatGPT.
+
+[Mateo Nader] 14:08:42
+version of the tool.
+
+[Mateo Nader] 14:08:47
+And also, if you could… Screenshot 3 responses from the.
+
+[Liang Zhai] 14:08:47
+Sure.
+
+[Mateo Nader] 14:08:53
+AI that you found interesting. Send those over as well.
+
+[Liang Zhai] 14:09:00
+Let me find a screenshot of this.
+
+[Mateo Nader] 14:09:03
+Let's, like, specific responses that. You found interesting.
+
+[Liang Zhai] 14:09:14
+They're pretty much the same. Interesting, you know how… It generates different scenarios.
+
+[Mateo Nader] 14:09:21
+Mm-hmm.
+
+[Liang Zhai] 14:09:30
+And it's cool to have a comparison.
+
+[Liang Zhai] 14:09:35
+the qualitative comparison is more insightful than just rating safety 7 versus 6. Understanding why different users feel differently is more valuable than the numbers alone.
+
+[Liang Zhai] 14:09:49
+Looking… we're saving this image.
+
+[Mateo Nader] 14:10:37
+Some of the questions I was looking at.
+
+[Liang Zhai] 14:10:40
+Okay.
+
+[Mateo Nader] 14:10:43
+The only thing left on there for you is just to… Through those two other surveys.
+
+[Liang Zhai] 14:10:54
+Which, too.
+
+[Mateo Nader] 14:10:58
+Yeah, the ChatGPT survey and the Street Design AI survey.
+
+[Liang Zhai] 14:11:03
+Okay.
+
+[Liang Zhai] 14:11:24
+And sent you the… Files.
+
+[Liang Zhai] 14:11:52
+Oh, it was hard to navigate.
+
+[Liang Zhai] 14:11:58
+Russian…
+
+[Liang Zhai] 14:12:02
+is to use, but hard to interact. interacting with the system.
+
+[Liang Zhai] 14:14:51
+Yeah, so, um… Dumb. Did actually initially do an iteration where we tried to.
+
+[Mateo Nader] 14:14:56
+Okay. Thanks again for taking the time to meet with me.
+
+[Liang Zhai] 14:15:01
+Thank you. It's very… Eyes freshen.
+
+[Liang Zhai] 14:15:09
+project.
+
+[Mateo Nader] 14:15:09
+That's good to hear.
+
+[Liang Zhai] 14:15:14
+Thank you for inviting. Yeah, because any of the other people replying.
+
+[Mateo Nader] 14:15:17
+Yeah. Yes.
+
+[Mateo Nader] 14:15:22
+Uh, no, not yet. Yeah, I don't know, it is pretty close to the holidays, so… Yeah.
+
+[Liang Zhai] 14:15:25
+Oh, yeah. Yes. Probably their own vacation.
+
+[Liang Zhai] 14:15:29
+Yeah. At least on this. Alright, and then on opposite side.
+
+[Mateo Nader] 14:15:33
+I appreciate you selling them over anyways.
+
+[Liang Zhai] 14:15:37
+Thank you. See… Apologies.
+
+[Mateo Nader] 14:15:40
+Happy holidays, bye.
+

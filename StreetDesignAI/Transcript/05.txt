@@ -1,0 +1,248 @@
+Speaker  00:00
+So let's start with the street design thing again. Yeah. OK, can you see my screen? Yes. OK, perfect. So I'll do this. There we go. OK, cool. I think what might have happened last time was I was using Firefox. Yeah, I think Delania tried it soon. It just wasn't working that day, that time.
+
+Speaker  01:18
+OK. Now let's just find-- and generate? Yeah. I think she's moved to the right. It should be there. It's a bit wonky, though. There we go. OK. Yeah, just take a look around. Any initial thoughts you have on different personas, how well you think they interpret the image?
+
+Speaker  02:32
+How accurate or human they seem. Stuff like that. So these bottom four boxes are different perspectives? Yeah. Some background, they're based on a study done in Portland where they developed these personas for cyclists. Yeah, the no bike lanes is killer. Yeah.
+
+Speaker  03:30
+Okay. Now you want me to do the other? I think that the no way, no how is kind of probably what I would agree with. I would not want to cycle on this road unless it's in Europe, which I don't think it is. But yeah. And as a driver as well, I think there's...
+
+Speaker  03:56
+It depends on the area and how connected it is with different mobility modes, such as pedestrians or cyclists, which drivers can be more familiar with. And so that's something that they have an eye out for. But if it was somewhere like, say, Gainesville, where drivers aren't necessarily accustomed to always watching for pedestrians, especially outside of campus, I don't think this would be a problem.
+
+Speaker  04:27
+particularly safe intersection yeah okay no you can we're gonna work with this one for a bit so the next thing you can do is click that in-depth analysis okay yeah so just generate like more thought out opinions from the different personas and then yeah again just like
+
+Speaker  04:57
+Let us know if there's anything that sticks out in terms of the responses, and then you can also come up with a question to ask them. Oh, interesting. Yeah. Confirms all my fears about urban cycling. That's not wrong. It's pretty... So if I ask a question, it's asking it to everyone? Yeah. Yeah.
+
+Speaker  05:53
+gotcha um interesting well do you think they answered your question i guess also with regards to the how well do i think the answers yeah
+
+Speaker  07:38
+I think pretty good. I think they stay pretty true to their perspective, kind of. Especially the no way, no how, and the interested but concerned. The interested is kind of like a devil's advocate. It was like, that sounds cool, but I would be weary of X. And the driver also seems like they're playing devil's advocate in a way. But I think they addressed...
+
+Speaker  08:13
+the question pretty well. I can ask them one more. I'll be right back. Oh, wow. Okay. Wow, seems like it's so...
+
+Speaker  09:57
+I will say that all of them, even though they are like a cyclist perspective, it seems like they're like diehard cyclists in a way. Like that is their method of commuting and they are committed to only using their bike. And like they want their bike to be treated as if it was a vehicle in a way. That's what it seems like. Because...
+
+Speaker  10:26
+If it was proposed to be a mixed-use path with no vehicles, I feel like that would be, especially to some of these characters, that would be more than adequate than what it is right now with on-street parking and no bike lanes. But it seems like, again, they're staying true to their character, and especially the driver as well. It would impact vehicles significantly, and emergency vehicle access. Yeah. Yeah.
+
+Speaker  10:58
+yeah i mean i think it's i think it's pretty cool yeah so i guess like you're a designer would you find this feature like particularly helpful like an addition so what was already provided uh yeah 100 i think um i think it gives a good range of the the perspective that you'd be affecting with the new street design um and
+
+Speaker  11:35
+I guess it mimics a real person pretty accurately, I would say, but I would maybe try and train it by asking a set of
+
+Speaker  11:50
+questions, getting responses, and then comparing it to a smaller sample size of real participants or real survey questions with real people, comparing those results. And if they overlap in some ways, then I think you could prove the AI generation as suitable enough as a perspective to
+
+Speaker  12:14
+especially if you possibly train it on responses that are given to a certain area about bicycle safety and perspective. There are different viewpoints on that. But I think in general, these perspectives are the main categories of people and cyclists you'll find. All right, then. We can click out of that little tab and can try the next feature.
+
+Speaker  12:48
+This one? Yeah. And the comparative analysis? We'll do the adjust design first. OK. This one will generate a new design based on the existing picture. We can add some parameters and also enter some requirements or how you want them to edit the street specifically.
+
+Speaker  13:26
+Okay, let's widen the bike lane with three inch buffers for three foot. And extra parked cars. Design requirements. So take like a... Curious to see how this one does because it's a lot of stuff on the street.
+
+Speaker  14:09
+But the last one with Quinn, there were some like moving cars and they got kind of confused on whether like they were parked or part of the traffic. I see there's also some like pedestrian use in that right lane of the street on the right, that restaurant. I think that generally slows traffic just because of moving moving parts kind of dense downtown.
+
+Speaker  15:31
+I would say maybe if you had different perspectives, you could have a pessimistic driver as well. In general, right now, there's one driver perspective, which I think is fair if we're focusing on cyclist safety. But a pessimistic driver perspective, I think there will always be people who just want to be able to drive like it's a highway through anywhere and not face any traffic issues.
+
+Speaker  16:08
+OK, let's see what this looks like. Not bad. A little bit better than the last one, but still got a bit confused. Yeah, so I'm seeing parking is still there. And I had asked it to make it near parked cars, which would have been on this side, but it put it on the other side. Pros and cons aren't generated for this.
+
+Speaker  16:55
+Um, but the addition of the bike lane obviously makes the, uh, overall satisfaction between three of the four cyclists perspectives much higher than what it previously was at five, six and three to nine, eight and seven, which is, which is good. Um, yeah, it seems like they just kind of, they also want like the physical protection, like the utmost cyclists. Yeah.
+
+Speaker  17:27
+like a specific road for cyclists um is kind of what they want here yeah ample space but they still generated the car there yeah might have been because you like because you asked it to put it next to park cars and i guess that's the only car perceived as parked yeah i guess this would be like a one-way then and that's yeah i guess yeah and here either you can
+
+Speaker  18:07
+adjust the design, generate one more, or you can do the comparative analysis. I'll adjust it. I'll do widen. Let's see what this looks like. How many interviews have you had so far? It's just been like a few within the lab. Like I did one, Duanya did one. I think you're the fifth.
+
+Speaker  19:02
+And then next week we're going to start interviewing like professionals. Nice. How long have you been working on the, this application? Oh, I don't know. I'm just like the soldier. I'm stopping with the interviews. Cool. Oh, that generation, I think also got rid of the next use on the,
+
+Speaker  19:48
+on the side of the road here. That's pretty good, though. It kept the buildings looking relatively similar for the most part, but it took out a lot of that greenery that was on the sidewalk that could have been helped to use. Well, we'll see what it does with these buffers now. Actually, I've never heard of an armadillo buffer. Yeah, it's probably seen them. I don't know what it was by name, but it's just like those little stubs.
+
+Speaker  20:29
+Just like stick out of the ground. Oh, OK. What AI model are you using? Or do you know what they're using to generate the new image? Delania, what do you know? I think GPT. Yeah. Oh, interesting. OK, so I see four armor-de-low buffers. Oh, fucking-- Even--
+
+Speaker  21:21
+That's minimal protection. And over here, they were asking for the buffers. Interesting. Aids across the board now, even the No Way Know How is rating the total at least 5 out of 10. And the only difference I really see between here, between this design scenario 2 and 1, is the introduction of the armadillo buffers.
+
+Speaker  21:59
+However, if it was just a one way bike, like if it was a street dedicated to a two lane bike area, I don't necessarily know if that would be necessary to justify like safety because you're kind of already away from moving cars. At least you're not cycling right next to them. You'll see who you're who you're going to be next to with within a couple of feet. Yeah.
+
+Speaker  22:28
+I mean, it does take away the odd street parking on this side because now you have your total available lanes have greatly reduced. Yeah, that's cool. So now you can do the comparative analysis. Then you can select which ones you want to compare. I select all three? Or just the two? Whatever you want, but probably the initial one is good.
+
+Speaker  23:07
+Yeah, this will have a similar discussion as the in-depth thing. And then that other top, the design scenario comparison, will have graphics comparing the scores. Interesting. So it seems like design scenario two, which was the most recently generated one, is the favorite. However, the enthused and confident perspective said scenario one because of the balance.
+
+Speaker  24:18
+And also the driver did not necessarily select a scenario, but offered their perspective. I will say each of the cyclists kind of gives justification for their reasoning of their selected design. And the driver just kind of gives a general perspective and doesn't necessarily list actionable requests.
+
+Speaker  24:53
+kind of just I hope we can find a balance that works for everyone like that is the goal um but I guess they included road space and turning lanes and parking but yeah okay that's cool let's see the design scenario comparison oh okay cool so
+
+Speaker  25:40
+Okay, I think this graphic can be changed in some way. It's slightly confusing when you first look at it, but I mean, I believe each color is a different design scenario, and their ranking is by which category for each design scenario, for each perspective. I mean, it takes like a second or two, but
+
+Speaker  26:12
+maybe tweaking the display of these preference depending on the scenario, possibly. Yeah, like the stylograph or maybe replacing-- having a different set of graphs for each scenario and then each bar being the different persona. Yeah, maybe.
+
+Speaker  26:54
+Maybe instead of each box being a persona, the boxes are the design scenarios. Yeah. And then the three categories, safety, comfort, and total can be represented by each person or each perspective. So you would have four groups with three bars each person.
+
+Speaker  27:25
+for each scenario so you can compare perspectives through each design scenario because here i mean it's not it's not difficult to read this graph by any means um but just like in case other people have mentioned things about it um i that would just be a point that i think can be changed um
+
+Speaker  27:54
+I do understand that it's like, it's kind of, especially if you have more than two design scenarios, it becomes like a lot more information to absorb. But once you run into like four or five design scenarios, then you're going to have four or five bars in three categories, which is like around 15 bars per graph. Instead of if you had each box is a design scenario, then you'll always have
+
+Speaker  28:27
+three bars per person or perspective, I think. Yeah. But they do, I like how they have the preference on the top as well. But I don't see the driver's perspective here. Yeah, because, I mean, the driver doesn't score, so. Oh, okay. Well, maybe that could be a
+
+Speaker  29:05
+a different scoring because the driver might not be concerned with safety comfort or I guess safety maybe including a driver perspective would be an interesting path but it gives the drivers pros and cons for each design scenario as well but does not give the cyclist pros and cons at least I don't think so
+
+Speaker  29:45
+Right, no. Overall, how useful do you find this tool? Very useful. One to ten, I would probably say, in terms of trying to gain perspective or insight on how people might perceive a street redesign or perspective from a driver or cyclist point of view on a certain streetscape, I think at least a nine out of ten.
+
+Speaker  30:28
+Very good. If you wanted to try in terms of data collection on the public's perspective, I would say it's a very good tool, but I think it still needs supplementation with real-world discussion between people living in that area. Yeah. Or maybe not even people living there, but if you were to ask someone from...
+
+Speaker  31:01
+New York City about a street layout or street design in Chicago, they have similar levels of like density and ways of living in terms of mobility. And so they can also offer perspectives on like kind of each other, instead of having someone from rural Ohio, giving input on a street design from a driver or cyclist perspective in a downtown area.
+
+Speaker  31:31
+But yeah, that's very nice. Should I do the other location? No, this one's fine. So we're done with this. So one thing we need to do is look for three specific responses I guess you found interesting, and then take screenshots of those. Then you'll send those to us after the meeting's over. OK. And then once you're done taking the screenshots, also click that Download Project button on the top right.
+
+Speaker  32:19
+Something like this, just like a response to a design scenario? Yeah. OK, cool. Like any of the discussions of those other-- Can I ask those questions in here? So I guess that's one thing. It didn't save the questions I had asked for the previous in-depth analysis for this design. Maybe it did. I'm not too sure.
+
+Speaker  33:38
+Download projects. Yeah. And that will have all the images, including the original one. Yeah, that existing condition we'll put into the chat jbt prompt after this. Cool. Now, let's just--
+
+Speaker  35:13
+do the survey for the street design ai and then after that we can move on to chat gbt gotcha all right now moving on to the chat gbt yeah i'll send you the login for the shared account we're using for this as something in the zoom chat
+
+Speaker  36:52
+Verification code. Subtitle. All right, cool. This whole thing? Yeah, and then you're going to adjust those things shown in bold. And then you're also going to add the existing condition.
+
+Speaker  38:31
+like jpeg or png we get downloaded okay and then yeah it's like f1 through f4 just like yeah okay
+
+Speaker  40:44
+I used this account for my Python class. It's like one point where I just like I gave up on trying to understand it. Almost there. OK. Well, it looks realistic.
+
+Speaker  42:16
+Cars in the bike lane a little bit, but that's not bad. Yeah. All right. Now prompt two. Yeah. This one you don't need to input anything. Still too close to traffic. I would say the no way, no how is like a...
+
+Speaker  43:28
+mother's perspective of like a child taking this route to school yeah not necessarily like nimby but just like so overly concerned for the safety and comfort of the ride okay during hazard squeezed yeah that seems pretty accurate yeah i think
+
+Speaker  44:26
+How would you say the responses are compared to the street design tool? I would say they're similar. Especially these four perspectives, I would say are fairly similar. Also, the driver cons mention similar things such as passing or turning maneuvers.
+
+Speaker  45:00
+And parking near the bike lanes, maneuvering space, emergency vehicles, similar cons, similar pros, and the cyclists' pros and cons are also relatively similar. They mentioned here the dooring hazard that was not, I don't think was mentioned in the tool before, but for a design as protected as this vehicle,
+
+Speaker  45:32
+relative to other bike lanes across America I think it's good it's a good perspective good answers accurate yeah cool to the third problem yeah this one you're yeah you asked them a question yeah got you and you can either have it like keep it General so all of them respond or
+
+Speaker  46:05
+we could also try to direct their questions to a specific persona oh interesting reference specific design features and responses huh okay where should i comment everyone i got the end yeah seeing if it understands other perspectives here
+
+Speaker  47:43
+Might slightly narrow the road for cars. A raised cycle track or one behind parked cars. Seems like everyone's kind of bouncing around except for the no way. The no way is very much like
+
+Speaker  49:00
+This is my inconvenience, but it's the only way I feel protected. Yeah, I feel like that's pretty accurate. Everyone finds good positives and negatives of the proposed change. Yeah. Again, their personas are still pretty much staying true to who they are as a perspective. Yeah.
+
+Speaker  49:34
+Yeah, like provide any like different or new insights compared to the street design tool. They mentioned here bad weather, which is an interesting take. Also, the drivers stated in rain or snow markings can become slippery or harder to see, which is fair. And they also started mentioning beyond the street itself, such as
+
+Speaker  49:50
+It made me think about weather in ways I hadn't really considered before, like how rain or snow can affect lane markings and surface traction.
+
+Speaker  50:08
+intersections here with the interested and concerned as well as the pavement quality and here they also mention intersections and driveways so kind of beyond what the picture itself was showing but more getting into like the actual perspective of this person which is fascinating and interesting and
+
+Speaker  50:43
+Yeah, you really see their, I guess, personality coming out with these responses here because it's showing like they all just want cycling to be more, even the driver here said safety for cyclists shouldn't come at the cost of maneuverability or emergency response. And similar responses here, safety should not compromise speed instead of kind of like more, the question I especially asked is more like thinking of other drivers
+
+Speaker  51:18
+stakeholders in this road and a lot of them are saying the cyclists might not feel the most safe but we need to feel more safe even if it comes at the cost of vehicle efficiency which has been I mean that's accurate to what a human would say as well yeah that's the last prompt same thing we can ask a question at the end cool
+
+Speaker  51:56
+What should I-- this is concerning the design. Should I add scenario one and two to this question? What do you mean? I already understand that there's the two scenarios. You think it understands? Yeah. So just-- But we haven't-- Yeah, let's ask a question. Oh, is it the first-- oh, I see, I see, I see. From the existing additions to the change. OK.
+
+Speaker  52:42
+modular buffer and let people's cross and orange.
+
+Speaker  54:07
+Yeah. Setback, crossings, reflective lane painting could drain engineering. I need the design. It would make me bike your outfit unless the separation would complete.
+
+Speaker  54:48
+So here they're giving a lot more insight on specific design features that they think would promote vehicle maneuverability while maintaining cyclist safety.
+
+Speaker  55:18
+And here, scenario two seems to be the overall agreed upon scenario where mountable curbs, modular buffers, as well as curb extensions and setbacks in crosswalks to improve cyclist and vehicle visibility, while also including reflective lane paint and good drainage to accommodate for the weather instances
+
+Speaker  55:48
+Yeah, I think that's a great good responses here as well. Do you want me to do the chat GPT survey? Yeah.
+
+Speaker  56:30
+you can be sad right let's ask you questions it's like how do you feel using both the tools like how would you compare them um i think the interface on the website is much more intuitive it allows you to kind of
+
+Speaker  57:06
+view each scenario more clearly as its own section instead of scrolling through text on a chat GPT prompt. I would say the comparative analysis as well as the different figures, I guess emojis, for each perspective also helps with that continuity of this character instead of it just being text.
+
+Speaker  57:36
+I would also say I think there's just more functionality instead of filling out a text box of a certain feature. Selecting a button is nice. What could be interesting is if you included those buttons on the website, but also in other option. And if it's all being fed through ChatGPT, then that other option can be
+
+Speaker  58:04
+kind of submitted as if it was a new string to that response or to that prompt. I like the more it felt more, it felt easier on the website to kind of ask the perspectives, the questions instead of filling it out at the bottom of like a chat GPT prompt. Both were fairly quick and seamless, I would say for the most part. And
+
+Speaker  58:40
+Since everything is kind of done within that website and you don't have to upload any kind of screenshots or existing conditions within the website, I think that also makes it more functional. Last question, how do you see these tools being used by designers and where do you see AI fitting into the street design process?
+
+Speaker  59:09
+So in terms of image generation, I think there's room for improvement with AI, especially not one of the images generated offered a, they all looked, they all looked realistic, but they weren't feasible. There was cars in bike lanes and almost every image as well as, you know, it didn't quite understand the full scope of the surroundings, which is,
+
+Speaker  59:40
+I mean, it'll probably get there eventually, but as of right now, it's just, it's simply not there. Human eyes and minds are more capable of comprehending where parked cars are and are able to more accurately design a streetscape under rules and regulations that might be different depending on the area as well. But in terms of generating like a quick design and then perspectives that
+
+Speaker  01:00:10
+to give their feedback on that design, I think it's a very good tool for that. And so I can see that being used as a kind of preliminary null hypothesis, I guess you could say, for a different person's perspective on a new design from a cyclist.
+
+Speaker  01:00:31
+and different categories of cyclists as well as a driver and then using that to kind of supplement or compare to a real world questionnaire with a smaller sample size and if they overlap then you can with confidence say that the ai tool generated an accurate response and then depending on where a certain design is taking place
+
+Speaker  01:00:59
+having input from separate areas to either expand the AI's repository of information to better train it to give more accurate responses, depending on the geographical context, as stated, like within a very dense central business district environment.
+
+Speaker  01:01:17
+there's going to be a lot more cycle. You're just going to have a higher volume of cyclists. And so their perspectives are going to be different than say a college student in Gainesville who also might cycle a lot. However, the, the way that they do that is, is very different. There are bike lanes in Gainesville, however, almost none of them are protected. Um,
+
+Speaker  01:01:40
+And very, very few of them are like painted as well. But there are select areas where, you know, there's a painted bike lane and you can have several like corridor studies, especially how like how do you ride your bike through this road? And there's no bike lane. Sidewalk is like two foot, you know, so I can see it used in that way as well.
+
+Speaker  01:02:10
+All right, sounds good. Well, thanks again for taking the time to do the interview. Just a reminder, submit all the things that you downloaded from the website and also the screenshots. Just send those to us by email. OK. And this email at the bottom of this document is good as well, the-- Yeah. Just send it to the email thread we have. OK, to the thread. I got you. OK, cool.
+
+Speaker  01:02:43
+Thank you guys.

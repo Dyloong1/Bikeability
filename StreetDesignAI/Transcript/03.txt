@@ -1,0 +1,1569 @@
+[Duanya Lyu] 10:02:17
+The tests? Yes, I… I forgot it. Glad we have you here. And the test subject is a system…
+
+[Kexin Zhou] 10:02:18
+Okay, I'm gonna start recording now.
+
+[Duanya Lyu] 10:02:26
+Like, it's a road, uh, road improvement, or a road design system designed for bike facility improvement.
+
+[Duanya Lyu] 10:02:34
+It will be, uh… Chrome-based, like, browser-based system, uh, it's integrated.
+
+[Duanya Lyu] 10:02:42
+Generative AI component and some… road network data that are intended to help you design bike facility better.
+
+[Duanya Lyu] 10:02:52
+And, uh, we will test that system. Or do some survey.
+
+[Duanya Lyu] 10:02:57
+And we will, uh, try… we will see if you do… if it helps you with, uh, compared with traditional GPT.
+
+[Duanya Lyu] 10:03:06
+So the second part we will be doing that using. Traditional GPT.
+
+[Duanya Lyu] 10:03:12
+And about that, we need to, like, you have a GPT account, right?
+
+[Mateo Nader] 10:03:20
+Yeah.
+
+[Duanya Lyu] 10:03:20
+Okay, okay, great. Um, I think then we can start doing that.
+
+[Duanya Lyu] 10:03:26
+And I sent you an email just before the meeting. And, um, we will… go through all the components in that doc… in the document attached in that email.
+
+[Duanya Lyu] 10:03:41
+Uh, do you mind to start sharing your screen?
+
+[Mateo Nader] 10:03:47
+Yeah.
+
+[Duanya Lyu] 10:03:54
+Nice. And, uh, we will start this study with a pre-study survey.
+
+[Duanya Lyu] 10:04:01
+That asks you the… some background of you regarding road design.
+
+[Duanya Lyu] 10:04:21
+And during the whole procedure, like, you have any question, like, you just feel free to ask. Any thoughts, like, the more the better, yeah.
+
+[Duanya Lyu] 10:04:51
+By persona, uh… This is, uh… maybe we should change the survey a little. This means, like.
+
+[Duanya Lyu] 10:04:59
+Different type of cyclist. For example, you are, like, very… fearless, or you are very cautious, you…
+
+[Duanya Lyu] 10:05:10
+When you choose your, like, yeah. Like, there are… you will be…
+
+[Mateo Nader] 10:05:14
+Just like the… writing style.
+
+[Duanya Lyu] 10:05:16
+Yeah.
+
+[Duanya Lyu] 10:05:26
+Okay, uh, add surveys to… Here as a background of you, and…
+
+[Duanya Lyu] 10:05:35
+We can now move on to the system.
+
+[Duanya Lyu] 10:05:46
+Okay, so now you've entered this… system, and… Uh, yeah, you can use this coordinate, or you can just use the one pre-filled for you.
+
+[Mateo Nader] 10:05:59
+Okay, what was that one? Alright.
+
+[Duanya Lyu] 10:06:00
+Yeah, you can just, like, click Test Coordinate. Yeah, and load location.
+
+[Duanya Lyu] 10:06:09
+And you will… be accessing. Uh, a very brief…
+
+[Duanya Lyu] 10:06:14
+I have a very brief, uh… tip on the UI of the system. You see a small plus-minus sun.
+
+[Duanya Lyu] 10:06:22
+Minus sign, like, the bottom right of your corner. That is for zoom in, zoom out, and this…
+
+[Mateo Nader] 10:06:25
+Yeah.
+
+[Duanya Lyu] 10:06:30
+How interface is, uh. Endless canvas, like many, like, designer apps.
+
+[Duanya Lyu] 10:06:35
+And you use the two buttons to zoom in, zoom out? You use your mouse, click, hold, and drag to move the… Windows and the canvas.
+
+[Duanya Lyu] 10:06:47
+And, uh, you can, uh, switch the camera angle and… Once you've selected, uh.
+
+[Duanya Lyu] 10:06:54
+Good picture, you think? You can start the… System.
+
+[Mateo Nader] 10:07:01
+Okay.
+
+[Duanya Lyu] 10:07:04
+Intersection may not be a good case, because, yeah, it's designed for row segments.
+
+[Mateo Nader] 10:07:28
+Let's click the generate evaluation.
+
+[Duanya Lyu] 10:07:31
+Yes, and… that button will, uh…
+
+[Duanya Lyu] 10:07:37
+A brief, uh, brief… A brief explanation of what's happening behind the system.
+
+[Duanya Lyu] 10:07:44
+Uh, the system will take this picture, you just… like, this Google Street View image, you just… determined on, and it will combine some road network data from OpenStreetMap and other.
+
+[Duanya Lyu] 10:07:57
+Probably other map surveys, and it will… do some… uh, vision director.
+
+[Duanya Lyu] 10:08:05
+Computer vision processing analysis. And, um…
+
+[Duanya Lyu] 10:08:11
+To, yeah, like, to move, like, um… still the UI thing, yeah, that's the two buttons I was talking about.
+
+[Duanya Lyu] 10:08:24
+And this is, uh, this one… this window shows you the… computer-based analysis of this road segment.
+
+[Duanya Lyu] 10:08:33
+And you can have a look at it and provide, like.
+
+[Duanya Lyu] 10:08:38
+Tell us what you think of it.
+
+[Mateo Nader] 10:08:50
+This looks pretty good. I like the…
+
+[Mateo Nader] 10:08:55
+I guess this makes more sense now with the… the personas question?
+
+[Mateo Nader] 10:09:01
+Well, it gives a good amount of feedback for each… persona, and then also these pros and cons for driver and cyclist.
+
+[Duanya Lyu] 10:09:13
+You can have a, like, more detailed read of it, and do you feel anything, like, makes sense? Things that doesn't make sense? Since, like.
+
+[Duanya Lyu] 10:09:21
+You haven't thought of, or you're like, oh, I already thought all of this, and this is the main… it has no inputs.
+
+[Mateo Nader] 10:09:52
+Click the observations about the cars are pretty good. Like, how they fuck drivers' speed, and also…
+
+[Mateo Nader] 10:10:01
+The hazard of people opening their doors while someone's, like, biking by.
+
+[Mateo Nader] 10:10:08
+And also the observation about the trees. That's a good… that does a good job understanding the…
+
+[Mateo Nader] 10:10:17
+Contacts, just like the… what's in the environment?
+
+[Mateo Nader] 10:10:28
+And for the slight traffic appears moderately close. Is that, like.
+
+[Mateo Nader] 10:10:32
+Close to the cyclist, I guess.
+
+[Duanya Lyu] 10:10:35
+Yeah.
+
+[Mateo Nader] 10:11:09
+How about for, like, these…
+
+[Duanya Lyu] 10:11:11
+Okay, uh, so this is the current existing conditions. As you can see, there are some problems, and there are some good things about this.
+
+[Mateo Nader] 10:11:18
+Yeah.
+
+[Duanya Lyu] 10:11:19
+And so, uh, we basically, like, for this current, like, this location, you can do adjust the… oh!
+
+[Duanya Lyu] 10:11:27
+First to in-depth analysis. Try to click that button.
+
+[Duanya Lyu] 10:11:32
+The middle one, yeah. And this is, like, a fancier part of this system.
+
+[Duanya Lyu] 10:11:38
+You can, like, it tries to mimic the… panel or interview, or many public meetings, like, you can see different persona, like, expressing their opinions.
+
+[Duanya Lyu] 10:12:01
+And, um, he discussion points are highlighted in the. Conversation.
+
+[Duanya Lyu] 10:12:08
+And this part is designed, like, you can actually interact with, like.
+
+[Duanya Lyu] 10:12:14
+Manually interact with them. If you have any. Thing about, uh, this current condition, you can ask them in the chat box.
+
+[Mateo Nader] 10:12:59
+Is it supposed to be, like, conversating with, like, the… the personas are, like… Well, I think that's the AI designer.
+
+[Duanya Lyu] 10:13:09
+Yeah, um… The technical aspect is they designed different prompts, like, they tell GPT what different persona.
+
+[Duanya Lyu] 10:13:18
+Like, really considers what aspect of cycling. And we start prompt GPT will, like, try to…
+
+[Duanya Lyu] 10:13:28
+Uh, mimic that. Uh, cyclists of the person that give you response.
+
+[Mateo Nader] 10:13:34
+Let's see…
+
+[Mateo Nader] 10:13:56
+Intel already has, like. Strong opinions on…
+
+[Mateo Nader] 10:14:02
+What it suggests for this road.
+
+[Duanya Lyu] 10:14:10
+So you ask them about… parking on both sides?
+
+[Duanya Lyu] 10:14:15
+Let's see, are they, like, talking about what you are asking?
+
+[Mateo Nader] 10:14:24
+I'd like to acknowledge it, but they mainly, like. Talked about the… like, overall improvements that I wanted to see.
+
+[Duanya Lyu] 10:14:34
+It's not, like, it's too broad, it's not focused on a question asked.
+
+[Mateo Nader] 10:14:40
+Yeah.
+
+[Duanya Lyu] 10:14:41
+Okay. Another thing design for this part is, like, you can…
+
+[Duanya Lyu] 10:14:49
+Like, ask specific persona. And if you do so, that personalness…
+
+[Duanya Lyu] 10:14:55
+Bubble should be… like, prioritizing… focus will be more on that person, I think.
+
+[Duanya Lyu] 10:15:08
+Do you want to try that? Maybe, like…
+
+[Mateo Nader] 10:15:09
+That's… Yeah.
+
+[Duanya Lyu] 10:15:17
+Maybe something like, I have a question for drivers, or I have a question for…
+
+[Duanya Lyu] 10:16:29
+Oh, okay, it's still showing that one from the… Everybody drivers went longer now, I said.
+
+[Mateo Nader] 10:16:57
+Okay, well, understood. Driver prompted, like, answer more specifically about visibility, but the other ones…
+
+[Mateo Nader] 10:17:05
+Not so much. I don't think… you know, these two don't talk about visibility.
+
+[Duanya Lyu] 10:17:24
+So, about this multi-agent discussion. Um, do you think this will help you in designing, in road design?
+
+[Duanya Lyu] 10:17:35
+Or, like, you think that's… this is not… You love?
+
+[Mateo Nader] 10:17:45
+I thought it's a solid, like, baseline for… Figuring out what a road has, and…
+
+[Mateo Nader] 10:17:51
+What it doesn't have. And also, I think having the personas is…
+
+[Mateo Nader] 10:17:58
+Really useful. Because I don't think… I don't really think about that as much.
+
+[Mateo Nader] 10:18:04
+When doing road design, like… Think about, like, I guess…
+
+[Mateo Nader] 10:18:10
+Types of mobility, but not how people. Use their…
+
+[Mateo Nader] 10:18:17
+Bikes, are there e-scooters, so… I think it's a pretty seamless.
+
+[Duanya Lyu] 10:18:21
+So, what you're saying? No. So what they're saying, like, help you, like.
+
+[Mateo Nader] 10:18:22
+Baseline.
+
+[Duanya Lyu] 10:18:27
+Um, have a, like, a more… like, a deeper understanding of, like, how…
+
+[Duanya Lyu] 10:18:34
+Different persona will use this. Uh, wrote the…
+
+[Mateo Nader] 10:18:40
+Yeah. Like, I guess understanding, like. What the most skeptical person might… Think of a road design.
+
+[Mateo Nader] 10:18:48
+Versus someone… who's more confident with their riding abilities.
+
+[Duanya Lyu] 10:18:57
+Okay, um… Now, this part, like, I think that's all for the existing condition part.
+
+[Duanya Lyu] 10:19:04
+And now it's the… generative AI part, uh, we, like I mentioned earlier.
+
+[Duanya Lyu] 10:19:11
+Uh, if you click Adjust Design, you can… you will be given.
+
+[Duanya Lyu] 10:19:17
+A few design options, and… based on your understanding of the condition, based on the discussion you just had earlier, you can choose.
+
+[Duanya Lyu] 10:19:26
+Designed here. And a part from the four options, like, design options, you can also type your design requirements in the bot… in the text box.
+
+[Mateo Nader] 10:19:52
+If there's no existing bike lane. How old would, like, interpret this?
+
+[Duanya Lyu] 10:20:02
+Why don't miss, like, it will use some of the…
+
+[Duanya Lyu] 10:20:09
+Is generative AI, so I'm not sure what works, like, exactly how it happened, so… I think, why don't we, like, use some sidewalk space, or use some…
+
+[Duanya Lyu] 10:20:19
+Trial lane. It will basically make this wider.
+
+[Duanya Lyu] 10:20:44
+Buffer will be, like, separate, uh, bikes, and… cars, you have bowler and Martello to choose from.
+
+[Mateo Nader] 10:20:50
+Yeah.
+
+[Duanya Lyu] 10:20:54
+And location to buffer it can be, like, next to an event card, next to parking cards, like, left side or right side.
+
+[Duanya Lyu] 10:21:10
+You could have, like, more desiring requirements, or you can, like, just click… generative design.
+
+[Duanya Lyu] 10:21:18
+Yeah, like, you only need to click, yeah, and this will take a little bit longer, because you have to generate a picture.
+
+[Mateo Nader] 10:21:26
+Yeah.
+
+[Duanya Lyu] 10:21:34
+You know, like, during that time, like, we can discuss more about this, like, existing condition window.
+
+[Duanya Lyu] 10:21:41
+Another thing about system is that they, like, not only have tags, they also have a.
+
+[Duanya Lyu] 10:21:48
+1, 2, 5 score for the… for this design, like, you can see different… you can see two different aspects.
+
+[Duanya Lyu] 10:21:57
+What is on the safety side, when it's on the comfort side.
+
+[Duanya Lyu] 10:22:01
+And you can see, like, different, like, people of different persona gives you different… the scores of that 2 aspect.
+
+[Duanya Lyu] 10:22:32
+So, one thing is also might happen during you doing my interviews is… Uh, currently… There's no visible bike lane in the map, like, there's no, like, signage for, like, this is a bike lane or…
+
+[Duanya Lyu] 10:22:50
+So I'm not sure what that… picture generated would be like.
+
+[Duanya Lyu] 10:22:58
+Yeah, because, like, for, like, if you already see a… cycling, like, those indicated on my, like.
+
+[Duanya Lyu] 10:23:04
+They have a lane, they have a bike symbol on the line.
+
+[Duanya Lyu] 10:23:08
+That really gives a better picture.
+
+[Duanya Lyu] 10:23:30
+Okay. That is, like, what I'm… what's happening.
+
+[Duanya Lyu] 10:24:03
+We now have the picture now, and this is the… Like, uh… Right? It's just the design.
+
+[Duanya Lyu] 10:24:12
+Wait, let's try something. Try, click them, adjust design the existing condition window.
+
+[Duanya Lyu] 10:24:18
+In the, like, the… the other window. That should, like, remind you of what you… what design option you choose, yeah.
+
+[Duanya Lyu] 10:24:28
+That is the design option you choose. You can, like, move that window somewhere else, and… You can see, like, whether the picture implemented your design.
+
+[Mateo Nader] 10:24:57
+Good job with that.
+
+[Duanya Lyu] 10:25:09
+I mean, who's out there? Like, design scenario one.
+
+[Mateo Nader] 10:25:19
+The only thing. A sort of… needed to have specified.
+
+[Mateo Nader] 10:25:25
+About whether… put the bike plane on one side or both sides.
+
+[Mateo Nader] 10:25:34
+And that looks so, like, follow the… Design…
+
+[Mateo Nader] 10:25:40
+Pretty well.
+
+[Duanya Lyu] 10:25:45
+Do you think, like, in, like, real design scenarios, this will help you design segments like the generative AI?
+
+[Duanya Lyu] 10:25:54
+Picture generation.
+
+[Mateo Nader] 10:25:58
+Yeah, because it gives, like, a good… idea of what it'll look like. I assume a street view.
+
+[Mateo Nader] 10:26:06
+Compared to, like, existing tools, maybe it's just, like, a 2-day view.
+
+[Mateo Nader] 10:26:11
+Or a top-down view, but… This gives you a better idea how it looks like.
+
+[Mateo Nader] 10:26:16
+In the context, or like… from a person's perspective.
+
+[Duanya Lyu] 10:26:25
+And you can see, like, the… the evaluation of the four personas that are, like, updated to the new design.
+
+[Duanya Lyu] 10:26:36
+So that's the score.
+
+[Duanya Lyu] 10:26:41
+And you can do the similar multi-agent. Chat with that… with the…
+
+[Duanya Lyu] 10:26:50
+Personas now, like, on the new design, if you want. You can, like, do, like, click the in-depth analysis and do that.
+
+[Duanya Lyu] 10:27:36
+An interesting point here. Observed.
+
+[Mateo Nader] 10:27:42
+Well, I guess it makes sense for them now we know how, but there's still… insistent that they wouldn't cycle.
+
+[Mateo Nader] 10:27:53
+This path.
+
+[Mateo Nader] 10:28:04
+This one says they need… to dividers, even though… They're there, the armadillo dividers.
+
+[Mateo Nader] 10:28:33
+Uh, same with this one, with, like, the… painted lanes.
+
+[Duanya Lyu] 10:28:39
+Maybe that has something to do with the, like, they only improved one direction.
+
+[Duanya Lyu] 10:28:44
+But no, the other.
+
+[Mateo Nader] 10:29:59
+Okay, I guess this will get more specific answers. Let's see, like, this one… this is… seems to be just, like, a general…
+
+[Mateo Nader] 10:30:09
+Suggestion. For, like, adding improvements to the intersections.
+
+[Mateo Nader] 10:30:34
+Just like the… No way, persona.
+
+[Mateo Nader] 10:30:40
+Always brings up the Copenhagen style. Bike lanes.
+
+[Duanya Lyu] 10:30:51
+Maybe we're gonna start European House, like, they are way ahead of other parts of the world in.
+
+[Duanya Lyu] 10:30:57
+Cycling design, so, um, I mean… all those cities and, like, um, we'll learn about those.
+
+[Mateo Nader] 10:30:59
+Yeah.
+
+[Duanya Lyu] 10:31:16
+And, um… based on those discussions and…
+
+[Duanya Lyu] 10:31:21
+If you want to further improve this. Like, you can add… more, but you can improve on… based on this.
+
+[Duanya Lyu] 10:31:30
+Or, like, this version 1 of improvement. Uh, 8.
+
+[Duanya Lyu] 10:31:35
+You can generate another set of image.
+
+[Duanya Lyu] 10:31:47
+We can leave this, or you can… yeah, yeah. You can move it anywhere else, yeah.
+
+[Duanya Lyu] 10:32:00
+In caps of just resign on this one, or their existing scenario?
+
+[Duanya Lyu] 10:32:05
+We will be comparing them, so… We will need the two… like, through improvement design.
+
+[Duanya Lyu] 10:32:34
+This is not for the season, maybe for the system. I noticed the caps the, like, the options you chose for…
+
+[Duanya Lyu] 10:32:44
+Design one, so I'm not sure what will happen, maybe. To make this even and wider.
+
+[Mateo Nader] 10:32:51
+Oh, yeah.
+
+[Duanya Lyu] 10:32:55
+Mostly taking notes.
+
+[Duanya Lyu] 10:33:19
+You know, this part really takes a… She, like, takes a few seconds, maybe, like, minutes, so…
+
+[Duanya Lyu] 10:33:27
+If you don't keep talking, there will be awkward silence during the interview.
+
+[Mateo Nader] 10:33:35
+Yeah.
+
+[Duanya Lyu] 10:33:35
+You need to find something to talk to, you know.
+
+[Duanya Lyu] 10:33:41
+This, like, this picture you generated, like, works surprisingly well. Um, no, no.
+
+[Duanya Lyu] 10:33:49
+It's recognized… I'm surprised it's recognized moving car and… stop car, like, it's added the buffer, the cracked side.
+
+[Duanya Lyu] 10:34:08
+So, do you notice, like, they changed the parked car. Had the sign, like, had direction to the other way.
+
+[Mateo Nader] 10:34:17
+Oh yeah, for the red one.
+
+[Mateo Nader] 10:34:23
+Looks like it got, like, the rest of them right, and then these two is the other way.
+
+[Duanya Lyu] 10:34:32
+Have you used GPT to generate images before?
+
+[Mateo Nader] 10:34:37
+No.
+
+[Duanya Lyu] 10:34:45
+It's also important for me here, I like. It usually really takes longer than the text messages.
+
+[Duanya Lyu] 10:34:53
+Okay, now we have it. Let's see.
+
+[Duanya Lyu] 10:34:59
+Always fail.
+
+[Mateo Nader] 10:35:00
+Yeah. I, like, made an attempt to make the extra bike lane here.
+
+[Mateo Nader] 10:35:08
+That looks like. I think it… I guess it ran out of space.
+
+[Duanya Lyu] 10:35:32
+Okay, so now we have… two sets of design, and…
+
+[Duanya Lyu] 10:35:37
+Also, like, if you consider the original one, like, we have 3 sets of designs, and with the three.
+
+[Duanya Lyu] 10:35:44
+We can, like, do… we can use another… a function of the systems that compare.
+
+[Duanya Lyu] 10:35:51
+Comparative analysis. If you click that button, like, it will select the scenarios you want to complete.
+
+[Duanya Lyu] 10:35:59
+You can click as many as you want, like, you can maybe check all of the three.
+
+[Duanya Lyu] 10:36:05
+And, uh, we can run the comparative analysis to see.
+
+[Duanya Lyu] 10:36:14
+And this will give you, like, how different persona compare them, and… the other… the other window, like, you know, the other sub-window will give you a more quantitative.
+
+[Duanya Lyu] 10:36:28
+Thing, like, you need… you interpret yourself.
+
+[Mateo Nader] 10:37:04
+Let's just other data that… It looks, uh…
+
+[Mateo Nader] 10:37:09
+I guess specifically for the drivers, you said also… considers the… surrounding… was it, like, the surrounding traffic patterns, or just, like, road layout?
+
+[Duanya Lyu] 10:37:23
+Sorry, I didn't… I didn't catch that comment. You're saying, like, the driver considered that, or they didn't?
+
+[Mateo Nader] 10:37:35
+Like, they didn't, or at least, like. For design scenarios. I also noticed, like, when I did the…
+
+[Mateo Nader] 10:37:41
+In-depth analysis. This had, like, a pretty broad…
+
+[Mateo Nader] 10:37:48
+Suggestion of… what they preferred with the road, but…
+
+[Mateo Nader] 10:37:53
+Nothing like… Soon that with regards to, like.
+
+[Mateo Nader] 10:37:58
+I guess the line width and… Speed.
+
+[Duanya Lyu] 10:38:03
+That's a good point, like, uh… like, the driver… with respect to, you know, design scenarios, they didn't have the…
+
+[Duanya Lyu] 10:38:13
+Role design considerations. Uh, I… My guess is, like, my understanding is that.
+
+[Duanya Lyu] 10:38:21
+Uh, for the existing scenario, they consider an open street map data, so they have.
+
+[Duanya Lyu] 10:38:27
+Right? Maybe they explicitly write in a command that. Like, writing the prompt that, uh, this is the open stream map data, like, you…
+
+[Duanya Lyu] 10:38:36
+Have this input? And they will do this analysis, and for the design scenarios, they…
+
+[Duanya Lyu] 10:38:43
+I think the input is only the… pictures, like the generative designs.
+
+[Duanya Lyu] 10:38:50
+So maybe that's why… They don't have that in design scenarios.
+
+[Mateo Nader] 10:38:51
+Yeah, so I can't think about, like. How the driver would be able to…
+
+[Mateo Nader] 10:39:02
+Produce some more specific… like, a suggestion.
+
+[Mateo Nader] 10:39:07
+So I need to think more about the… line width, and… It's more about the context of…
+
+[Mateo Nader] 10:39:15
+Well, the general traffic patterns are. In that area.
+
+[Mateo Nader] 10:39:25
+At least for the cyclists. It does a solid job, I guess, because they're…
+
+[Mateo Nader] 10:39:31
+Concerns are more like… That is here to gauge visually.
+
+[Duanya Lyu] 10:39:41
+That's a really great point, Mike. For cyclists, vehicles, important.
+
+[Duanya Lyu] 10:39:52
+And if you see the multi-agent… Yeah, like…
+
+[Duanya Lyu] 10:39:57
+If you see the multi-ident part, you can see, like, their discussion now is more focused on comparing.
+
+[Duanya Lyu] 10:40:03
+And you can see, like, which… Uh, which persona prefer which design scenario?
+
+[Duanya Lyu] 10:40:55
+For the… Uh, this system, um… Um, let's have a recap. Uh, if you have to pick.
+
+[Duanya Lyu] 10:41:05
+Really, uh, interesting functions, or… interesting displays of the system.
+
+[Duanya Lyu] 10:41:12
+What tool do you pick?
+
+[Mateo Nader] 10:41:18
+I love discussions. Between the personas…
+
+[Mateo Nader] 10:41:28
+I guess the ability to… understand the surroundings and how that affects.
+
+[Mateo Nader] 10:41:36
+A driver and, like, perception.
+
+[Mateo Nader] 10:41:42
+I don't think the comparative analysis also. It's very useful.
+
+[Duanya Lyu] 10:41:51
+Um, I'm asking this because, um, this survey also asked the.
+
+[Duanya Lyu] 10:41:57
+Uh, so it takes us to take a screenshot of the… most, like, they… most functions they find useful, and…
+
+[Duanya Lyu] 10:42:06
+We will, like… That's part of the survey data, and…
+
+[Duanya Lyu] 10:42:13
+Uh, if you have no further design. Do you want to implement, you can… Click the download project button.
+
+[Duanya Lyu] 10:42:22
+On the top right corner. And it will download the… interaction data and, uh…
+
+[Duanya Lyu] 10:42:32
+Maps you…
+
+[Duanya Lyu] 10:42:43
+And… about the… three, uh, point, like, three useful points of the system.
+
+[Duanya Lyu] 10:42:51
+Do you mind taking a screenshot of the… functions you mentioned, and… also send the screenshot to me after this.
+
+[Duanya Lyu] 10:43:07
+It doesn't have to be the whole window, like, it can be a certain comment that you find useful.
+
+[Mateo Nader] 10:43:16
+Okay, let's…
+
+[Mateo Nader] 10:44:12
+I got my 3.
+
+[Duanya Lyu] 10:44:15
+Nice. Uh, and now we can move to the, like, there is a survey on, like, the… system.
+
+[Duanya Lyu] 10:44:37
+Into a good basically asking you to grade the system from different aspects.
+
+[Duanya Lyu] 10:45:39
+Okay, uh, that's the first part of the study, and the second part is to.
+
+[Duanya Lyu] 10:45:46
+Compare the system with, like, only. Gpt interactions, and…
+
+[Duanya Lyu] 10:45:54
+Uh, in the download file, you… just, like, downloaded it.
+
+[Duanya Lyu] 10:46:00
+Should contain, uh… a photo of a GIST reveal photo of the…
+
+[Duanya Lyu] 10:46:08
+Original location, and now we… what we'll do is we will… give GPT the… that photo, and you will…
+
+[Duanya Lyu] 10:46:18
+Use the prompt. Like, the… prompt it for you, and…
+
+[Duanya Lyu] 10:46:24
+Try, uh… do the… do a similar set of operations.
+
+[Duanya Lyu] 10:46:31
+Uh, through GPT, right? Interaction. And…
+
+[Duanya Lyu] 10:46:45
+The photo should be in the download, or you can download now from the system. You can, like, save the picture, yeah.
+
+[Mateo Nader] 10:46:53
+Existing condition one. Okay.
+
+[Duanya Lyu] 10:46:55
+Yes. You can copy and paste the…
+
+[Duanya Lyu] 10:47:04
+Prompt. And the prompt, like, the part in the… Brackets are the… are decisions you need to make.
+
+[Duanya Lyu] 10:47:38
+It's basically the similar one sign.
+
+[Mateo Nader] 10:47:41
+Yeah.
+
+[Mateo Nader] 10:48:17
+This is good to go.
+
+[Duanya Lyu] 10:48:18
+Yeah.
+
+[Duanya Lyu] 10:48:27
+I think when we, like. During, like, not pilot interviews, we may, like, actually do interviews.
+
+[Duanya Lyu] 10:48:35
+Uh, there will be a shared GPT account. Instead of, like, asking… like, interviewers to, like, open their Jubiki account.
+
+[Duanya Lyu] 10:48:46
+Wait, why's time left. Let's try it again…
+
+[Mateo Nader] 10:49:08
+So it's part of the prompter.
+
+[Duanya Lyu] 10:49:11
+No, I think maybe you failed distributing the first time, it has, like.
+
+[Duanya Lyu] 10:49:23
+Back to what I was talking like. When we're actually doing interviews, there will be…
+
+[Duanya Lyu] 10:49:36
+Like the shared GPT account, and… It also helps, like, us to know, like.
+
+[Duanya Lyu] 10:49:43
+How different, like, survey takers, they have their own design choices, and the picture's generated.
+
+[Duanya Lyu] 10:49:54
+This also takes some time.
+
+[Duanya Lyu] 10:50:08
+Okay, peace. Generating the pictures.
+
+[Duanya Lyu] 10:50:27
+Have you taken early, bike, like… road design classes.
+
+[Duanya Lyu] 10:50:34
+Sure, ask David?
+
+[Mateo Nader] 10:50:37
+Any, like, specifically on them? There's, like, been a few classes where we…
+
+[Mateo Nader] 10:50:42
+Of, like, the sort module on it. I've done, like, the…
+
+[Mateo Nader] 10:50:48
+Use that, like, street design website that does, like, the… That's hoodie, the side view.
+
+[Mateo Nader] 10:50:55
+You can, like, bus stop, bike lane, change the width.
+
+[Duanya Lyu] 10:51:05
+Have you… have you read any, like, regulations or design menus on, like… What are the components of bike facilities and…
+
+[Duanya Lyu] 10:51:16
+Road, second…
+
+[Mateo Nader] 10:51:19
+Yeah, well, I don't like… The roads… I think a little bit on, like, facilities.
+
+[Mateo Nader] 10:51:28
+I don't remember what class. Might have just been, like, my… Like, ensure the urban planning class.
+
+[Duanya Lyu] 10:51:37
+It's not… so, is still… is that course taught by our department, or did, like, DCP determine?
+
+[Mateo Nader] 10:51:46
+Yeah, it's TCP. Yeah.
+
+[Duanya Lyu] 10:51:48
+Oh, CCMP.
+
+[Duanya Lyu] 10:51:54
+There's no bike design courses? All words of karma?
+
+[Mateo Nader] 10:52:01
+I don't think so. Uh, where I probably would have… Taking it…
+
+[Mateo Nader] 10:52:08
+At least for underground, like. The classes are more for… focused towards, like.
+
+[Duanya Lyu] 10:52:08
+Jay?
+
+[Mateo Nader] 10:52:14
+Structural, like, materials or geotechnical. There's not a lot on transportation.
+
+[Duanya Lyu] 10:52:27
+Jacob's… Jacob's teaching one class on, like, transit. Design. In that quality touch a little bit on, like, how to design.
+
+[Duanya Lyu] 10:52:38
+Bus facility, like, you know, where to put bus stop, like, that can… Like, maybe, like… Reduce its impact on scientists.
+
+[Mateo Nader] 10:52:51
+Yeah, I remember looking through his classes. A while ago.
+
+[Mateo Nader] 10:52:59
+I don't know if I have time to take any of them.
+
+[Duanya Lyu] 10:53:04
+I was, like, I was going to ask, like, have you taken any Jacobs class?
+
+[Mateo Nader] 10:53:10
+I've thought about it.
+
+[Duanya Lyu] 10:53:17
+This is taking forever.
+
+[Mateo Nader] 10:53:20
+Well, also… apartment, the Wi-Fi in my apartment's pretty bad, so…
+
+[Mateo Nader] 10:53:27
+Might be that.
+
+[Duanya Lyu] 10:53:30
+Maybe also the white bed. Morning, GPT traffic is high. Oh, it's the fastest now.
+
+[Duanya Lyu] 10:53:42
+It looks very similar to the one, like, the system. It gives us…
+
+[Mateo Nader] 10:53:47
+Yeah.
+
+[Mateo Nader] 10:54:08
+I think the main difference is just, like, having that. Bike symbol there, the cyclist symbol.
+
+[Mateo Nader] 10:54:20
+I did not, like, the environment looks… Similar. That's a good job with the bollards.
+
+[Duanya Lyu] 10:54:30
+Okay, now we can, like, move on to the second prompt.
+
+[Duanya Lyu] 10:54:44
+You know, this one song, uh, like… different personas.
+
+[Duanya Lyu] 10:54:49
+Same with GPTs. Like, you have to download this image, and…
+
+[Duanya Lyu] 10:54:55
+Send data again, right? In the generation, it doesn't have the memory to…
+
+[Duanya Lyu] 10:55:03
+Like, remember, right? I think, like, it's…
+
+[Mateo Nader] 10:55:03
+Oh, what the fuck?
+
+[Duanya Lyu] 10:55:09
+Yeah, copy, paste through the work.
+
+[Duanya Lyu] 10:55:16
+Or, like, yeah.
+
+[Duanya Lyu] 10:55:22
+Or if it doesn't, like, you can, like, save and upload it to King.
+
+[Duanya Lyu] 10:55:32
+Oh, it worked, yeah, yeah. This, like, needs to attach it.
+
+[Duanya Lyu] 10:55:40
+Yeah, like, uh… There's only one practice I saw, it's, uh, like, you… if you want to provide road information, you can.
+
+[Duanya Lyu] 10:55:50
+Calculating the prompt.
+
+[Duanya Lyu] 10:55:56
+Yeah, that is… that seems exactly the thing that you mentioned earlier.
+
+[Mateo Nader] 10:56:08
+Okay, well, I guess I don't know anything about this world, so… So it's, like, delete this altogether.
+
+[Duanya Lyu] 10:56:17
+Yeah, I just deleted.
+
+[Duanya Lyu] 10:56:31
+This is really fast, yeah, because no data into generators or anything.
+
+[Mateo Nader] 10:57:00
+Pretty similar. I think the driver… for this prompt has…
+
+[Mateo Nader] 10:57:07
+Like, I guess, more in depth. Concerns with the design.
+
+[Mateo Nader] 10:57:12
+Like, for the parking maneuvers, I hadn't thought of that before, and I don't think the… And the other AI thing, it didn't mention anything about parking maneuvers.
+
+[Mateo Nader] 10:57:26
+Yeah.
+
+[Duanya Lyu] 10:57:29
+So you must flat.
+
+[Mateo Nader] 10:57:36
+The score seems similar, too.
+
+[Duanya Lyu] 10:57:46
+So, like, another thing about the system, right? It's not for, like, these interviews, just, like.
+
+[Duanya Lyu] 10:57:51
+Got you familiar with it, is… Uh, the four persona, uh…
+
+[Duanya Lyu] 10:57:57
+Text model you see here. And that is, uh… Jacobsent is not, like, what I said. He said this is, like, quite…
+
+[Duanya Lyu] 10:58:07
+Like, well-established in… Um, cycling… academia? Like, is this based on a Portland or Polkadot study? I don't…
+
+[Duanya Lyu] 10:58:18
+I'm not sure. Like, it's, like, use some observation and survey, like, they… determined four types, and…
+
+[Duanya Lyu] 10:58:27
+Uh, it has been used, like, in… my folks in professional or, uh, like, research.
+
+[Duanya Lyu] 10:58:35
+And that helps GPT, or, like, LMs, because it's well established, there are many discussions, it helps, um, to… like, generate evaluations.
+
+[Duanya Lyu] 10:58:47
+For the four aspects. There are some descriptions about the personas in the prompt, in the prompt, if you see, like, but they are very brief.
+
+[Mateo Nader] 10:58:59
+Yeah.
+
+[Duanya Lyu] 10:58:59
+And so, like, um, use this, and… the existing knowledge, um, the four… the four personas of cyclists.
+
+[Mateo Nader] 10:59:16
+This is a… interesting, um… Comment about the commuting.
+
+[Duanya Lyu] 10:59:36
+Okay, things are okay to note, now we're going to move on the other fronts. I think there are more prompts to go.
+
+[Mateo Nader] 10:59:43
+Yeah.
+
+[Duanya Lyu] 11:00:18
+I… quit.
+
+[Duanya Lyu] 11:00:25
+Maybe keep that? I think that's for, like, ask GPT to format the response.
+
+[Duanya Lyu] 11:00:31
+Yeah. Yeah.
+
+[Mateo Nader] 11:00:32
+Oh, okay.
+
+[Duanya Lyu] 11:00:43
+The last one, like, the follow-up may… be something you need to…
+
+[Duanya Lyu] 11:00:51
+Okay. Yeah, yeah, this is from the… Oh, mute. Like, we should ask them to change the last bracket, yeah.
+
+[Duanya Lyu] 11:01:06
+But you can still, like… keep the thread going, like, just add the…
+
+[Duanya Lyu] 11:01:12
+Personas who want to follow… ask follow-up question.
+
+[Mateo Nader] 11:01:15
+Yeah.
+
+[Duanya Lyu] 11:02:21
+It's so long.
+
+[Mateo Nader] 11:02:45
+Yeah, that's definitely one of the better responses. Gone so far.
+
+[Mateo Nader] 11:02:52
+It provided a lot of good improvements. Let's see… small mirrors on poles.
+
+[Mateo Nader] 11:03:05
+Oh, well, I also considered… Emergency vehicles.
+
+[Duanya Lyu] 11:03:11
+There is, like, in using GPT to do better in this?
+
+[Duanya Lyu] 11:03:18
+Follow-up question.
+
+[Mateo Nader] 11:03:20
+Yeah. Run more, like, specific…
+
+[Mateo Nader] 11:03:27
+Suggestions for improvements? And they also thought about emergency vehicles and delivery trucks, which is also important for streets.
+
+[Duanya Lyu] 11:03:52
+If you don't want to try… if you don't want to try anything more, like, we can move on the next question.
+
+[Duanya Lyu] 11:04:01
+Completely amounts.
+
+[Duanya Lyu] 11:04:06
+Okay. Smug the last one.
+
+[Duanya Lyu] 11:04:12
+Only the last bracket is the things. We need to change.
+
+[Mateo Nader] 11:04:33
+I'm gonna change this one.
+
+[Duanya Lyu] 11:04:36
+Yeah, I think… yeah, that one. And the scenario to compare also… Need to change.
+
+[Duanya Lyu] 11:04:48
+Yeah, the scenarios to compare. We don't have two scenarios, right? We only have existing in Scenario 1.
+
+[Duanya Lyu] 11:07:00
+Thank you for tuning in on this, too. Compared to the one you tested in the system.
+
+[Mateo Nader] 11:07:10
+I guess it's the same as what I said, like. About the last prompt that… It seems to give a lot more specific recommendations and…
+
+[Mateo Nader] 11:07:20
+Bring up a lot more issues that… Very easy to forget about or miss.
+
+[Mateo Nader] 11:07:28
+Like, uh, yeah, this one talks about debris buildup in the bike lane.
+
+[Mateo Nader] 11:07:33
+That's around the armadillos, which… Yes, I've seen that.
+
+[Mateo Nader] 11:07:38
+In real life. And then… The driver also thinks about…
+
+[Mateo Nader] 11:07:43
+Drainage and snow clearing. So I guess it's conditional to…
+
+[Mateo Nader] 11:07:50
+Where, like, what area we're studying. But yeah, overall… like these suggestions more.
+
+[Duanya Lyu] 11:08:03
+It's a very sharp observation.
+
+[Duanya Lyu] 11:08:08
+Do I have more questions, still? What does solve?
+
+[Mateo Nader] 11:08:12
+I think that was the last problem. Yeah.
+
+[Duanya Lyu] 11:08:13
+Okay, okay. That's… wraps up the GPT part, and we only have Nikkov.
+
+[Duanya Lyu] 11:08:21
+Two surveys to go. This one will ask you about…
+
+[Duanya Lyu] 11:08:26
+Gpt, or we only had one serving school, yeah.
+
+[Duanya Lyu] 11:08:41
+It's basically the same survey, I ask. Your lecture experience with GPT.
+
+[Duanya Lyu] 11:08:49
+To include.
+
+[Duanya Lyu] 11:09:27
+Okay, and uh… that's in the… maybe I shouldn't put that in the document.
+
+[Duanya Lyu] 11:09:37
+That wraps up the… like, the… art or, uh…
+
+[Duanya Lyu] 11:09:43
+The interviewers? And now I have some follow-up questions about the system.
+
+[Duanya Lyu] 11:09:51
+Do you mind I share my screen?
+
+[Duanya Lyu] 11:09:58
+That's completely impressed.
+
+[Duanya Lyu] 11:10:06
+Now, we will just have a, like, a discussion on the… Survey… like, on the true survey you just did.
+
+[Duanya Lyu] 11:10:19
+Let me share my screen. When we start doing this…
+
+[Duanya Lyu] 11:10:27
+Survey, like, you… I will ask the… I've asked, like, she's… she had, like, she's out of town, so…
+
+[Duanya Lyu] 11:10:36
+She cannot build this meeting. And she will, like. Add you into a Google folder.
+
+[Duanya Lyu] 11:10:41
+That has all the… the links, the linked documents, and the data.
+
+[Duanya Lyu] 11:10:50
+Of the redoubt. Uh, let's see, she should be in user study data.
+
+[Duanya Lyu] 11:10:58
+Mmm… Very, I'm sorry.
+
+[Duanya Lyu] 11:11:10
+Sure, no, it's not a show. Oh, yeah, it's in the… survey, and… How to minimize this? Is in the survey response?
+
+[Duanya Lyu] 11:11:21
+Yeah, the third study, so… go to individual, the third one.
+
+[Duanya Lyu] 11:11:27
+And that broke, like… This locks your response.
+
+[Duanya Lyu] 11:11:33
+That is the street AI design. And we have one for GPT survey.
+
+[Duanya Lyu] 11:11:39
+Also, uh… Individual.
+
+[Duanya Lyu] 11:11:45
+Third. Okay, and now, like, we will compare, like, compare the two.
+
+[Duanya Lyu] 11:11:53
+You just did, and… I will ask you about, like, why you give certain score for.
+
+[Duanya Lyu] 11:12:03
+Certain questions while you… Right. Thanks for your experience with this two system, a comparative STEM analysis.
+
+[Duanya Lyu] 11:12:13
+Mhm. The question, the question I sent you is…
+
+[Duanya Lyu] 11:12:20
+Interview questions, actually, for us, for, like, for we to ask them.
+
+[Duanya Lyu] 11:12:30
+Like, uh… why you choose the things is a prompt for us.
+
+[Duanya Lyu] 11:12:40
+Okay, so… Um, I see you keep 5-star for both systems, you…
+
+[Duanya Lyu] 11:12:48
+Feel like they are both very generally easy to use.
+
+[Mateo Nader] 11:12:55
+Yeah, and those aren't as much… And put required for me.
+
+[Mateo Nader] 11:13:03
+I guess… for the… First one…
+
+[Mateo Nader] 11:13:10
+Maybe a bit more, like, instructions on… Or, I guess, suggestions for, like, what kind of…
+
+[Mateo Nader] 11:13:18
+Street View, you wanna… input for the…
+
+[Mateo Nader] 11:13:23
+For the AI to look at. And then also how each of those tabs work once you, like.
+
+[Mateo Nader] 11:13:32
+Got the feedback from the AI.
+
+[Duanya Lyu] 11:13:37
+Yeah, that's a good point, like, the system has the… like, getting G Street View function that GPT doesn't have.
+
+[Mateo Nader] 11:13:46
+Yeah.
+
+[Duanya Lyu] 11:13:50
+Okay, so the next line, like, the inter… I didn't like using the interview question because, like.
+
+[Duanya Lyu] 11:13:58
+Sometimes the… Question there are very similar, like, that interview question is, like, one by one, a little bit.
+
+[Duanya Lyu] 11:14:05
+Sometimes a little bit redundant. Okay, there's a different score for the…
+
+[Mateo Nader] 11:14:09
+Yeah.
+
+[Duanya Lyu] 11:14:12
+For this question, interacting with system gives you an insight, new insight.
+
+[Duanya Lyu] 11:14:19
+You give GPT a higher score.
+
+[Mateo Nader] 11:14:23
+Yeah. Now, looking back at the first one, it… was a bit more surface level. Like, I guess it comes in more on, like.
+
+[Mateo Nader] 11:14:33
+The design options… that were available.
+
+[Mateo Nader] 11:14:36
+For me to input… well, the chat GPT, like. Went more in depth, and… brought up other insights that I hadn't thought about regarding, like.
+
+[Mateo Nader] 11:14:47
+Whether parking maneuvers. Or, like, yeah, like the debris and stuff like that.
+
+[Duanya Lyu] 11:14:57
+And you also give GPT high score for the next question.
+
+[Duanya Lyu] 11:15:03
+Perspectives, new perspectives.
+
+[Mateo Nader] 11:15:06
+Yeah, that's the same thing as before, it's like… bring up… stuff about the weather, and also…
+
+[Mateo Nader] 11:15:15
+Cbt thought about, like. Emergency vehicles and delivery trucks.
+
+[Mateo Nader] 11:15:21
+Which is very important for streets. Shoe design.
+
+[Duanya Lyu] 11:15:27
+This one has, like… larger gaps, even larger.
+
+[Mateo Nader] 11:15:35
+Yeah, I mean, I feel like ChatGPT overall has gone better, but, like.
+
+[Mateo Nader] 11:15:40
+Responding… more like a human, and I think the responses were also, like, longer, so… had a lot more…
+
+[Mateo Nader] 11:15:50
+Feedback to give, and… a lot more personality to show, I guess.
+
+[Duanya Lyu] 11:15:59
+And… uh… Second-wise…
+
+[Duanya Lyu] 11:16:05
+Overall, the system is satisfied by the cyclist.
+
+[Mateo Nader] 11:16:13
+Yeah, I think both, but solid with the cyclists, but the ChatGBT did a better job understanding the.
+
+[Mateo Nader] 11:16:21
+Driver. And also how, like, the driver and cyclist interact.
+
+[Duanya Lyu] 11:16:30
+The last set-off question is on, like, will you be using this in the… Future.
+
+[Duanya Lyu] 11:16:38
+Okay, um, I think you clicked, like, you… give sign for all of these questions?
+
+[Duanya Lyu] 11:16:46
+Okay. Huh. But the last pilot, like, study taker stick.
+
+[Duanya Lyu] 11:16:54
+He actually suggest by adding. This question hasn't changed. I will talk to ZE about this. Um…
+
+[Duanya Lyu] 11:17:03
+About the three components of the system. Uh, you give… 5 for the…
+
+[Duanya Lyu] 11:17:12
+Like the generative new design, evaluate the part. And we give some 4s and some fives.
+
+[Mateo Nader] 11:17:23
+Yeah. For the fours… That's what I'd like to see him go.
+
+[Mateo Nader] 11:17:31
+More in-depth. Um, yeah, after seeing how the chat GPT responded, there's definitely, like, a lot more that.
+
+[Mateo Nader] 11:17:40
+The AI could… provide with regards to feedback.
+
+[Duanya Lyu] 11:17:55
+I think that's… All for the servants. I think it's… I feel like, asking interview takers, like, how they…
+
+[Duanya Lyu] 11:18:05
+Why they choose what they choose, Miss Elizabeth. Difficult, this part is a little bit difficult in this, because.
+
+[Mateo Nader] 11:18:11
+Yeah.
+
+[Duanya Lyu] 11:18:14
+The questions, they're not, like, clear separation with each other. Sometimes they have asked them.
+
+[Duanya Lyu] 11:18:19
+Repeated questions. Uh, there are two apps or questions in the…
+
+[Duanya Lyu] 11:18:28
+This, like, uh… It's not in the survey, but you have to… Ask them? Is…
+
+[Duanya Lyu] 11:18:34
+The last two questions. Is, like, a more general, like, really, like, AI designer relationship.
+
+[Mateo Nader] 11:18:40
+Okay.
+
+[Duanya Lyu] 11:18:46
+How do we envision, like, incorporating this feedback feedbacks into your workflow?
+
+[Mateo Nader] 11:18:46
+Yeah.
+
+[Duanya Lyu] 11:18:53
+If you are a road designer.
+
+[Mateo Nader] 11:18:58
+Okay. Do you want me to answer that, or…
+
+[Duanya Lyu] 11:19:03
+Yeah, yeah, like, you have to ask them, like, two extra questions.
+
+[Mateo Nader] 11:19:09
+Yeah. A similar, it's like a… baseline for the design process, and also…
+
+[Mateo Nader] 11:19:18
+If the designers want to involve, like. Public feedback, or doing some type of…
+
+[Mateo Nader] 11:19:26
+Public involvement for the designs. This could be a good baseline for… what options to show people, and what kind of…
+
+[Mateo Nader] 11:19:36
+Questions or points you want to bring up to… the people who are helping design this.
+
+[Mateo Nader] 11:19:42
+Then, I guess that goes into the second question, that, like.
+
+[Mateo Nader] 11:19:46
+It should be more of, like, a… compliments, uh, road designers.
+
+[Mateo Nader] 11:19:51
+Let's, like, help them… got started with the road design process.
+
+[Duanya Lyu] 11:20:02
+From your perspective, like, AI cannot replace road designers.
+
+[Mateo Nader] 11:20:10
+No, I think, ultimately, road designers and… As if they choose to… Include public, but…
+
+[Mateo Nader] 11:20:18
+They'll ultimately understand the context better. An AI would.
+
+[Duanya Lyu] 11:20:25
+Yeah, and I remember you also mentioned, like, uh… AI doesn't have the… the local context knowledge.
+
+[Duanya Lyu] 11:20:37
+Yeah, that's… yeah, that's, like.
+
+[Mateo Nader] 11:20:38
+Yeah, it's like traffic patterns, especially, like, throughout a day. And then… other things, like…
+
+[Mateo Nader] 11:20:47
+Maybe a certain road is used in different ways, like, or if there's events and stuff.
+
+[Mateo Nader] 11:20:54
+That need to be considered.
+
+[Duanya Lyu] 11:21:01
+That's all. Yeah, I see. We don't have more…
+
+[Duanya Lyu] 11:21:07
+Yeah, and after the interview, uh… like, uh, I need to gather your interaction log data, and uh…
+
+[Duanya Lyu] 11:21:18
+Three screenshots.
+
+[Mateo Nader] 11:21:23
+Interaction log? Is that, like, what I downloaded, or… the JSON.
+
+[Duanya Lyu] 11:21:26
+Yeah, I think, yeah, yeah. Uh… and the three screenshot, and…
+
+[Duanya Lyu] 11:21:34
+The, like, for, like, for you as an interviewer. The recordings and the…
+
+[Duanya Lyu] 11:21:42
+Transcript will be in the Google… thrive.
+
+[Duanya Lyu] 11:21:50
+Wait, where is it?
+
+[Duanya Lyu] 11:21:56
+In the… will be in the Google Drive.
+
+[Duanya Lyu] 11:22:04
+Yes, and… And there's also a…
+
+[Duanya Lyu] 11:22:11
+Like a hot take or study note, or, like… like, suggestions… to improve the system, like…
+
+[Duanya Lyu] 11:22:19
+The things happening in the interview. I'm taking note, and uh… The question is also taking note during this process.
+
+[Duanya Lyu] 11:22:28
+And after the interview, we will… like, copy-paste our…
+
+[Duanya Lyu] 11:22:38
+Notes in this endpoint. Study Hot Takes. We will, like…
+
+[Mateo Nader] 11:22:41
+Okay.
+
+[Duanya Lyu] 11:22:44
+Here's the study hall takes here.
+
+[Duanya Lyu] 11:22:50
+And to get you, like… like, more… some more, like, more background of this study, there is also a…
+
+[Duanya Lyu] 11:22:59
+With, like I saw it. There's also the research question.
+
+[Duanya Lyu] 11:23:03
+Survey questions, we're questioning this study.
+
+[Duanya Lyu] 11:23:12
+Who's still… Oh, this one. So, in…
+
+[Duanya Lyu] 11:23:17
+The one IC'd in the email I sent you, the ZE one.
+
+[Duanya Lyu] 11:23:24
+She's the… she's the lead designer of the system, and this interview.
+
+[Duanya Lyu] 11:23:30
+And, uh… According to her, the main research question is…
+
+[Duanya Lyu] 11:23:38
+How do you, like… whether this or, like, how can this system.
+
+[Duanya Lyu] 11:23:43
+Help designer to design bank facilities. And that's the overarching goal of this study.
+
+[Duanya Lyu] 11:23:51
+And while you are… During this interview, like you?
+
+[Duanya Lyu] 11:23:57
+You, like, you've just asked me to be a question, like, questions.
+
+[Duanya Lyu] 11:24:00
+Around that, uh… research top… research topic.
+
+[Duanya Lyu] 11:24:05
+Like, do they feel like it… helps or it doesn't help?
+
+[Duanya Lyu] 11:24:16
+Let us just gather… document that she's talking about?
+
+[Duanya Lyu] 11:24:19
+I will ask her to add you into this folder.
+
+[Duanya Lyu] 11:24:29
+When you, like, reply to, like, when you send me the documents, you can reply to the email I send you, and… If you have any, like.
+
+[Duanya Lyu] 11:24:39
+Like, bugs, or… things seem like they can improve in the system. Like, you can also write in that email.
+
+[Duanya Lyu] 11:24:47
+And, like, CE will go through them, and… She will make necessary updates to the system.
+
+[Duanya Lyu] 11:24:58
+And show you clips plans, we do another pilot study. And us two together, maybe you can leave, if you feel like it?
+
+[Duanya Lyu] 11:25:06
+And we will, after that, and when the system is settled, he will… send an invitation to…
+
+[Duanya Lyu] 11:25:16
+20-something professionals, and we will… to actual interview with them.
+
+[Duanya Lyu] 11:25:28
+Do you have more questions about those?
+
+[Mateo Nader] 11:25:34
+Uh, alright, now. Well, I don't know if I have any, if I look through the interview questions and stuff, but… I have a good idea of…
+
+[Mateo Nader] 11:25:43
+The project and the goals and everything, so, yeah.
+
+[Duanya Lyu] 11:25:48
+Okay. And the… I like to pre-interview email I send you is only… is also a draft, it's, like, for pilot study.
+
+[Duanya Lyu] 11:25:58
+Like, we… I think we're gonna need to work on that email better.
+
+[Duanya Lyu] 11:26:02
+Later, yeah. Okay, I think that's all for today.
+
+[Mateo Nader] 11:26:04
+Okay.
+
+[Duanya Lyu] 11:26:10
+Christian, have you noticed anything, like… I'd be wrong, or, like, I'm using, like, worth discussing.
+
+[Kexin Zhou] 11:26:17
+Uh, no.
+
+[Duanya Lyu] 11:26:19
+Okay. Okay. Yeah.
+
+[Kexin Zhou] 11:26:23
+Okay, I gotta stop recording now.
+
+[Duanya Lyu] 11:26:26
+Yes.
+
+[Duanya Lyu] 11:26:33
+Yes. Oh, all we have today, I think. Yeah, like… if, like, any, like, information that's email or text, chats.
+
+[Mateo Nader] 11:26:45
+All right.
+
+[Duanya Lyu] 11:26:45
+Let's… yeah. All right, uh, see you later. Bye, by
+
+[Kexin Zhou] 11:26:51
+Bye, guys
+

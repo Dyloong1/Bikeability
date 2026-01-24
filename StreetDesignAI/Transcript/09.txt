@@ -1,0 +1,3102 @@
+[Sam Ergina] 15:00:52
+Hello?
+
+[Duanya Lyu] 15:01:09
+Hi.
+
+[Sam Ergina] 15:01:10
+Hi. How's it going?
+
+[Duanya Lyu] 15:01:13
+Good, how are you?
+
+[Sam Ergina] 15:01:14
+Good, thanks.
+
+[Duanya Lyu] 15:01:17
+Um, let's see if background about me before we go into the interview.
+
+[Duanya Lyu] 15:01:23
+Uh… I'm, uh, major student with Jacob, and…
+
+[Duanya Lyu] 15:01:28
+Uh, I also…
+
+[Duanya Lyu] 15:01:30
+work the… worked with Saga.
+
+[Duanya Lyu] 15:01:33
+I believe, like, he recommends you to do this interview with Jacob.
+
+[Duanya Lyu] 15:01:40
+And then…
+
+[Sam Ergina] 15:01:43
+Yeah, nice to meet you. Um, I work with Sagar, and uh…
+
+[Sam Ergina] 15:01:49
+don't… he may have given me some background about what we're doing, uh…
+
+[Sam Ergina] 15:01:56
+But that may have been a little bit ago. I know I filled out that…
+
+[Sam Ergina] 15:02:01
+pre-study survey, um, but…
+
+[Sam Ergina] 15:02:04
+Yeah, I was… he asked if…
+
+[Sam Ergina] 15:02:07
+There are volunteers willing to help, and I said, sure. So, coming into this a little…
+
+[Sam Ergina] 15:02:13
+Um…
+
+[Sam Ergina] 15:02:15
+a little green, but I'm excited to learn more about what y'all are doing.
+
+[Duanya Lyu] 15:02:19
+Yeah, I… I really…
+
+[Duanya Lyu] 15:02:23
+like, hope you can get something from this in the room, because, like, I personally feel like it's a very interesting tool to use.
+
+[Sam Ergina] 15:02:32
+Hmm.
+
+[Duanya Lyu] 15:02:33
+Did you get the chance to watch the YouTube video?
+
+[Duanya Lyu] 15:02:36
+Yeah.
+
+[Sam Ergina] 15:02:37
+Uh, I did not. Sorry.
+
+[Duanya Lyu] 15:02:39
+That's okay, like, yeah, it's just, like, a preview of what this system does.
+
+[Sam Ergina] 15:02:40
+Um…
+
+[Duanya Lyu] 15:02:45
+But it's okay, like, we can't work.
+
+[Sam Ergina] 15:02:45
+Okay.
+
+[Duanya Lyu] 15:02:47
+So, what work is through step-by-step in this interview.
+
+[Sam Ergina] 15:02:51
+Cool.
+
+[Duanya Lyu] 15:02:54
+Uh, the briefs, uh, a very brief, like, agenda of this interview is,
+
+[Duanya Lyu] 15:03:00
+Uh, we are going to…
+
+[Duanya Lyu] 15:03:03
+test the system, and we will ask you to…
+
+[Duanya Lyu] 15:03:07
+Uh, share your screen and share your thoughts, like, anything, like, speak anything you feel want, you, like, you want to speak during this process.
+
+[Duanya Lyu] 15:03:15
+And we will use that tool.
+
+[Duanya Lyu] 15:03:18
+And we will try to compare them. We will do this with…
+
+[Duanya Lyu] 15:03:23
+like, web page, GPT, and we will see.
+
+[Duanya Lyu] 15:03:26
+I do find, like…
+
+[Duanya Lyu] 15:03:28
+any, like, interesting thing, or, like…
+
+[Duanya Lyu] 15:03:32
+weakness of the system we developed.
+
+[Duanya Lyu] 15:03:35
+Yeah, and we will ask a few, like, closing questions.
+
+[Sam Ergina] 15:03:39
+Okay.
+
+[Sam Ergina] 15:03:44
+Uh, so do you want… what do I need to do? Should I open the…
+
+[Duanya Lyu] 15:03:47
+Yeah, like, um…
+
+[Duanya Lyu] 15:03:49
+Do you have the email, Matteo sent you?
+
+[Sam Ergina] 15:03:53
+Yes, um…
+
+[Duanya Lyu] 15:03:59
+will be, like, comfortable sharing your screen, and I record this meeting?
+
+[Sam Ergina] 15:04:04
+Mm-hmm.
+
+[Sam Ergina] 15:04:09
+Okay, let me…
+
+[Sam Ergina] 15:04:11
+Sorry, open…
+
+[Sam Ergina] 15:04:17
+instructions, and then…
+
+[Sam Ergina] 15:04:19
+Show my screen…
+
+[Sam Ergina] 15:04:31
+Okay.
+
+[Duanya Lyu] 15:04:34
+Okay…
+
+[Sam Ergina] 15:04:34
+So…
+
+[Sam Ergina] 15:04:39
+This is where I put these locations in.
+
+[Duanya Lyu] 15:04:41
+Yeah, like, that's, like, only suggested if you want to, like, have a location in your mind, you can also, like, navigate there.
+
+[Sam Ergina] 15:04:49
+Okay.
+
+[Duanya Lyu] 15:04:50
+I think we're missing our thoughts.
+
+[Duanya Lyu] 15:04:53
+or longitude.
+
+[Sam Ergina] 15:04:53
+Oh, oops.
+
+[Duanya Lyu] 15:05:01
+And, uh…
+
+[Duanya Lyu] 15:05:03
+What this function does is, like,
+
+[Duanya Lyu] 15:05:05
+incorporates…
+
+[Duanya Lyu] 15:05:07
+Uh, we'll go straight view, and you can…
+
+[Duanya Lyu] 15:05:11
+see the street view.
+
+[Duanya Lyu] 15:05:13
+like, photo of the location you like.
+
+[Duanya Lyu] 15:05:16
+You want to work on?
+
+[Duanya Lyu] 15:05:18
+And you can just, like, navigate an angle, or a…
+
+[Duanya Lyu] 15:05:23
+viewpoint, and we can, like, use that at the starting point of this.
+
+[Duanya Lyu] 15:05:28
+Uh, analysis.
+
+[Sam Ergina] 15:05:31
+Okay, uh…
+
+[Sam Ergina] 15:05:34
+Do you mean, like, navigate to an angle, like, street view, like this?
+
+[Duanya Lyu] 15:05:37
+Yeah, because, like, this tool is on, like, bike facility evaluation, like, is this…
+
+[Duanya Lyu] 15:05:43
+certifiable or not, yeah.
+
+[Duanya Lyu] 15:05:46
+You can, like, go down the street, go, like, yeah, find a place you feel interesting.
+
+[Sam Ergina] 15:05:52
+Okay. Um…
+
+[Sam Ergina] 15:06:01
+Do we want to focus on one that has…
+
+[Sam Ergina] 15:06:03
+some bike infrastructure.
+
+[Duanya Lyu] 15:06:06
+It's up to you, yeah. As long as it's, like, in the row segment, not an intersection.
+
+[Duanya Lyu] 15:06:13
+Yeah, anywhere is okay, yeah.
+
+[Sam Ergina] 15:06:13
+Okay.
+
+[Sam Ergina] 15:06:15
+I could go with this.
+
+[Duanya Lyu] 15:06:19
+Uh, this tool is a little bit difficult, like, the UI is not that good, so…
+
+[Sam Ergina] 15:06:25
+I don't want to make this too complicated. What's, like, a…
+
+[Duanya Lyu] 15:06:25
+a few, yeah.
+
+[Duanya Lyu] 15:06:27
+Yeah, yeah, that photo is good, I'm talking about, like, the tool, like, the UI design is not that good.
+
+[Sam Ergina] 15:06:32
+Oh, okay.
+
+[Duanya Lyu] 15:06:34
+Uh, because, uh…
+
+[Duanya Lyu] 15:06:36
+Yeah, this location is good, and you may want to, like…
+
+[Sam Ergina] 15:06:38
+Okay.
+
+[Duanya Lyu] 15:06:42
+tune out the window, like, full screen the window, maybe?
+
+[Duanya Lyu] 15:06:49
+Uh, the Chrome, yeah.
+
+[Sam Ergina] 15:06:49
+Oh, I didn't even realize this was.
+
+[Sam Ergina] 15:06:53
+Okay.
+
+[Duanya Lyu] 15:06:55
+And this is like a…
+
+[Duanya Lyu] 15:06:57
+Canvas, like, interaction, like, if you hit control,
+
+[Duanya Lyu] 15:07:01
+And scroll your mouse,
+
+[Duanya Lyu] 15:07:02
+it will zoom in, zoom out.
+
+[Duanya Lyu] 15:07:05
+If you hit control, yeah, and if, like, that window, you can drag them anywhere, like, you want to organize them, yeah.
+
+[Sam Ergina] 15:07:12
+Okay.
+
+[Duanya Lyu] 15:07:13
+And… this?
+
+[Duanya Lyu] 15:07:17
+view you just selected will be, uh…
+
+[Duanya Lyu] 15:07:20
+input for the following analysis, and…
+
+[Duanya Lyu] 15:07:22
+If you hit, like, generate evaluation,
+
+[Duanya Lyu] 15:07:26
+And it will, like, it will analyze this picture, it will analyze this longitude and latitude,
+
+[Duanya Lyu] 15:07:35
+And it will give an evaluation of…
+
+[Duanya Lyu] 15:07:38
+how bikeable it is.
+
+[Sam Ergina] 15:07:41
+Okay.
+
+[Duanya Lyu] 15:07:49
+Yeah…
+
+[Sam Ergina] 15:07:50
+Okay.
+
+[Duanya Lyu] 15:07:54
+Take some time, read about the results, and…
+
+[Duanya Lyu] 15:07:57
+Feel free to share anything you feel about this.
+
+[Sam Ergina] 15:08:02
+Okay, uh…
+
+[Sam Ergina] 15:08:09
+There is a reasonable speed limit, making it relatively safe and easy to navigate.
+
+[Sam Ergina] 15:08:14
+Presence of parked cars in limited lanes may cause…
+
+[Sam Ergina] 15:08:18
+suggestion, especially when you're crossings and traffic signals. Oh, this is for…
+
+[Sam Ergina] 15:08:23
+driver… okay.
+
+[Sam Ergina] 15:08:28
+Infrastructure, safety for childish cyclists…
+
+[Sam Ergina] 15:08:31
+No speed limit…
+
+[Sam Ergina] 15:08:36
+Okay, so are these…
+
+[Sam Ergina] 15:08:42
+what it is 4 boxes here?
+
+[Duanya Lyu] 15:08:47
+Uh, this for, like, this is, uh, like,
+
+[Duanya Lyu] 15:08:51
+how it's a way to classify cyclists.
+
+[Duanya Lyu] 15:08:55
+And, uh, this too is focused online.
+
+[Duanya Lyu] 15:08:58
+likeable or not, so we consider two perspectives.
+
+[Duanya Lyu] 15:09:02
+safety and comfort.
+
+[Duanya Lyu] 15:09:03
+And we, uh, based on, like, previous study,
+
+[Duanya Lyu] 15:09:08
+like, we cook, like, we classify the four categories.
+
+[Duanya Lyu] 15:09:12
+And from, like, very strong, fearless cyclists to the very…
+
+[Duanya Lyu] 15:09:18
+like, very cautious, very, like…
+
+[Duanya Lyu] 15:09:20
+No way, no house cyclists.
+
+[Sam Ergina] 15:09:22
+Okay, so it's…
+
+[Duanya Lyu] 15:09:22
+Like, we try to mimic, yeah.
+
+[Sam Ergina] 15:09:25
+Yeah, like, level of experience, or…
+
+[Sam Ergina] 15:09:29
+comfort with cycling. So this is basically saying that
+
+[Sam Ergina] 15:09:33
+for all cyclists except…
+
+[Sam Ergina] 15:09:36
+those who, like, are…
+
+[Sam Ergina] 15:09:38
+like, the lowest level of experience or comfort, it's a 6 out of 10 in…
+
+[Sam Ergina] 15:09:44
+Total score.
+
+[Duanya Lyu] 15:09:47
+Yeah, yeah, like, how they see this…
+
+[Duanya Lyu] 15:09:51
+road segments, yeah.
+
+[Sam Ergina] 15:09:53
+Okay.
+
+[Sam Ergina] 15:09:57
+Um…
+
+[Sam Ergina] 15:09:59
+Street is narrow with our cars, why the traffic speed and potential…
+
+[Sam Ergina] 15:10:08
+Oh, the tree cover is interesting.
+
+[Sam Ergina] 15:10:12
+Traffic seems slow…
+
+[Sam Ergina] 15:10:16
+Okay, um…
+
+[Sam Ergina] 15:10:22
+And then… what…
+
+[Sam Ergina] 15:10:24
+What would you like to do next, Hari?
+
+[Duanya Lyu] 15:10:28
+And then comments on this? Do you feel like they are…
+
+[Duanya Lyu] 15:10:32
+human-like, or they… it doesn't make sense, or, like, anything you find interesting.
+
+[Sam Ergina] 15:10:38
+Um…
+
+[Sam Ergina] 15:10:41
+I think it seems pretty…
+
+[Sam Ergina] 15:10:46
+I think the boxes and the categorization of the…
+
+[Sam Ergina] 15:10:51
+cyclists, maybe, is…
+
+[Sam Ergina] 15:10:54
+Um… not super clear…
+
+[Sam Ergina] 15:10:58
+Unless it was explained somewhere else that this is how they're divided, um…
+
+[Sam Ergina] 15:11:04
+So, maybe just, like, a little more…
+
+[Sam Ergina] 15:11:08
+description or explanation, um…
+
+[Sam Ergina] 15:11:14
+Inteous and confident.
+
+[Sam Ergina] 15:11:17
+like, I don't know, I…
+
+[Sam Ergina] 15:11:19
+I understand that No Way, No How is, like, the lowest level of experience, but…
+
+[Sam Ergina] 15:11:24
+If it's called No Way Know How, then it seems sort of like…
+
+[Sam Ergina] 15:11:30
+counter… counter to logic that they would…
+
+[Sam Ergina] 15:11:33
+do it in any situation.
+
+[Sam Ergina] 15:11:36
+Uh, so maybe if it's just, like…
+
+[Sam Ergina] 15:11:39
+very new, or, like, inexperienced in it or something. Um…
+
+[Duanya Lyu] 15:11:48
+any of those evaluations that you…
+
+[Duanya Lyu] 15:11:52
+Like, you haven't considered before, or, like, they are all very, like…
+
+[Duanya Lyu] 15:11:56
+intuitive.
+
+[Sam Ergina] 15:11:58
+I think they're pretty…
+
+[Sam Ergina] 15:12:00
+intuitive and straightforward, um…
+
+[Sam Ergina] 15:12:06
+The…
+
+[Sam Ergina] 15:12:11
+I would probably group, like, it looks like the traffic speed isn't a consideration in the Strong and Fearless.
+
+[Sam Ergina] 15:12:18
+category, but…
+
+[Sam Ergina] 15:12:20
+Um…
+
+[Sam Ergina] 15:12:22
+I would say…
+
+[Sam Ergina] 15:12:26
+traffic speed, and also, like, traffic volume would probably be a…
+
+[Sam Ergina] 15:12:31
+key consideration. I don't know if that's something that would be able to be gauged through this tool, but…
+
+[Sam Ergina] 15:12:37
+Um…
+
+[Sam Ergina] 15:12:39
+I think especially for…
+
+[Sam Ergina] 15:12:43
+less experienced or confident cyclists, like, the volume of traffic could be a pretty big…
+
+[Sam Ergina] 15:12:49
+Or lack thereof, could make a big difference, and…
+
+[Sam Ergina] 15:12:53
+comfort, um…
+
+[Sam Ergina] 15:12:58
+I'm trying to think of anything else…
+
+[Sam Ergina] 15:13:03
+It looks like there's…
+
+[Sam Ergina] 15:13:06
+So I don't… I… also, I don't know if in the context, if we're supposed to know this street well, but, like, is this a one-way, is it a two-way? It sort of looks like…
+
+[Sam Ergina] 15:13:15
+at least it's a one-way based on its parking configuration, but is there just, like, a parking lane on one side and not the other?
+
+[Sam Ergina] 15:13:21
+Or maybe just nobody's parked.
+
+[Sam Ergina] 15:13:23
+Um, but understanding that, I think, could also be…
+
+[Sam Ergina] 15:13:28
+a good… condition.
+
+[Sam Ergina] 15:13:31
+to understand, um…
+
+[Duanya Lyu] 15:13:38
+Yeah, the one way too is, like, a very good point, like, yeah, then…
+
+[Duanya Lyu] 15:13:44
+I think, like, the… I can see, like, the machine, like, the AI is trying to understand that, yeah.
+
+[Duanya Lyu] 15:13:50
+We don't have enough information.
+
+[Sam Ergina] 15:13:52
+Yeah, is it… so… is the AI tool basically just, like, scanning this, like, a photo, or is it somehow, like, geolocating it?
+
+[Sam Ergina] 15:14:03
+I don't really understand AI tools very well, but um…
+
+[Sam Ergina] 15:14:08
+Because I can see if it's just going off the picture, it would have a lot of difficulty, especially with, like, there's…
+
+[Sam Ergina] 15:14:14
+it… if there is striping on this road, you can't really see any of it, so…
+
+[Sam Ergina] 15:14:18
+That would make it kind of difficult.
+
+[Duanya Lyu] 15:14:22
+Um, I don't know how familiar with… you are with, like, math data.
+
+[Duanya Lyu] 15:14:28
+Uh, the tool, like, apart from this image, this Google Street View, it also includes
+
+[Duanya Lyu] 15:14:34
+OpenStreetMap data, it's…
+
+[Sam Ergina] 15:14:36
+Oh, it does.
+
+[Duanya Lyu] 15:14:36
+Try to capture something, yeah, but…
+
+[Duanya Lyu] 15:14:39
+It's also, like, very dependent on the quality of that map data, yeah.
+
+[Sam Ergina] 15:14:44
+Yeah. Okay.
+
+[Sam Ergina] 15:14:46
+But yeah, so it is pulling from, like, data sources beyond just a physical scanning of some kind.
+
+[Sam Ergina] 15:14:53
+of the street view. Um, okay.
+
+[Sam Ergina] 15:14:57
+Should we… should I click… see what this in-depth analysis is?
+
+[Duanya Lyu] 15:15:01
+Yes.
+
+[Sam Ergina] 15:15:04
+Yeah, this… this UI is…
+
+[Sam Ergina] 15:15:07
+Very strange, very strange to navigate.
+
+[Duanya Lyu] 15:15:13
+previous interview, like, we spent a lot of time inter, like, explaining how to use it, yeah.
+
+[Sam Ergina] 15:15:22
+Uh, okay.
+
+[Duanya Lyu] 15:15:26
+Um, this function, like, what this function does is, like, it tries to…
+
+[Sam Ergina] 15:15:27
+Okay, okay, there we go.
+
+[Duanya Lyu] 15:15:31
+Like, uh…
+
+[Duanya Lyu] 15:15:33
+try to be, like, each person as, like, to…
+
+[Duanya Lyu] 15:15:37
+say, like, like, to have a more in-depth analysis or more conversation, like…
+
+[Sam Ergina] 15:15:43
+Okay.
+
+[Duanya Lyu] 15:15:43
+analysis, yeah.
+
+[Sam Ergina] 15:15:54
+Okay. As a driver who uses remote wrangling open to bike lane improvements, but concerned about practical impacts, we need solutions that don't create congestion during peak hours.
+
+[Sam Ergina] 15:16:04
+Clear land markings and predictable cyclist behavior would actually help drivers, too. That's a good point.
+
+[Sam Ergina] 15:16:10
+Um…
+
+[Sam Ergina] 15:16:17
+I'm curious how they got… how they…
+
+[Sam Ergina] 15:16:19
+made this little blurb, because it's like, yeah, I feel like a driver would say this about pretty much any…
+
+[Sam Ergina] 15:16:26
+Road segment.
+
+[Sam Ergina] 15:16:28
+Not that it's not true. Give me some infrastructure, I still wouldn't cycle for me to even consider it. You need fully protected cycle tracks, completely separate from traffic.
+
+[Sam Ergina] 15:16:36
+I think Copenhagen-Fell Infrastructure.
+
+[Sam Ergina] 15:16:39
+Yeah, that would be great. Anything less is unacceptable, given the risks involved.
+
+[Sam Ergina] 15:16:43
+Okay, paint alone won't address my safety concerns.
+
+[Sam Ergina] 15:16:50
+Fair. I'd be curious, so I guess maybe we could do this in the comparative analysis, but…
+
+[Sam Ergina] 15:16:55
+like,
+
+[Sam Ergina] 15:16:59
+how this score on a relatively low speed look…
+
+[Sam Ergina] 15:17:03
+I'm assuming low traffic volume, I don't know, but…
+
+[Sam Ergina] 15:17:06
+Seems like just a neighborhood street somewhere.
+
+[Sam Ergina] 15:17:09
+Um, with minimal infrastructure would compare to, like, a…
+
+[Sam Ergina] 15:17:13
+higher tier, maybe protected bike lane on a busier street.
+
+[Sam Ergina] 15:17:19
+Um…
+
+[Sam Ergina] 15:17:22
+that maybe, like, feel… that is a little more separated from traffic itself.
+
+[Sam Ergina] 15:17:26
+more, like, clearly, but also is around…
+
+[Sam Ergina] 15:17:30
+higher risk traffic, um…
+
+[Sam Ergina] 15:17:32
+So is that what the comparative analysis is for?
+
+[Duanya Lyu] 15:17:39
+Yeah, it's something like that, but yeah, we still have…
+
+[Duanya Lyu] 15:17:43
+one more step to do, like, before we do that.
+
+[Sam Ergina] 15:17:44
+Oh, sorry, okay.
+
+[Duanya Lyu] 15:17:47
+Um, and…
+
+[Duanya Lyu] 15:17:49
+Another thing about the in-depth analysis, it is designed that you can
+
+[Duanya Lyu] 15:17:54
+chat with them, like, because, like, if you open that again, you can see it.
+
+[Duanya Lyu] 15:17:58
+chat box, like, in the, like, in the bottom.
+
+[Sam Ergina] 15:18:00
+Mm-hmm.
+
+[Duanya Lyu] 15:18:02
+Like, you… like, it is designed, like, you can ask them questions.
+
+[Duanya Lyu] 15:18:06
+Like, you want what you want to…
+
+[Duanya Lyu] 15:18:09
+Alright, maybe propose a design, or, like, propose a problem you notice, like, how they would see that.
+
+[Sam Ergina] 15:18:17
+Hmm, okay.
+
+[Sam Ergina] 15:18:19
+Ask about specific interview design recommendations first.
+
+[Sam Ergina] 15:18:36
+I, uh, parking…
+
+[Sam Ergina] 15:18:55
+Oh, this changes every time. This is a different answer than I had.
+
+[Sam Ergina] 15:19:01
+the last time I pressed in-depth analysis.
+
+[Duanya Lyu] 15:19:04
+We prefer it to stay the same, like, consistent, or you'll prefer, like, this way?
+
+[Sam Ergina] 15:19:20
+I guess I don't… I'm not sure… maybe this is just, like, in… from my experience, I don't know how much value I see in this.
+
+[Sam Ergina] 15:19:30
+like, style of…
+
+[Sam Ergina] 15:19:33
+analysis, I think, like…
+
+[Sam Ergina] 15:19:36
+Especially if it's…
+
+[Sam Ergina] 15:19:39
+If it's changing its response every time… like, if I were to enter the same text code, or, like,
+
+[Sam Ergina] 15:19:45
+question, and it gave me a different answer every time. I don't know how, like…
+
+[Sam Ergina] 15:19:51
+valuable…
+
+[Sam Ergina] 15:19:53
+that response would be, if that makes sense. Like…
+
+[Sam Ergina] 15:19:58
+I think I…
+
+[Sam Ergina] 15:20:00
+I would be unsure of what to really take away from
+
+[Sam Ergina] 15:20:04
+the messaging, if I know that it's changing its answer.
+
+[Sam Ergina] 15:20:07
+Every time the question is asked.
+
+[Duanya Lyu] 15:20:11
+Good, that's, like, this kind of, like, input is very, like, good, because…
+
+[Duanya Lyu] 15:20:16
+Like, people may have different preference, like, yeah, like, the reason behind them, like, are really…
+
+[Duanya Lyu] 15:20:22
+worth studying, because, yeah, this is, like, this study is for, like, interaction with AI, like, can it help design, so, like, this kind of information are really valuable.
+
+[Duanya Lyu] 15:20:32
+For this study, yeah.
+
+[Sam Ergina] 15:20:33
+Cool. Yeah, I mean, I think that, yeah, the responses that it's giving are…
+
+[Sam Ergina] 15:20:38
+Definitely interesting, I think…
+
+[Sam Ergina] 15:20:42
+fresh objects and separation from traffic…
+
+[Sam Ergina] 15:20:45
+I guess I would, like…
+
+[Sam Ergina] 15:20:50
+Is this design, sort of,
+
+[Sam Ergina] 15:20:54
+made for…
+
+[Sam Ergina] 15:20:56
+planners and practitioners, or is it for… is it supposed to be more, like, community-oriented, or is it supposed to be kind of more, like, accessible for everyone?
+
+[Sam Ergina] 15:21:05
+um… what's, like, the audio… what's the intended audience for the tool?
+
+[Duanya Lyu] 15:21:11
+Hmm… I think, um, like, the…
+
+[Duanya Lyu] 15:21:15
+Original thought is for designers and planners, yeah.
+
+[Sam Ergina] 15:21:19
+Okay.
+
+[Duanya Lyu] 15:21:19
+And, like, uh…
+
+[Duanya Lyu] 15:21:21
+But that's a really good point, like, if it, like, is it professional enough for designers and planners?
+
+[Duanya Lyu] 15:21:28
+If it's, like, more focused on…
+
+[Duanya Lyu] 15:21:30
+like, structured output, yeah.
+
+[Duanya Lyu] 15:21:34
+Is it useful or not, yeah.
+
+[Sam Ergina] 15:21:35
+Yeah, I think, like…
+
+[Sam Ergina] 15:21:38
+And again, maybe this is just not…
+
+[Sam Ergina] 15:21:41
+the right fit for the tool, but for me,
+
+[Sam Ergina] 15:21:44
+I feel like the, um…
+
+[Sam Ergina] 15:21:49
+space that could hold the most value for a tool like this is if…
+
+[Sam Ergina] 15:21:53
+Like, I see the photo, I… I could kind of…
+
+[Sam Ergina] 15:21:58
+judge the existing condition the way that…
+
+[Sam Ergina] 15:22:00
+this tool did, I would almost rather it just gave me the raw data of, like, this is the speed on this street, this is the…
+
+[Sam Ergina] 15:22:07
+number of lanes, blah blah blah, like, that sort of…
+
+[Sam Ergina] 15:22:10
+those sort of data points.
+
+[Sam Ergina] 15:22:12
+And then…
+
+[Sam Ergina] 15:22:15
+like, I could… I could…
+
+[Sam Ergina] 15:22:18
+form these kind of general understandings of how comfortable it is for different levels, but then what I would maybe ask the tool in a chat function like this is,
+
+[Sam Ergina] 15:22:26
+like,
+
+[Sam Ergina] 15:22:29
+Um…
+
+[Sam Ergina] 15:22:30
+what are…
+
+[Sam Ergina] 15:22:34
+like, what countermeasure or what infrastructure…
+
+[Sam Ergina] 15:22:38
+would, like…
+
+[Sam Ergina] 15:22:41
+I don't know, make this comfortable.
+
+[Sam Ergina] 15:22:43
+for everyone, and then have, like, each response say, like, for me, I would… I would need this infrastructure, I would need this level of infrastructure.
+
+[Sam Ergina] 15:22:52
+Um, as opposed to sort of, like,
+
+[Sam Ergina] 15:22:57
+this feels kind of more like a validation tool, where I say, like, hey, I think this is a good idea, what do you think? And then they say, like,
+
+[Duanya Lyu] 15:23:01
+Yeah, yeah,
+
+[Sam Ergina] 15:23:03
+This is a good idea, and this is maybe why it's not a good idea, which…
+
+[Sam Ergina] 15:23:07
+has some value, but I think is maybe less of, like, the…
+
+[Sam Ergina] 15:23:13
+automated processing that…
+
+[Sam Ergina] 15:23:15
+that I feel like a tool like this could…
+
+[Sam Ergina] 15:23:19
+yield the most value?
+
+[Sam Ergina] 15:23:21
+through…
+
+[Duanya Lyu] 15:23:24
+And that's a very good point. Maybe you can also try asking them, like,
+
+[Sam Ergina] 15:23:25
+I don't know if that's dating.
+
+[Duanya Lyu] 15:23:30
+What do you suggest about this work, like, this world, like, yeah.
+
+[Sam Ergina] 15:23:31
+Yeah.
+
+[Duanya Lyu] 15:23:39
+Hopefully, they will give you…
+
+[Duanya Lyu] 15:23:41
+Like, way too long here.
+
+[Sam Ergina] 15:23:41
+Yeah.
+
+[Sam Ergina] 15:24:00
+Oh, there you go. Okay.
+
+[Sam Ergina] 15:24:11
+Okay, I'm maintaining the link.
+
+[Sam Ergina] 15:24:17
+And share us for position and guidance, and ensure smooth pavement, current design could work.
+
+[Sam Ergina] 15:24:21
+Clear wayfinding…
+
+[Sam Ergina] 15:24:30
+oh, this is interesting, why…
+
+[Sam Ergina] 15:24:34
+Is there a reason why their orders are changing?
+
+[Sam Ergina] 15:24:40
+like…
+
+[Duanya Lyu] 15:24:40
+It is designed to, like, the most relevant answer to your question would be the order the first, yeah.
+
+[Sam Ergina] 15:24:47
+Okay.
+
+[Sam Ergina] 15:24:58
+Okay, I mean, this…
+
+[Sam Ergina] 15:25:00
+seems like it…
+
+[Sam Ergina] 15:25:03
+It could be…
+
+[Sam Ergina] 15:25:06
+interesting, just for, like, kind of…
+
+[Sam Ergina] 15:25:08
+pulling…
+
+[Sam Ergina] 15:25:11
+potential ideas, um…
+
+[Sam Ergina] 15:25:18
+Let's see… Is there any… can I do anything with these, like, highlighted terms, or are they just highlighted to, like,
+
+[Sam Ergina] 15:25:24
+emphasize.
+
+[Duanya Lyu] 15:25:27
+Things like semantic analysis, like, maybe that's words in the sentence is important.
+
+[Sam Ergina] 15:25:33
+Okay.
+
+[Sam Ergina] 15:25:37
+Um…
+
+[Sam Ergina] 15:25:43
+What if it's… what?
+
+[Sam Ergina] 15:25:46
+Where are you already…
+
+[Sam Ergina] 15:26:07
+Hmm… I feel like I gotta think this one through.
+
+[Sam Ergina] 15:26:11
+Don't we all?
+
+[Sam Ergina] 15:26:20
+Also, if you need to, like, move me along to any part…
+
+[Sam Ergina] 15:26:24
+Please feel free to give me a shout.
+
+[Duanya Lyu] 15:26:28
+Nice, no
+
+[Duanya Lyu] 15:26:30
+Yeah, so once, like, if you feel interested about certain, like…
+
+[Duanya Lyu] 15:26:33
+component, like, you can spend more time on it.
+
+[Duanya Lyu] 15:26:36
+like, we will guide you to, like, the…
+
+[Duanya Lyu] 15:26:40
+very brief, like, timeline, yeah.
+
+[Sam Ergina] 15:26:42
+Okay, cool.
+
+[Sam Ergina] 15:26:46
+implementing…
+
+[Sam Ergina] 15:26:48
+in front of psychological barrier…
+
+[Sam Ergina] 15:26:51
+Hmm. Okay, improving fishing, I'd recommend.
+
+[Sam Ergina] 15:26:56
+Clear grain conflict zone, scratch pavement…
+
+[Sam Ergina] 15:27:20
+Hmm.
+
+[Sam Ergina] 15:27:22
+Okay. I would say…
+
+[Sam Ergina] 15:27:26
+And maybe this is just from the questions that I'm asking. I feel like the…
+
+[Sam Ergina] 15:27:31
+information I'm getting from this is…
+
+[Sam Ergina] 15:27:33
+like,
+
+[Sam Ergina] 15:27:35
+good to know, but not necessarily, like…
+
+[Sam Ergina] 15:27:39
+critical or really impactful.
+
+[Sam Ergina] 15:27:47
+Personally. But I guess if you were, like, maybe if this was, like, your first…
+
+[Sam Ergina] 15:27:52
+biking project or something, and you're like, I don't know, I don't even know where to start with, like, what to put.
+
+[Sam Ergina] 15:27:56
+indifferent.
+
+[Sam Ergina] 15:27:58
+corridors, then this could be a really good, like, brainstorming session.
+
+[Duanya Lyu] 15:28:07
+Okay, maybe leave this window open, because…
+
+[Duanya Lyu] 15:28:11
+Like, by the end of this in my life, and…
+
+[Duanya Lyu] 15:28:15
+We will ask you to, like, screenshot.
+
+[Duanya Lyu] 15:28:18
+three, like, most useful thing you notice, yeah, maybe leave this open, and…
+
+[Sam Ergina] 15:28:22
+Okay.
+
+[Duanya Lyu] 15:28:24
+We can move on to the next part, and…
+
+[Duanya Lyu] 15:28:27
+Uh, if you click Adjust Design in the, like, yeah.
+
+[Duanya Lyu] 15:28:32
+And you are, like, given options, like, you can… you want the…
+
+[Duanya Lyu] 15:28:36
+improvement happens?
+
+[Duanya Lyu] 15:28:38
+Like, based on, like, discussion or your opinion, so I can select the design.
+
+[Duanya Lyu] 15:28:43
+Or you can enter your own VRAM requirement.
+
+[Sam Ergina] 15:28:47
+Hmm, okay.
+
+[Sam Ergina] 15:28:49
+Well, this… for the first one, if there's no bike lane, then…
+
+[Sam Ergina] 15:28:55
+would I automatically widen it?
+
+[Duanya Lyu] 15:29:00
+I think the two will try to find a bike lane of it, you know.
+
+[Sam Ergina] 15:29:07
+Okay, uh, well, I'll say why then, either way.
+
+[Sam Ergina] 15:29:11
+12 for widening bike lanes next to parked cars…
+
+[Sam Ergina] 15:29:16
+Um, buffer type…
+
+[Sam Ergina] 15:29:21
+And hello…
+
+[Sam Ergina] 15:29:24
+Um…
+
+[Sam Ergina] 15:29:26
+What else?
+
+[Sam Ergina] 15:29:30
+If it's, like, putting it on the curb versus off the curb, is that…
+
+[Sam Ergina] 15:29:35
+involved somewhere else.
+
+[Duanya Lyu] 15:29:39
+Uh… you mean, like, sidewalk cycling?
+
+[Sam Ergina] 15:29:42
+Yeah, like a… a cycle track or something that's, like, off-curb.
+
+[Duanya Lyu] 15:29:49
+Um, it's not designed as a default option, but you can, like,
+
+[Duanya Lyu] 15:29:54
+try and vary it. I'm not sure what will happen.
+
+[Sam Ergina] 15:29:57
+Okay.
+
+[Sam Ergina] 15:30:00
+I mean, I guess I wouldn't have…
+
+[Sam Ergina] 15:30:02
+there wouldn't be a buffer if it was off…
+
+[Sam Ergina] 15:30:06
+curve. Let's see what that looks like.
+
+[Sam Ergina] 15:30:09
+Did I just generate?
+
+[Duanya Lyu] 15:30:11
+Yeah. And…
+
+[Duanya Lyu] 15:30:13
+This might take a few minutes, because what's happening behind the screen is, like, it's then your…
+
+[Duanya Lyu] 15:30:19
+requirements, it sends this picture to…
+
+[Duanya Lyu] 15:30:22
+GPT and GPT will do some…
+
+[Duanya Lyu] 15:30:26
+like, uh, fig…
+
+[Duanya Lyu] 15:30:28
+bigger generation, yeah.
+
+[Sam Ergina] 15:30:30
+Hmm, okay.
+
+[Sam Ergina] 15:30:32
+What's this thing?
+
+[Duanya Lyu] 15:30:37
+It's a mouse.
+
+[Sam Ergina] 15:30:41
+Does it just a mouse?
+
+[Sam Ergina] 15:30:42
+Oh.
+
+[Duanya Lyu] 15:30:42
+Where is your mouse? Where is yours?
+
+[Sam Ergina] 15:30:45
+Oh, this might be for, uh… is this for Zoom? It's at the bottom left-hand corner.
+
+[Duanya Lyu] 15:30:46
+going to.
+
+[Sam Ergina] 15:30:50
+Can you see it?
+
+[Duanya Lyu] 15:30:52
+I'm not seeing it, so probably, yes.
+
+[Sam Ergina] 15:30:54
+Oh, maybe it's a Zoom thing.
+
+[Duanya Lyu] 15:30:55
+Yeah.
+
+[Sam Ergina] 15:31:06
+If it… when it has results, is it just gonna, like, pop up on the screen?
+
+[Duanya Lyu] 15:31:11
+I think we'll pop up a, like, a similar window, like, that's online for you.
+
+[Sam Ergina] 15:31:12
+Okay.
+
+[Sam Ergina] 15:31:15
+Okay.
+
+[Sam Ergina] 15:31:29
+Were you involved with designing this tool?
+
+[Duanya Lyu] 15:31:35
+Not very deep, like, uh…
+
+[Duanya Lyu] 15:31:37
+I was mainly doing the interview, but I was, like…
+
+[Duanya Lyu] 15:31:42
+um, explained very deeply about what's happening behind it.
+
+[Sam Ergina] 15:31:46
+Okay. Oh.
+
+[Duanya Lyu] 15:31:47
+Yeah.
+
+[Sam Ergina] 15:31:52
+Something…
+
+[Sam Ergina] 15:31:54
+Okay.
+
+[Sam Ergina] 15:31:59
+with wine and color green, buffer 9, it's not…
+
+[Sam Ergina] 15:32:04
+off the curb…
+
+[Sam Ergina] 15:32:08
+It's also in the center of the street.
+
+[Duanya Lyu] 15:32:11
+Yeah…
+
+[Sam Ergina] 15:32:19
+Okay, I mean, I guess, like, maybe on a narrow street like this, it…
+
+[Sam Ergina] 15:32:23
+wouldn't even make sense to…
+
+[Sam Ergina] 15:32:26
+Well, you could probably fit a little lane. It's hard to really see from this angle what width this road is.
+
+[Sam Ergina] 15:32:32
+I imagine it's pretty narrow, but…
+
+[Sam Ergina] 15:32:37
+I don't know if this is where the bike lane would have had to go.
+
+[Sam Ergina] 15:32:42
+Maybe… maybe I'll try…
+
+[Sam Ergina] 15:32:45
+But I had adjust design from here, or go to the first one to…
+
+[Sam Ergina] 15:32:50
+maybe put in some different parameters.
+
+[Duanya Lyu] 15:32:53
+Um…
+
+[Duanya Lyu] 15:32:55
+what, like, adjustment you have in mind?
+
+[Sam Ergina] 15:32:58
+I was thinking I would get rid of the, like, off-the-curb request. Maybe that was, like, confusing it, and then I was gonna see if I could…
+
+[Sam Ergina] 15:33:06
+set it behind or next to the parking lane.
+
+[Duanya Lyu] 15:33:10
+Well, maybe the original one, yeah.
+
+[Sam Ergina] 15:33:13
+Okay.
+
+[Duanya Lyu] 15:33:16
+There you are
+
+[Sam Ergina] 15:33:17
+Okay, so… that was…
+
+[Sam Ergina] 15:33:20
+That was unfair, I tricked you.
+
+[Sam Ergina] 15:33:23
+Um…
+
+[Sam Ergina] 15:33:25
+Next to moving cars, next to parked cars…
+
+[Sam Ergina] 15:33:30
+I'm assuming this means, like, on the right-hand side of the…
+
+[Sam Ergina] 15:33:35
+thing it's suggesting.
+
+[Sam Ergina] 15:33:39
+Um…
+
+[Sam Ergina] 15:33:42
+Yeah, let's say standard, maybe a little simpler.
+
+[Sam Ergina] 15:33:46
+Let's keep this… alright, let's go narrow.
+
+[Sam Ergina] 15:33:50
+What's that look like?
+
+[Sam Ergina] 15:33:56
+I do kind of like the idea of it producing some easy render or something like that.
+
+[Sam Ergina] 15:34:02
+Feels like a very, um…
+
+[Sam Ergina] 15:34:08
+convenient shortcut.
+
+[Duanya Lyu] 15:34:10
+Yeah.
+
+[Duanya Lyu] 15:34:15
+And I also like doing interviews on that function, because, like, you have, like, no prediction what's going to happen.
+
+[Sam Ergina] 15:34:24
+I know, it's kind of like, uh…
+
+[Sam Ergina] 15:34:27
+Um…
+
+[Sam Ergina] 15:34:29
+some sort of, like, lottery machine.
+
+[Duanya Lyu] 15:34:34
+And, like, you really, like, it works.
+
+[Duanya Lyu] 15:34:38
+Back there, the, like, already have, like, very clear bike lane, like, signage.
+
+[Duanya Lyu] 15:34:43
+Yeah, I mean, it can, like, easily recognize it here.
+
+[Sam Ergina] 15:34:47
+Yeah, I guess the… even the…
+
+[Sam Ergina] 15:34:49
+parameters make it seem like it's more for…
+
+[Sam Ergina] 15:34:54
+adjusting existing infrastructure than it is, like, adding in…
+
+[Sam Ergina] 15:34:58
+not to…
+
+[Sam Ergina] 15:35:01
+bike lanes that aren't already there.
+
+[Sam Ergina] 15:35:03
+Although I wonder how it would, like, what… how would it deal with, like, a share row? Did you do that in a previous interviewer condition?
+
+[Duanya Lyu] 15:35:16
+I think, yeah, yeah, and I think it's, like…
+
+[Duanya Lyu] 15:35:21
+kind of, like…
+
+[Duanya Lyu] 15:35:23
+consider that I share the road as bike, like, dedicated.
+
+[Duanya Lyu] 15:35:28
+Yeah, it's with, like, teens are laying green, you know.
+
+[Sam Ergina] 15:35:31
+Yeah. If you said expand it, it would just cover the whole street in, like, a green bike lane.
+
+[Sam Ergina] 15:35:38
+I mean, I'm all for that. That sounds great.
+
+[Sam Ergina] 15:35:45
+Yeah, I'm wondering about the comparison between…
+
+[Sam Ergina] 15:35:48
+Um, that, like, low traffic, but, like,
+
+[Sam Ergina] 15:35:51
+not as present infrastructure for biking versus…
+
+[Sam Ergina] 15:35:55
+high traffic with protected infrastructure, because…
+
+[Sam Ergina] 15:35:59
+it'll come up on, like, some projects more recently, I think, where we were trying to map
+
+[Sam Ergina] 15:36:04
+kind of like, um…
+
+[Sam Ergina] 15:36:07
+recommended…
+
+[Sam Ergina] 15:36:10
+strong cycling networks, and what we…
+
+[Sam Ergina] 15:36:12
+from a lot of community engagement, we saw that, um,
+
+[Sam Ergina] 15:36:17
+cyclists would much rather bike down a not-busy, small,
+
+[Sam Ergina] 15:36:23
+street, even if there's no bike lane or anything, than they would, like,
+
+[Sam Ergina] 15:36:27
+along a bike lane, but it's on, like, a busy…
+
+[Sam Ergina] 15:36:31
+Um… not even, like, arterial, even, like, a collector, or just, like, a somewhat busier street.
+
+[Sam Ergina] 15:36:37
+So, I'm interested in how it looks at…
+
+[Sam Ergina] 15:36:41
+that comparison, but okay, looks like…
+
+[Sam Ergina] 15:36:48
+Um…
+
+[Sam Ergina] 15:36:50
+So put the buffer on the side with the park.
+
+[Sam Ergina] 15:36:54
+car…
+
+[Sam Ergina] 15:36:56
+Which is interesting.
+
+[Sam Ergina] 15:37:04
+I think what I was expecting to get from that
+
+[Sam Ergina] 15:37:08
+design… so, narrow, green, standard,
+
+[Sam Ergina] 15:37:12
+The next to parked car, I guess that's where it's…
+
+[Sam Ergina] 15:37:16
+passing the buffer would go, but I assumed that that would mean there would be…
+
+[Sam Ergina] 15:37:20
+like, parked car lane, buffer…
+
+[Sam Ergina] 15:37:24
+bike lane, sidewalk, curb.
+
+[Sam Ergina] 15:37:28
+Um…
+
+[Sam Ergina] 15:37:31
+And so, this is…
+
+[Sam Ergina] 15:37:32
+kind of a funky…
+
+[Sam Ergina] 15:37:35
+output, um…
+
+[Sam Ergina] 15:37:38
+But, again, maybe I'm just using the adjust design tool.
+
+[Sam Ergina] 15:37:43
+Incorrectly.
+
+[Duanya Lyu] 15:37:46
+And now we can go to the comparative analysis.
+
+[Duanya Lyu] 15:37:50
+And, uh…
+
+[Sam Ergina] 15:37:51
+from the design scenario, or the existing condition?
+
+[Duanya Lyu] 15:37:58
+Uh, let's, like, uh… I just want to make sure I understand what you want to compare, yeah.
+
+[Duanya Lyu] 15:38:04
+Uh, you mentioned, like, you want to compare…
+
+[Duanya Lyu] 15:38:09
+OSUS2 is designed to compare, like, these two different designs.
+
+[Duanya Lyu] 15:38:13
+I'm thinking, like, I'm trying to figure out a way to, like, let it do what you want to do.
+
+[Sam Ergina] 15:38:18
+Okay.
+
+[Duanya Lyu] 15:38:20
+Yeah, maybe, like, we just compare the scenarios, and you can ask questions about
+
+[Duanya Lyu] 15:38:25
+like, traffic volume in the, like,
+
+[Duanya Lyu] 15:38:28
+within that function, yeah.
+
+[Duanya Lyu] 15:38:31
+Maybe select the existing condition and the adjusted conditions.
+
+[Duanya Lyu] 15:38:37
+You can select for, like, 3, 2…
+
+[Sam Ergina] 15:38:40
+Oh, okay.
+
+[Sam Ergina] 15:38:43
+So, like, okay, pick all of the scenarios in the existing, and then…
+
+[Sam Ergina] 15:38:48
+Create.
+
+[Sam Ergina] 15:38:53
+He's, like, weird boxes are…
+
+[Duanya Lyu] 15:38:56
+Here we go.
+
+[Sam Ergina] 15:38:59
+not easy to navigate.
+
+[Sam Ergina] 15:39:01
+How do I drag?
+
+[Sam Ergina] 15:39:03
+Okay.
+
+[Duanya Lyu] 15:39:03
+Uh, yeah, I just amplitude place, yes.
+
+[Duanya Lyu] 15:39:09
+like, the default discussion is just, like, discussing, like, what, like, what is better in what design.
+
+[Duanya Lyu] 15:39:16
+If you want to see, like,
+
+[Duanya Lyu] 15:39:18
+would they behave differently under different traffic, like, for different design, you can ask?
+
+[Duanya Lyu] 15:39:23
+than here.
+
+[Sam Ergina] 15:39:26
+Uh… okay.
+
+[Sam Ergina] 15:39:31
+If forced to choose existing condition is the least terrifying option.
+
+[Sam Ergina] 15:39:36
+Alright, well, that would be bad.
+
+[Sam Ergina] 15:39:40
+green paint makes me 4.
+
+[Sam Ergina] 15:39:44
+I strongly prefer existing condition. I associate safety concerns without physical protection.
+
+[Sam Ergina] 15:39:53
+The wider lane gives me more room to overtake slower cyclists, I can navigate without needing extra separation.
+
+[Sam Ergina] 15:40:04
+That's a second about their design.
+
+[Sam Ergina] 15:40:06
+Okay, so what did you think of these?
+
+[Sam Ergina] 15:40:12
+There he is… that's heavy.
+
+[Sam Ergina] 15:40:17
+Uh… motor vehicle… do I have to specify what…
+
+[Sam Ergina] 15:40:21
+When I say traffic for, like, cars versus…
+
+[Sam Ergina] 15:40:25
+cycle traffic?
+
+[Duanya Lyu] 15:40:31
+Maybe… I think it will integrate as…
+
+[Duanya Lyu] 15:40:35
+like, vehicle traffic, not sure.
+
+[Sam Ergina] 15:40:38
+Okay.
+
+[Sam Ergina] 15:40:53
+Separation of park cars is crucial for reducing stress.
+
+[Sam Ergina] 15:40:58
+So, heavy motor traffic design scenario one is water lane would be essential for maintaining speed and efficiency.
+
+[Sam Ergina] 15:41:05
+Okay, sort of the same… oh, okay, and it has its percent relevance, too.
+
+[Sam Ergina] 15:41:10
+Interesting, heavy traffic amplifies my concerns…
+
+[Sam Ergina] 15:41:16
+Making the existing condition slightly more appealing due to the buffer.
+
+[Sam Ergina] 15:41:23
+The existing condition doesn't have a buffer…
+
+[Sam Ergina] 15:41:40
+I don't… I don't know how I feel about these responses. I think…
+
+[Sam Ergina] 15:41:46
+It feels, especially in a…
+
+[Sam Ergina] 15:41:49
+tool like this that seems like it's making this comprehensive design scenario and spitting it out.
+
+[Sam Ergina] 15:41:56
+these responses feel very…
+
+[Sam Ergina] 15:42:00
+Um, what's the word? Compartmentalized to, like, the individual design choices, and not necessarily, like, the whole
+
+[Sam Ergina] 15:42:08
+design scenario put together, like…
+
+[Sam Ergina] 15:42:11
+It's…
+
+[Sam Ergina] 15:42:13
+It struck me more in the first responses, but something like…
+
+[Sam Ergina] 15:42:20
+Um…
+
+[Sam Ergina] 15:42:26
+like, the green paint makes me feel more legitimate on the road. The buffer zone reduces my stress level significantly.
+
+[Sam Ergina] 15:42:33
+But if the buffer zone is on the side of the parked car and not the motor vehicle, then, like,
+
+[Sam Ergina] 15:42:38
+Why would it…
+
+[Sam Ergina] 15:42:40
+reduce your stress that intensely.
+
+[Sam Ergina] 15:42:44
+Um, unless it's just scanning and analyzing and saying, like, you put a buffer in here.
+
+[Sam Ergina] 15:42:49
+here's the response of somebody who has a buffer, and not necessarily, like, where that buffer is.
+
+[Sam Ergina] 15:42:55
+the type that it is, um…
+
+[Sam Ergina] 15:42:58
+So, I find these answers a little lacking, I think.
+
+[Sam Ergina] 15:43:06
+in there, just in there, like…
+
+[Sam Ergina] 15:43:09
+depth of response.
+
+[Duanya Lyu] 15:43:17
+Just make sure I understand, like, uh, sorry, like, within each, like, reply, you find them, like…
+
+[Duanya Lyu] 15:43:24
+to, like, like, not holistic, not, like…
+
+[Duanya Lyu] 15:43:29
+concise, like, consistent within the reply.
+
+[Sam Ergina] 15:43:33
+Yeah, I don't… I don't know if it's a lack of…
+
+[Sam Ergina] 15:43:37
+Concision? Is that a word? But I think it's… I don't think it's that they're…
+
+[Duanya Lyu] 15:43:39
+Coffee guy
+
+[Sam Ergina] 15:43:40
+not concise enough, but I… but yes, about the holistic. I think that's the problem, is that it doesn't seem like it's…
+
+[Duanya Lyu] 15:43:41
+Yes.
+
+[Sam Ergina] 15:43:47
+analyzing the design. It doesn't seem like these responses are considering the design scenario from
+
+[Sam Ergina] 15:43:54
+a holistic view of the scenario. It seems like it's really…
+
+[Sam Ergina] 15:43:58
+breaking the scenario down to its individual parts, and I think…
+
+[Sam Ergina] 15:44:02
+that's tough to…
+
+[Sam Ergina] 15:44:05
+Um…
+
+[Sam Ergina] 15:44:08
+I think that could be detrimental when you're looking at
+
+[Sam Ergina] 15:44:11
+cycling infrastructure specifically, because…
+
+[Sam Ergina] 15:44:15
+the way that the configurations all interact with each other.
+
+[Sam Ergina] 15:44:22
+makes a huge impact, like, I think very much that the final design is more than the sum of its parts.
+
+[Sam Ergina] 15:44:27
+And so I think, like…
+
+[Sam Ergina] 15:44:29
+breaking down biking infrastructure, design.
+
+[Sam Ergina] 15:44:33
+kind of on its parts alone can… can leave a lot lacking in the…
+
+[Sam Ergina] 15:44:39
+proper judgment of different design scenarios.
+
+[Duanya Lyu] 15:44:43
+This is a very good point, um…
+
+[Duanya Lyu] 15:44:45
+How do you feel like it answered this question you asked?
+
+[Sam Ergina] 15:44:50
+I think that…
+
+[Sam Ergina] 15:44:59
+I think this is sort of what happens a lot when I try to use AI tools at all. I think it, like,
+
+[Sam Ergina] 15:45:06
+feels like it incorporates the prompt.
+
+[Sam Ergina] 15:45:10
+But that it didn't really do… and obviously, this not always designed for, but there's… there isn't really any, like, critical thinking of that problem, so, like, there's no…
+
+[Sam Ergina] 15:45:19
+it's… it's taking it at very, like, face value.
+
+[Sam Ergina] 15:45:25
+Like, yes, for the…
+
+[Sam Ergina] 15:45:27
+Confused and confident, like…
+
+[Sam Ergina] 15:45:30
+a painted buffer would offer…
+
+[Sam Ergina] 15:45:34
+more assurance in heavy traffic, but…
+
+[Sam Ergina] 15:45:37
+I would argue that it would insufficiently reduce stress,
+
+[Sam Ergina] 15:45:42
+Um, with just a painted buffer in heavier traffic. I would have liked the response to basically say, like,
+
+[Sam Ergina] 15:45:49
+The painted buffer…
+
+[Sam Ergina] 15:45:51
+helps reduce stress, like, helps separate cycles from traffic in a heavier traffic scenario, it has less of an impact on how it reduces stress.
+
+[Sam Ergina] 15:46:00
+Because it's not as protected. Like, that is maybe the response I was expecting to get.
+
+[Sam Ergina] 15:46:05
+Or would have. Um…
+
+[Duanya Lyu] 15:46:06
+too shallow, not in depth enough, yeah.
+
+[Sam Ergina] 15:46:10
+Yeah.
+
+[Duanya Lyu] 15:46:16
+I think that's all for these tools, and…
+
+[Duanya Lyu] 15:46:20
+Like, if you click the download project, it will, like, yeah, on the…
+
+[Duanya Lyu] 15:46:25
+It's a little, like, download all this.
+
+[Duanya Lyu] 15:46:26
+And you need to click OK on the image, yeah.
+
+[Sam Ergina] 15:46:31
+Okay. Uh…
+
+[Sam Ergina] 15:46:34
+What? What kind of files are there? They're just, like,
+
+[Sam Ergina] 15:46:36
+JPEGs?
+
+[Duanya Lyu] 15:46:38
+It will be a JSON of, like, your interactions and the, like, the design scenario pictures.
+
+[Sam Ergina] 15:46:43
+Hmm.
+
+[Sam Ergina] 15:46:48
+Interesting, okay.
+
+[Duanya Lyu] 15:46:50
+Yeah, and after this interview, like…
+
+[Duanya Lyu] 15:46:53
+Uh, um…
+
+[Duanya Lyu] 15:46:55
+Right.
+
+[Sam Ergina] 15:46:55
+That's a super high quality… oh, is it, like, an AI-generated picture?
+
+[Duanya Lyu] 15:46:59
+Yeah, yeah, yeah. Yeah, if you just compare, like, you can see the generated ones are of, like, better quality, yeah.
+
+[Sam Ergina] 15:47:05
+I know, I'm like, this looks way better than the StreamView.
+
+[Sam Ergina] 15:47:10
+Crazy. Um…
+
+[Duanya Lyu] 15:47:11
+And, like, yeah, after the interview, like, if you could, like, send me the, like,
+
+[Duanya Lyu] 15:47:16
+like, 3 screenshots, and that downloaded files.
+
+[Duanya Lyu] 15:47:20
+Uh, that wraps up the first part of our, like, interview. Like, if you go back to the procedure.
+
+[Duanya Lyu] 15:47:27
+And you can, like, there's a very short survey to fill out about the tool.
+
+[Duanya Lyu] 15:47:32
+Yeah, this one, yeah.
+
+[Sam Ergina] 15:47:33
+Oh, that's fine. Okay.
+
+[Sam Ergina] 15:47:35
+Do you want me to fill it out now?
+
+[Sam Ergina] 15:47:38
+Or after the interview.
+
+[Duanya Lyu] 15:47:39
+Uh…
+
+[Duanya Lyu] 15:47:42
+Uh…
+
+[Duanya Lyu] 15:47:43
+It's, like, both okay for me, like…
+
+[Duanya Lyu] 15:47:46
+It's very short, like, you… you can take a look, and if you want to do it now, you can do it now, yeah.
+
+[Sam Ergina] 15:47:47
+Okay.
+
+[Sam Ergina] 15:47:51
+Yeah, I can do it now.
+
+[Sam Ergina] 15:47:54
+System's generally easy to use.
+
+[Sam Ergina] 15:47:56
+Uh… the box is just driving crazy, I think.
+
+[Sam Ergina] 15:48:02
+Systems Interaction is intuitive…
+
+[Sam Ergina] 15:48:05
+She's pretty intuitive. Interactive and giving you insights into different personas. I would say… no, I don't really think it does. It's just gonna help me understand perspectives I've previously considered.
+
+[Sam Ergina] 15:48:18
+Uh… maybe a little bit. The persona feedback generated by this system. Actually, there are a couple points that I…
+
+[Sam Ergina] 15:48:24
+Maybe didn't properly…
+
+[Sam Ergina] 15:48:26
+Understand. The persona feedback generated by the system felt authentic,
+
+[Sam Ergina] 15:48:30
+I don't think… I don't think this is true at all.
+
+[Sam Ergina] 15:48:33
+Over on the side.
+
+[Sam Ergina] 15:48:35
+Overall, it satisfies.
+
+[Sam Ergina] 15:48:37
+What?
+
+[Sam Ergina] 15:48:39
+We're all satisfied with how this system enhanced my understanding of diverse cyclists, not really… I think I would like to use something like…
+
+[Sam Ergina] 15:48:48
+I'm gonna put this in the middle. I think there are ways that I would like to use a system like this, but not in its…
+
+[Sam Ergina] 15:48:54
+current format, I don't think. The generate evaluation function provides useful feedback.
+
+[Sam Ergina] 15:49:01
+in… generate new design…
+
+[Sam Ergina] 15:49:03
+No, it didn't do the right design.
+
+[Sam Ergina] 15:49:06
+the in-depth analysis function provides.
+
+[Sam Ergina] 15:49:12
+Uh…
+
+[Sam Ergina] 15:49:14
+Comparative analysis helps me understand…
+
+[Sam Ergina] 15:49:17
+A little bit. I have a capability to…
+
+[Sam Ergina] 15:49:25
+Uh, I do not have the capability, but maybe others using this tool would.
+
+[Sam Ergina] 15:49:29
+I'm able to identify comprehensive persona requirements…
+
+[Sam Ergina] 15:49:34
+Sort of… I feel like I wanted to be inclusive design decisions.
+
+[Sam Ergina] 15:49:41
+Okay.
+
+[Sam Ergina] 15:49:44
+I hope I wasn't, like, the…
+
+[Sam Ergina] 15:49:48
+the buzzkill in these interviews.
+
+[Duanya Lyu] 15:49:52
+So, like, yeah, just as you said, like, I didn't design the system, I'm, like, neutral about, like, what you are going to do, yeah, yeah.
+
+[Sam Ergina] 15:49:59
+Okay, cool.
+
+[Duanya Lyu] 15:50:00
+Um, we have to open like that, like, like, protocol again, because we have another, like…
+
+[Duanya Lyu] 15:50:07
+Well, part of that, yeah.
+
+[Sam Ergina] 15:50:08
+Oh. Okay.
+
+[Sam Ergina] 15:50:11
+Uh, can I open the last…
+
+[Sam Ergina] 15:50:13
+Shoot, okay. I have it here.
+
+[Sam Ergina] 15:50:15
+Another…
+
+[Duanya Lyu] 15:50:15
+Yep.
+
+[Sam Ergina] 15:50:17
+Okay, the GPT thing?
+
+[Duanya Lyu] 15:50:19
+Yeah, what we love to do is, like, we are going to try to…
+
+[Duanya Lyu] 15:50:25
+C. Oi.
+
+[Duanya Lyu] 15:50:28
+I don't, like, implement or, like, like, replicate that procedure, like, in…
+
+[Duanya Lyu] 15:50:32
+Classic GPT and see.
+
+[Duanya Lyu] 15:50:35
+Like, how do you feel about, like, comparing the two?
+
+[Duanya Lyu] 15:50:40
+Uh, let's see, uh, I will share you, uh…
+
+[Duanya Lyu] 15:50:44
+like, a GPT account we use for this study.
+
+[Sam Ergina] 15:50:48
+Okay, cool.
+
+[Duanya Lyu] 15:50:50
+And you can… you like it.
+
+[Duanya Lyu] 15:50:51
+This way, you don't need to, like, log in yours, and we can, like, log your interactions.
+
+[Sam Ergina] 15:50:57
+Yeah, I don't… I don't have a lot… do you need a login for, like, full ChatGPT functionality?
+
+[Duanya Lyu] 15:51:04
+Uh, you don't need to, yeah.
+
+[Sam Ergina] 15:51:05
+Ionis? Okay.
+
+[Sam Ergina] 15:51:07
+I honestly never use it, so also…
+
+[Sam Ergina] 15:51:09
+Don't laugh at me, because I'm gonna be…
+
+[Sam Ergina] 15:51:12
+I'm gonna be really bad at it.
+
+[Duanya Lyu] 15:51:12
+It's okay, yeah, we have, like, prompts.
+
+[Sam Ergina] 15:51:19
+Um…
+
+[Sam Ergina] 15:51:21
+Are you…
+
+[Sam Ergina] 15:51:23
+Sending the login info in a chat function or something?
+
+[Duanya Lyu] 15:51:27
+you know, Zoom chats.
+
+[Sam Ergina] 15:51:30
+Uh… I don't even see… oh, that's why.
+
+[Sam Ergina] 15:51:33
+Okay.
+
+[Sam Ergina] 15:52:00
+Cool.
+
+[Duanya Lyu] 15:52:09
+And, yeah, so we loved it. And if you go back to the protocol,
+
+[Duanya Lyu] 15:52:14
+And there's a document on, like, prompts, like, prepared prompts.
+
+[Duanya Lyu] 15:52:18
+Uh-uh. And…
+
+[Duanya Lyu] 15:52:20
+what we're going to do is we attach the downloaded
+
+[Duanya Lyu] 15:52:25
+grocery view to it, and ask GPT to…
+
+[Duanya Lyu] 15:52:29
+like, generate the new design.
+
+[Sam Ergina] 15:52:33
+Okay. So, do I add the file…
+
+[Duanya Lyu] 15:52:38
+And the one you just downloaded, yeah. The existing candidate, yes.
+
+[Duanya Lyu] 15:52:43
+And you copy that.
+
+[Duanya Lyu] 15:52:46
+prompt, and you…
+
+[Sam Ergina] 15:52:48
+This one? Oh, this, the whole thing?
+
+[Duanya Lyu] 15:52:48
+Yeah. Yeah, the whole thing.
+
+[Sam Ergina] 15:52:51
+Okay.
+
+[Duanya Lyu] 15:52:52
+And do you like…
+
+[Duanya Lyu] 15:52:53
+added the bolded part.
+
+[Duanya Lyu] 15:52:56
+with, like, the design you want.
+
+[Sam Ergina] 15:52:59
+Okay.
+
+[Sam Ergina] 15:53:02
+It's just
+
+[Sam Ergina] 15:53:03
+is it meant to be, like, the same…
+
+[Sam Ergina] 15:53:06
+choices that were made.
+
+[Sam Ergina] 15:53:08
+In the tool?
+
+[Duanya Lyu] 15:53:11
+It, uh, it doesn't matter, yeah, like, whatever you want, yeah.
+
+[Sam Ergina] 15:53:14
+Okay.
+
+[Sam Ergina] 15:53:17
+Standard…
+
+[Sam Ergina] 15:53:20
+And then I said parked cars…
+
+[Duanya Lyu] 15:53:32
+to go.
+
+[Duanya Lyu] 15:53:49
+Have we wait for it, like, we can't… I can't, like, move some questions forward.
+
+[Duanya Lyu] 15:53:54
+Uh, we have two closing questions, like, the first one is…
+
+[Sam Ergina] 15:53:55
+Okay.
+
+[Duanya Lyu] 15:54:01
+Uh… let me review it in the…
+
+[Sam Ergina] 15:54:04
+Oh.
+
+[Duanya Lyu] 15:54:07
+Okay.
+
+[Duanya Lyu] 15:54:09
+personalized. How do you envision this?
+
+[Duanya Lyu] 15:54:12
+tool into, like, actual design workflow. What barriers or opportunities do you see?
+
+[Sam Ergina] 15:54:21
+Yeah, I think, um, kind of what
+
+[Sam Ergina] 15:54:25
+We discussed earlier…
+
+[Sam Ergina] 15:54:27
+I could see its greatest value right now in Workflow being, like,
+
+[Sam Ergina] 15:54:32
+Especially for more junior less… or people less experienced in bicycle planning, just providing
+
+[Sam Ergina] 15:54:39
+kind of a… almost…
+
+[Sam Ergina] 15:54:42
+database-ish of, like, brainstorming ideas, potential infrastructure…
+
+[Sam Ergina] 15:54:48
+or countermeasures that could be put into the space, um…
+
+[Sam Ergina] 15:54:53
+I don't know if I would really take it.
+
+[Sam Ergina] 15:54:56
+at the value…
+
+[Sam Ergina] 15:54:58
+of, like, fully towards recommendations, but, like…
+
+[Sam Ergina] 15:55:02
+it would be a really good starting point, I think, to then…
+
+[Sam Ergina] 15:55:05
+Um…
+
+[Sam Ergina] 15:55:07
+yeah, put together a more comprehensive design.
+
+[Sam Ergina] 15:55:12
+Uh, I think the barriers in the way would be…
+
+[Sam Ergina] 15:55:17
+Um…
+
+[Sam Ergina] 15:55:21
+if it…
+
+[Sam Ergina] 15:55:25
+How interesting.
+
+[Sam Ergina] 15:55:28
+Uh…
+
+[Sam Ergina] 15:55:30
+Do you want to interrupt this part to discuss the photo, or…?
+
+[Sam Ergina] 15:55:34
+talk through.
+
+[Duanya Lyu] 15:55:34
+Uh…
+
+[Duanya Lyu] 15:55:37
+Uh, let's just, like, a very brief, like, on various, yeah, so…
+
+[Duanya Lyu] 15:55:43
+Finish the question, yeah.
+
+[Sam Ergina] 15:55:43
+Yeah, I think just, like, it's…
+
+[Sam Ergina] 15:55:46
+if it is gonna be used as a database, it format…
+
+[Sam Ergina] 15:55:49
+kind of makes you have to tease that information or pieces of infrastructure out, as opposed to just, like,
+
+[Sam Ergina] 15:55:56
+listing, like, a bulleted list of potential countermeasures or infrastructure suggestions.
+
+[Sam Ergina] 15:56:02
+based on level of comfort cyclists, that seems like… I feel like that could be a very useful…
+
+[Sam Ergina] 15:56:09
+tool within that stage of…
+
+[Sam Ergina] 15:56:11
+of a workflow for a project, um…
+
+[Sam Ergina] 15:56:15
+And yeah, I think the biggest…
+
+[Sam Ergina] 15:56:18
+barrier, or maybe, like, shortcoming is what
+
+[Sam Ergina] 15:56:23
+we had discussed in the…
+
+[Sam Ergina] 15:56:24
+comparative analysis phase, where it just feels like it's not really interpreting
+
+[Sam Ergina] 15:56:29
+design scenarios in a…
+
+[Sam Ergina] 15:56:30
+holistic and comprehensive way.
+
+[Sam Ergina] 15:56:35
+So it could maybe just make it, um…
+
+[Sam Ergina] 15:56:37
+less effective and more complicated.
+
+[Sam Ergina] 15:56:41
+situations or, uh, road corridors.
+
+[Sam Ergina] 15:56:47
+That being said, ChatGPT also totally messed us up, so…
+
+[Sam Ergina] 15:56:52
+This is incorrect, too. I don't know why it keeps putting the buffer next to the parked vehicles, but…
+
+[Sam Ergina] 15:57:02
+I mean, unless it's saying this is a one-way…
+
+[Sam Ergina] 15:57:07
+road, but… yeah. It looks…
+
+[Sam Ergina] 15:57:11
+It also looks wrong.
+
+[Duanya Lyu] 15:57:15
+like, there are also, like, two more prompts that are, like, all text-based, so it would be really quick, like, just, like, ask the GPT to…
+
+[Sam Ergina] 15:57:21
+Okay.
+
+[Duanya Lyu] 15:57:24
+like, personas.
+
+[Duanya Lyu] 15:57:27
+Maybe he plays from Analyze Card, yeah, like, not the title of this, yeah.
+
+[Sam Ergina] 15:57:33
+Oh, yeah, uh, sorry.
+
+[Sam Ergina] 15:57:36
+Stupid. Okay.
+
+[Sam Ergina] 15:57:41
+Analyze… wait, it's gonna analyze this bike lane design?
+
+[Duanya Lyu] 15:57:46
+Uh, I think you need to attach one, like, you can download this and let it analyze this, or you list it.
+
+[Duanya Lyu] 15:57:52
+Yeah, it depends on the photo you attach.
+
+[Sam Ergina] 15:57:56
+Hmm. Can I just pull a different picture, like a Google Street View picture or something?
+
+[Sam Ergina] 15:58:01
+Or do you want to use the existing condition?
+
+[Sam Ergina] 15:58:04
+I'll just use the existing condition.
+
+[Duanya Lyu] 15:58:06
+Okay.
+
+[Sam Ergina] 15:58:15
+Hmm.
+
+[Sam Ergina] 15:58:24
+Oh, whoa. Damn.
+
+[Sam Ergina] 15:58:27
+It's crazy how fast this thing works.
+
+[Sam Ergina] 15:58:29
+multi-personal image street image, palm, tree-lined residential block with parking on one side and no visible bike infrastructure.
+
+[Sam Ergina] 15:58:36
+Strong and fearless.
+
+[Sam Ergina] 15:58:41
+Okay, so it gave…
+
+[Sam Ergina] 15:58:45
+It gave different scores.
+
+[Sam Ergina] 15:58:48
+Especially the last two, I think.
+
+[Sam Ergina] 15:58:54
+I actually think I maybe agree with these scores a little more.
+
+[Sam Ergina] 15:58:57
+Just right off the bat.
+
+[Sam Ergina] 15:59:01
+No marks.
+
+[Sam Ergina] 15:59:04
+like traffic, natural risk, clear sight lines, narrow but nav…
+
+[Sam Ergina] 15:59:07
+navigable width, must share lane with cars…
+
+[Sam Ergina] 15:59:11
+No marks. Bike space, parked cars, pose, dooring risk, comp setting helps confidence, it's true, needs visual separation, no protection from vehicles.
+
+[Sam Ergina] 15:59:23
+hit a driveway as possible.
+
+[Sam Ergina] 15:59:25
+I guess so. I don't know.
+
+[Sam Ergina] 15:59:27
+Not sure about that one. We're not attempt writing, okay.
+
+[Sam Ergina] 15:59:31
+And clearly, clearly the absence of a bike lane means less complexity, navigation, fewer conflicts, merging, and parking feels like a simple practical residential street.
+
+[Sam Ergina] 15:59:41
+Fantastic.
+
+[Sam Ergina] 15:59:48
+Hmm. Tree shadows reduce visibility? That's interesting.
+
+[Sam Ergina] 15:59:53
+choice, or conclusion, cyclist in slow traffic in the column-shaded environment, typical.
+
+[Sam Ergina] 15:59:59
+But here it says the shaded environment is positive, so…
+
+[Sam Ergina] 16:00:03
+Also interesting… oh, this is for drivers.
+
+[Sam Ergina] 16:00:10
+Pleasant greenery and minimal intersections have comfort for sure local trips.
+
+[Sam Ergina] 16:00:15
+Okay.
+
+[Sam Ergina] 16:00:19
+Whoa, would you like me to run the same analysis again, assuming the proposed green buffer?
+
+[Sam Ergina] 16:00:24
+No, because you made a bike lane that doesn't make any sense. Okay, do I do the other prompt now?
+
+[Duanya Lyu] 16:00:31
+Yeah…
+
+[Duanya Lyu] 16:00:33
+That's why it's, like, June, like, if you have questions to ask them.
+
+[Sam Ergina] 16:00:40
+Oh, okay, this is creating, like, the chatbot thing.
+
+[Sam Ergina] 16:00:48
+And that's all I have to send.
+
+[Duanya Lyu] 16:00:51
+you know, if we don't have questions, like, specific question, yeah.
+
+[Sam Ergina] 16:00:54
+Okay.
+
+[Sam Ergina] 16:01:01
+Oh.
+
+[Sam Ergina] 16:01:06
+Do I respond A?
+
+[Sam Ergina] 16:01:09
+I don't get a chat GPT.
+
+[Sam Ergina] 16:01:13
+Why do I have to take the lane when I need? I can maintain screen position without too much interference, that's how to park cars along the curb creates a door.
+
+[Sam Ergina] 16:01:18
+Zone risk entry shadows can hide obstacles.
+
+[Sam Ergina] 16:01:23
+Opening the paint…
+
+[Sam Ergina] 16:01:30
+I like the quiet residential vibe, but I feel more at ease with a marked bike lane, or at least shared lane markings, lack of visible…
+
+[Sam Ergina] 16:01:38
+Like, infrastructure means drivers might not expect me, it's manageable, but I'm constantly negotiating space.
+
+[Sam Ergina] 16:01:44
+I like how these responses are worded better, whether or not they actually
+
+[Sam Ergina] 16:01:51
+uh, glean more insight into the situation.
+
+[Sam Ergina] 16:01:58
+Like, I could almost… I feel like I could almost…
+
+[Sam Ergina] 16:02:02
+use this tool if I were… or use this ChatGPT output if…
+
+[Sam Ergina] 16:02:08
+I were, like, creating personas for, like, a community presentation or something, and…
+
+[Sam Ergina] 16:02:14
+we're giving an example, because in those cases, you want to…
+
+[Sam Ergina] 16:02:18
+transform the language into being more, like, narrative and… and…
+
+[Sam Ergina] 16:02:23
+creating a story for a person instead of just, like, a design scenario, so…
+
+[Sam Ergina] 16:02:29
+I could almost see these being just, like, quick.
+
+[Sam Ergina] 16:02:32
+blurbs to include when defining the different personas.
+
+[Sam Ergina] 16:02:36
+Um…
+
+[Sam Ergina] 16:02:42
+approaching from behind, training… lack of protector, but for me is stressful. Okay, yeah.
+
+[Sam Ergina] 16:02:47
+I also feel like this one…
+
+[Sam Ergina] 16:02:49
+I feel like in ChatGPT, it…
+
+[Sam Ergina] 16:02:53
+Um…
+
+[Sam Ergina] 16:02:56
+separates the level of cyclists more than the tool does. Like, I feel like…
+
+[Sam Ergina] 16:03:00
+in the tool, interested but concerned, and enthused and confident.
+
+[Sam Ergina] 16:03:07
+We're very close in their responses a lot of the time.
+
+[Sam Ergina] 16:03:11
+And maybe no way, like, didn't feel like it was as intense enough. This one feels like it's a little more…
+
+[Sam Ergina] 16:03:19
+correctly, uh, split up.
+
+[Sam Ergina] 16:03:24
+At first glance.
+
+[Duanya Lyu] 16:03:30
+kind of the last prompt to go, like, this one is, like, you upload two designs, and you ask them to compare.
+
+[Sam Ergina] 16:03:36
+Okay.
+
+[Sam Ergina] 16:03:42
+And then
+
+[Sam Ergina] 16:03:45
+So, should I add, like, this… maybe I'll add the design scenario in existing condition?
+
+[Duanya Lyu] 16:03:49
+Yeah, that's okay, yeah.
+
+[Sam Ergina] 16:03:52
+Oh, one file at a time. Oops.
+
+[Duanya Lyu] 16:03:54
+Cool.
+
+[Sam Ergina] 16:04:00
+Ugh. Wait, wait to upload again?
+
+[Duanya Lyu] 16:04:03
+Oh. Okay, so…
+
+[Sam Ergina] 16:04:04
+How long do I have to wait?
+
+[Duanya Lyu] 16:04:06
+Maybe… let's try, like, not upload, just, like… I think it will remember previous conversation, right?
+
+[Sam Ergina] 16:04:16
+Okay.
+
+[Duanya Lyu] 16:04:16
+Let's see, like, how it, like, works.
+
+[Duanya Lyu] 16:04:21
+You know, like, it may be existing, I don't…
+
+[Sam Ergina] 16:04:25
+I think it said… I think it'll ask me about the scenarios, yeah.
+
+[Sam Ergina] 16:04:32
+Yeah, thanks, chat. Uh…
+
+[Sam Ergina] 16:04:38
+use those.
+
+[Sam Ergina] 16:04:40
+I feel like even since the last time I was on ChatGPT, like,
+
+[Sam Ergina] 16:04:43
+months ago, it's evolved.
+
+[Sam Ergina] 16:04:47
+Crazy.
+
+[Duanya Lyu] 16:04:49
+like, uh…
+
+[Duanya Lyu] 16:04:51
+organic body evolving, yeah.
+
+[Sam Ergina] 16:04:52
+It's learning.
+
+[Sam Ergina] 16:04:54
+Yeah, creepy.
+
+[Sam Ergina] 16:04:56
+I've got full control of the lane, no paint, no confinement, just me and the flow.
+
+[Sam Ergina] 16:05:02
+That's how you know that's a real cyclist right there.
+
+[Sam Ergina] 16:05:06
+sufficient, but I have to stay alert for our car door. Scenario 2 slows me down, put the green lane and buffer bring predictability, drivers know where to expect me.
+
+[Sam Ergina] 16:05:18
+Okay?
+
+[Sam Ergina] 16:05:20
+is a huge upgrade. I don't even remember… oh, yeah, the stupid Scenario 2 doesn't even make sense.
+
+[Sam Ergina] 16:05:28
+Doesn't even make sense.
+
+[Sam Ergina] 16:05:34
+huge upgrade. The Green Lane clearly defined space for cyclists in the 3-foot buffer from parked cars gives you breathing room.
+
+[Sam Ergina] 16:05:41
+I mean, this has the same issue, right? I feel like the tool has, is that it's…
+
+[Sam Ergina] 16:05:47
+It's taking the individual pieces and not, like, putting them as one full actual design scenario. Like, this…
+
+[Sam Ergina] 16:05:55
+The 3-foot buffer from Park Cars gives me breathing room.
+
+[Sam Ergina] 16:05:59
+But the buffer is…
+
+[Sam Ergina] 16:06:02
+in a different place, like…
+
+[Sam Ergina] 16:06:05
+gives you breathing room from the parked cars? Like, where… what about from the traffic?
+
+[Sam Ergina] 16:06:09
+Also…
+
+[Sam Ergina] 16:06:11
+It's… it says it's clearly marked, but, like, where would you bike it?
+
+[Duanya Lyu] 16:06:15
+Hmm…
+
+[Sam Ergina] 16:06:15
+design.
+
+[Sam Ergina] 16:06:23
+Sorry, sorry, anything… did… should I rant tomorrow? Is there anything else you need?
+
+[Duanya Lyu] 16:06:27
+Uh, I think that's…
+
+[Duanya Lyu] 16:06:29
+All, like, we're going to… yeah, there's also a…
+
+[Duanya Lyu] 16:06:32
+like, a similar survey for your interaction with GPT.
+
+[Sam Ergina] 16:06:36
+Okay.
+
+[Duanya Lyu] 16:06:39
+They're, like, similar question.
+
+[Sam Ergina] 16:06:45
+I keep having to go.
+
+[Sam Ergina] 16:06:48
+Uh, system is generally easy to use…
+
+[Sam Ergina] 16:06:51
+I mean, yeah, just some of the interaction is intuitive.
+
+[Sam Ergina] 16:06:55
+Pretty intuitive interaction system, giving you insights.
+
+[Sam Ergina] 16:07:00
+No, really. This is gonna help me understand perspectives I hadn't previously considered.
+
+[Sam Ergina] 16:07:08
+I don't think so. It's authentic and representative, no.
+
+[Sam Ergina] 16:07:15
+goes with the flow. It's not true.
+
+[Sam Ergina] 16:07:18
+That's enhanced my understanding of diverse cyclists.
+
+[Sam Ergina] 16:07:21
+Oh, not really.
+
+[Sam Ergina] 16:07:27
+Designs are calling towards user types.
+
+[Sam Ergina] 16:07:32
+No, I don't think so, not from those.
+
+[Sam Ergina] 16:07:36
+of this, sort of, yeah.
+
+[Sam Ergina] 16:07:39
+at least it, like, produces the persona as well. I feel confident.
+
+[Sam Ergina] 16:07:45
+Not really, not through this. Okay.
+
+[Duanya Lyu] 16:07:49
+Okay, that's all the…
+
+[Duanya Lyu] 16:07:51
+So, all the things we did two. I have, like, two more questions.
+
+[Duanya Lyu] 16:07:55
+Uh, I know you already…
+
+[Sam Ergina] 16:07:55
+Do you need me to keep sharing? Sorry.
+
+[Duanya Lyu] 16:07:57
+Oh, you can stop it if you, yeah.
+
+[Duanya Lyu] 16:08:00
+Um, I have two more closing questions. One is, like, you already mentioned a lot of good points in the
+
+[Duanya Lyu] 16:08:06
+Like, during this process, but I…
+
+[Duanya Lyu] 16:08:08
+have to ask according to protocols.
+
+[Sam Ergina] 16:08:12
+Okay.
+
+[Duanya Lyu] 16:08:13
+If you, like, look back to the, like, your interaction with the two systems, how do you…
+
+[Duanya Lyu] 16:08:17
+Like, do you feel, like, any strength of a particular one, and, like, the weakness of a particular one? Yeah.
+
+[Duanya Lyu] 16:08:23
+Compare the two.
+
+[Sam Ergina] 16:08:26
+Um…
+
+[Sam Ergina] 16:08:29
+I think that ChatGPT's strength is its, like,
+
+[Sam Ergina] 16:08:34
+Um…
+
+[Sam Ergina] 16:08:36
+the way it produces its answers, I think, are…
+
+[Sam Ergina] 16:08:39
+quite well-structured. Uh, I think that…
+
+[Sam Ergina] 16:08:43
+in these exercises where you're building personas, it builds those pretty well, whether or not there may be, like, actually
+
+[Sam Ergina] 16:08:51
+understanding the holistic design scenario you're putting in front of them, I think it's interpreting whatever it sees the way that that persona
+
+[Sam Ergina] 16:08:57
+probably would, just from my experience.
+
+[Sam Ergina] 16:09:01
+Um…
+
+[Sam Ergina] 16:09:03
+I think that…
+
+[Sam Ergina] 16:09:05
+the tools, like…
+
+[Sam Ergina] 16:09:09
+customizing the fact that I can, like, scroll around on Street View and find a location, that…
+
+[Sam Ergina] 16:09:15
+would be more valuable and convenient, I think that having to, like,
+
+[Sam Ergina] 16:09:18
+pop in a Street View photo in ChatGPT every time, and then get the analysis from that.
+
+[Sam Ergina] 16:09:23
+So I almost see them being…
+
+[Sam Ergina] 16:09:26
+like, I could almost see them being complementary to each other, and I feel like in the spaces where they overlap, ChatGPT produces…
+
+[Sam Ergina] 16:09:34
+the similar quality of, like, output, but in a more sort of structured and convenient way.
+
+[Sam Ergina] 16:09:44
+And also, neither of them are good at…
+
+[Sam Ergina] 16:09:46
+making those design scenarios from the ones that I did.
+
+[Duanya Lyu] 16:09:50
+Okay, uh, and a final question is, like, a really…
+
+[Duanya Lyu] 16:09:55
+high-level question. How do you view the…
+
+[Duanya Lyu] 16:09:58
+relationship between AI and designers, like…
+
+[Duanya Lyu] 16:10:02
+Pro designers, yeah.
+
+[Sam Ergina] 16:10:04
+Um, I think it…
+
+[Sam Ergina] 16:10:09
+Uh, there's somebody sitting next to me in the office who has strong AI opinions. I think that, uh…
+
+[Sam Ergina] 16:10:16
+to the… to that point, it is a polarizing…
+
+[Sam Ergina] 16:10:19
+topic, um…
+
+[Duanya Lyu] 16:10:19
+Hmm, you know.
+
+[Sam Ergina] 16:10:21
+I feel like there's definitely a use for it, but I don't think it replaces…
+
+[Sam Ergina] 16:10:27
+a level of critical thinking that's involved in
+
+[Sam Ergina] 16:10:30
+transportation planning. Like, it…
+
+[Sam Ergina] 16:10:33
+It can… it can give you a lot of…
+
+[Sam Ergina] 16:10:36
+Um…
+
+[Sam Ergina] 16:10:38
+options, or potentials, or it could give you a lot of, like,
+
+[Sam Ergina] 16:10:42
+scoured internet…
+
+[Sam Ergina] 16:10:44
+resources and solutions, but I think, like, how you put those together into a comprehensive or more complete
+
+[Sam Ergina] 16:10:53
+planning decision or design choice, um, it doesn't seem to do that.
+
+[Sam Ergina] 16:10:59
+particularly effectively right now, at least. So…
+
+[Sam Ergina] 16:11:02
+I think that, like…
+
+[Sam Ergina] 16:11:05
+in the workflow of, like, of…
+
+[Sam Ergina] 16:11:09
+maybe shortening the time it takes to look through the internet for
+
+[Sam Ergina] 16:11:15
+um… information, and…
+
+[Sam Ergina] 16:11:19
+giving you all the options and then letting you review it, and then create the planning decisions from it.
+
+[Sam Ergina] 16:11:24
+That seems to be where it's best placed right now, and I wouldn't want it to…
+
+[Sam Ergina] 16:11:29
+um… replace that level of, like, creative thinking. I think that's involved in…
+
+[Sam Ergina] 16:11:36
+planning and design, at least
+
+[Sam Ergina] 16:11:38
+Yeah, with how it's currently…
+
+[Sam Ergina] 16:11:41
+configured.
+
+[Duanya Lyu] 16:11:45
+Great. I think that's all.
+
+[Duanya Lyu] 16:11:48
+Like, the tasks I have to do.
+
+[Duanya Lyu] 16:11:52
+Yeah. Do you have any more questions, or, like, other things you want to know about the system, if I know, like, who is mine?
+
+[Duanya Lyu] 16:12:00
+you know, talk about issues.
+
+[Sam Ergina] 16:12:01
+No, yeah, thanks, uh, thanks for walking me through the tool, and…
+
+[Sam Ergina] 16:12:06
+Uh…
+
+[Sam Ergina] 16:12:07
+conducting the interview, um…
+
+[Sam Ergina] 16:12:10
+Thank you for your patience with my…
+
+[Sam Ergina] 16:12:13
+ineptitude for all things AI tools.
+
+[Duanya Lyu] 16:12:14
+It's like, yes.
+
+[Duanya Lyu] 16:12:17
+Yes, I really enjoy this interview, Ian.
+
+[Sam Ergina] 16:12:20
+Yeah, same.
+
+[Sam Ergina] 16:12:24
+And so, okay, so I should email you, um…
+
+[Sam Ergina] 16:12:28
+those screenshots. Do you want the JSON file, too?
+
+[Duanya Lyu] 16:12:34
+Um, yeah, the JSON, the…
+
+[Duanya Lyu] 16:12:37
+3 JPEG and, uh…
+
+[Duanya Lyu] 16:12:39
+screenshots.
+
+[Sam Ergina] 16:12:43
+Oh, well…
+
+[Sam Ergina] 16:12:46
+wait, what are the screenshots? They're not the JPEGs?
+
+[Duanya Lyu] 16:12:48
+Right. Um…
+
+[Sam Ergina] 16:12:49
+like, screenshots of the tool.
+
+[Sam Ergina] 16:12:51
+Okay.
+
+[Duanya Lyu] 16:12:51
+Yeah, like, you find, like, useful, like, interesting.
+
+[Sam Ergina] 16:12:54
+Yeah, I didn't… I'll take a few. I hadn't taken any during the interview, but…
+
+[Sam Ergina] 16:13:01
+Um… I can just do that now. And then it looks like there was some post…
+
+[Sam Ergina] 16:13:06
+study, or post-interview questions for me to answer.
+
+[Duanya Lyu] 16:13:10
+Uh… we… I think we covered, like, most of them, so, like, you don't need to…
+
+[Duanya Lyu] 16:13:16
+I like your classroom.
+
+[Sam Ergina] 16:13:17
+Okay.
+
+[Sam Ergina] 16:13:19
+Alright. Well, yeah, thanks again. Love to know.
+
+[Sam Ergina] 16:13:23
+what happens with the study, um, please keep me in the loop if you're… you have, like, a…
+
+[Sam Ergina] 16:13:28
+email list or something with updates.
+
+[Duanya Lyu] 16:13:31
+Yeah, of course, yeah, and if you, like, have other colleagues who might be interested in this, like, feel free to…
+
+[Duanya Lyu] 16:13:37
+Like, recruit them!
+
+[Sam Ergina] 16:13:40
+You want to do an AI tool, Sarah?
+
+[Sam Ergina] 16:13:44
+Alright, I'll see if other colleagues may want to.
+
+[Sam Ergina] 16:13:48
+Alright, thanks, it was nice meeting you.
+
+[Duanya Lyu] 16:13:50
+Nice to meet you, thanks for the time.
+
+[Sam Ergina] 16:13:53
+Have a great rest of your day.
+
+[Duanya Lyu] 16:13:54
+Into, bye.
+

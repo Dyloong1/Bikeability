@@ -1,0 +1,641 @@
+10:05:24 time squared.
+10:05:46 Okay, so I just need to follow what's…
+10:05:50 going on to a pre-study survey.
+10:05:55 Uh, yeah, like, it is a short survey asking, like, your background information.
+10:06:29 doing something.
+10:06:31 Kind of weird.
+10:07:07 Okay.
+10:07:11 Before we're in, yeah.
+10:07:12 But that's done.
+10:07:14 That's good. Uh…
+10:07:15 Okay, so…
+10:07:22 So this is your street design.
+10:07:26 AI.
+10:07:28 Yeah. Um, can you share it off switch?
+10:08:25 Well…
+10:08:37 Not wanting to…
+10:08:45 Okay.
+10:09:04 It's…
+10:09:20 Okay, the input is…
+10:09:24 It's not wanting to…
+10:09:27 Um, do you mind, share a screen, like, so, like, if you have any, like, problem, I can…
+10:09:32 have to do with that, yeah.
+10:09:33 Yeah, I just tried to copy and paste in the latitude-longitude, and it's…
+10:09:39 Oh.
+10:09:38 not wanting to…
+10:09:41 Or you can…
+10:09:41 It's not wanting to read it.
+10:09:43 You know, there's a, like, a test location, like, you can also, like, click that, yeah.
+10:09:54 There we go.
+10:09:56 Okay.
+10:09:59 All right.
+10:10:04 Yeah, do you want me to share screen?
+10:10:05 Yeah, that would be great.
+10:10:07 Okay.
+10:10:10 I have to remember how to do this on Zoom.
+10:10:13 So we don't… we don't use them that much.
+10:10:17 Uh, before, uh, that's a, like, good point. Before we do this test, like, is there any restrictions
+10:10:23 using GPT at Kittelson.
+10:10:26 I don't think so.
+10:10:27 Okay, great.
+10:10:30 Alright, can you see my screen, though?
+10:10:32 Uh, not yet.
+10:10:49 Yes, no, I can. Yeah.
+10:10:49 There. Okay.
+10:10:52 All right.
+10:10:56 And the window you are seeing is… it tries to, like, get a…
+10:11:02 straight view of the location you just entered.
+10:11:05 And if you can, like, zoom around and find a good viewpoint,
+10:11:10 And, uh, it will send it to the system, and we can, like, it can do some design.
+10:11:16 work.
+10:11:17 Okay.
+10:11:19 So, what do I…
+10:11:22 How do I send it to the system?
+10:11:24 If you hit CTRL and scroll your mouse, or, like, you click the…
+10:11:29 plus, minus, um, yeah.
+10:11:31 Ah, got it. Okay.
+10:11:39 And what the system is doing now is, like, it tries to analyze this image.
+10:11:45 And I see, like, how would cyclists see this road?
+10:11:52 Mm-hmm.
+10:12:16 And, like, if you click and drag this, like,
+10:12:19 window, or there's, like, page, it will, like, move to that.
+10:12:25 area.
+10:12:28 And where am I doing this?
+10:12:29 Quicken, uh, you click and you drag this canvas, or this webpage, yeah.
+10:12:37 like this?
+10:12:40 Um… maybe…
+10:12:40 I'm not following.
+10:12:44 As I, like… like, pick an empty, like, spot.
+10:12:49 Like, not in the window.
+10:12:51 not in the window.
+10:12:52 Yeah, I'm not sure the word… yeah.
+10:12:53 Okay.
+10:12:56 Okay.
+10:13:02 Ah, okay.
+10:13:04 The UI is a little bit tricky, yeah, yeah.
+10:13:07 Okay.
+10:13:13 And does it…
+10:13:15 And now what do you do?
+10:13:18 Um, so, like, this window, like, give you a…
+10:13:23 presenter evaluation of this role segment.
+10:13:26 Mm-hmm.
+10:13:26 It has, like, different cyclist point of view.
+10:13:30 Yeah. Right.
+10:13:30 And, like, take some time, read it, and tell me, like,
+10:13:34 Uh, how do you feel about the evaluation, yeah?
+10:13:47 Yeah, I mean, it looks like it does the evaluation for each of the different
+10:13:53 cyclist types, and… and I would… I would probably agree with, um,
+10:13:59 you know, with that analysis.
+10:14:01 Um,
+10:14:07 And the pros and cons, let's see, that's the pros and cons for the driver, and then…
+10:14:20 Okay.
+10:14:25 All right, I'm… I'm a little confused on this one because it says the pro is the dedicated bike infrastructure and 25 mile an hour design speed, enhanced safety for cyclists. I don't see any…
+10:14:35 dedicated bike infrastructure.
+10:14:39 Yeah, that crude…
+10:14:39 I mean, this is a shared… this is a shared line condition, but there's not even share-as.
+10:14:46 So, when…
+10:14:49 what are these… what are these down at the bottom do?
+10:14:53 Uh… we will get them, like,
+10:14:56 Oh. Okay.
+10:14:56 So, yeah, we're gonna… yeah.
+10:14:57 I'm jumping ahead.
+10:14:59 Okay.
+10:15:01 Okay.
+10:15:06 Yeah, I mean, I like the breakdown for the different cyclist types. I always try to use that in my work, and on a street like this, I would agree with
+10:15:16 You know, this is probably something that…
+10:15:24 that your top two groups, your strong and fearless and your enthusiast and confident, would probably be very comfortable riding on something like this.
+10:15:31 But then you're interested but concerned are going to have
+10:15:37 I think there's gonna be a year.
+10:15:39 you're not going to get as many of them.
+10:15:42 on a street like this.
+10:15:46 And when I look at that, and, you know, one of the things that, um…
+10:15:51 that I like to emphasize is…
+10:15:53 people can be…
+10:15:56 multiple…
+10:15:57 categories, depending on the context of…
+10:16:02 Because I'm a very different cyclist.
+10:16:04 when I would… I was a very different cyclist when I would ride with my younger children, when my children were younger.
+10:16:11 Um, than I am today.
+10:16:15 when I… when I'm not having to worry about, uh…
+10:16:18 you know, a younger cyclist.
+10:16:21 So…
+10:16:26 Uh, and the point you pointed out on, like, the…
+10:16:30 pros and cons not accurate.
+10:16:33 Yeah.
+10:16:32 Uh, how do you feel about the persona's bullet points, like, the four groups bullet points? Do they find… do you find them
+10:16:38 Yeah.
+10:16:38 Like, reasonable, or…?
+10:16:41 Yeah.
+10:16:40 Yeah, yeah, but I was definitely, um…
+10:16:44 Definitely find those reasonable.
+10:16:46 Um,
+10:16:51 your no way, no-how, the no way, no how, I think that's being a little generous.
+10:16:57 for the 3 out of 10, 2 out of 10, 3 out of 10.
+10:17:02 No way, no how is probably, in my mind, is a zero out of… is a zero out of 10, regardless of what the situation is. There's just…
+10:17:11 people that are just not going to be on a bike whatsoever.
+10:17:14 Um, to me, that category is probably always a zero.
+10:17:20 for any… for any, um, part of it. Now, the people that are in the persona that's in that category, some of those
+10:17:27 personas with an e-bike.
+10:17:30 might shift over to the interested but concerned.
+10:17:35 And be on the lower scale of interested but concerned.
+10:17:39 So that's… that's one thing that, uh…
+10:17:43 And then the personas, I think, are completely… are also different for
+10:17:48 e-bike users versus…
+10:17:52 you know, uh, true, uh…
+10:17:56 what I call true cyclists.
+10:17:59 Yeah.
+10:18:01 electric bikes versus acoustic bikes.
+10:18:04 Yeah, yeah.
+10:18:07 So…
+10:18:08 If that's about, like, you know, that question is more about, like, is this, like, is this evaluation factual or not?
+10:18:14 And, uh, let's prove a step forward. Do you find them useful? Like, is… are this information useful, or, like, just, like, affirming, like, no…
+10:18:24 like, no interesting info.
+10:18:27 No, I mean, I think it's useful.
+10:18:32 I definitely think it's useful. The fact that it breaks it down into the categories for…
+10:18:36 you know, the snapshot of the facility.
+10:18:40 Um, I think is… is definitely a, uh…
+10:18:43 It's definitely a plus.
+10:18:49 Okay, now we can, like, move to the, like, the three other functions you were interesting about.
+10:18:53 Okay.
+10:18:55 Yeah, and if you click in-depth Analysis in the middle, the middle one, yeah.
+10:19:01 Um, you can see, like, this presents a more…
+10:19:06 conversation-like discussion, yeah, it tries to…
+10:19:10 kind of mimic the community hearing, community, like, meeting.
+10:19:16 thingy, yeah. And if you click that window, like, it will, like, pop up in the, like, on the top, yeah.
+10:19:22 Okay.
+10:19:27 spend some time reading them and, like, share your…
+10:19:30 opinions, yes.
+10:19:48 Hmm.
+10:20:00 Yeah, I mean, I think these are very…
+10:20:06 Those are pretty much…
+10:20:08 mimic what I would… what I would expect to hear from each of the different…
+10:20:13 personas.
+10:20:17 How do you feel about, like, this function in general, like, this…
+10:20:21 like this, or this 2, or this, yeah.
+10:20:25 I could definitely see this, um…
+10:20:28 So, from a design aspect, I mean, for my situation,
+10:20:33 I'm seeing a lot of this…
+10:20:35 in my mind. Um, but I could definitely see a use for this when you're working with a community group, or working with the public.
+10:20:45 to try to explain to them
+10:20:47 why, um…
+10:20:49 you know, it would be a nice, quick tool to be able to use.
+10:20:53 Uh, in, like, a community meeting or a design charrette to be able to demonstrate.
+10:20:59 how something like this might work.
+10:21:03 and the different user groups, because typically in a community meeting, you're going to have all of those groups represented.
+10:21:13 So that's actually fast, very fascinating.
+10:21:18 There's actually a, like,
+10:21:20 One more, like, thing you can do in this window is, like, you can ask them, like, it's actually, like, a committee hearing, ask, like, them questions.
+10:21:30 If you type in, like, it will reply to…
+10:21:33 your question. Hopefully, yes.
+10:22:20 Okay.
+10:23:04 This is interesting.
+10:23:43 Yeah.
+10:24:01 Well, this is actually pretty fascinating.
+10:24:05 To be able to ask the questions, and then you see the, uh…
+10:24:15 And do you think they answer your questions? Or, like, just AI, like…
+10:24:21 regurgitate your, like, question.
+10:24:52 See if we can… see if we can get it… get it mad at me.
+10:24:56 by asking about removing parking.
+10:24:59 I'm curious, like, what driver would, like, say about this?
+10:25:04 Well, the driver… the reason I'm doing that is because the driver already pointed out loss… potential loss of parking.
+10:25:09 And, uh, no, no, yeah.
+10:25:34 Hmm.
+10:25:52 It's… it's funny on that question, is it answered almost…
+10:25:57 It answered very similar
+10:25:59 to the flexible delineator.
+10:26:01 But then when I ask it specifically about removing parking,
+10:26:05 the… the persona,
+10:26:07 answers for the cyclists.
+10:26:09 were very similar to the flexible delineator, but the driver's perspective
+10:26:13 was very… was different, was very different.
+10:26:19 And that says, you know, the, um…
+10:26:22 separated bike lane could work if it does not significantly…
+10:26:26 impact traffic flow, or…
+10:26:29 essential parking needs.
+10:26:30 So… yeah, interesting.
+10:26:35 Yeah, I could definitely see a use for something like that. Can we check out one of the, uh, some of the other
+10:26:42 options?
+10:26:43 Uh, yeah, yeah, definitely, and, like, you could move this window somewhere else and leave it open, yeah.
+10:26:49 Because after this interview, like, we will ask you to, like, take some, like, screenshots of the functions you find useful.
+10:26:57 You can just, like, drag this window somewhere else.
+10:27:01 Yeah, I'm trying to do that.
+10:27:03 Uh, maybe, like, track the purple…
+10:27:06 purple, like, bar on top of the window.
+10:27:11 Yeah, like, click from the bar, like, purple bar area.
+10:27:16 Yeah, it's not doing it.
+10:27:20 Also, like, the…
+10:27:22 top right icon, like, there's three, like, six points, maybe drag that part.
+10:27:27 Oh, there it is, okay.
+10:27:28 Yeah.
+10:27:29 the, uh…
+10:27:35 Okay.
+10:27:37 So, back to the…
+10:27:40 Uh, now we're going to the adjust design function, yeah.
+10:27:43 Okay.
+10:27:45 Uh, like, after all these inputs or, like, design you have in mind, you can…
+10:27:50 make the AI come up with new, like, new designs.
+10:27:57 Uh, we'll have to, like, move again.
+10:28:02 Uh, that somewhere empathy, like, some empty space, yeah, and we can go up.
+10:28:11 There we go.
+10:28:16 And yeah, like, if you go to, like, adjust design…
+10:28:20 Oh, okay.
+10:28:23 Okay.
+10:28:28 All right, my plane with my color…
+10:28:50 Yeah, and after I click that button, what's happening is it sends your requirement,
+10:28:57 to AI, and with this image, and it will try to generate, uh, render a new design.
+10:29:04 Okay.
+10:29:07 And the new design should just pop up.
+10:29:09 somewhere.
+10:29:13 Okay.
+10:29:09 Yeah. Yeah, but it might take 2 or 3 minutes, because, like, it's image processing, so, yeah.
+10:29:15 Okay.
+10:29:32 Nice. While we're waiting, uh…
+10:29:35 Uh, how do you feel about, like, the…
+10:29:39 try to, like, use AI to mimic humans. Do you find, like, the conversation, like,
+10:29:45 human-like, or still missing something, like, comparative community meetings?
+10:29:52 Um… well, like I said, I could see a use for the… I could definitely see a use for this.
+10:29:58 Personally, for community interface.
+10:30:03 Um, would I actually use it to help me generate?
+10:30:08 Design's probably not.
+10:30:10 Even with physical barriers, some people just won't feel safe sharing road space with cars. They need complete separation, like a sidepath or protected cycle track.
+10:30:12 So, by community interface, you mean it can be, like, used to…
+10:30:19 get the ball rolling for…
+10:30:20 Yeah, and so to get people thinking about different ideas.
+10:30:25 and options. Um…
+10:30:27 So, what I've used… what we've used before is the… is kind of a kit of parts.
+10:30:33 Where we'll have an existing street cross-section.
+10:30:37 And we'll have all these different scaled…
+10:30:39 pieces, such as narrower lanes or on-street parking, or bike lanes.
+10:30:45 And they're scaled to that street section.
+10:30:48 And street trees, and wider sidewalks, and we do what's done what's called a Build the Street.
+10:30:56 exercise with community groups.
+10:30:58 And have them actually…
+10:31:01 put in different elements of how they want to see a street.
+10:31:07 redesigned. Um…
+10:31:09 So, you know, to us, that is…
+10:31:14 Oh, looks like something generated over here.
+10:31:24 Um,
+10:31:24 Zoom out a little bit.
+10:31:29 There we go.
+10:31:35 Huh.
+10:31:41 That's interesting.
+10:31:56 Okay, this one… this is a little confusing.
+10:32:02 To me.
+10:32:05 Also, like, where do you find kahoos and…
+10:32:11 So it… if I look at this…
+10:32:15 This is not the way that I would have drawn.
+10:32:18 a parking protected.
+10:32:20 separated by claim.
+10:32:23 the… what I guess what I thought I was trying to draw…
+10:32:29 was the…
+10:32:31 cycle track on the, uh…
+10:32:34 between the curb and the parked cars.
+10:32:38 with bollards. And this one actually has the park cars, then the separated bike lane.
+10:32:45 And then it, um…
+10:32:48 if I'm just looking at it spatially,
+10:32:50 it looks to me like we've reduced this… we've reduced the lane.
+10:32:55 or we've reduced the width to it one… one way.
+10:32:58 So we basically have one-way operation.
+10:33:01 So this one's a little confu- this…
+10:33:04 I think this…
+10:33:07 It's just a little, um…
+10:33:09 it's a little confusing.
+10:33:11 Yeah, um, the system, like, uh…
+10:33:14 I don't, like, know, do you remember, like, when… if you… well, like, when you click on the dress design, there's a…
+10:33:21 Like, more, like, instruction, like, there's a box, like, you can…
+10:33:25 IPIN.
+10:33:23 Mm-hmm. Yeah, and I adjusted some of that.
+10:33:29 As well.
+10:33:27 Yeah. Uh, if you go back there, and, like, maybe…
+10:33:32 like, the first, like, the original one, maybe.
+10:33:36 Yeah, so we had bike lane width staying the same, green bike lane,
+10:33:40 And then the buffer with a foot and a half of bollards.
+10:33:45 And then the location of the buffer was next to park cars. I'm gonna be curious to see…
+10:33:52 If we do it again with adjacent to the moving cars.
+10:33:56 Yeah, um, they…
+10:33:58 Yeah, so my feedback on that one would be…
+10:34:04 As somebody who's designed bike facilities,
+10:34:06 that… that's not what I would have expected from the choices that I made.
+10:34:12 I would have expected one where the…
+10:34:15 bike lane was adjacent to the curb, between the curb and the parked cars.
+10:34:19 Yeah, that's a… that's a, like, that's a really good point. Maybe the pre-design of the options is not, like…
+10:34:25 Uh, what's the common practices, yeah.
+10:34:30 So let's see where this one…
+10:34:35 what I have in mind, like, possible way to, like, improve this?
+10:34:39 like, without changing the system, would be, like…
+10:34:42 You can type in the box, like,
+10:34:45 Uh, bike lane between curb and hike, like,
+10:34:48 Yeah.
+10:34:49 parked cars, yeah, that could be a way to, like…
+10:34:55 While we are waiting, like, back to… you were saying, like, the…
+10:34:58 common pre- like, the existing practice, uh, your team is doing is to
+10:35:04 ask them, like, ask, like, community groups their design ideas.
+10:35:11 Mm-hmm.
+10:35:14 Yeah.
+10:35:18 So, yeah.
+10:35:19 Another thing that gets… doesn't seem like it's done anew.
+10:35:22 design.
+10:35:24 It's still working on it, maybe.
+10:35:26 It's still working, okay.
+10:35:27 Yeah.
+10:35:33 Yeah, it'd just be… it'd be interesting to see, with that one change of input.
+10:35:40 what it comes up with.
+10:35:52 And would that one actually be… is the one that is generating, would that end up being named Design Scenario 2?
+10:35:59 There it is.
+10:36:00 Yeah, I should be doing that, yeah.
+10:36:02 Okay.
+10:36:06 Okay.
+10:36:10 Yeah, that…
+10:36:17 Yeah, so it doesn't look like it has an option to actually do one that is…
+10:36:25 I don't feel like I can tell it to put the…
+10:36:30 cycle track between the parked cars and the curb.
+10:36:38 Uh… maybe?
+10:36:40 like, click if you, like, if you want to do another scenario, like, click design, like, adjust design again.
+10:36:47 Okay.
+10:36:48 Like, any of the design scenarios, okay, I think, yeah.
+10:37:05 Yeah, the UI, so that, like, difficult, yeah.
+10:37:10 So maybe try to…
+10:37:12 Third one?
+10:37:14 Yeah, yeah.
+10:37:18 And if you click that…
+10:37:22 button, and…
+10:37:25 you type in something like…
+10:37:28 bike design, like, between curb and parked cars.
+10:37:33 Okay.
+10:37:45 Personal, yeah.
+10:37:47 out here.
+10:37:48 Yeah, maybe, like, cruise, bike lane somewhere, yeah.
+10:38:00 the curious thing here is that it may…
+10:38:04 if it's locking into…
+10:38:07 the photograph, it may not move the cars.
+10:38:14 Yeah…
+10:38:15 or the curb. It's looking like it's got… it's…
+10:38:18 And we'll see what happens.
+10:38:21 With this one.
+10:38:34 I think I'm running out of…
+10:38:40 basis…
+10:38:54 Just so you both know, I do have another call at 11.
+10:38:57 So, we got about 20 minutes.
+10:38:57 Yeah.
+10:39:01 Thanks for the information. Yeah, we'll join…
+10:39:05 see how this works. That's my… this is almost all the functions. We do have one left.
+10:39:11 Okay.
+10:39:16 That's a very interesting tool.
+10:39:23 Which part do you find more interesting? The evaluation or the rendering current?
+10:39:30 I think the evaluation.
+10:39:32 I mean, I… I can…
+10:39:35 Personally, I would use the evaluation
+10:39:38 from what I've seen on the design, I would probably still do it the way that I always do it.
+10:39:47 And just laying out a cross-section, and then…
+10:39:50 doing my measurements and moving.
+10:39:52 things around, and then I… a lot of times, I'll work with a, um…
+10:39:58 I worked with an urban designer who will either use SketchUp or Lumion,
+10:40:03 And they will… they will actually be able to take the parked cars
+10:40:07 and move them away from the curb.
+10:40:10 and alter the image to where it shows the bike lane and actually inputs cyclists, and…
+10:40:22 So this too, like, still has some, like, catch-up to do, like, compared to SketchUp, but…
+10:40:28 Um, yeah, and like I said, we typically use… we use Lumion.
+10:40:34 A lot. So it takes… it's even a step further than… than SketchUp.
+10:40:39 So it's… it's probably even more photorealistic.
+10:40:50 Wow.
+10:40:45 And Lumion actually will allow you to go into 3D and different views, and uh…
+10:40:52 I'd actually do animation.
+10:40:54 to where things will actually move. The cars will move, the bikes will move.
+10:40:58 people walking.
+10:41:02 I haven't used Lumion before, but, like, so, before you, like,
+10:41:07 Mult radial design, like, what it takes as input? Do you have to, like, draw the origin, like, existing condition?
+10:41:15 Usually, uh, CAD,
+10:41:20 So…
+10:41:23 Yeah, it's not…
+10:41:26 It's not really understanding what I'm trying to…
+10:41:29 tell it to do.
+10:41:32 So I wanted to do, you know, I would like to have seen a scenario where we had a bike lane adjacent to the curb.
+10:41:39 with the parked cars.
+10:41:41 to the left, and, you know, inboard, so basically squeezing the straight.
+10:41:49 So, yeah, I don't know that… I probably wouldn't use this element of it.
+10:41:55 Yeah, that's a good point, yeah. Yeah, we tried 3 times, and it's still not doing what we want it to do, yeah.
+10:42:00 Yeah.
+10:42:03 The last function of the system is, like, it will, like,
+10:42:08 more, uh, pores, like, writing reports help, like, yeah, if you, like, zoom out a little, yeah.
+10:42:16 Um…
+10:42:18 How do I zoom out?
+10:42:19 control and, like, scroll your mouse the other way.
+10:42:23 Oh, okay, perfect.
+10:42:23 Yeah.
+10:42:25 All right.
+10:42:25 And, uh, as you can see, like, every window has the compare analysis function, and
+10:42:31 Yeah.
+10:42:32 You can, like, multiple selection, like,
+10:42:35 As many as you want, and it will, like, format a comparison.
+10:42:40 of the different designs, yeah.
+10:42:40 Okay. So I can hit the comparative analysis…
+10:42:45 yeah, I can, like, hit the existing first, and, like, different design options.
+10:42:49 Oh, selected.
+10:42:55 Okay, and then…
+10:42:57 like, at the very left…
+10:43:00 bottom… yeah.
+10:43:01 Oh, create comparison.
+10:43:04 Yes.
+10:43:04 Okay.
+10:43:12 If you click that, like, window.
+10:43:15 it just popped up.
+10:43:17 Which window popped up?
+10:43:18 Yeah, I think the left, the most left one, yeah.
+10:43:23 This one?
+10:43:24 No, the one that, like, the second left.
+10:43:27 Yes, that one.
+10:43:29 This… oh, okay.
+10:43:31 Oh, okay.
+10:43:34 It's doing a compar-
+10:43:36 like, comparison, like…
+10:43:38 discussion, yeah.
+10:43:43 Oh, okay.
+10:44:24 See, this is how I would… this is how I would characterize the no way, no how.
+10:44:30 in the last sentence, and nothing here would convince me to start cycling.
+10:44:34 Yeah, a force to choose.
+10:44:36 Absolutely.
+10:44:37 Yeah.
+10:44:38 But, um, no, I mean, I think that's… I think that's a valid comparison. Uh, again, it's a little…
+10:44:47 It's a little frustrating not that it wouldn't, um…
+10:44:51 It didn't seem to be able to take direction to generate something that, um…
+10:44:57 That would have required, actually, altering the existing photograph.
+10:45:04 it seemed like that was where it was getting hung up.
+10:45:10 Only, like, minor changes, maybe only minor changes for the word here.
+10:45:14 Yeah, yeah, where everything kind of stays the same.
+10:45:17 So…
+10:45:19 Okay.
+10:45:21 No, but I mean, overall, I mean, like I said, I think it's a good tool.
+10:45:27 I think it's an interesting tool. I certainly think the…
+10:45:29 the analysis piece…
+10:45:32 Um, the analysis piece was more useful to me than the actual design component.
+10:45:40 One last thing about the system, like, if you move out the little, like…
+10:45:45 On the top of this window, there's a…
+10:45:48 Another, like, more quantitative thing, like, design scenario comparison, that tab.
+10:45:54 of this window, yeah.
+10:45:56 with some more, like…
+10:45:55 Oh, okay, right here, the design scenario comparison?
+10:45:58 Yeah.
+10:46:00 Oh, okay.
+10:46:02 Wow.
+10:46:03 More report-like output, yeah.
+10:46:07 Okay.
+10:46:10 No, I like that.
+10:46:17 So they're, like, the last setup column is the existing condition, yeah.
+10:46:21 Uh-huh.
+10:46:24 Okay.
+10:46:37 Okay.
+10:46:39 I think, yeah, that's all for this tool, and if you click top right, there's a
+10:46:45 download project button, yeah.
+10:46:47 Mm-hmm.
+10:46:49 It will, like, download the…
+10:46:51 how you interact with the system, and the…
+10:46:54 Uh, you have to click OK, yeah.
+10:46:57 Okay.
+10:46:57 And the existing condition, like…
+10:47:01 up, like, new designs.
+10:47:02 Oh, to allow?
+10:47:04 Yes.
+10:47:05 Okay.
+10:47:08 And if you could, like, send them back to us after this interview, that would be great, yes.
+10:47:15 Okay, so just send all these PNGs back?
+10:47:19 Yeah, and…
+10:47:21 And, like, also, like, 3, like, screenshots of the parts you find useful of this system.
+10:47:27 Okay.
+10:47:31 I think we still have, like, maybe 10-ish minutes left. There are, like, one more thing…
+10:47:37 in the agenda, but I don't think we have time to finish, like, all it.
+10:47:41 Um, have you used GPT before?
+10:47:45 I don't use it very much.
+10:47:48 Okay, but do you have…
+10:47:50 Like, you have some experience, okay. Uh…
+10:47:50 I have a very, very limited.
+10:47:54 That's… that's enough. Yeah, I think that's good, would be good. Like, you can, like, can you go to GPT web page?
+10:48:03 Uh, you can use, like, a new window, or, like, we will share you…
+10:48:08 account, like, for this study.
+10:48:10 And we will try to log in GPT and ask GPT directly to do this, like, to generate a photo.
+10:48:17 And, like, some evaluation. We are trying to compare how these two is…
+10:48:23 are doing, like, comparative GPT, yeah.
+10:48:30 Okay.
+10:48:35 So I need to do something else I needed to do then.
+10:48:40 Yeah, yeah, uh, you can go to…
+10:48:44 GPT, um, use this, like…
+10:48:48 Uh, second interview account.
+10:49:02 I sent something in the Zoom chat.
+10:49:16 It could be, like, the fall time of the screen, there's a button called chat.
+10:49:21 If you click that…
+10:49:26 I'm trying to think of.
+10:49:43 Yes.
+10:50:11 I have the code.
+10:50:19 Okay.
+10:50:33 All right.
+10:50:36 All right, and what should I put in here?
+10:50:39 Uh, we're actually, like, help already wrote some prompts. If you go back to the
+10:50:44 PDF of the link to a document called Prompts.
+10:50:54 Okay.
+10:51:06 If you copy from INEED to…
+10:51:10 Spursify?
+10:51:18 Just copy.
+10:51:18 and copy of this, yeah, into GCT, and…
+10:51:23 flag that.
+10:51:25 photo, like, image we downloaded, and…
+10:51:28 It will, like, GPT will generate this.
+10:51:32 And add the image?
+10:51:33 Yes.
+10:51:34 Or you can drag from download view.
+10:52:03 I feel like photos, like, work very well organized, you know.
+10:52:05 So the existing image?
+10:52:06 Yes.
+10:52:11 And, like, if you, like, change the part, like, in the brackets,
+10:52:16 Mm-hmm. Oh.
+10:52:19 Yeah.
+10:52:23 You can, like, replace them with the option, yeah.
+10:52:43 Sorry, I haven't.
+10:52:47 mouse issues among…
+10:52:49 I'm in a different office.
+10:53:20 And then just see what happens.
+10:53:23 Yes.
+10:53:29 Oh, it's like…
+10:53:30 help you revise your prompt first.
+10:53:36 Like, yeah, there's, like, GPT, like, comes, like…
+10:53:40 Hmm.
+10:53:41 his way of doing things.
+10:53:43 Uh, you'll have to, like, ask it to, like, type generate leads again.
+10:53:52 Need to do wedding?
+10:53:53 You're, like, have a follow-up question, like, you can just, like, say, do it, or…
+10:54:00 enjoy it. You don't need to, like, copy that. You can just, like, you know…
+10:54:01 Oh, just say…
+10:54:04 just say, draw it?
+10:54:05 Yeah.
+10:54:20 Uh, while we are waiting for this, uh…
+10:54:24 Um…
+10:54:27 So I have a blank… I have to ask something, like, according to the protocol, yeah.
+10:54:33 Uh, uh, what do you feel about those two in general? How do you picture… you already answered this question.
+10:54:40 Uh, but I have to ask this again, like, how do you picture this could be in…
+10:54:45 like, integrated into your workflow.
+10:54:48 Yeah, I think I could… I would definitely consider using the analysis piece.
+10:54:54 for a, um…
+10:54:58 for, like, community sessions.
+10:55:02 I would think that the, um…
+10:55:06 I probably… I probably would not use the tool as it… as it is.
+10:55:09 for… to help me with design.
+10:55:14 is it just… it seems like it's… it's not as intuitive as it would need to be.
+10:55:21 to, um…
+10:55:23 It seems like it's constrained by whatever the photo is.
+10:55:27 that it won't allow you to move elements of the photo.
+10:55:31 And that's what it would actually require.
+10:55:34 to do some of the things that I do with, like,
+10:55:37 pavement reallocation.
+10:55:40 Because we'd actually have to move the parking.
+10:55:42 closer to the… we'd have to narrow travel lanes and move the parking.
+10:55:48 Okay, so now we have an image from GCP.
+10:55:51 They basically did the… yeah, so it pretty much does the same thing, so…
+10:56:01 I… I…
+10:55:55 Yeah. And, like, how do you feel, like, interacting with GPT and interacting with the tool? Uh, I know we only have one prompt, yeah.
+10:56:03 I mean, I… I actually liked interacting with the tool better.
+10:56:09 than GPT, just because…
+10:56:10 the tool gave me confidence that I'm not missing major concerns. Having systematic feedback from multiple perspectives is reassuring.
+10:56:11 I kind of ended up at the same thing, and I'm not getting the background.
+10:56:15 analysis.
+10:56:19 I know we don't have time for this, but if you, like,
+10:56:22 Have a quick look at the prompt.
+10:56:26 it shows you, like, how to, like, replicate the analysis the tool does with GPT.
+10:56:33 Okay.
+10:56:33 And it will also, like, give you…
+10:56:36 similar, like,
+10:56:38 Instruct… like, similar results, but only in text only.
+10:56:42 And do you prefer reading, like, from GPT or from the tool?
+10:56:49 Uh, from the tool, definitely.
+10:56:51 Yeah, I like the way that it was formatted.
+10:56:56 With the multiple windows.
+10:56:59 Yeah. Uh, okay.
+10:57:02 I have one final, like, closing question. Uh, it's hilarious.
+10:57:07 high-level thing of, how do you feel about the relationship between AI, AI tools, and
+10:57:14 like, designers, planners…
+10:57:17 engineers, yes.
+10:57:18 as long as designers understand… and I would tell you the same thing about any tool.
+10:57:25 So, a travel demand model is the same way.
+10:57:28 is that nothing is going to… I do not feel like…
+10:57:34 Um, the danger I see is some designers will let AI do all of it for them.
+10:57:41 And I think there still needs to be a good amount of engineering judgment.
+10:57:46 Um, because to me, only a human can really understand
+10:57:52 the specific context of a specific location, specific project, specific user types.
+10:58:01 I just… I think that just a recognition that it's a tool to be used,
+10:58:06 In conjunction with many other tools, and that, um,
+10:58:10 you know, we should never let our engineering judgment be clouded.
+10:58:15 By just taking what AI tells you.
+10:58:18 Even as an experienced professional, I found value in the systematic approach. It's easy to develop blind spots, and this tool helps identify them.
+10:58:21 That's a very, very, like, very amazing answer, yeah.
+10:58:25 Uh, and I think that's all for, like, what, like, what we have, like, planned today, and…
+10:58:31 Okay.
+10:58:32 Uh, after this interview, like, could you please send the file you downloaded?
+10:58:36 And if you go to the PDF, like, there are two very short surveys.
+10:58:41 Okay.
+10:58:41 And, like, asking your, like,
+10:58:44 experience with this tool.
+10:58:47 Okay. Will do.
+10:58:49 All right, well, thank you so much.
+10:58:51 Thank you for your time.
+10:58:53 All right, take care.
+10:58:54 Take care.
+10:58:55 Thank you, bye.
+10:58:55 Mm-hmm, I… thank you.
+10:58:57 Bye.

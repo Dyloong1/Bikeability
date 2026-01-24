@@ -1,0 +1,411 @@
+10:10:23 Sorry about that, I'm gathering up the… Documents you sent.
+10:10:50 Are you seeing everything?
+10:10:52 Uh, yeah.
+10:10:57 So, have you… Had a chance to look through any of this yet.
+10:11:02 I did, uh… Submit the survey, um, a few minutes ago.
+10:11:09 Um, I watched this tutorial. Um, but as the application itself.
+10:11:09 Okay.
+10:11:15 I did not, um, go through it. Yeah.
+10:11:18 Okay. That's fine, I can go through this then.
+10:11:24 So, yeah, for the coordinates, you can just put the… Click that test coordinates button.
+10:11:29 Above load location. And then, yeah, I can load it in.
+10:11:42 Yeah, so for this part. You can kind of move around.
+10:11:47 Using the street view, but… What you want to do is, like… Find a good picture or angle.
+10:11:54 Not you want to submit to the AI tool, because that's the… Based on the picture you submit to it.
+10:12:00 They'll do an evaluation on the street with regards to… Uh, cyclist safety, and then that's also where… go through the design… well.
+10:12:09 Okay. Um… Can I pick, like, um… Um… or, like, relevance, can I pick a location that I'm familiar with?
+10:12:23 Um, on a study that I worked on. It's in, uh, Yonkers, New York.
+10:12:28 Oh. Yeah.
+10:12:30 Possible. Okay.
+10:12:37 Rick.
+10:12:53 You know, we can wait until later, it's fine.
+10:13:00 I think we can do that. We can just, like, the easiest way is to go to Google Maps and, like.
+10:13:06 get that location, copy the… Yep.
+10:13:09 That's what I was thinking, too. Um…
+10:13:28 There we go.
+10:13:55 We do a conversion, do we?
+10:13:59 It'll format it a bit.
+10:14:02 Yeah, I think you… if you right-click on, like, in Google Maps, it will, like, give you this, like, decimal, like.
+10:14:10 Yeah. Like, add to the… Right, so you can… you can copy this.
+10:14:19 That one, right? Yeah.
+10:14:20 Yeah, cool. Yeah.
+10:15:17 Because I picked this location because, um, the bike lane here.
+10:15:22 Mm-hmm.
+10:15:22 It stops getting into downtown. And by reviewing the corridor from this point moving forward.
+10:15:41 Wow.
+10:15:31 There were around… over 20 crashes of, um… bicyclists. So, it's one of the things that I wanted to propose, like, as a countermeasure, is that, like, why didn't we stop the bike lane, and we just had.
+10:15:46 All parked vehicles, um, throughout the corridor. But, I mean, um… Um, economically, they usually reject if you want to, like, remove parking and such.
+10:15:58 So, um, that's why I'm interested in this location in particular. But, um… Okay. Is this a good view?
+10:16:08 For it to evaluate.
+10:16:10 Might be better to… Put it more on the street than an intersection.
+10:16:16 Got it.
+10:16:25 Okay.
+10:16:28 Yeah.
+10:17:01 So, that's the initial… Evaluation from the AI tool.
+10:17:08 See those four boxes on the bottom? Those each represent, like, a different.
+10:17:13 Persona, like… A cyclist persona.
+10:17:17 Mm-hmm.
+10:17:19 So that's, like, the more confident biker versus the more… Fearful biker.
+10:17:27 And then it gives ratings on safety and comfort and stuff.
+10:17:41 Status, while you're reading through these, if… Is anything that sticks out to you, or… Just let us know what you think about the… Evaluation.
+10:17:54 Oh… So far, the evaluation makes sense.
+10:17:58 Wonder what allows overtaking.
+10:18:10 corridor hazard. And doors on from parked Cars is a… In fact, um… a major issue at that location.
+10:18:15 The buffer next to parked cars is essential. I've seen too many door-zone incidents to skimp on that protection.
+10:18:23 Um… deduction from cars… Of course, model speed.
+10:18:34 How did the traffic speed? Um…
+10:18:43 We're not let child cycle on the same site.
+10:19:12 But how did the AI tool determine the speed limit of the… the roadway at that specific location.
+10:19:20 I assume it has access to the, uh… Um… the web base… Of… Ah.
+10:19:32 The local municipality. Or… okay.
+10:19:31 Hmm…
+10:19:32 I don't think so. There might be… select Google Maps might also have that data.
+10:19:41 Not sure, though.
+10:19:44 Hold on.
+10:19:44 I think it's from OpenStream Math, because, like, in that database, some road has their, like, speed limit.
+10:19:59 Okay.
+10:20:03 And then you can check out the in-depth analysis.
+10:20:13 I don't know.
+10:20:17 Yeah, it can move around all these tabs. And then it's on the bottom right, you can, like, zoom in and out.
+10:20:27 Yeah, I was wondering…
+10:20:46 Yeah, for those total skills. More in-depth comments from each of the personas.
+10:20:52 Including the driver, and then… You can also ask them a question.
+10:20:51 Mm-hmm.
+10:21:00 Uh, uh, location, and… My thoughts on design?
+10:22:41 This one is very interesting. But what's the extent of… Ask about specific improvements or design recommendations for me.
+10:25:30 It was, in fact, proposed to improve the lane markings with high visibility paint.
+10:25:37 Adding a separate signal face… should help you both smooth.
+10:25:46 Okay, super fun. That's true.
+10:25:52 Production is essential.
+10:26:07 So all the responses will be divided into… these, um… partitions here.
+10:26:13 Interested, but sir, no way, no how, and a driver.
+10:26:14 Yeah.
+10:26:16 Okay.
+10:26:30 Okay, I guess we jumped the gun here, so… What I'm getting from this is that… Um, the primary focus.
+10:26:40 is the safety of cyclists, correct? Of this tool.
+10:26:44 So, it… with complete disregard to… well, not complete disregard, but like.
+10:26:44 Mm-hmm.
+10:26:49 Uh, it's more emphasis on cyclones. Uh, then the traffic flow, and… Um… and saturation.
+10:27:01 Or the roadway capacity. Just so I'm understanding this clearly.
+10:27:04 Yeah.
+10:27:05 Okay, so that's… so I would expect all the responses of the AI tool.
+10:27:11 To… to tailor everything towards a cyclist safety. That's what I'm getting.
+10:27:17 Huh.
+10:27:21 Sounds good. Okay.
+10:27:42 Is there a threshold? of… these, um… For… partitions, like strong, enthused.
+10:27:52 Interested in no way. Um, I know the scale here is from 0 to 10.
+10:27:59 So, like, is there justification to these, um, to that scale?
+10:27:59 Mm-hmm.
+10:28:05 Um, in your guys', um… Research.
+10:28:08 Like, what is the fine line? Um… Between, like, what's the acceptable.
+10:28:17 Um… I guess, um, score.
+10:28:22 With these four areas that you would consider, um… Safe for cyclists.
+10:28:32 If you know what I mean.
+10:28:34 There's a specific answer to that, yeah. I guess that's… More based on the user, and… I guess what? Justifications you… got from this tool.
+10:28:42 Okay.
+10:28:49 Okay. So, there's something…
+10:28:49 I guess that's what we're trying to… Receiving this interview is like… How well this, like, tool.
+10:28:57 Hmm.
+10:29:00 Can inform users and professionals on, like, how they see.
+10:29:04 They're fitting into their design process.
+10:29:10 That's fair. It just… where the providers for, is it?
+10:29:16 It usually helps. To determine, um, a conclusion out of that score. Like, for example, there's something called level of safety service.
+10:29:23 Um, which essentially has level 1. 2, 3, and 4.
+10:29:24 Mm-hmm.
+10:29:29 And when I plug in the numbers and I receive a LOSS.
+10:29:34 Um, score, uh, that way I get a, um… an idea of the potential for safety improvement.
+10:29:41 of that particular site. So… Um, when I see a 4.
+10:29:47 score that gives me an understanding that. This site is definitely… Um… prone to improvement, and I should give priority.
+10:29:59 To, um, to focus on what countermeasures I should.
+10:30:04 Um, I should propose, or like, what designs I should.
+10:30:10 I should focus on in a specific way. So, when I see those scores, it's… I figure it's supposed to tell me something.
+10:30:19 Now, like, the AI responses… It's insightful, um… And it can… it can tell me… Um… suggestions, recommendations that would help?
+10:30:34 At the same time, um… I guess this is how my mind would… I'm thinking about things in terms of, like.
+10:30:44 Um, because this is a broad… Um, area, when you were talking about cyclist safety.
+10:30:51 But as a designer, I would want to, like.
+10:30:55 Um, funnel down and, like. get to the bottom of.
+10:31:00 the design and, like, see which area should, um, focus on in particular.
+10:31:05 At that… at that site, so… Um… that's why I asked.
+10:31:11 Okay. Bye.
+10:31:13 I got what you're saying.
+10:31:18 Comparative analysis.
+10:31:24 Oh, before we do the comparative needs, uh… Create, like, the design.
+10:31:29 So we can start with doing the adjust design feature.
+10:31:39 So that's the… tool to, like, develop, uh… New photo… and design of the street based on.
+10:31:48 The photo we gave it, and you can put some standards and whatever requirements you want for it.
+10:31:50 Mm-hmm.
+10:32:30 Yeah, this will take a minute or two. Just, like, random.
+10:32:46 Your previous comments are like. Road, like, general LS, they have different angles.
+10:32:53 But for, like, this tool… Um, we only consider safety and comfort, like, if you see the score, we have safety score, comfort score, and then a total score.
+10:33:10 Fingers from, like, cyclists, like, perspective, like. We… we can, like… This, like, there's four, like, categories, like, based on.
+10:33:20 Like, what is common discussed in… Cyclist behaviors.
+10:33:25 My researchers noticed there are, like, 4 types of.
+10:33:29 Uh, cyclist. And we use this, like, text somebody and, like.
+10:33:35 Ask, um, like, what do… Ask them to simulate a cyclist of this group, right?
+10:33:41 If you are a very confident cyclist, what do you see? Like, how do you perceive the segment?
+10:33:50 So, we try to, like, more from a… Like, a user perspective, not, uh, like, a holistic… evaluation, like, technical perspective.
+10:34:02 I gotcha, yeah. That makes sense.
+10:34:55 Is it still loading? Oh, there we go.
+10:36:17 I see the score's increased, but… Not substantially.
+10:36:46 Also, I want to notice with these personas, they're definitely more on the skeptical side.
+10:36:54 More on the what?
+10:36:57 It's skeptical slide.
+10:36:59 Oh, I got you.
+10:37:04 I mean, all the points that I'm seeing here are, like, valid.
+10:37:11 Yeah. Um… Let me talk some image it generated.
+10:37:17 Yeah.
+10:37:21 I wonder if it can take, like, um… like a segment, like a, let's say, a 3-mile segment.
+10:37:30 Instead of, um, just one… like, let's say, a series of coordinates instead of.
+10:37:40 Mm-hmm.
+10:37:38 One coordinate of one location. So, if I can give it a series of coordinates of… That whole corridor of, like, 1.5 miles.
+10:37:49 So, it can take into account. The… the roadway segment, um… With how many intersections, let's say we have.
+10:37:59 20 intersections. Um… Um, 15 of them are signalized.
+10:38:06 to our unsignalized. for our stop-controlled.
+10:38:10 And there's a bike lane at. it would… it would read all of this information, obviously.
+10:38:16 And that way… Um, the evaluation can be… Um, more specific to the whole… area, instead of one segment, because that way… Um, these points are valid, but what if the roadway configuration changes after, like.
+10:38:37 Two signals from now. Uh, moving forward.
+10:38:40 So, that would make this analysis kind of like a moot point.
+10:38:47 Or, like, okay, I mean, it makes sense, but I'm not just looking at this.
+10:38:53 Um… Like, um… 500 feet of a portion of a roadway.
+10:39:01 But definitely, like, um, a whole location can go a long way.
+10:39:05 Unless it can take, like, intersection by intersection. For example.
+10:39:15 Does it take into account, like, transit? Um, concerns.
+10:39:19 When it comes to, um… Like, microtransit, um, like… Buses, subways, um… I'm not always, like, train.
+10:39:29 Um… No.
+10:39:31 Ray Rose.
+10:39:33 I don't think so.
+10:39:38 Oh, someone else, they, like… Had a bus in the… Picture, and it didn't really make any comments on… The bus, or anything transit related.
+10:39:51 Because this area has a lot of bus stops.
+10:39:55 ridership activity, and it also has, um, truck loading.
+10:39:56 Yeah.
+10:40:02 Um, and it says of amount, too, so trucks will just, like, park.
+10:40:06 Double parking. That's what I wanted to say. There's a lot of… situation where, like, we only have 3 lanes, and.
+10:40:09 Yeah.
+10:40:13 Definitely, cyclists don't have… Any way to contribute.
+10:40:19 Or, like, have space within this, um… This roadway environment. So, as to that double parking situations.
+10:40:28 And, um, loading truckloaders. It was just… it was just messy. That's why I was like… Interested to, uh… To, like, dive deeper into it. I mean, we all know Yonkers.
+10:40:35 Mm-hmm.
+10:40:42 And how messed up, like, the… the whole area is.
+10:40:46 Um, so it was interesting to, uh… To see… oh.
+10:40:57 Yeah.
+10:41:03 I like the quality of… How it changed.
+10:41:30 And then how you would be able to… Do the comparison.
+10:41:34 Hello? Can I, like, um… Maximize this picture.
+10:41:43 Or I'm just gonna zoom in there. I see they added a… they added a lane.
+10:41:45 Awesome, yeah.
+10:42:15 Yeah, that's a really good case, I think, like… Only, like, the other similarly received locations that you can notice this.
+10:42:24 Yeah. Oh, that's very… that's very impressive.
+10:42:25 Hmm.
+10:42:40 Oh, did I ask it to do that, though?
+10:42:45 I think I…
+10:42:58 The AI data yourself, yeah.
+10:44:06 What is it that you, like, you guys created this application, right?
+10:44:10 Like, from the start.
+10:44:14 Also, another group of students, and we're just helping them.
+10:44:18 Run the interviews.
+10:44:21 Okay. So, what is the ultimate… goal you're trying to achieve.
+10:44:29 With that research. Like, what's your…
+10:44:33 Let me just see… how this tool… Could, like, be improved, and how it should be.
+10:44:42 Implemented, whether it be in professional practice or. I'm, like, I guess student… Side of things.
+10:44:50 So, we're sketching, like, opinions of different professionals, see, like.
+10:44:56 Whether this can help provide more, like. And product outputs, or… You know, if it's better for, like.
+10:45:04 Starting the design process and… Guiding that process.
+10:45:09 Things like that.
+10:45:12 It's awesome. Okay. No, I see a great potential from… from, like, the idea.
+10:45:18 Of this tool. And where… where it's gonna go.
+10:45:25 Like, um… Like, talking… having these interviews, obviously.
+10:45:31 You pick everyone's brain on whatever they're involved with.
+10:45:35 I cannot provide, um… like, diverse perspectives.
+10:45:40 From roadway design, because that's not essentially what I'm… what I'm… what I do at work. As I said, I'm more… I'm more leaning towards… go to a safety in general.
+10:45:46 Yeah.
+10:45:50 By keeping in mind, um. Um, with, like, emphasis on pedestrian and cyclist safety.
+10:45:57 Uh, but as a traffic engineer, it's, it's, um… I take into account all aspects of the roadway.
+10:46:06 And… just take into consideration the pleasant cyclists. So that's not, like, my major emphasis, so… I get why, um… Uh, like, the purpose of this is more skewed to the cyclist's safety, which is still relevant, of course.
+10:46:22 Um, so, like… how I'm thinking of this, um, tool… Um, like, I'm trying to make sense of it in my own area.
+10:46:33 But talking with other professionals as well will give you emphasis in.
+10:46:37 In different areas as well, um, which… Can kind of, like, um… give you multiple pathways.
+10:46:44 To, uh… to explore on where you wanna… Um… Take this, uh, tick which route.
+10:46:54 Um…
+10:47:11 Okay, it did not do… The roadway change.
+10:47:21 I asked it to do the roadway, um… center left turn lane.
+10:47:27 As a design requirement. Is there a specific criteria on how.
+10:47:33 I would, um… enter the design requirements.
+10:47:37 Because I just, like… like, I'm talking, like, prompt-wise.
+10:47:44 Or, um, I can just type up what I… what I did.
+10:47:47 I just wonder if it understood what I meant to say.
+10:47:52 Yeah, like, um… There isn't really much criteria, so I do think it's just, like.
+10:47:59 Oh, well, that understands. I guess, like, how much… Contacts or knowledge it has with regards to… Broadway design.
+10:48:53 I like this.
+10:49:35 Yeah, this is similar to the in-depth analysis. Oh, no, maybe you could ask them about, like, the transit and… This part.
+10:52:40 I didn't mention parked vehicles.
+10:56:03 Okay.
+10:56:17 Um… So, does it… does it… create, um, a report in the end? Does it generate a report, or like a… Constructed, um… analysis… That's, like…
+10:56:34 Not necessarily. It's just, like, the comparison. That's, like, the… Closest thing you get to report.
+10:56:42 Yeah.
+10:56:42 And then, in the end, like, on the top right, you can… Download the project, but that just, like… It gives you the… Like, final… Like, the image outputs.
+10:56:58 Hmm, I see what you're saying. Okay.
+10:57:08 Got it.
+10:57:10 Would you like to see, like, some kind of… Report, like, included in that.
+10:57:17 Download button.
+10:57:20 Um… That's… With a software like this, I feel like it's expected.
+10:57:28 Mm-hmm.
+10:57:28 Um, because you hear AI, and uh… And as soon as you hear AI, and especially it's in the name.
+10:57:37 Uh, you expect AI capabilities. That's more constructed, um, and, um… Like, think of it as, like, Copilot or ChatGPT.
+10:57:48 Um, if you ask it, like, okay, put together a summary of this analysis and findings.
+10:57:56 In our constructed report. So, when I download the project.
+10:58:00 It would include, like, um… An outline, introduction… main body where it mentions the various scenarios that I was looking into.
+10:58:10 Um, in addition to, like, uh… and recommendations and summary of recommendations and, and, uh… And… and proposed alternatives.
+10:58:21 Uh, with a selected one. Um, towards the end, or, like, an emphasis on the particular.
+10:58:30 Um… Um, scenario or alternative that I'm interested in, and then… you know, a conclusion.
+10:58:39 Like, looking at this from a user perspective, um, it's very insightful.
+10:58:44 To see the graphic user interface. Uh, with the different scenarios.
+10:58:51 Um, however, I think the in-depth analysis would, uh, would be more insightful.
+10:58:56 if it wasn't always… Um… constructed into… Um… these four participants.
+10:59:07 Mm-hmm.
+10:59:07 Like, um… it… like, yes, that is… helpful when… when providing results.
+10:59:16 Of the scenario, but when we're talking in-depth analysis.
+10:59:20 Everyone is used to, um, using AI. And everyone is familiar with the responses, but… Um, these responses kind of… sound, um… repetitive, in a way.
+10:59:35 Which gets you, um, a surface… Um, idea.
+10:59:35 Yeah.
+10:59:39 And it's very, um… Um… Like, it's not in-depth.
+10:59:47 as it says in depth, you know what I mean?
+10:59:49 So, like, or maybe I'm just taking it too far with, uh, with how I'm thinking about this.
+10:59:50 Yeah.
+10:59:56 But essentially, it's just… with how technology is right now.
+11:00:01 Um, expectations are raised, um… And especially when you use AI.
+11:00:08 Uh, now everyone just expect… seeing things perfectly outlined language-wise.
+11:00:14 Provided, like, all… hitting all the points. as a designer or user is expecting.
+11:00:22 So, uh, whether the information technical or not. Um, it's provided, um… It has to be properly constructed in a way.
+11:00:33 Where, as a designer, I can… I can draw my own conclusions from that, or… Like, um, if a report is generated in a Word document, I can go in.
+11:00:44 And then sync that report. and add my own emphasis and insights.
+11:00:50 because definitely I can get something out of this.
+11:00:53 to help me with my own report. So how about I use this report?
+11:00:58 And then I add my own insights in a section.
+11:00:56 Yeah.
+11:01:02 And use the graphics, use the scenarios, use the information, and these scores.
+11:01:07 To, um, to help, um… elaborate and justify.
+11:01:12 my analysis of my own study. So, definitely, this is a useful tool.
+11:01:17 Um, it's… Um, incorporating it into a real-life application.
+11:01:25 is what needs to be, like. smooth and hitting all the points.
+11:01:30 Especially from an urban planning perspective as well. Um, like, I asked about bus stops, I asked about signalization.
+11:01:38 Um, I feel like giving it more information from the back end, um… I don't know how you guys went about it from.
+11:01:47 on the other side. But, um… It looks like it's lacking information.
+11:01:53 Mm-hmm.
+11:01:53 basis from, like, standards and specifications from manuals, or… Um… or codes.
+11:02:02 Um, it's… it needs… Um, database, I think.
+11:02:07 I can't speak of, like, how it was done, or, like, how do we do this.
+11:02:09 Yeah.
+11:02:13 It's, um… I'm drawing this conclusion based on what it provided me.
+11:02:19 Um… the points it hit, it makes sense, but it's more surfaced.
+11:02:27 It really needs to be in-depth. Um, so it can actually help me with my study, or investigation that I'm working on, or… Um, strategy, um, that I'm trying to, uh… To plan for.
+11:02:41 So, I think this is my tip. From this.
+11:02:43 Yeah.
+11:02:49 Okay. Yeah.
+11:02:48 But I love it, to be honest. Like, I really do, like, that… It's what my… triggered my interest in the beginning, is that this idea has been on my mind.
+11:02:59 And I saw the email, and I met you guys, and I'm like, yeah, yeah, this is… This is exactly what we need to, um… Um, to get going, because really, we do a lot of things that this can help us achieve much faster.
+11:03:13 if we just give it the proper information. Just like what we discussed, me and Jacob, um, in the email.
+11:03:15 Yeah.
+11:03:21 His name is Jacob, right? I didn't…
+11:03:23 Yeah.
+11:03:26 Yeah. So… Yeah, but… That's, um… That's amazing work, guys, honestly.
+11:03:34 I, um… there is… As part two classic… GPT?
+11:03:43 Yeah. Do you have time for that, or… If not, it's fine.
+11:03:43 Um, what is…
+11:03:49 What is that about? Just so, yeah.
+11:03:52 It's just, like, feeding it prompts, basically replicating what.
+11:03:56 this tool does, but in ChatGPT, like, comparing the responses and.
+11:04:02 the generations.
+11:04:04 Okay.
+11:04:09 One over an hour, I see. Um… and I see the interview question in the survey.
+11:04:17 Um… for the survey…
+11:04:25 I should go through this after… after our meeting.
+11:04:29 Yeah, that's pretty similar to, like, the initial… survey you filled out.
+11:04:34 I got you. Okay. Absolutely, I'll fill that out and send it to you guys.
+11:04:40 I will also answer the interview questions.
+11:04:45 Yeah. You don't need to go through all these.
+11:04:48 Um… and give you my response.
+11:04:52 Like, most of these were just for, like, us to… Ask you during the interview. I think we covered a lot of these topics.
+11:04:59 Maybe if you want to go more in depth on selecting.
+11:05:03 The last two, my question, A or 9. Those are, like, our… I guess, like, big picture questions.
+11:05:14 How do you envision integrating Persona-based AI feedback into your design workflow?
+11:05:24 What barriers or opportunities do you see?
+11:05:32 I'm doing the pleasure shifting now and wrote it.
+11:05:36 Augmentation, or, like…
+11:05:41 Oh, these are very interesting questions. I love that. Um, how do you envision integrating?
+11:05:49 To your road design workflow. I think with this… with this feedback.
+11:05:59 Um… as a designer, looking at all the data.
+11:06:05 Um… you kind of lean towards… Um… Um, like… in an analysis or evaluation.
+11:06:16 of a certain, um, study or area. Uh, um… You kind of… there's a lot of data.
+11:06:26 Um, to look at, and a lot of, um… Um, things that will stand out in your mind.
+11:06:35 That would, um… Make you overlook.
+11:06:40 other areas that are still crucial. And as engineers.
+11:06:45 Uh, as engineers, as opposed to planners, which kind of.
+11:06:50 What, um, I am looking to combine both mindsets together.
+11:06:55 it's… I think it's essential, because as an engineer, I look.
+11:06:55 Mm-hmm.
+11:07:00 To make an improvement right now. As soon as possible, aka a short-term.
+11:07:08 Yeah.
+11:07:07 improvement, but get it done. But as a planner, I'm like, okay, what… if we fix this now, but in the future, is it gonna come and bite us?
+11:07:16 So, I'm like, I want to combine both mindsets, where I can find a solution.
+11:07:21 Right now, or maybe a little later, like, in the next 2… 3 years.
+11:07:25 But it would also help us in the long run, not just, like, add a couple lanes and move on.
+11:07:31 But not to move away from the question. AI, it cannot miss.
+11:07:37 A piece of information, or a factor or an element.
+11:07:42 AI is useful. Because it would… take into account all the data.
+11:07:50 all the elements, and it can provide alternatives. Based on… Which we, um… prioritize. It will create all alternatives.
+11:08:03 depend… and each alternative will prioritize a single element of the roadway.
+11:08:07 One alternative will take pedestrians and put that as a priority, so it would give us.
+11:08:13 Um, are perfectly safe… As I mentioned, um, corridor.
+11:08:19 that's just safe, or, like, emphasis on safety for pedestrians. And another alternative that focuses on.
+11:08:26 Bicyclist safety. Another that's focused on bus. safety, and so forth.
+11:08:33 Um, as an engineer, I want to combine all of these.
+11:08:37 But I will overlook the safety of. One of these users. So, basically, AI feedback, which is giving me an insight.
+11:08:46 for all of these, and I get to choose.
+11:08:50 Which one, um, is the most important? Uh, that we need to integrate right now, but not… To overlook the others.
+11:08:58 So, that's what the human mind is also going to come into play.
+11:09:04 Um, AI and road designers… I wouldn't say it's a replacement.
+11:09:10 Um… Although it might, there's a big chance.
+11:09:15 That would happen. Um, because… And this steps… That we're going through right now, I feel like.
+11:09:25 AI compatible, like… Really, if I give all these… because it's all about data. I have all these data, and as a.
+11:09:33 As a human, I'm, like, supposed to. integrate all of these information.
+11:09:38 Um, into the study, and come up with my own conclusion.
+11:09:42 but also AI can do that. And it can give me a conclusion based on whatever.
+11:09:47 data sorted through happened, and… It can provide recommendation, but as a human.
+11:09:53 I can see which one of these recommendations is feasible, because I can just think that everything is feasible.
+11:09:59 But eventually, I think by providing more and more information.
+11:09:59 Mm-hmm.
+11:10:04 it can make sense of which is feasible or not.
+11:10:07 And it can do benefit-cost analysis and tell you.
+11:10:10 give me a budget, and I can tell you what you can achieve.
+11:10:14 Based on this. I feel like with the more information you give it.
+11:10:18 the more it will give you back. So… That's what we're doing right now, but we're still in phase one, I would say.
+11:10:25 And by phase 10, it wouldn't be a replacement, but it would be a face-to-face.
+11:10:32 Um, kind of challenge. Between engineers, planners, and AI.
+11:10:37 So, I think that would be… My best interpretation, or… Collaboration to these questions.
+11:10:44 It's kind of scary, but… That is what it is. It's what we have to do.
+11:10:46 Oh, yeah.
+11:10:52 Yeah.
+11:10:52 But, um… I will… I'll follow up with, um… With feedback, I'll try to summarize.
+11:11:02 Um… the experience by using this. application, and uh… I hope it was… Typeful and useful to you guys, and uh… You would take anything from it towards the, uh.
+11:11:12 Oh yeah, that's great.
+11:11:18 Um, improvement of the app. But overall, it's an awesome experience, to be honest, and uh… I'm glad to see you guys, um… Working on the… I wish you the best, really.
+11:11:31 Well, thank you.
+11:11:33 Yeah, absolutely. Do you guys have anything… For me, you would like to, uh… To talk about.
+11:11:43 Uh… I guess last thing, like… For that follow-up email.
+11:11:47 If you could also attach, like, the… things you downloaded from the… AI tool, like the pictures, and there's also, like, a JSON file.
+11:11:57 Sure.
+11:11:58 And also… I had, like, 3 screenshots of, like, some of the replies you found most interesting from the personas, and, like, those discussions you had with it.
+11:12:07 Okay. We'll do so. Sure. I see that message.
+11:12:12 Oh, so it's not just…
+11:12:14 On the, uh… on the agenda, so… I'll get that done, and uh… I'll shoot you guys an email soon.
+11:12:18 Yes.
+11:12:24 Yeah. And that's all we have for you. Hopefully you can find a better time to meet with Jacob.
+11:12:32 Seems like you want to talk to.
+11:12:33 Um, whenever, like, really, I would like to meet Jacob as well, and uh… discuss, so if you guys have any, I'll also, like, follow-up questions for me, um… Definitely eager to, uh, contribute.
+11:12:47 however I can, um, so… Let's stay in touch, and… We'll go from there.
+11:12:47 Mm-hmm.
+11:12:55 Alright, great to talk to you guys. Thank you for your time.
+11:12:53 Yeah, will do.
+11:12:58 I wish you the best. Yeah. Take care.
+11:12:57 Thank you for that.
+11:13:01 Yeah, thank you. Bye.

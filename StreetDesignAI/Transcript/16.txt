@@ -1,0 +1,1341 @@
+[RC] 10:04:41
+Let me share my screen… So… Share… and then… Entire screen.
+
+[RC] 10:04:56
+Can you see my screen?
+
+[Mateo Nader] 10:04:59
+Uh, yeah. Okay, so yeah, for… This interview, we're gonna try to spend, like.
+
+[Mateo Nader] 10:05:06
+It's, like, 30 to 40 minutes on part one.
+
+[Mateo Nader] 10:05:10
+And then part two is a bit shorter, so we could do that on, like… 20 minutes, but the main goal of this is just, like.
+
+[Mateo Nader] 10:05:17
+Assess… just, like, the current state. Of the tool, and I guess, get your opinion on… How you see this fitting into, like, the current design process?
+
+[Mateo Nader] 10:05:30
+Just, like, with the way it's at right now.
+
+[Mateo Nader] 10:05:32
+So, we can start with the street design AI tool, you can open that.
+
+[Mateo Nader] 10:05:44
+Yeah, you could either copy and paste those, or there's also, like, a… But in there. Yeah.
+
+[RC] 10:05:59
+Okay.
+
+[Mateo Nader] 10:06:01
+And then, yeah, here, this is just the, like, the Google Maps street view, so you can move around here.
+
+[Mateo Nader] 10:06:08
+But… let's see what you want to do. Let's find, like, a good… View of a street.
+
+[Mateo Nader] 10:06:13
+And then, once you get a good view, you can click Generate Evaluation, and… Whatever view you use, the AI will use it to… generate, like, uh… yeah, generate an evaluation on… the street in terms of cyclist safety and its existing infrastructure.
+
+[RC] 10:06:38
+Okay, um, it says… AI evaluation error, all… For persona evaluations fail, this might be due to API key issues, network connectivity.
+
+[RC] 10:06:50
+Image size too large API service unavailable model.
+
+[RC] 10:07:00
+Well, it says it failed, but I can still…
+
+[Mateo Nader] 10:07:01
+Yeah, I'll tell it anyway. Oh. Oh, but it's not giving the…
+
+[Mateo Nader] 10:07:13
+Or maybe try a different view. I don't know if it's because there's that blur in the image, if that.
+
+[Mateo Nader] 10:07:19
+Affected it.
+
+[RC] 10:07:21
+You think so? Um… Let me… So, do you want us to… Is there a bike lane here? No.
+
+[Mateo Nader] 10:07:37
+And that just doesn't necessarily have to have a… Bye, clean.
+
+[RC] 10:07:42
+Oh, it does not? Why is there a lot of blurriness, though?
+
+[RC] 10:07:50
+Okay, let's do this.
+
+[RC] 10:08:11
+It's giving me the same error. I could swear I ran it this morning.
+
+[RC] 10:08:18
+You want me to try, like, Internet Explorer?
+
+[Mateo Nader] 10:08:24
+Yeah, I'll still try it. online and see if I'm having the same issue.
+
+[RC] 10:08:52
+Yeah, so giving me the same… Okay. Gonna try something.
+
+[RC] 10:08:58
+I'll try to connect through my cellular data. Maybe it's…
+
+[RC] 10:09:33
+Okay, let's try…
+
+[Mateo Nader] 10:09:46
+Okay, I'm having the same issue. When I try to… Yeah. Um…
+
+[RC] 10:09:49
+Oh, you're having the same issue?
+
+[RC] 10:09:57
+Okay, so it's not a connection issue from my part.
+
+[Mateo Nader] 10:10:00
+Serva. Yeah.
+
+[RC] 10:10:05
+Yeah, it's still giving me the same…
+
+[Mateo Nader] 10:10:10
+Well, it's… It's saying that, but it's still generating the… Okay, I think… oh, I might be working, so… The consultant can send you an… If the other… features don't work, then…
+
+[Mateo Nader] 10:10:28
+It might be an issue, but… For now, it seems to be generating the evaluation, even though it says they're in error.
+
+[RC] 10:10:31
+Okay.
+
+[RC] 10:10:36
+Right, um… But I think that it's generating the valuation of.
+
+[RC] 10:10:45
+Like, it's a standard… oh, no, you're right, look.
+
+[RC] 10:10:50
+Okay. Let me connect back to my… to the other Wi-Fi, that one.
+
+[RC] 10:11:48
+Okay. Sorry. Um… Can you hear me?
+
+[Mateo Nader] 10:11:57
+Yeah, let's stop sharing your screen, though. Okay. See it now.
+
+[RC] 10:12:01
+Okay. So, it is giving an error, but it's, as you said, generating.
+
+[RC] 10:12:10
+What it is supposed to generate, right?
+
+[RC] 10:12:18
+Okay. Now, what next?
+
+[Mateo Nader] 10:12:23
+Um, let's see, you can just… Read through the responses.
+
+[Mateo Nader] 10:12:28
+Let me know you think of, like. It's assessment, and also… How useful you find… The different personas and the scoring.
+
+[Mateo Nader] 10:12:39
+I'll just wait to think about. This part of the system.
+
+[RC] 10:12:44
+Okay.
+
+[RC] 10:12:50
+So, these are four personas, right? Like… Hmm.
+
+[Mateo Nader] 10:12:55
+Yeah, so these are, like, 4 different types of cyclists, just based on.
+
+[Mateo Nader] 10:13:00
+Confidence in their abilities.
+
+[RC] 10:13:06
+Appreciate it. I think his name…
+
+[RC] 10:13:18
+Okay, maybe you could improve everything. Potential.
+
+[RC] 10:13:31
+I hope someone still have safety concerns.
+
+[RC] 10:13:41
+Unsave, we've completely separate tracks. Even quite true, scary.
+
+[RC] 10:13:50
+Okay. Clear separation from public.
+
+[RC] 10:14:03
+Oh, so… So these prompts are… From cyclists… But when you press here, the pros and cons… Okay.
+
+[Mateo Nader] 10:14:11
+Yeah.
+
+[RC] 10:14:23
+Sounds good. I read through them. Now… Now what?
+
+[Mateo Nader] 10:14:31
+I can try the in-depth analysis.
+
+[RC] 10:14:46
+Yeah, I saw this one.
+
+[Mateo Nader] 10:14:55
+Yeah, this one's more like a… So we'd see a prompt where… It'll give you, I guess, like, a more depth, in-depth… response from each of the personas.
+
+[Mateo Nader] 10:15:07
+And then at the bottom, there's also a feature where.
+
+[Mateo Nader] 10:15:10
+You can ask it questions, or… Give it comments, and they'll respond to you.
+
+[RC] 10:15:34
+I'm pretty confident. Trying to compare these two.
+
+[RC] 10:15:41
+I believe…
+
+[RC] 10:15:54
+Copenhagen infrastructure, anything listed unacceptable, given the risks involved.
+
+[RC] 10:16:00
+Okay, um…
+
+[RC] 10:16:05
+Hmm.
+
+[RC] 10:16:23
+Um…
+
+[RC] 10:16:47
+buffer zone… Clean pain… Okay.
+
+[RC] 10:16:56
+Physical protection and concrete barriers, or… Planters creating a race crossings.
+
+[RC] 10:17:04
+With separation from turning, yeah.
+
+[RC] 10:17:10
+Lane continuity. Through intersection with Korean conflict and.
+
+[RC] 10:17:15
+Sharers needed. Except to be fully separated.
+
+[RC] 10:17:20
+cycle track at sidewalk level with planted mediums. Okay. From a driving perspective, any changes need to maintain?
+
+[RC] 10:17:29
+Adequately enrolled for emergency vehicles.
+
+[RC] 10:17:34
+Interesting.
+
+[RC] 10:18:16
+Oh, I should have been to…
+
+[RC] 10:18:23
+So it's… it's still giving me the same answers.
+
+[Mateo Nader] 10:18:28
+Yeah. This one seems to be a bit repetitive.
+
+[RC] 10:18:28
+So I asked, on a score of 1 to 10, how likely are you to bike on the street if no changes are made, or if the changes you are suggesting are implemented?
+
+[RC] 10:18:36
+I'd like to see about her.
+
+[RC] 10:18:42
+So…
+
+[RC] 10:18:48
+Interesting. Okay, let's see…
+
+[RC] 10:19:26
+So they're repeating the same… Um… answers.
+
+[Mateo Nader] 10:19:33
+Yeah, so how does this feature noticed they're usually very persistent about.
+
+[Mateo Nader] 10:19:38
+That's the first thing they say.
+
+[RC] 10:19:41
+Okay. No problem. I like it, though. It's very good.
+
+[RC] 10:19:46
+Okay, so after in-depth. Um, there's a just design.
+
+[Mateo Nader] 10:19:54
+Yeah. Right. Might need a better angle of the street.
+
+[RC] 10:19:54
+Should we?
+
+[Mateo Nader] 10:20:00
+It's zoomed in a bit, so…
+
+[RC] 10:20:03
+This one, you mean?
+
+[Mateo Nader] 10:20:06
+Yeah, that'd probably be better. Yeah, because this will use GPT to, like.
+
+[Mateo Nader] 10:20:12
+Make a new design. Based on the existing image.
+
+[RC] 10:20:15
+Right, but I'm… Let's see… okay.
+
+[Mateo Nader] 10:20:20
+So you can adjust those parameters, and then… You can also, in the enter design requirements, you can… Put in either, like, give it more context about what's going on in the image, or… Also give, like, a more specific design that you want.
+
+[RC] 10:20:22
+Stay the same.
+
+[RC] 10:20:39
+A standard armadillo, no buffer. Next up, next to moving cars.
+
+[RC] 10:20:46
+No, next to work, of course, let's see. I wanna… It should stay the same.
+
+[RC] 10:21:02
+Is it? Generating? Oh, yeah.
+
+[Mateo Nader] 10:21:05
+Yeah. It shows that everybody's not in the…
+
+[Mateo Nader] 10:21:13
+Yeah, this takes, like, a minute or two.
+
+[RC] 10:21:14
+Kind of brought a…
+
+[RC] 10:21:19
+Let me take some notes.
+
+[Mateo Nader] 10:21:34
+Can you zoom in to see… What the error is.
+
+[RC] 10:21:36
+And…
+
+[Mateo Nader] 10:21:39
+Thank you all, it says…
+
+[RC] 10:21:42
+Billing hard limit has been, uh…
+
+[Mateo Nader] 10:21:44
+Oh, yeah, it's happened, like, once before. We reach, like, the API limit.
+
+[RC] 10:21:52
+Okay, so I assume… We're not able… we're not going to be able to use this feature right now, right?
+
+[Mateo Nader] 10:22:00
+Yeah. Um… Yeah.
+
+[RC] 10:22:01
+Okay, no problem. I saw it in the video.
+
+[RC] 10:22:04
+Looks good, actually. I was impressed.
+
+[Mateo Nader] 10:22:10
+Yeah, but if you want, also, I could… share my screen and show you a few examples from, like, the other interviews.
+
+[RC] 10:22:11
+Um…
+
+[RC] 10:22:19
+Yeah, yeah, if you can, that'll be great.
+
+[Mateo Nader] 10:22:23
+Yeah. Okay.
+
+[RC] 10:22:28
+And then after we generate… We can still do the in-depth analysis.
+
+[Mateo Nader] 10:22:37
+Yeah.
+
+[RC] 10:22:37
+Even with some infrastructure. So…
+
+[RC] 10:22:51
+Why is it doing?
+
+[Mateo Nader] 10:23:23
+Okay, I found some images. I can share my screen now.
+
+[Mateo Nader] 10:23:32
+Let's stop your screen share for a moment.
+
+[RC] 10:23:36
+Okay.
+
+[Mateo Nader] 10:23:39
+Alright, can you see my screen?
+
+[RC] 10:23:42
+Ah yes, I can.
+
+[Mateo Nader] 10:23:45
+I think this is similar to the area. You were looking at…
+
+[RC] 10:23:50
+Wow, this looks very nice.
+
+[Mateo Nader] 10:23:53
+Yeah, this one has the armadillo… Providers, this one has the bollards.
+
+[Mateo Nader] 10:24:00
+It's been, like, with some people… Notice either, like, it struggles to differentiate between, like, the roadway.
+
+[Mateo Nader] 10:24:10
+And, uh, cycling lane. We've also noticed that.
+
+[RC] 10:24:11
+Hmm… Yeah.
+
+[Mateo Nader] 10:24:14
+It struggles sometimes to differentiate between parked cars and moving cars.
+
+[Mateo Nader] 10:24:21
+Well, in terms of, like, generating the bike lane itself at the… Pretty good job. And yeah, these are, like, the… Existing… scenarios.
+
+[RC] 10:24:32
+I see. So I still have some training to do.
+
+[RC] 10:24:37
+But… And that looks nice.
+
+[Mateo Nader] 10:24:37
+Yeah.
+
+[RC] 10:24:45
+Besides having the car parked. And it…
+
+[Mateo Nader] 10:24:48
+Yeah.
+
+[RC] 10:24:53
+All right.
+
+[RC] 10:25:00
+Okay.
+
+[Mateo Nader] 10:25:00
+And then… yeah, the only thing else… I was left with, like, the… AI tools, the comparative analysis.
+
+[Mateo Nader] 10:25:10
+That, like, requires that you have, like, the different.
+
+[Mateo Nader] 10:25:13
+design scenarios.
+
+[RC] 10:25:16
+Right. So you think we can't use that? Because we don't have the…
+
+[Mateo Nader] 10:25:24
+Um… Well, if you have… Well, actually, since you have the different… When those pulled up, you could still do it just to see how the feature works.
+
+[RC] 10:25:25
+The bike lane image generated.
+
+[Mateo Nader] 10:25:36
+So you just go up to, like. Each tab, and click the comparative analysis, and then you do that for each of the… Ones you wanted to compare.
+
+[RC] 10:25:47
+Okay, so I pressed comparative analysis here. And here. Now what?
+
+[Mateo Nader] 10:25:53
+Yeah. And then in the bottom left, the… Could see the prompts, uh… Oh yeah, it's generated behind that tab.
+
+[RC] 10:25:56
+Oh… yeah.
+
+[Mateo Nader] 10:26:08
+Yeah. So this has, like, a similar feature as the in-depth analysis.
+
+[RC] 10:26:09
+This one.
+
+[Mateo Nader] 10:26:14
+And then… also, you see there's a tab next to the multi-agent discussion.
+
+[RC] 10:26:19
+Yeah, this one is…
+
+[Mateo Nader] 10:26:19
+That has, like, it shows graphs that… Compare the scoring between different scenarios.
+
+[RC] 10:26:37
+Okay.
+
+[RC] 10:26:44
+Monitoring unit…
+
+[RC] 10:26:49
+What do the colors mean? So… here, like… Oh, okay. Nevermind. So, blue is the first one.
+
+[Mateo Nader] 10:26:56
+Share the different images. Yeah.
+
+[RC] 10:26:58
+Existing, and… Because when I saw the… Okay, okay. Never mind.
+
+[RC] 10:27:18
+All right.
+
+[Mateo Nader] 10:27:23
+Yeah. Let me think about this, like, the presentation of this feature, and also… That's the usefulness of this feature.
+
+[RC] 10:27:33
+Uh, oh, so you're asking me the question? Okay, I think the tool… Looks great. I think it's a great tool for planners.
+
+[Mateo Nader] 10:27:37
+Yeah.
+
+[RC] 10:27:44
+Especially for, uh, like, city planners, or… Department of Transportation, whenever they're planning for.
+
+[RC] 10:27:53
+bike lanes and expanding their bikeway networks. I think it's a very, very good tool that come in handy whenever they're wanting to change the design of a road.
+
+[RC] 10:28:03
+It also offers beautiful renderings. Um, like, the photos that you showed me, they even… Make the street look more beautiful.
+
+[RC] 10:28:12
+The car's everything looks nicer. Um, so I think it's a very good tool to be able to visualize the kind of implementation they're wanting to do, to make.
+
+[Mateo Nader] 10:28:13
+Mm-hmm.
+
+[RC] 10:28:23
+I think it's also simple. when I, like, the video is very short, like, you could… It doesn't need training to be learned, and it's very intuitive.
+
+[Mateo Nader] 10:28:26
+Mm-hmm.
+
+[Mateo Nader] 10:28:33
+Yeah.
+
+[RC] 10:28:33
+You just add the coordinates. It gives you the… the Google Street View.
+
+[RC] 10:28:40
+And then… have just these 3 buttons. So, adjust design, in-depth analysis, comparative analysis.
+
+[RC] 10:28:50
+Um, now… Regarding how it can be better, and… So I think… This preview shows what it can do.
+
+[Mateo Nader] 10:29:03
+Mm-hmm.
+
+[RC] 10:29:03
+And I think being able… To reach out the point where it can do what it can do.
+
+[RC] 10:29:10
+What it's supposed to do in an accurate way is great, and it's enough.
+
+[RC] 10:29:16
+Because what else do you need? Like, you need… Feedback from different people that have different perspectives.
+
+[RC] 10:29:22
+And different perceptions of, like, their skills and how safe it is on the road. So I think this is.
+
+[RC] 10:29:29
+This is great, and I think this is where Dr. Yan's research come into place also, like, with biking and perceptions.
+
+[Mateo Nader] 10:29:33
+Mm-hmm.
+
+[RC] 10:29:36
+Um… but I thought that, for instance. Um, when you're chatting with them.
+
+[RC] 10:29:43
+Which is, I think, the in-depth analysis. What could be better is… When you ask more questions or different types of questions.
+
+[Mateo Nader] 10:29:47
+Yeah.
+
+[RC] 10:29:54
+those could change, and I… Probably you saw that. They wouldn't change, and I think this… this could be solved by just training the models more and more.
+
+[RC] 10:30:01
+But, you know, here, like, when I asked it to score on a.
+
+[Mateo Nader] 10:30:02
+Yeah.
+
+[RC] 10:30:05
+scale of 1 to 10, it gave me the same answers.
+
+[RC] 10:30:08
+And it would be, for example, nice to just have a very short and concise answer and be like.
+
+[RC] 10:30:14
+Hey, um, for me, it'll be, like, a 2 over 10.
+
+[RC] 10:30:18
+For the no way, no how. Just because… and it can say… Again, like, why? Just because it's unseated, blah blah blah.
+
+[RC] 10:30:26
+Now, one thing I felt. was interesting.
+
+[RC] 10:30:32
+is that…
+
+[RC] 10:30:37
+Or actually, what would help is to get a description about who these personas are, because.
+
+[RC] 10:30:42
+My thought at first was just regular street bikers.
+
+[RC] 10:30:46
+But then when they spit these answers, I was like.
+
+[RC] 10:30:49
+Why would a regular bike rider know? The… Why would they know, like.
+
+[RC] 10:30:59
+how much… how long the buffer should be, and what the width should be, and you know what I mean, like, the details.
+
+[Mateo Nader] 10:31:04
+Uh, yeah.
+
+[RC] 10:31:05
+So, it could be kind of, like. If you can, like, add a button that, like, you press, and then it gives you a description, okay, like.
+
+[RC] 10:31:13
+Think about this persona as. It could be a person who bikes a lot, or it could be, like, a planner who knows.
+
+[RC] 10:31:22
+Basically, like, some statistics or some data about bike crashes and what the safest option could be.
+
+[RC] 10:31:27
+Blah blah blah. So… This is something that came to mind.
+
+[Mateo Nader] 10:31:33
+Yeah.
+
+[RC] 10:31:33
+Um… What else, what else? Yeah, one other thing that slightly confused me was that.
+
+[RC] 10:31:40
+Here, among the personas, you just have 4, and driver has only, like, pros and cons.
+
+[RC] 10:31:47
+So I thought when I was clicking this. Those four personas would kinda… changed, so I thought I was talking to Ford driver personas.
+
+[RC] 10:31:58
+And now I was, like, talking to 4 cyclists, and then here.
+
+[RC] 10:32:01
+I was able to see that the driver has, like, a perspective similar to the four personas, so… I would put it somewhere here, or like… Have, like, a rating just for drivers similar to these, or maybe, I don't know.
+
+[Mateo Nader] 10:32:08
+Yeah.
+
+[RC] 10:32:16
+Showcase it in a different manner. Um, but I think all of these are very important, the four of them, as well as the driver perspective.
+
+[RC] 10:32:20
+helped me understand which design elements had the biggest impact on different user groups. Very useful for prioritization.
+
+[RC] 10:32:29
+Uh, what else? What else? Yeah, that's that.
+
+[RC] 10:32:33
+And then for the adjust design. I think this is great, actually.
+
+[RC] 10:32:39
+And I'm not sure if… Depending on the state.
+
+[RC] 10:32:45
+There are… and I think there might be different standards.
+
+[RC] 10:32:50
+Um… but what I was thinking about when I was playing around with this.
+
+[RC] 10:32:56
+was that it would… it would have been nice to have, like, something under here that's, like.
+
+[RC] 10:33:02
+Like, a conditional… logic that tells you.
+
+[RC] 10:33:05
+If you pick… stay the same, if you pick green painting, and if you pick standard.
+
+[RC] 10:33:10
+It'll be like a Class 3, my claim. And then if you do next moving cars, it goes down.
+
+[RC] 10:33:18
+you know what I mean? So then you would know, like, planners would know what kind of class they're designing when.
+
+[Mateo Nader] 10:33:20
+Yeah.
+
+[RC] 10:33:24
+choosing those options. Uh, but this is… this is really nice, actually.
+
+[RC] 10:33:29
+I mean, I was very curious to see if I, like, add sidewalk level, if it would, like, design it.
+
+[RC] 10:33:34
+To look like it's matching the sidewall. Right. Um…
+
+[Mateo Nader] 10:33:37
+Yeah. That's wanted to see if that would work, so… might try that later.
+
+[Mateo Nader] 10:33:44
+Uh, yeah.
+
+[RC] 10:33:45
+Okay, and then for comparative analysis. Oh, one thing is when I pressed adjust design, and it was generating.
+
+[RC] 10:33:53
+So when I press generate, and I'm just, like, nitpicking, honestly, this is not very important.
+
+[RC] 10:33:58
+But when I press Generate Design. I couldn't know whether it was generating until I pressed here again, and it showed generating, so if this button, this blue button, can change the generating, probably.
+
+[Mateo Nader] 10:33:59
+Mm-hmm.
+
+[RC] 10:34:11
+It'll be easier on the user to understand, because I can see.
+
+[RC] 10:34:15
+Many users, especially, like, old ones, coming back and starting to press it, like, okay, why is it not generating?
+
+[Mateo Nader] 10:34:20
+Yeah.
+
+[RC] 10:34:23
+Um, yeah, what else? For the comparative analysis, it's also very.
+
+[RC] 10:34:28
+Nice, very… Um, intuitive… I liked that there are.
+
+[RC] 10:34:38
+charts… where are they? Yeah. Here. I would… Honestly, put it to start with this.
+
+[Mateo Nader] 10:34:39
+Mm-hmm.
+
+[RC] 10:34:46
+With this window, rather than this. Because this is probably the in-depth one, but what if you're just wanting to see, like, these, and just, like, take a screenshot and send them to someone?
+
+[Mateo Nader] 10:34:47
+Yeah.
+
+[RC] 10:34:55
+And this is kind of similar to what. We saw here in the in-depth analysis.
+
+[RC] 10:35:03
+more prepared to defend my design choices now. I can anticipate objections and explain how I've considered different user needs.
+
+[RC] 10:35:01
+So one might not… The impulse to kind of go back and.
+
+[Mateo Nader] 10:35:03
+Yeah.
+
+[RC] 10:35:08
+Talk with them again. They probably just want to see these.
+
+[RC] 10:35:12
+Um… another thing, one last thing is… I know it's intuitive to put blue as the one, like.
+
+[RC] 10:35:19
+This is on the left, so this is on the left.
+
+[RC] 10:35:22
+This is to the right, so it means this, but I would provide some kind of a.
+
+[RC] 10:35:29
+Line… borderline that's same color as blue, and here, same one as.
+
+[RC] 10:35:34
+Purple, just so that it's more… even more intuitive.
+
+[Mateo Nader] 10:35:34
+Oh, yeah.
+
+[RC] 10:35:37
+That this is representing this, and this is representing this.
+
+[RC] 10:35:42
+Um… But yeah, I mean, it's assessing safety, comfort.
+
+[RC] 10:35:49
+These are very important… Um… It's listing driver pros, driver cons… Which is also good.
+
+[RC] 10:36:02
+Um… do you… are there… Is there any intention to add?
+
+[RC] 10:36:09
+cyclist pros and cyclist cons. Or you consider that it's presented through these graphs, and it's not needed?
+
+[Mateo Nader] 10:36:20
+This is already, yeah, including the graphs, and also in the… In-depth analysis.
+
+[RC] 10:36:28
+Okay. Okay. Uh… But yeah, besides that, I think the tool is… Amazing, honestly, when I first saw it, I was very intrigued, and it's very well exec… executed, and the design is, like.
+
+[Mateo Nader] 10:36:30
+That's a good point.
+
+[RC] 10:36:46
+Very simple, very minimalist. It's very easily understood.
+
+[Mateo Nader] 10:36:51
+Yeah.
+
+[RC] 10:36:52
+So, yeah. I like it. I think it'll be used by.
+
+[RC] 10:36:58
+A lot of agencies.
+
+[Mateo Nader] 10:37:02
+Because you see in the bottom right if… This message… another person I'm working on this with, but… He said they added more… I guess… More tokens to… oh yeah, look, generated the image.
+
+[Mateo Nader] 10:37:20
+She added more tokens so that the image generation would work. I think on the bottom right, it generated it for you.
+
+[RC] 10:37:26
+Oh! Nice.
+
+[RC] 10:37:31
+Nice. Is this the… the one where I…
+
+[Mateo Nader] 10:37:37
+Yeah.
+
+[RC] 10:37:37
+Okay. Stay the same standard repainting, no buffer standard.
+
+[RC] 10:37:46
+Next support cars. Okay. Nice. I was just trying to see if it will… if I say sidewalk.
+
+[RC] 10:37:54
+If it'll just remove the cars and have it.
+
+[RC] 10:37:57
+Be there. But that's, like, probably asking too much from it right now.
+
+[RC] 10:38:05
+The street, all of the street looks even nicer, honestly.
+
+[Mateo Nader] 10:38:09
+Yeah.
+
+[RC] 10:38:09
+In this space, not just the lane. Yeah, this is… I can see how this will be going to places, honestly.
+
+[RC] 10:38:17
+This is very nice.
+
+[Mateo Nader] 10:38:20
+Yeah, I'm curious, compared to the original image, I don't know if you can tell.
+
+[Mateo Nader] 10:38:25
+Where the cars are parked, but it looks like it may have extended the sidewalk, like, up to the bike lane.
+
+[RC] 10:38:40
+What do you mean? Yeah, I tried to.
+
+[Mateo Nader] 10:38:41
+Like, extended that, like, brick texture.
+
+[RC] 10:38:49
+What was it? Maybe?
+
+[RC] 10:39:07
+Yeah. Well, that's… that's my spiel. Thank you.
+
+[Mateo Nader] 10:39:14
+Alright, then we can move on to the… So, CBT Pro now.
+
+[Mateo Nader] 10:39:19
+Like, before that, could you click the download project on the top right?
+
+[RC] 10:39:36
+Where's the downloads? Okay.
+
+[Mateo Nader] 10:39:43
+Let's see, click allow, because I think it also… So, download… The images as well.
+
+[RC] 10:39:49
+the JSON? Is that it? Oh, the damages as well.
+
+[Mateo Nader] 10:40:02
+Yeah, so you'll send us this data… After the interview, and then also… We'll be using that existing condition.
+
+[Mateo Nader] 10:40:10
+Image for the ChatGPT prompt.
+
+[RC] 10:40:17
+Okay. Do I need to fill out the survey?
+
+[Mateo Nader] 10:40:22
+Yeah, and then… I can fill it out once we're done.
+
+[RC] 10:40:30
+Okay. So…
+
+[Mateo Nader] 10:40:31
+Um, yeah, I'll give you… A login for the ChatGPT account, we have a shared… account.
+
+[RC] 10:40:41
+Okay. Let's go incognito, because I have mine on the other one.
+
+[Mateo Nader] 10:40:55
+Okay, I sent you the… Email and password… In the Zoom chat.
+
+[RC] 10:41:09
+Second, give me one second.
+
+[RC] 10:41:15
+Okay…
+
+[RC] 10:41:21
+Excellent.
+
+[RC] 10:41:44
+Okay. Enter the verification code we just sent. To your email.
+
+[Mateo Nader] 10:41:54
+Yeah, I just sent it in the chat.
+
+[RC] 10:42:07
+All right.
+
+[Mateo Nader] 10:42:10
+Alright, so if you go back to the… PDF… There's a separate doc that… Shows the prompts we'll be using.
+
+[RC] 10:42:14
+I'm gonna see…
+
+[RC] 10:42:22
+I don't want to see myself. Uh… prompt…
+
+[Mateo Nader] 10:42:27
+Yeah. So you just copy all of that in, and then… What's in bold is what… You will, uh… Edit, or, like, input yourself.
+
+[RC] 10:42:41
+Okay, so I'll…
+
+[Mateo Nader] 10:42:42
+So this first prompt is, like, replicating the… generate changes…
+
+[RC] 10:42:47
+So you want me to copy this, for instance?
+
+[Mateo Nader] 10:42:50
+Yeah. And then…
+
+[RC] 10:42:51
+Okay, and then… paste it here, and use one picture.
+
+[RC] 10:42:58
+That I downloaded.
+
+[Mateo Nader] 10:42:58
+Yeah, the existing condition.
+
+[RC] 10:43:08
+Existing. Okay. I'll use this one then.
+
+[Mateo Nader] 10:43:12
+Yeah.
+
+[RC] 10:43:21
+Actually…
+
+[RC] 10:43:29
+Okay, I need you to help me generate a movie first.
+
+[Mateo Nader] 10:43:31
+And yes, for those. Yeah, those ones in the bracket, you choose… The parameters…
+
+[RC] 10:43:42
+Let's try not paint.
+
+[RC] 10:44:15
+So, and why are we doing that? Are we, like, comparing what ChatGPT could do versus.
+
+[RC] 10:44:22
+What the tool could do.
+
+[Mateo Nader] 10:44:24
+Yeah. They're, like, comparing, like, the functionality and ease of use.
+
+[RC] 10:44:28
+is the tool…
+
+[RC] 10:44:33
+Okay. How do I change it back to you?
+
+[RC] 10:44:38
+Okay.
+
+[RC] 10:44:44
+I think…
+
+[RC] 10:44:51
+Because it's full screen. Okay, so… yeah.
+
+[Mateo Nader] 10:45:06
+Yeah, just… Type generated.
+
+[Mateo Nader] 10:45:11
+I don't know, it's been doing this the past week.
+
+[RC] 10:45:12
+I hate when it does that. I hate when it does. It's like, I told you generated like.
+
+[Mateo Nader] 10:45:15
+Yeah.
+
+[RC] 10:45:21
+Do I need a Bible, and… To swear that I wanted to pray.
+
+[Mateo Nader] 10:45:37
+Never seen that.
+
+[RC] 10:45:50
+So, the…
+
+[RC] 10:45:55
+Okay.
+
+[RC] 10:46:02
+What about the other prompts? What are they for?
+
+[Mateo Nader] 10:46:10
+Yeah, this one generates the score. And then… There's another that does the comparison.
+
+[RC] 10:46:13
+I see.
+
+[Mateo Nader] 10:46:19
+And, yeah, the in-depth analysis.
+
+[RC] 10:46:28
+Oh, I see. So here we have, like, a description about what these personas.
+
+[RC] 10:46:36
+Acquire these personas, give such feedback.
+
+[RC] 10:46:46
+Ooh, la, alright. Looks good.
+
+[Mateo Nader] 10:46:53
+Yeah.
+
+[RC] 10:46:55
+But you see, there's a lot of… funky details over there, I think.
+
+[RC] 10:47:00
+So, were you using ChatGPT API? To generate your images in the application, or was it, like, a different image generation?
+
+[Mateo Nader] 10:47:11
+I think it's a different one. Not sure which one exactly it was.
+
+[RC] 10:47:13
+Okay. I mean, yours was doing better.
+
+[RC] 10:47:18
+Over there, around the intersection. All right.
+
+[Mateo Nader] 10:47:23
+Yeah.
+
+[RC] 10:47:27
+And then, should I paste the second one?
+
+[Mateo Nader] 10:47:31
+Yeah.
+
+[RC] 10:47:43
+Location context. Vanware machine.
+
+[RC] 10:48:30
+Are those help but small plain coloration. Close to moving traffic, and similarly guidance.
+
+[RC] 10:48:40
+Separation feels minimal. private proximity, and then physical barrier.
+
+[RC] 10:48:46
+Wide straight so stretched, okay.
+
+[RC] 10:48:55
+Speed should driver benefit from doing… Visibility.
+
+[RC] 10:49:02
+I don't feel constrained by the reduced. Especially when maneuvering your own problems.
+
+[RC] 10:49:09
+Yeah, even if you're parked car and you want to exit, you can just…
+
+[RC] 10:49:17
+Mm-hmm.
+
+[RC] 10:49:23
+Again, it clearly designated space. Okay.
+
+[RC] 10:49:33
+I wouldn't agree that it only provides psychological protection.
+
+[RC] 10:49:37
+It's also like a… It's like the rumble stripes around on the borders of the.
+
+[RC] 10:49:43
+Road. It's kind of, like, okay.
+
+[Mateo Nader] 10:49:45
+Yeah.
+
+[RC] 10:49:47
+you hit something. Go back to your lane.
+
+[RC] 10:49:52
+But okay, good enough, I like this. I think your tool does the same thing.
+
+[RC] 10:49:59
+It's nothing very special.
+
+[RC] 10:50:05
+Uh, you will role play a motivation.
+
+[RC] 10:50:16
+I love the fifth one.
+
+[Mateo Nader] 10:50:25
+Uh, it's just for the… yeah, this will create, like, the… in-depth analysis, like, something similar.
+
+[RC] 10:50:34
+Okay. But why is it asking me to…
+
+[RC] 10:50:44
+Add a persona name.
+
+[Mateo Nader] 10:50:47
+I don't know, those instructions are for the… AI. You don't have to input anything here.
+
+[RC] 10:50:52
+Gotcha. Okay.
+
+[Mateo Nader] 10:50:56
+Other than, like, the… if you wanted to ask a question.
+
+[RC] 10:51:09
+Conor pavement makes it harder to move very nice.
+
+[RC] 10:51:36
+Um…
+
+[RC] 10:52:11
+Okay. Driver.
+
+[RC] 10:52:15
+Okay. Prompt for paradoxis, you will replacement.
+
+[RC] 10:52:25
+Same thing. This is, by the way, the same one.
+
+[Mateo Nader] 10:52:28
+Yeah.
+
+[RC] 10:52:34
+Yeah, prompt 4 is the same as prompt 3. Anyway, okay, let's… Assume that we ran.
+
+[RC] 10:52:42
+these four prompts.
+
+[RC] 10:52:49
+What now?
+
+[Mateo Nader] 10:52:55
+Um, I was gonna ask you, like. We thought about the… CBT version, I guess, like, how you'd compare.
+
+[Mateo Nader] 10:53:03
+Both approaches.
+
+[RC] 10:53:07
+I think they're very similar. And I think your model has an edge when rendering the images. It was more accurate.
+
+[RC] 10:53:15
+So I think it was trained better, probably, like, ChatGPT is not trained to deal with these specific instances.
+
+[Mateo Nader] 10:53:23
+Mm-hmm.
+
+[RC] 10:53:24
+Um… now, where ChatGPT as an edge is… When you're trying to interact with it, so you see, like, I asked it here, just like… give me a very short, concise answer about.
+
+[RC] 10:53:38
+from each persona about whether they would ride or not.
+
+[RC] 10:53:41
+And, like, a rating. And maybe some people would be like, okay, what kind of… Remedy are you suggesting? And the strong and fearless would be.
+
+[Mateo Nader] 10:53:42
+Mm-hmm.
+
+[RC] 10:53:55
+Off with only armadillos, whereas the no way Know How would suggest a full separation of the lanes.
+
+[RC] 10:54:02
+Um, so yeah, I think ChatGPT has an edge. I don't think this is something very hard to train your models to accommodate.
+
+[RC] 10:54:10
+Um, but besides that, I think your model. Does the same thing, and probably… Better when generating the pictures.
+
+[Mateo Nader] 10:54:20
+Yeah. I guess saying, like, the… Current state which the… tool is, uh… How would you see this being used by planners and, like.
+
+[Mateo Nader] 10:54:33
+I guess on your workflow, what stage… of the design process do you see this fitting into?
+
+[RC] 10:54:41
+This one, um… I think… It'll be very useful for… governmental agencies.
+
+[RC] 10:54:52
+To kind of be able to visualize. What the solution can be, because more often than not, they're kind of in the dark.
+
+[RC] 10:55:02
+Over, like, the guidance and… What it would look like, and it would go all the way to hire consultants.
+
+[RC] 10:55:10
+To try and help them. visualize what this can be.
+
+[RC] 10:55:16
+And so I think… It'll be very useful for them to start, like, using it to prioritize places where they could.
+
+[RC] 10:55:25
+Place them, and then have better informed decisions before seeking.
+
+[RC] 10:55:29
+For help from consultants in the industry. So I can see it as, like, a preliminary tool for planners.
+
+[Mateo Nader] 10:55:31
+Mm-hmm.
+
+[RC] 10:55:36
+Um, for especially agency, public agency planners.
+
+[Mateo Nader] 10:55:42
+Yeah. And then, I guess the last big picture question is… How to… or, like… Pull up barriers or opportunities would you see in implementing this kind of AI tools?
+
+[Mateo Nader] 10:55:57
+into the industry.
+
+[RC] 10:56:00
+Honestly, I don't see a lot of barriers. The only barrier that I currently see is just being able to get funding to pay for unlimited, like, API, uh, like, unlimited quota when you're generating those images and.
+
+[Mateo Nader] 10:56:12
+Yeah.
+
+[RC] 10:56:16
+those prompts, because we all know, and probably with, like, Google, we all know when you tap into those APIs, you have a limited amount of gigabytes that you can use.
+
+[RC] 10:56:25
+And after that, you would need to pay, so… Probably intro… it would be interest, and I don't think it would be very expensive.
+
+[RC] 10:56:32
+Nowadays, to kind of convince. an agency to pay for those.
+
+[RC] 10:56:37
+I don't think this tool requires a lot of training.
+
+[RC] 10:56:43
+Um… My only concern is that…
+
+[RC] 10:56:51
+agencies could be skeptical about implementing this tool. Because, you know, like, the stigma around AI, and when you, like, tell someone who's in their, like, 50s or 60s, like, hey, let's implement AI, they're very skeptical, and they're like.
+
+[RC] 10:57:04
+It's more often than not, like, inaccurate, blah blah blah.
+
+[RC] 10:57:07
+So I think with this tool. What would be great is to pair it up with, like, a… Not a guide, but sort of a, like, a validation document showing.
+
+[RC] 10:57:19
+the agency that on 10s or 20 of examples, you tried to validate the responses that.
+
+[RC] 10:57:26
+This tool is getting you, and they all seemed accurate, and… in line with the guidance put by a certain state or a certain city.
+
+[Mateo Nader] 10:57:35
+Mm-hmm. Do you think there's any concern… Yeah. Do you think there's any concern, like.
+
+[RC] 10:57:38
+Yeah, but I see a lot of opportunities from this.
+
+[RC] 10:57:42
+Done.
+
+[Mateo Nader] 10:57:45
+There's always a talk about… Uh, like, AI might replace… Some jobs, you see that?
+
+[Mateo Nader] 10:57:52
+as a concern in our field at all.
+
+[RC] 10:57:56
+In general, in transportation. I do think it'll replace a lot of jobs, honestly, but.
+
+[RC] 10:58:02
+It'll replace jobs that are. That just takes time and that are tedious. Like, for example, here.
+
+[RC] 10:58:10
+You're just… you're just saving somebody time to… Go on the street, look at the… look at it, do an assessment.
+
+[Mateo Nader] 10:58:11
+Mm-hmm.
+
+[RC] 10:58:18
+While you can just do this in a couple of minutes, but you can still use that person's.
+
+[RC] 10:58:23
+judgment, so instead of this person taking. 3 hours or 4 hours of their time, now they're taking half an hour. So I think the same people who had the same expertise will still be useful.
+
+[RC] 10:58:34
+But they would be spending more time on other, maybe more important tasks.
+
+[Mateo Nader] 10:58:41
+Yeah. Alright, then. How's all the questions I had for you. Thanks again for… Taking the time to go through this.
+
+[RC] 10:58:50
+Okay. Yeah, thank you for including me in this.
+
+[Mateo Nader] 10:58:53
+And then… Yeah. And just some last things, if you could email me those things you downloaded, and also just finish filling out the surveys and… Yeah.
+
+[RC] 10:58:58
+Um…
+
+[RC] 10:59:04
+Service. Sure thing, sure thing. All right, well, say hi to Dr. Jan. Thank you, Matteo, and yeah, it was… Good talking with you. Thank you for having me for the interview.
+
+[Mateo Nader] 10:59:12
+I will.
+
+[Mateo Nader] 10:59:17
+Perfect, have a good Thanksgiving.
+
+[RC] 10:59:19
+You too. Thank you. Bye.
+
+[Mateo Nader] 10:59:22
+Alright, bye.
+

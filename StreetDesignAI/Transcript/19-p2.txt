@@ -1,0 +1,403 @@
+13:31:47 Stu, we still need you to…
+13:31:49 Share your screen during this.
+13:31:54 We have… but we don't, like, you don't need to have a GPT account. We have a…
+13:32:00 share the one for this study.
+13:32:01 Okay?
+13:32:04 You can use the…
+13:32:05 So I go to chat TPT and log in?
+13:32:07 Yes.
+13:32:13 Okay.
+13:32:17 Oops.
+13:32:21 Log in.
+13:32:37 Okay, now I have to enter a code.
+13:32:38 Okay.
+13:32:39 So I guess that quote goes to you.
+13:32:41 Yes.
+13:32:48 Okay.
+13:32:58 Okay.
+13:33:03 And if you…
+13:33:03 should I… should I allow ChatGBT to store data in persistent storage?
+13:33:07 I don't think so.
+13:33:13 So…
+13:33:16 How do I… how do I get started?
+13:33:18 I'm not sure.
+13:33:18 Uh, if you go to the…
+13:33:20 email, Mattel send you, the one with the PDF.
+13:33:25 If there is a link called Fronts…
+13:33:51 Yes, I see the link.
+13:34:04 But just copy and paste this chat GPT into…
+13:34:07 And if you can, if you can share your screen.
+13:34:07 Wait, but I don't have the… I don't have the original image, I need to, uh…
+13:34:16 I think you've sent me…
+13:34:16 I need… is it from the one that sent it to you? Okay.
+13:34:18 Yeah, yeah.
+13:34:21 Yeah.
+13:34:22 then you can share your screen, if you have any questions, yeah.
+13:34:24 Okay, hold on one second.
+13:34:27 Let me see…
+13:34:28 Oops, I'm navigating around.
+13:34:33 Yeah, yeah, yeah.
+13:34:39 Where is download.
+13:34:42 I did download those photos.
+13:34:57 Or I can, like, forward your email back.
+13:35:02 2…
+13:35:01 No, I'm just wondering, like, uh…
+13:35:04 So maybe I need bigger icons.
+13:35:10 I… I only see the… okay, there I do, I see.
+13:35:15 Does it matter which… should… should we do both scenarios, or just the first one, or the second one?
+13:35:21 Does it matter?
+13:35:22 It doesn't matter, yeah.
+13:35:24 Okay.
+13:35:27 Billy Sherman.
+13:35:27 Which one you are curious about how to fit in, yeah.
+13:35:29 Yeah.
+13:35:32 Okay. So I'm adding the second scene from Yamato Road, which is…
+13:35:38 And then…
+13:35:41 And, uh…
+13:35:43 Is that where the prompt starts? Design parameters?
+13:35:48 Uh, let me see the…
+13:35:48 I feel some… I didn't feel like the good beginning of a prompt.
+13:35:53 Uh…
+13:35:55 Let me see here.
+13:35:55 Uh, yeah, there's, like, I need something. There are, like,
+13:35:58 Okay, okay.
+13:35:59 serial lines, yeah.
+13:36:01 Two loans.
+13:36:11 I don't want to get this to go away.
+13:36:19 my, uh, my Zoom…
+13:36:23 bars in the way of mine.
+13:36:29 I need you to help me generate a modified street view image showing bicycle infrastructure viewers.
+13:36:35 oops.
+13:36:35 And then you move to… oh, it's okay.
+13:36:41 I think it will ask you to, like, specify your design choices.
+13:36:49 Here's a cleaned, ready-to-use image generation prompt.
+13:36:53 You can copy directly into the image.
+13:37:05 But I need your selections for the four.
+13:37:11 Oh, can I click on this?
+13:37:12 Uh, I think you need to hype it, yeah.
+13:37:17 the type.
+13:37:15 Right? Yeah, like, it gave you some… like, it gave you an example, yeah.
+13:37:20 An example? Okay.
+13:37:21 Yeah.
+13:37:28 F1…
+13:37:31 widening.
+13:37:33 Do I do punctuation between them, no commas.
+13:37:37 From our… yeah.
+13:37:37 F2, green.
+13:37:42 F3.
+13:37:55 Moving cars.
+13:38:15 There is a fascinating answer.
+13:38:20 So wait, now it's generating the prompt.
+13:38:30 Maybe say something like, generate the image?
+13:38:33 Yeah, just ask you to generate the units.
+13:38:40 That's given me the prompt.
+13:38:43 It hasn't given you the image, okay.
+13:38:44 Okay.
+13:38:47 Can you make an image?
+13:38:50 corresponding.
+13:38:51 do this prompt?
+13:39:07 So first, you ask it to make the prompt, and then it makes…
+13:39:19 I read some conspiracy theory, like, this is how GPT gets people to…
+13:39:26 like, subscribe and service.
+13:39:30 Uh-oh.
+13:39:34 Is it still working? I can't tell.
+13:39:36 Yeah, it's… I think it's just working, it's where, like, first you show a very blurry one, it's gradually becomes clearer.
+13:39:43 Oh.
+13:40:12 Is it?
+13:40:16 I think it's loading, yeah, because…
+13:40:15 I can't help. I can't tell if it's active or not. There's no…
+13:40:20 Yeah, the top right corner, there's a, like, a…
+13:40:23 Oh, okay.
+13:40:23 Yeah, yeah.
+13:40:33 GPTs, like, generation speed is highly dependent on the traffic.
+13:40:40 Or maybe many people are generating pictures now.
+13:40:44 Do you know how to make the Zoom pop-up window shrink?
+13:40:49 I think you can drag it somewhere else.
+13:41:00 Cool. Oh, that's not good.
+13:41:15 Um, okay…
+13:41:16 There's a few problems here.
+13:41:24 Let's see here…
+13:41:28 Uh, bike lanes, usually…
+13:41:32 Go on to the right…
+13:41:34 Inside…
+13:41:36 And also…
+13:41:41 It took a whole car lane.
+13:41:45 Instead of just…
+13:41:47 narrowing…
+13:41:50 carvings, too many employees.
+13:41:53 We'll have the bike cleaned.
+13:41:56 Can you fix that?
+13:41:59 Let me fix these issues?
+13:42:08 I just… I just took a look at the one we generated yesterday. Seems like the…
+13:42:15 Well, I ain't use on the right side of the road.
+13:42:19 Yeah.
+13:42:17 Yeah, it was. It was on the right side. But it also took a… it also took a lane.
+13:42:23 Do you like this personally?
+13:42:35 upgrade… upgrade to get faster.
+13:42:43 Right? Age Franklin. Okay, so it got that part.
+13:42:54 Alright, it's getting that part.
+13:43:11 Are you teaching any courses at FAU this semester?
+13:43:17 Yeah, I teach, um…
+13:43:20 planning workshop, which is the, uh,
+13:43:24 the studio class, we work on a real-world problem.
+13:43:28 very difficult to teach, because every year it's different.
+13:43:33 Uh, and then, uh…
+13:43:35 And students are so different.
+13:43:37 And then I'm teaching urban spatial structure, which is kind of a, uh…
+13:43:42 different spatial structures.
+13:43:42 her theories of… theories of urban form class.
+13:43:46 I like to see both of those classes, but
+13:43:49 planning workshop can be stressful because, uh…
+13:43:51 We try to do a whole plan in one semester, which is a lot of work.
+13:43:57 So it's a project-based class?
+13:44:01 Yeah, project costs. Okay, nope, not better.
+13:44:05 Okay, yes, no breath.
+13:44:07 Not better.
+13:44:11 Maybe we can try the second prompt, yeah, I think that's, like, the best GPT can do, you know.
+13:44:16 What's the second prompt? What do you mean?
+13:44:20 Another prompt?
+13:44:23 Okay.
+13:44:19 Uh, they're also, like, 4 prompts? Yeah, like, four prompts designed for, like, this interview.
+13:44:28 I shouldn't see that, yeah.
+13:44:28 I don't know where my… oh, it opened as a window?
+13:44:31 Yeah.
+13:44:33 Analyze the sparkling design from the perspective of four different… okay.
+13:44:37 So I have to give them the image.
+13:44:42 But maybe I can use the image from the other?
+13:44:45 Uh, I think maybe GPT will remember, or maybe you can upload a new, like, attach a new one.
+13:44:52 Actually, I think I should upload, because…
+13:44:54 That image is, uh…
+13:44:57 That image is…
+13:44:59 not right, so I think I should upload a new image.
+13:45:09 Maybe I'll upload this image from the other.
+13:45:55 Yeah, this are maybe a little bit challenging, because previous interview, you really asked the us interviewees to compare, like,
+13:46:03 The response from this, and the response from the system, but…
+13:46:07 Yeah, like, we did that this Monday, so it's a little bit…
+13:46:13 Period, yeah.
+13:46:13 Rivers may appreciate the green lane.
+13:46:15 Ankle, vehicle space…
+13:46:39 You know, actually, this is not so bad.
+13:46:43 It's actually pretty similar to the other.
+13:46:45 So if we give it a good image…
+13:46:48 ChatGPTs.
+13:46:52 response is fairly similar to the other AI.
+13:46:55 But it was obviously much worse at image generation.
+13:46:59 Do you recall, like, anything…
+13:47:02 like, additional machines in the system, or, like, anything new from GPT?
+13:47:08 Well, these scores are very similar to the scores that the other system gave.
+13:47:12 Um,
+13:47:24 But there was something that I thought was new.
+13:47:27 The bright green paint may also draw attention away from other road elements. I don't remember that being…
+13:47:32 discussed in the other AI.
+13:47:34 I think it's actually a good point.
+13:47:38 Um, so ChatGPT had at least one point that I don't remember the other day I had…
+13:47:44 Let's see here…
+13:47:47 You will role-play a multi-agent discussion about bike lane to respond as foresight.
+13:47:58 This is, like, mimic the…
+13:48:00 Chad's part, yeah.
+13:48:05 Do you think I… can I type in a question?
+13:48:08 Question here, in response to this?
+13:48:11 Uh… you want more information on this reply?
+13:48:14 Well, I'm just… I'm just wondering if… I'm not… I guess I'm not… I'm not understanding how Prompt 3 is different than Prompt 2.
+13:48:22 with a follow-up.
+13:48:23 Uh… this is… this will give you a more conversation-like reply, yeah, like…
+13:48:28 They will discuss in more detail why they…
+13:48:31 like, have this opinion.
+13:48:42 Do I need to attach an image for this?
+13:48:44 Uh, I don't think you need to attach the image, and you can add, like, specific question in the end if you want, yeah.
+13:48:59 Wait, so could I put this prompt in? And then…
+13:49:02 Follow up with a question afterwards, or do I have to integrate the question?
+13:49:10 You know, like, if you want, you need the last line. If you don't want… don't have questions, you don't need the last line.
+13:49:22 Only persona is directly relevant to the question should respond.
+13:49:25 But I don't have a question yet.
+13:49:27 Yeah, then… then probably copy to the designs…
+13:49:43 Okay.
+13:50:35 Well, there's a comment about emergency access.
+13:50:39 I don't know, lack of a shoulder.
+13:50:45 Also, discussion about rain.
+13:50:50 If you'd like, I can generate an expanded multi-agent debate.
+13:50:54 proposed alternative cross-sections.
+13:50:56 We integrate, okay.
+13:51:03 Can you facilitate?
+13:51:06 a debate, Ross, that pursuing this…
+13:51:17 And see if they can come…
+13:51:19 to an agreement.
+13:51:31 You didn't have a moderator.
+13:52:29 That's kind of neat.
+13:52:33 It's interesting, because I think, um…
+13:52:36 I think for the… for the visual simulation, the other AI is better, but for the, uh…
+13:52:42 For the role-playing ChatGPT might be better.
+13:52:46 has more depth.
+13:52:48 You're inviting to have, like, additional analysis.
+13:52:52 Yeah, hmm.
+13:52:52 The characters have more depth, yeah.
+13:52:54 Interesting.
+13:52:56 Um, should I do the survey now?
+13:52:58 Uh, there's also one of the prompt here.
+13:53:02 More prompt, okay.
+13:53:09 We'll do this more, like, comparative.
+13:53:12 And so… so this is… this is different?
+13:53:14 Yeah, this is, like, comparing…
+13:53:16 existing condition, yeah.
+13:53:19 Okay.
+13:53:31 Scenario 2. I don't understand…
+13:53:33 Do we give it two scenarios?
+13:53:41 It's hallucinating, always take them, like, the right side and the left side, let's see.
+13:53:47 Oh, good. I think it's the left side and the right side, considering… comparing the two.
+13:53:54 Wow.
+13:54:46 Yeah, the driver comments are more thoughtful in this version.
+13:54:51 you know, I think that's also because…
+13:54:52 There's an emergency vehicles, they're talking about rain.
+13:54:58 So yeah, it seems like if you provide
+13:55:01 the images. ChatGPT can do a pretty good job.
+13:55:05 with the personas.
+13:55:07 But it can't do a good job with the…
+13:55:10 image duration. At least that's my impression right now.
+13:55:17 And it's also…
+13:55:17 Should I take the, um…
+13:55:19 Yeah, Amy, yes, yes.
+13:55:20 Should I take the final survey?
+13:55:22 Yes. Please.
+13:55:35 I don't know, I mean, like…
+13:55:38 per narrative, it's easy to use, but for images, it's not, so I'm gonna go in the middle.
+13:56:09 Yeah, I don't understand these questions. I have the capability to create street designs that accommodate diverse user types.
+13:56:14 That seems like it's a question about me, and not about ChatGPT.
+13:56:19 I think it's, like, mmm…
+13:56:21 after using this, or using GPT makes you feel like…
+13:56:26 Yeah.
+13:56:32 Uh, I think that, uh…
+13:56:33 Yeah, and not… didn't expect this, but in some ways, I thought the feedback from ChatGPT was better.
+13:56:41 Yeah, like, I think many of them thinks, yeah, something like…
+13:56:45 to be something GPT does work better, something like the system does better.
+13:56:49 That's also one of the… one of the three closing questions remaining I have to ask.
+13:56:56 Okay, go ahead.
+13:56:55 Like, due to the instruction. Yeah, like, what, like, what…
+13:57:00 part, like, of this task, do you think GPT does better? What part do you think the system does better?
+13:57:05 Uh, the system is better at generating designs.
+13:57:09 the ChatGPT design made no sense.
+13:57:12 Um, but if you give ChatGPT a realistic design,
+13:57:17 I think it does a better job with representing the personas.
+13:57:22 It…
+13:57:22 And you also mentioned… oh, sorry, go ahead.
+13:57:24 Yeah, it didn't… it didn't have any trouble identifying the four different bicyclist personas, and it was very consistent.
+13:57:33 the two systems were quite consistent in terms of the feedback they gave.
+13:57:38 You also mentioned, like, the GPT personas, they are, like, more… have more
+13:57:45 Yeah, they have more…
+13:57:44 That's… and can you elaborate on that a little? Yeah.
+13:57:47 Yeah, well, um, they brought up more issues.
+13:57:51 Um, the driver…
+13:57:53 brought up, um, emergency vehicles and weather.
+13:57:59 Um…
+13:58:02 And visibility?
+13:58:05 So it seemed like it was, uh…
+13:58:09 um, had a…
+13:58:09 more… deeper, uh, knowledge of the driving experience.
+13:58:17 to… to pull on.
+13:58:20 And about, like, uh, interaction. Do you…
+13:58:24 feel like the more free style of GPT, or, like, a more…
+13:58:30 structured or pre-designed style of the system.
+13:58:33 Yeah, I mean, I think, um…
+13:58:35 I… I understand how ChatGPD works, because I've worked with
+13:58:40 AIs before. So, there was more of a learning curve with the new system.
+13:58:47 Um…
+13:58:49 Yeah, I mean, I don't think it's necessarily hard, it's just I'm familiar with
+13:58:54 ChatGPT and its capabilities.
+13:58:58 Uh, you know, that it's like a…
+13:58:59 prompt-based format.
+13:59:04 Um, yeah.
+13:59:06 Yeah, and um… second question…
+13:59:10 is how to…
+13:59:12 picture using this system in actual, like, real-world project.
+13:59:18 or design on teaching, like they are like.
+13:59:22 Yeah, you know, I'm totally new to using AI for…
+13:59:27 teaching, or for anything, really. I mean, I am using it now.
+13:59:32 But…
+13:59:34 it hasn't become an integrated part of my work yet.
+13:59:40 And I don't… designing streets is not…
+13:59:43 the main thing I do, right? So I mainly do research.
+13:59:47 and teaching, and even though I know about street design, that's not something I do every day.
+13:59:52 So, um…
+13:59:54 you know,
+13:59:56 like I said, like I mentioned last time,
+13:59:59 I can definitely see using these tools
+14:00:02 as teaching tools.
+14:00:05 Um, and it's a good way to get feedback.
+14:00:08 or even generate design ideas, but just, you know…
+14:00:12 um… be aware of the limitations
+14:00:16 You know, I remember, like,
+14:00:18 I also asked June this question, she mentioned
+14:00:22 Like, in her class, she… she allows students to draw a sketch,
+14:00:28 with GPT, because not…
+14:00:30 Austin can, like, draw, like, like…
+14:00:32 Yeah.
+14:00:32 Yeah, that background, so…
+14:00:34 She also… she mentioned use AI to, like, help with that.
+14:00:41 That also brings the final closing question. This is an overarching one.
+14:00:46 How do you view the…
+14:00:48 like, the rows, like…
+14:00:50 the relationship between AI and designer or researchers.
+14:00:56 Yeah.
+14:00:57 Yeah, um…
+14:01:02 So, I think AI is a very powerful
+14:01:06 Tool for empowering
+14:01:09 Designers and researchers.
+14:01:12 The problem is, you have to give it to someone who already has mature skills.
+14:01:19 Did you give it to someone who doesn't have mature skills, and they use it as a substitute?
+14:01:23 for understanding,
+14:01:26 Um, it could be more harmful than helpful.
+14:01:30 So, you know, it's like, in the hands…
+14:01:34 of a mature professional, it's a tool in the hands
+14:01:38 of a novice, it's like, um…
+14:01:42 a danger.
+14:01:44 You know, that's just… that's what I was doing. Yeah, it doesn't exist.
+14:01:50 Because someone might think that they have the answer when they don't.
+14:01:53 Yeah, I kind of, like, lead them to the wrong way, yeah.
+14:01:56 Yeah, and they don't know how to… they don't know how to critique what they're seeing.
+14:02:01 That's a very good point, yes.
+14:02:03 So, I mean, this is why it should be so good for teaching, because
+14:02:07 You could have it generate designs,
+14:02:09 Including bad designs. And if you have the chance to discuss…
+14:02:15 in the classroom setting, what's wrong?
+14:02:16 then it's a… then it's a learning opportunity.
+14:02:20 Yeah, that's a little important point now.
+14:02:23 Humane, like, you human alignment, yeah, that's a…
+14:02:28 It's hard to research topic right now here.
+14:02:31 human-AI alignment, huh?
+14:02:34 Um, but yeah, I mean, I definitely, you know,
+14:02:38 want to figure out how to integrate
+14:02:40 tools like this.
+14:02:43 into our teaching.
+14:02:46 And… and our research.
+14:02:50 Um…
+14:02:54 The other thing is that…
+14:02:56 you go to ChatGPT now, and you go to ChatGTP in a year from now, and it's gonna be completely different.
+14:03:01 Yeah, yeah, yeah, yeah, yeah.
+14:03:02 So, it's like, how do you… how do you know even, you know, how can you make
+14:03:09 How can you figure out?
+14:03:13 your relationship with something that's so dynamic.
+14:03:17 is evolving very fast, yes.
+14:03:20 the volume, quickly.
+14:03:23 You know, and we all have… no matter what we're doing, we have
+14:03:27 processes that we like to follow, and…
+14:03:30 Um, it's hard to know how to change that.
+14:03:34 when the tool is changing so quickly.
+14:03:38 Yeah, that's a very deep question, yeah, like, uh, is, like, do we want AI to, like, evolve the same way we evolve? Or, like,
+14:03:48 wants you to explore a new direction. Yeah, that's a very deep question here.
+14:03:53 Um, but let me ask… I have… if I can ask a question.
+14:03:57 This tool that you introduced, uh, me to, this street…
+14:04:02 design AI. Is this available to anyone?
+14:04:07 Yeah, we don't have, like, restriction to access. Like, the only constraint…
+14:04:12 I can think of is, like, the budget. Maybe, like…
+14:04:16 Like, anyone with a link can use it, but if, like, we used all our budget, we may have to
+14:04:23 like, refresh, yeah, refresh it.
+14:04:24 Wait, are you… so are you… are you all paying for the use of it?
+14:04:29 Uh… I think…
+14:04:31 Maybe Jacob is paying a very small amount, I'm not sure, yeah.
+14:04:36 But, you know, I don't think… I don't think…
+14:04:39 I don't think it… well, I mean, maybe eventually it will get very popular, but…
+14:04:42 You know, the number of people who work in the area of street design is not that large.
+14:04:47 You know, it's not millions of people.
+14:04:48 Yeah.
+14:04:50 Maybe it's thousands of people.
+14:04:52 So, it may not… it's not like…
+14:04:56 They may not need to have a huge amount of bandwidth.

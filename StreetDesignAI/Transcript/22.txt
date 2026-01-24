@@ -1,0 +1,526 @@
+13:04:42 Okay, uh…
+13:04:45 And, as you can see, this is the starting point of this tool, and…
+13:04:49 You can choose a location, and it will be the… like, we will work on this location in this whole process.
+13:04:55 You can navigate around, or you can choose different locations if you like.
+13:04:59 Okay.
+13:05:03 Uh, the tool works better at road segments and not intersections, so…
+13:05:08 It's better if we have a segment.
+13:05:12 Yeah. Yeah, maybe here.
+13:05:17 This could be, yeah, this could be a good one, yeah.
+13:05:19 Yeah.
+13:05:19 Okay, uh…
+13:05:22 Yeah, if you click that one.
+13:05:24 Okay.
+13:05:28 And what's happening now is, like, the…
+13:05:31 to the… the two gather image, and it tries to analyze this image in terms of
+13:05:38 how bikeable it is.
+13:05:40 Yeah.
+13:05:53 By the way, do you drive on the right side or the left side at Canada?
+13:05:58 the right side.
+13:05:58 Okay, yeah.
+13:06:00 Yeah, it's the typical side.
+13:06:05 Okay, so…
+13:06:15 take some time, read about it, and tell me how you feel about this, yeah.
+13:06:57 Yeah, I think it kind of makes sense.
+13:07:00 If I got a cycle on this role, I probably would be on the sidewalk, although it's illegal, though.
+13:07:16 Uh…
+13:07:15 So we should go to Adjust Design.
+13:07:18 Um, do you have more to say about this? Like, do you feel the points, like, that you already mentioned its value? Do you feel like… do you see any useful, interesting point?
+13:07:28 Yeah, I think the comments are valid, like…
+13:07:33 Um, especially in the war zone, like, door hazard, that's definitely a big concern.
+13:07:40 Particularly if you are… the cycle is actually cycling on the road, not the sidewalk. They… a very likely you got…
+13:07:46 the word is.
+13:07:49 And, uh…
+13:07:53 Yeah…
+13:07:56 And…
+13:08:01 Yeah, no physical protection…
+13:08:05 Yeah, I think the one, uh, the second point from the know- We know how group is…
+13:08:11 doesn't make much sense, I would say. Like, there's a part… a car parked close to the sidewalk.
+13:08:17 But it's really, like, the sideworks elevated, so it really doesn't matter, I think.
+13:08:21 And there's a… like, a tree there.
+13:08:26 But other things, quite valid points.
+13:08:29 Yeah.
+13:08:29 Yeah. Um, uh, as I mentioned earlier, this is a human-computer interaction, like, project.
+13:08:36 Mm-hmm.
+13:08:36 And so, like, regardless, function, how do you feel about it? Like, the…
+13:08:42 evaluate can, like, evaluate evaluation function, how do you feel about it?
+13:08:47 Yeah, I think… I think it works well.
+13:08:51 But the scoring probably doesn't…
+13:08:56 That makes sense, because, like, the strong and fearless and the enthusiastic and confident, they give the same score, which…
+13:09:03 kind of doesn't make sense, right?
+13:09:06 Yeah, yeah, yeah, yeah.
+13:09:06 I'm expecting the strong favorites to definitely give higher score in this case.
+13:09:11 Buddy others who's…
+13:09:13 kind of makes sense, the scoring.
+13:09:16 And the points are kind of valid, and uh…
+13:09:19 Yeah, Anish… I think it makes sense, like, all four groups gave this.
+13:09:24 like, similar points, because that's the same role, so it kind of makes sense.
+13:09:31 Okay. Okay, and now we can go to the second function, it's the in-depth analysis.
+13:09:36 Okay.
+13:09:38 This is kind of new, uh, I don't know if it's new to you or not, but what it does is tries to, like,
+13:09:46 mimic a conversation, like,
+13:09:48 Okay.
+13:09:49 You just saw bully points, and now they are, like, conversation-like.
+13:09:55 You can read about them and tell me how you feel about the contents or the function, yeah.
+13:10:13 Painted lanes…
+13:10:15 buffer zone.
+13:10:23 Physical protection.
+13:10:34 Right.
+13:10:40 Turn your means.
+13:10:49 Yeah, I think… yeah, the common kind of makes sense.
+13:10:55 Like, uh, so they basically, uh, they want more protection from the traffic as they move from, like, strong fearless to the way they know how.
+13:11:03 And drivers basically saying,
+13:11:08 Uh… there…
+13:11:09 They don't want Lane being taken away, because they want the traffic flow, and um…
+13:11:13 They want dedicated turning lanes?
+13:11:17 So I can type something here?
+13:11:19 you know, we can ask questions, yeah.
+13:11:22 Okay.
+13:11:53 Basically…
+13:11:55 try to turn the parking lane into a painted bike lane, and…
+13:12:00 See how they responds.
+13:12:11 I don't know how will the AI response is different every time, so…
+13:12:20 Yeah. Yeah, the driver says, yeah, impact traffic flow and availability.
+13:12:31 And…
+13:12:49 business for the Army rules.
+13:12:53 Yeah.
+13:13:03 Okay, so how do you feel about the function?
+13:13:07 Yeah, I think… yeah, I think it makes sense, because basically, um…
+13:13:13 Initially, the first two categories, they want a pennyback thing, and if we say we add that, and they're basically happy now, and the other…
+13:13:21 party us to all unhappy about it, as expected.
+13:13:27 And about this, like, conversation-like thing. Do you like this design?
+13:13:32 Yeah, I think… yeah, I kind of like it.
+13:13:36 And it makes sense. It's kind of like you have some ideas, and you got immediate feedbacks on it.
+13:13:45 And on that, uh, do, like, this is, like, still AI, do you feel, like…
+13:13:50 Strong feeling of AI, or do you, like…
+13:13:52 Oh, this is almost humans.
+13:13:58 I mean, it's hard to say, because…
+13:14:02 I don't know, it's probably… I can definitely feel AI about this.
+13:14:07 Yeah, uh, probably because, like, uh, like, these cyclist, like, classifications
+13:14:12 so famous, so I kind of, like, see it, I kind of know, yeah, it's definitely not.
+13:14:17 like, real person. It's very abstract classification of cyclists, so…
+13:14:24 Maybe just me.
+13:14:26 Okay, it's not just you, it's like…
+13:14:29 I got that from a lot of interviewees, yeah.
+13:14:35 Uh, let's keep this window open, like, drag it somewhere else.
+13:14:39 Okay.
+13:14:39 Yeah. And, uh, now we have the adjust design function, yeah, we can click that one. It will give you some, like…
+13:14:48 Right.
+13:14:49 pre-design options, yeah.
+13:14:53 You can change them, or you can type in your own requirement.
+13:14:58 in the same green.
+13:15:02 Standard…
+13:15:05 Then, I think the standard would be good.
+13:15:09 Oops.
+13:15:07 Um, standard buffer here means, like, just, like, painted, yeah.
+13:15:12 Yeah.
+13:15:15 It's gone, but it's, like…
+13:15:18 Right.
+13:15:18 doing the, like, the generation, yeah, it's doing the rendering.
+13:15:20 Okay.
+13:15:22 might take one or two minutes, depends on the traffic.
+13:15:26 Okay.
+13:15:39 What is the cycling facility in your…
+13:15:42 area. I'm curious.
+13:15:47 Uh…
+13:15:48 It's basically just some pains, and it's not even painting the whole lane, it's really just painting the separation.
+13:15:55 So, it's really bad.
+13:15:59 Do people actually, like, bike in your area?
+13:16:03 super low, like, uh…
+13:16:06 Oh…
+13:16:05 I… yeah, I do see some people cycle, but I, like, I have working with the, like, mobility survey data here, and I know
+13:16:17 Oh.
+13:16:13 it's, like, 3% to 5%, in terms of whole travels, it's super low, but I do see people travel, like, cycle, but…
+13:16:22 Yeah, still loaded, I guess.
+13:16:24 Ask that because, like, I have, like, very…
+13:16:28 like, limited knowledge about Canada, so I'm curious, it's, like, more like Europe, or is it more like U.S., right? Yeah.
+13:16:36 SUR, like, more like US.
+13:16:40 It's very, like… it's not that, like, Urban Sparrow, but it's still, like,
+13:16:47 Barris spread, also.
+13:16:49 Not much cycling.
+13:16:51 Yeah, and um…
+13:16:53 I don't really cycle that much to school as well, like, because if I need to cycle there, I need to actually cycle on an overpass.
+13:17:00 like, together with, uh, heavy traffic, so it's quite dangerous. Like…
+13:17:06 Oh…
+13:17:05 Yeah, literally, like, all my friends and, like, students, hey, now our pass is so dangerous, like, and because of that, no one is really cycling from…
+13:17:15 that direction to school.
+13:17:18 Something pops up… oh, this pops up.
+13:17:20 Yeah.
+13:17:24 Right.
+13:17:26 Okay, this is the image it gave us. How do you feel about it?
+13:17:32 Yeah, it makes sense.
+13:17:35 Yeah, it's between the parking lane and the moving lane.
+13:17:40 And, uh…
+13:17:43 Yeah, it's painted black things.
+13:17:48 Yeah, like, the scoring also doesn't make sense.
+13:17:52 like, the strong and fear that still gave us a lower score compared to the…
+13:17:57 enthusiasm and confident group.
+13:17:59 kind of weird.
+13:18:16 physical protection…
+13:18:24 Like, yeah, like, this one, doesn't make any sense. Like, sidewalk feels safer, like…
+13:18:31 Ugh.
+13:18:41 Yeah, like, bees a lot, it looks good.
+13:18:46 Smooth traffic flow…
+13:18:53 turn them in a precaution.
+13:18:55 Yeah, that's correct.
+13:19:05 Yeah.
+13:19:08 Yeah, absolutely, like, generally, it makes sense.
+13:19:12 Yeah, it's just one point that's…
+13:19:15 super weird and, uh, the scoring is a bit off, but mostly, I think it makes perfect sense.
+13:19:22 like, the expected perception from the cyclists and drivers from the new cycling infrastructure.
+13:19:32 About a function, though.
+13:19:34 generate design function. How do you feel about it?
+13:19:38 I think it's pretty cool, like, an image generates this…
+13:19:42 quite realistic, and uh…
+13:19:45 Yeah. It's quite realistic, like…
+13:19:49 I think it's a… this is pretty helpful. It's, like, super quick, and you can get a quite realistic…
+13:19:56 image ready to use to see how that actually looks like.
+13:19:59 Yeah, I think this is super helpful.
+13:20:03 It's a very positive feedback.
+13:20:05 Yeah, yeah. I think it's…
+13:20:06 Yeah.
+13:20:07 Pretty cool, because he's super realistic.
+13:20:11 And the other function of the system is, like,
+13:20:17 comparative analysis. That's, like, you see that button for…
+13:20:20 Yep.
+13:20:20 that this design and the existing condition, that tab.
+13:20:24 Yeah, if you…
+13:20:25 Oh, we should be here.
+13:20:26 If you check the 2…
+13:20:27 Yeah.
+13:20:28 Yep, and…
+13:20:28 And you, like, yeah.
+13:20:35 So, you see two tabs, one, like, for discussion, one for, like…
+13:20:41 quantitative, like, report.
+13:20:43 Yeah.
+13:20:43 Okay.
+13:20:45 Yeah.
+13:20:53 Yeah, I prefer the news scenario.
+13:20:57 That's expected…
+13:21:45 Yeah.
+13:21:47 like, they all make sense.
+13:22:00 Do you want to ask anything?
+13:22:02 Yeah, like, yeah, I'm thinking, if I ask something like…
+13:22:08 if I ask AI, like…
+13:22:10 What kind of change you would do, like, I'm wondering what they would say.
+13:22:14 Go ahead, I'm also curious.
+13:23:27 Yeah, so basically…
+13:23:31 The enthusiasm and confidence, they are kind of, like, okay. They don't need anything else.
+13:23:36 And strong and fearless…
+13:23:38 They want wider lanes?
+13:23:43 Wait.
+13:23:44 Yeah, that's a bit weird, either in the strong and fearless should be, like, more experienced actors, but they want wider lane.
+13:23:52 Okay?
+13:23:54 The modify design… yeah, interesting concern, they still want physical protection.
+13:23:58 That makes sense. Now, what they previously said.
+13:24:04 And… oh, we are missing one category, actually.
+13:24:09 And no way, no how things have responded here.
+13:24:27 You know, yeah, they actually didn't say much about what to do. They are kind of, like, reiterating…
+13:24:35 The concern they said previously.
+13:24:39 Yeah.
+13:24:40 to think they answered your question.
+13:24:43 Yeah, it's kind of like, yeah, they didn't answer my question, I think.
+13:24:52 Okay, I see.
+13:24:54 Okay, um, how do you feel about this, like, two…
+13:24:59 functions, the discussion, the…
+13:25:01 report.
+13:25:02 Yeah. I think the rapport would make more sense, because you…
+13:25:07 Uh, I think at a glance, see how the score changes.
+13:25:11 Uh, like, between scenarios, like, although some score, uh, is a bit off.
+13:25:17 But this discussion doesn't seem that helpful to me, like, especially, like, when I ask questions.
+13:25:26 Hmm…
+13:25:23 It's not really answering it. It's kind of, like, reiterating their concerns.
+13:25:28 Yeah, yeah, yeah.
+13:25:32 Okay, so this is, like…
+13:25:35 what the… or, like, what we designed the system to do, like, if you, you know, feel free to explore it after this.
+13:25:41 And, um, if we click the top right corner, there's a download project button.
+13:25:47 Oh, yeah.
+13:25:47 Yeah. If you click that, it will download the…
+13:25:53 Yeah.
+13:25:52 Yeah, and, like…
+13:25:55 Please send them… send them to me after this interview, and…
+13:25:58 Okay.
+13:25:59 Yeah, we will move to the… yeah, there's a brief, like, short survey on your interaction with this tool.
+13:26:06 I send a PDF.
+13:26:11 Uh, after that?
+13:26:13 Uh, it's called…
+13:26:13 Okay, yeah, I think I see.
+13:26:15 Yeah.
+13:26:16 There's a fill in the chat GPT surveys, that one?
+13:26:21 Oh, it's…
+13:26:20 Uh… no, it's the one, like, prior to it.
+13:26:24 Prior to logging ChatGPT?
+13:26:26 You know, like…
+13:26:29 Um, that…
+13:26:28 Oh, I see, oh, street design AI survey, yeah.
+13:26:31 Yes, that one.
+13:26:32 Yeah, so good. Okay.
+13:26:35 Uh, yeah.
+13:26:41 Kinda?
+13:27:01 You might work differently?
+13:27:04 Uh, not really.
+13:27:10 very useful feedback, yes.
+13:27:13 Yeah, this device really good.
+13:27:26 This is, like, the system makes you feel, yeah.
+13:27:40 I'll say neutral.
+13:27:43 Yeah. Okay.
+13:27:44 Okay.
+13:27:46 Now we will move to the GPT part.
+13:27:50 Okay.
+13:27:51 Uh… what we are going to do is we are going to replicate all of this in, like,
+13:27:57 classic web page chat GPT.
+13:28:00 Okay.
+13:28:01 I will share with you, uh…
+13:28:05 GPT account that we used.
+13:28:07 For this interview.
+13:28:08 Okay.
+13:28:09 Not me. Okay.
+13:28:11 So, it'll have to use your own.
+13:28:14 Okay.
+13:28:15 And we can log your interaction.
+13:28:46 Okay.
+13:28:51 at… to, like, to help you, like, onboard, like, the GPT. There's our… the props.
+13:28:56 Right.
+13:28:59 And we will, like, input them one by one.
+13:29:04 Okay, so…
+13:29:10 Uh, you can just, like, copy-paste them and change the one, like, where they bought it.
+13:29:14 Yeah.
+13:29:16 So… yeah, it was… stayed the same.
+13:29:21 And green?
+13:29:35 Most barking.
+13:29:38 Okay.
+13:29:39 Okay, and…
+13:29:40 And, uh, the attachments.
+13:29:46 Let's… let's find nothing.
+13:29:56 Good to go.
+13:30:04 They're very fluent with GPT operations. Are you a heavy GPT user?
+13:30:10 Uh, I do use them.
+13:30:13 Uh, like, heavy? Like, not really heavy, like, uh, I usually, like, just use it for work. I don't really use it personally.
+13:30:22 Yeah.
+13:30:42 I think Tributeline really improved this
+13:30:46 photo generation…
+13:30:47 function, because, like, when we started this interview, like, November, and the image we get today, they're of, like, very different quality than we did.
+13:30:56 Like, November.
+13:30:59 Yeah, like, it improves a lot.
+13:31:02 It's, like, horrifyingly realistic.
+13:31:11 Oh.
+13:31:14 It actually has some holes.
+13:31:19 Should I download it?
+13:31:22 Uh… yeah.
+13:31:27 And, uh, the next one is score generation, so…
+13:31:50 So, reattach the raw image, I guess?
+13:31:54 Okay, I'll attach the new one…
+13:31:54 The other one wanted…
+13:31:57 The one you wanted to score.
+13:32:01 Maybe the new one, I guess.
+13:32:04 This one? The one that just shares.
+13:32:13 Location contract… where is it?
+13:32:36 Oh, it doesn't go to the… that's so weird.
+13:32:40 Uh, here?
+13:32:42 Yeah, that's… yeah.
+13:32:43 Yep, okay. That makes sense.
+13:32:57 Yep, I think it's good to go.
+13:33:02 Yep.
+13:33:05 We were actually the first one, like, actually input location context.
+13:33:10 Really?
+13:33:11 Yeah, because that's optional, and, like, people just, like, did it to that line, yeah.
+13:33:21 Oh, that's way higher than…
+13:33:24 we got here, the scores.
+13:33:28 There's a… yeah.
+13:33:30 Yeah.
+13:33:33 Yeah, it's way high.
+13:33:37 6… we got a 5?
+13:34:01 City of Design.
+13:34:06 Okay, and next step is…
+13:34:10 in-depth analysis.
+13:34:19 Yeah, the follow-up question.
+13:34:22 Yeah, my full-off question was…
+13:34:29 Yeah, that's fine. Copy that.
+13:35:40 Wow, I'm surprised. The driver actually says removing parking near the corner.
+13:35:48 That's like… but it's, like, daytime.
+13:35:51 call nearby. No, daytime parking.
+13:35:53 Yeah… yeah.
+13:36:00 Oh, you've hit the free plan limit for GPT-5. Oh, that's why it's so smart. I feel it's…
+13:36:03 Yeah.
+13:36:05 We're smarter than the response from the, uh…
+13:36:09 design tool.
+13:36:11 What's the next one?
+13:36:14 We still see the next one, and why I'm here.
+13:36:17 Yeah, it's been listening to comparative enough.
+13:36:25 Oh, okay, we're not okay to do this.
+13:36:28 Uh…
+13:36:31 Maybe we can try a new chat?
+13:36:33 Okay.
+13:36:34 I don't know, not sure.
+13:36:35 Yeah, it says no GPT-5.
+13:36:39 Yeah, because I had, like, two interviews, like, this morning.
+13:36:43 Okay.
+13:36:50 Wait, I actually don't know how you… Oh, heater, yeah.
+13:36:57 And now I have to…
+13:36:57 Nah, still.
+13:36:58 Yeah, but now you can, like, send, like…
+13:37:02 Yeah, maybe sending the…
+13:37:03 Yeah.
+13:37:05 Sending the raw and the new…
+13:37:15 It actually doesn't let me…
+13:37:17 drag the image to anymore.
+13:37:19 Okay, uh, that case…
+13:37:23 Uh, maybe we skip this one, yeah.
+13:37:28 Yeah.
+13:37:25 Yeah. It doesn't let me drop. It's probably, like, the image is really costly, costs so much token.
+13:37:33 Yeah, nuclear power.
+13:37:37 Yeah.
+13:37:37 Okay. We're back here, uh…
+13:37:39 Yeah, that's the last one, so…
+13:37:41 Okay. Uh…
+13:37:44 There's a short survey on your interaction with GPT. After that survey, I will ask you more questions, yeah.
+13:37:50 Okay, yeah.
+13:37:53 GPDs are easier to use.
+13:38:03 Uh… maybe 5? Yeah, the driver actually says remove parking. I'm so surprised.
+13:38:12 I didn't previously considered, you know, maybe.
+13:38:24 Oh…
+13:38:27 No.
+13:38:41 Okay?
+13:38:44 Yep.
+13:38:44 Okay, uh…
+13:38:46 Okay, now I have, like, several questions before we finish this.
+13:38:50 Um, the first one is…
+13:38:51 Okay. Nope.
+13:38:53 Now you try the two systems, and do, like… and they have, like, different functions, different design tasks.
+13:39:00 Um, do you feel like one does, like,
+13:39:03 better than the other one, and…
+13:39:05 Yeah. In, like, certain functions.
+13:39:09 I mean, like…
+13:39:12 the GPE one definitely feels smarter, like, that's kind of, like, the back-end model difference, I guess, but…
+13:39:19 in terms of, like, the front-end user interface, like,
+13:39:22 The first one's definitely, like, more specialized and easy to use.
+13:39:26 for this specific purpose, compared to the second.
+13:39:31 That's about the functions, like, about the…
+13:39:35 contents they gave you? Do you feel like one has, like,
+13:39:40 Uh, give us some more insights on cyclists, or do you…
+13:39:44 They're the same.
+13:39:47 I think…
+13:39:52 They are quite similar?
+13:39:54 like, in terms of the comment they gave?
+13:39:58 Yeah, like…
+13:40:00 probably the second one gives more comments.
+13:40:02 And, uh,
+13:40:10 Yeah, yeah, yeah.
+13:40:04 Yeah, I think that's still, like, the… that's because it's the GPT-5. So, it's smarter, so it gave more, like, more realistic response, I would say, compared to the first one.
+13:40:16 Yeah.
+13:40:20 Don't give up specific, like, example, like, for example, like, certain points you haven't thought about and GPT gave you.
+13:40:28 Well, but definitely the remove a part parking spots for all the drivers.
+13:40:38 Um…
+13:40:34 I think that's something they would never give up on, but uh… actually, GPD5 says,
+13:40:40 That's something they actually want to do.
+13:40:42 It's actually quite surprising.
+13:40:45 Yeah.
+13:40:48 And, uh, about, like,
+13:40:52 Uh, you see another, like, an important part of this design is
+13:40:57 We separate the different personas. How do you feel about this? Like, do you feel like it's helpful?
+13:41:04 It's useful in actual design, or do you feel like this is extra?
+13:41:09 I think it kind of makes sense.
+13:41:12 But, um…
+13:41:14 I think that this thing, like, the difference between the, uh…
+13:41:21 what's it called? The enthusiasm, confidence, strong, and fearless. I felt these two are kind of, like, mixed up.
+13:41:26 I don't think the GPTs…
+13:41:29 really distinguish between these two.
+13:41:31 Probably because they are too similar, and sometimes the score got, like, mixed up, like…
+13:41:36 I would expect a strong affairless to definitely give higher score, but it's not.
+13:41:41 So I think… I think it's definitely helped, but probably not as four categories, I think.
+13:41:48 Yeah, yeah, that's a… that's a good point.
+13:41:48 Yeah, some of these…
+13:41:50 Yeah, maybe just merge together. I don't think QBT can really pick the difference here.
+13:41:57 That's a good point. Um, I think the…
+13:42:01 I didn't design the system, but according to them, they designed, like, they chose this category because…
+13:42:07 It's based on, like, a published paper, like, they are, like…
+13:42:11 Yeah, it's like…
+13:42:10 Yeah, yeah, yeah. This is, like, super famous, like, poor class classification of cyclists, so…
+13:42:17 Yeah, yeah, yeah. So…
+13:42:18 Yeah.
+13:42:19 the kind of assume, like, the language, like, language models can, like,
+13:42:27 Right.
+13:42:24 separate, like, extract the useful information based on this, like, popular classification.
+13:42:31 Yeah.
+13:42:33 Yeah, that's true.
+13:42:35 Another question, uh, is, um, how do you picture, like, this system be used in, like, for example, in doing…
+13:42:43 You're doing your project and, like, planners doing their work.
+13:42:52 Like, in my projects, uh, I don't really do design, so…
+13:42:55 Mm-hmm.
+13:42:56 it's kind of hard for me to comment on that, but for planners, I think it's definitely helpful, because they can immediately see some kind of
+13:43:04 like, potential implementations of
+13:43:06 cycling infrastructure, like, realistically as an image.
+13:43:09 And kind of, like, chatting through some of those, like, chatting with some artificial…
+13:43:15 agents about, like, how these potential designs could impact their lives.
+13:43:19 I think it's definitely helpful, like, uh…
+13:43:22 like, avoid a designer to kind of, like, just…
+13:43:25 thinking in all cases of her own to make those decisions.
+13:43:31 So, just to summarize what you just said, so you feel like the two is more for the
+13:43:37 Like, the pre-designed, like, pre… like, the earlier stage of a project.
+13:43:42 Right. Yeah, yeah, yeah, that's what I found, yeah.
+13:43:47 more like, you know, brainstorming stage, like, kind of like that, yeah.
+13:43:53 Uh, and uh…
+13:43:55 you kind of answer this, like, then you feel the… like, I'm going… I was going to ask, like, what function do you find, like, most…
+13:44:02 useful. Yeah.
+13:44:04 Yeah, the image generation, like, that one is super good.
+13:44:08 Yeah. Uh, and…
+13:44:16 Mm-hmm.
+13:44:11 I have a closing question. The final question is, like, more, like, overarching question. How do a few of the relationship between AI and designer-planner, like,
+13:44:22 in our community, yeah.
+13:44:26 Oh, that's a hard one.
+13:44:30 Yeah, I think…
+13:44:32 I don't know, it's really like…
+13:44:34 I want to say it's complementary to each other, but I do see in some aspects, they are really competing with each other.
+13:44:44 Yeah, it's… it's like…
+13:44:45 elaborate, yeah.
+13:44:46 Um, so it's like, um, for example, like, at the current stage, you…
+13:44:49 Uh, just like the… like, in the classic GPT, the Part 2 part,
+13:44:54 It's like, I can see it's really helpful as a brainstorm tool.
+13:44:59 But, uh, I'm not sure if I can…
+13:45:02 Maybe a couple months later, they actually get a, like, get more smarter, and they actually do, like, more stand-alone, like, Asian-based workflow. They could generally design themselves, and designers would have nothing to do.
+13:45:16 Right? That would be competing, like, direct competing. Uh…
+13:45:19 Um…
+13:45:20 But, uh, for now, I guess it's more, like, complimentary at the moment.
+13:45:27 Yeah, I'm asking about this because, like, previous interviews,
+13:45:32 Like, we interview some, like, many people from industry, and they…
+13:45:35 Mm-hmm.
+13:45:38 talked a lot about… because we also have the conversation-like function in our tool, like…
+13:45:43 you ask them, like, in-depth analysis.
+13:45:50 Oh.
+13:45:46 They kind of have a very strong opinion about that function, because they really do, like, community hearings, so…
+13:45:52 they have… like, they feel like the tool is not replacing that.
+13:45:57 Okay.
+13:45:59 Yeah, that kind of makes sense, because uh…
+13:46:03 the chat option right now, it's kind of feel that realistic.
+13:46:10 So, yeah, based on our discussion, I feel like you are…
+13:46:13 Hurry, like, have very…
+13:46:15 You believe, like, it will replace, but you are not that negative about this replacement, right?
+13:46:22 Yeah, I… yeah, I…
+13:46:25 Yeah, I'll say, like, um…
+13:46:28 Yeah, it might be a fast thing to replace, but, uh, like, these kind of things can never take responsibility, like, there has to be some real person out there to take the responsibility, so…
+13:46:39 has really, like, reduced, not really fully repaid. They can never fully replace, I would say.
+13:46:45 like, they can't replace anything. They just reduce something, I guess.
+13:46:50 Yeah.
+13:46:50 That's a good point, yeah.
+13:46:53 Interesting, yeah.
+13:46:55 Okay, I think that's…
+13:46:58 all I have for, like, to this interview.
+13:47:02 Okay? Yep.
+13:47:03 Okay, and…
+13:47:05 After this interview, like, can you send me the…
+13:47:09 files you downloaded? Oh, and I forgot to mention,
+13:47:10 Mm-hmm.
+13:47:11 Do you still have the, uh, the tool open?
+13:47:15 Okay. Uh…
+13:47:15 Uh, yeah, I still open.
+13:47:17 Yeah, you don't need to share it, I just, like, um, they asked…
+13:47:21 you to, like, screenshot three locations, so you put, like, areas you find.
+13:47:27 they're too useful.
+13:47:29 Okay…
+13:47:30 Okay, so…
+13:47:32 I need a screen screenshots and the downloaded interaction files.
+13:47:39 Okay. Three screenshots, so…
+13:48:39 I'll send an email to you.
+13:49:23 Okay.
+13:49:29 That's it. Yep.
+13:49:31 Yeah.

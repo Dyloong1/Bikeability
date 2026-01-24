@@ -1,0 +1,176 @@
+Speaker  00:02
+So you can just put the, you can click that test chords button above the location. Okay, the location. Yeah. And then scroll down to the Google Street View. So basically it's gonna, yeah, so you can look around in there, look for a street and basically you want to think of like a good picture that you'd want to give the AI for it to interpret and edit.
+
+Speaker  00:48
+Sorry, could you explain that again? Yeah, just look for like a good picture, like a good view that you would want to give the AI so that it's going to interpret the surroundings to give suggestions on like what to do regarding like bike lane improvements. On a street? Yeah, so you can move around or just take a picture of the street right in front of you. How do I pick this? Scroll down a bit more.
+
+Speaker  01:25
+yeah just click generate evaluation yeah move over to the right and you'll see on the top right you can find the pros and cons for the driver and the cyclist and then in the bottom you can see like the different ratings and reasonings behind each of the cyclists and driver personas so just take a minute to like read through these and like
+
+Speaker  02:42
+Maybe point out anything you find interesting, like any comments. Out of curiosity, is this meant to assume that cyclists are using the road or the sidewalk? Not sure, actually. Delania, do you know? Yeah, because it does mention that the sidewalk appears safer, but I use my bike to get around a lot, and I know here I would just use my bike. I would be on the sidewalk, probably. I think I'd assume it'd be for the street.
+
+Speaker  03:37
+I can't tell I think when specifying where people cycle I think they didn't specify and if sidewalk is safer people may use sidewalk also on the bottom right you can zoom out that's easier for you how? on the bottom right there's the plus and minus I don't see that zoom is blocking it
+
+Speaker  04:26
+Yeah. Yeah. Would you have any feedback on like the accuracy of the suggestions and observations that you feel about their interpretation of the road? I think it's pretty helpful. I think it's not immediately clear of all of the like, but like the strong and fearless and confused and confident parts are referring to necessarily. Yeah. Because I think like the, like the strong and fearless one is clearly from like,
+
+Speaker  05:09
+It seems like it's about the car or like the drivers, but then the other three seem like they're for cyclists. I guess is it rating like what cyclists and different, like the comfort, the perceived like comfort levels of different cyclists or people who are used to. Yeah, these are all for cyclists. And then there's also like a driver perspective. That's in the pros and cons. Yeah, that's a good point. Okay, so next we're going to move on to
+
+Speaker  05:43
+pressing that in-depth analysis button at the bottom yeah this will give you more like written out suggestions and thoughts from each of the personas and then you can also ask them questions about their opinions or like how they suggest like what would make them more comfortable using the road so if you want to come up with any question to ask them and see how that plays out
+
+Speaker  07:38
+Yeah, same thing again. It's like, take minutes to read everything and let us know your thoughts on responses, whether they seem specific enough or not. Just point out anything that seems interesting. I think, yeah, that's interesting. I like the feedback it's giving. I'm just curious if it can tell that there's a bus in the photo. I'm pretty sure that's a bus. Yeah. Yeah.
+
+Speaker  09:39
+Yeah, I think this is helpful. Okay. Do you find it more useful on top of the information initially given by the different personas? I mean, somewhat. I also think I'm not sure how to tell how specific these responses are to the image that is displayed of that specific road because like
+
+Speaker  10:20
+the gray one, this one, for example, like it, I mean, like there clearly doesn't seem to be room for a complete separation on that road unless you're just like biking on the sidewalk. So it doesn't seem like it's, well, like I can't imagine like talking to someone who's just like, oh yeah, I'm absolutely not going to bike anywhere ever. There's complete separation and there's some people who are like that who would react that way, like no matter what road you're showing them. So in that way, that's definitely realistic, but
+
+Speaker  10:53
+It doesn't seem like they're like quite like, it's like, it doesn't quite seem like I'm like talking to a bunch of cyclists and like they're looking at this picture like talking about this road that they've biked down before and are like reacting and being like, oh yeah, this is how I think we can make it better based on my experience biking there. But I also think that like, that would probably be pretty hard to replicate. And this is definitely a really good simulation of that to like start getting ideas from.
+
+Speaker  11:22
+going for what people would be interested in. And I can imagine that if you have a city where you do have a lot of people who you know tend one way in this group, then that could probably help you start to estimate how people are going to react to different changes that are proposed, maybe. Yeah, that's a good point. OK. So the next part, if you close that tab or move it to the side,
+
+Speaker  12:00
+you can adjust the design. And so you can choose on your own or, I guess, based on what the personas suggested, you can put in the parameters for the AI to generate an updated street design. It would take a little bit. I could. Actually, I can use this time to briefly introduce the four textmates.
+
+Speaker  13:24
+These four classes are from a literature review and a Portland-based study done by Portland DOT. They surveyed their residents and they classified them into the four categories of cyclists.
+
+Speaker  13:45
+Their main focus is safety in cycling in Portland. So that gives the four from the most strongest to kind of hesitate or not that willing to ride. So yeah, that's based on that.
+
+Speaker  14:11
+And this category like keeps being used in like city designers or researchers. Yeah, I mean, it's not a problem. I'm not sure. I guess, I think it might have removed the lane of the road. Yeah. Or it might have gone down the middle of the road. That's weird.
+
+Speaker  15:02
+I think I'm quite confused because, yeah, I didn't think about that. Let me see if the cyclist had any pros or cons. No, I don't see anything. Regardless, if there's anything, again, that sticks out, any comments you have on this redesign? I mean, I think it definitely put the bike line in the wrong spot.
+
+Speaker  15:53
+I think because the street already had moving vehicles on it, so it can use those vehicles, would be my guess. But also, the thing with this street is that it looks like there's not a ton of room to build out bike infrastructure without potentially going on to people's properties or expanding where it might not be allowed. And it doesn't point that out, which makes sense because I think it would be pretty hard to also...
+
+Speaker  16:31
+be able to have local laws incorporated into this or have it know the property rights of every single place. But yeah, I think the increased comfort, assuming that the pipeline was put in the right place makes sense. And it makes sense, yeah. Yeah. There's an option in the Just Design thing to add additional description or context.
+
+Speaker  17:09
+so no maybe if you want to try like giving them guidance on how to go about like accommodating the bike lane with the parked cars like maybe getting rid of one side of parked cars like anything you would think that might help the ai better interpret the street it's all waiting how do you feel about the ui like it's like moving around in this space
+
+Speaker  18:33
+Do you have any suggestions or things that would have helped you initially? I think it would be a little easier if you could scroll rather than having to click and drag. I don't know. My laptop. Other than that, I like it. I definitely see this being helpful. We also have one of those loading circles for when it's generating the sound.
+
+Speaker  20:12
+I think more of the photo just looks AI generated now. I'm not sure. Yeah. We got rid of some of the parked cars. Yeah. Yeah. The last part is the comparative analysis. So if you click that, you can choose like which one, which designs you want to compare between like the initial and any of the other scenarios you make.
+
+Speaker  21:17
+So if you want to compare all three, you're just like the first and the last. And then, yeah, here it has like the discussion, which is like the in-depth scenario where you can see their thoughts and then also ask them questions. And then there's the design go up a little bit. Yeah, the design scenario comparison shows some figures comparing the various designs and also how the personas perceive them.
+
+Speaker  22:07
+Yeah, it's definitely showing that for people who would be interested in cycling, but are more concerned it's showing a bigger increase, which makes a lot of sense in people who are already more likely to be comfortable cycling, become more comfortable, but are assuming they probably would already be cycling on this road. Yeah. For this question, I'm going to ask a question again.
+
+Speaker  23:59
+- Any responses here that stood out or like how well do you think that the like, I guess, responding to your question, like adjusting what you ask?
+
+Speaker  25:42
+I'm surprised that the no way, no how one didn't respond. It feels like the interested but concerned one did. It seemed like over here, the interested but concerned one was significantly more comfortable, especially even compared to the other two more comfortable cyclists in biking here. But then in the discussion, they don't seem quite as comfortable, especially here.
+
+Speaker  26:29
+Overall, do you find this tool particularly more useful? Do you think it would help you in your design decision-making process? Yes, I think it would be good especially for preparing to talk to people and preparing to engage with the community on this. But I definitely wouldn't want it to try to replace community feedback. Yeah. Okay, so now...
+
+Speaker  27:11
+At the end, we were going to ask you to take three screenshots of responses you found interesting. You could either do that now or at the end. And then in the doc we sent you, there's a survey specifically for this tool. So three responses is in these. Just anything, even those bullet points. Just anything that stood out to you. I also noticed that
+
+Speaker  29:33
+Here, the driver response seems to be responding more to, like, some designs reduce road width significantly, which could increase congestion during rush hours, but they're not saying that, like, in this design, road width is reduced, and I'm not sure that it is. So I'm not sure if they're responding more generally or to, like, the specific thing that's being proposed here. So you've finished cutting the screenshots? Mm-hmm. Yes.
+
+Speaker  30:27
+Okay. And the last thing is just to click that download project on the top right. And they also have you email those afterwards. I think I also need one of them for the chat GPT. Yeah, now you can go back to the doc and complete the survey for this first part. Yeah. Which one is the general evaluation function? Oh.
+
+Speaker  32:27
+Now we can move on to the chat, GBT. I'll send you the login info on Zoom chat. It's in your code. Send it. All right, then. You go back to the doc. There's a link to the prompts that we'll be using. So just copy and paste that first prompt in there. And also, you should have downloaded
+
+Speaker  34:12
+the picture that we gave to the street design tool. The picture that we gave to the street design tool? Oh. Yeah. Yeah, I couldn't copy the whole, like, couple of paragraphs. Sorry, hold on a bit. Is what I have highlighted? Uh, everything below that, up until, probably, this entire page. Okay, yeah, sorry. Yeah.
+
+Speaker  35:12
+and then you'll edit oh for those uh like the f1 f2 f3 you can choose like what choices you want yeah okay so you can just tell it i guess for each like one two three and four whether you want it narrow yeah sorry zoom is just blocking my ability to see this on the screen so
+
+Speaker  36:44
+Say yes. So if I take the last. I see what I said.
+
+Speaker  39:58
+I think part of the issue might be that there's not an existing bike lane. Yeah, I know when I did that, it still didn't have the bike lane, but it did a pretty good job. So maybe it's just like the moving cars that confuse it or what. Yeah, it's interesting that it has two bike lanes right next to each other and different widths going the same direction in the middle of the road where the bus is going the opposite direction.
+
+Speaker  40:37
+Yeah, we can move on to the second prompt. You don't need to add anything for this. How do you feel about the personas here and what they're saying with regards to the image? I mean, interesting because the image also didn't add the-- what did I say?
+
+Speaker  42:24
+refit buffers. Right, so didn't add that, but it's saying Biden Green Lane painted three-foot buffer. That's not really what I asked. So I think there's a painted buffer. I'm wondering, I'm not sure what it thinks the painted buffer is supposed to be. I'd just like to know. Yeah, it's saying the painted buffer lacks physical protection. That makes sense, but I'm not sure what the painted buffer is.
+
+Speaker  43:13
+It was interesting it said, predictable line arrangement alignment. So obviously, kind of strange in that picture. Yeah, so I think it misinterpreted the directions. And obviously, the picture that it's basing the feedback off of doesn't make any sense. If it had, maybe the feedback would make a little more sense. OK. We move on to the third problem.
+
+Speaker  44:08
+Including the follow-up? Yeah, that's if you want to ask a specific question. And with this one, you can also direct the question to a specific persona. Or if you want, just get a broad overview from each of them. Should I not do the follow-up for now, or should that be responding to their responses?
+
+Speaker  44:58
+if you could start off with the question so i'll say yeah uh put in your question now when you think about this response and i guess like thinking back to the street design tool in terms of like what suggestions they make the specificity and also like how well they do like addressing your comment and also the context of the photo you have comments
+
+Speaker  46:45
+It was so close. I think both of them with the image generation, I intentionally tried to pick a photo that was going to show more movement and real world issues with having two cars or two vehicles visible driving on the road because I wanted to see how it would react to that. And I think with the street design tool, it was at least possible to look at that and see what it was--
+
+Speaker  47:13
+going for even though it was clearly confused by the image but this is like i don't know how i would translate this image into like an actual thing that i would see anywhere because it has like two different size bike lanes going the same direction middle of the road with the bus driving on them and then this response is like it's saying it's along the curved line and it's not along the curved line so it just it seems like
+
+Speaker  47:41
+Both of them have a hard time identifying what's actually going on in the image, but this especially. I still don't know what it thinks the three-foot buffer is. Yeah. The line markings and directional arrows. Yeah, I don't know. I thought I can move on to the fourth prompt, next to the last one. Yeah, it's the same thing where you can just ask a question at the end. Is it comparing two scenarios?
+
+Speaker  50:40
+so anything changed in terms of quality of the responses um yeah yeah um i think it's interesting that the response from the driver never involves them considering cycling because but i guess for all the cyclists it's assumed that when they're not biking they're probably or they're probably driving so interesting but yeah i think this is the responses here are better but obviously like the
+
+Speaker  51:45
+existing the infrastructure that I'm asking about is strange so yeah okay so that being the last prompt like we're all do you have any final comments I guess like comparing the two tools how easily you found them how you'd use them I definitely think that your tool this one is clearly more specifically designed to handle the prompts that it's being given versus trajbt is just sort of like here's a
+
+Speaker  52:27
+really weird bike lane in the middle of the road. I think just part of the issue is that it's looking at an image and trying to recognize what's going on for both of them. I think that the bike lane design tool was definitely better at it. However, I think they're definitely having trouble with the fact that there are moving cars on the road and the parked cars and distinguishing between moving and still objects and an image.
+
+Speaker  53:03
+in a static image. Yeah. Yeah, so I can't tell if either one recognized the bus was a bus, or neither of them commented on how having the presence of public transportation would impact the transportation mix of this street. I think the bike lane design tool is the only one to acknowledge that there was an available sidewalk, too. And I think the bike lane design tool is definitely
+
+Speaker  53:36
+a good start for bike lanes, but I think if you're only comparing bike usage and car usage, there's definitely a number of other modes of transportation that aren't being considered when you're talking about the mix of transportation for a specific street. But I think that the bike lane design tool is definitely more helpful.
+
+Speaker  53:59
+especially for just trying to prepare to respond to public comment. If you know that you have a bunch of people who either have to cycle or are more likely to cycle in your city, I think this is a really good way of starting to get an idea of how to best approach members of the public about what they want from cycling transit options and what kinds of solutions they'd be more open to. Yeah. Also appreciate that you
+
+Speaker  54:33
+try to test the AI with that bus in the picture. Yeah, last thing is just fill out the last survey for the chat GPT one. Then after this, just send what you downloaded from the design tool as well as your screenshots to me. Cool. It's one last question.
+
+Speaker  55:30
+How would you view the relationship between AI and road designers? Would you see it as one of augmentation or replacement? I'd say it should be augmentation. I think that trying to replace people who are designing infrastructure to be used by humans and robots is just not a good idea because I think that humans are ultimately going to be able to understand the needs of humans the best.
+
+Speaker  56:01
+I can see its use for like making certain aspects of design easier. Definitely. But I think some things, I think both with like the feedback from the bike lane design tool and the bike infrastructure design tool, I haven't taken super in-depth road design classes. And I think a lot of the responses were things that I think I could still probably like,
+
+Speaker  56:15
+This is augmentation at its best. It handles time-consuming analysis while letting designers focus on creative problem-solving.
+
+Speaker  56:30
+intuitively come up with myself and be like, okay, yeah, people who are super, super worried about the risk of cycling, we're not going to get them on board with that really serious revamping of all infrastructure and people who are already more comfortable are going to be like, oh, yeah, there's improvements. That's great. I'll just keep doing what I'm doing and maybe a little bit more. And then people who want more improvements to be more comfortable are going to be more comfortable if you make more improvements. I think it's nice that it can... I think it's like the image...
+
+Speaker  57:03
+like analysis and generation part worked better for either of them it could potentially be more helpful but I don't know I think it would be I don't know if like I think that just humans are ultimately especially because like if you're a human designer then you're obviously like directly engaging with the community and you know like the reality of the community that you're working in a bit more than like a robot that just like is guessing based on
+
+Speaker  57:39
+tons and tons of data, you know, like you've probably talked to people who are cyclists in the community or you maybe have experience cycling in the community and then you also know like the other transit options pretty well. You'll probably know like the bus system and pedestrian safety issues. So I think it's a good like for this like for this tool right now it's like a good I think start finding more ways to integrate AI into the process and like finding ways that it could be useful and could like help
+
+Speaker  58:10
+but I don't know like how much it would impact the end result. Yeah. Well, thanks for taking the time to do the interview. We found it kind of interesting, but yeah, just a reminder to email all that stuff to us. Yeah. Hope you enjoy the long-ish weekend. Yeah, you too. Thank you. Thanks.
+
+Speaker  58:47
+Thank you. Goodbye.

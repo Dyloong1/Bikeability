@@ -1,0 +1,2001 @@
+[Mateo Nader] 14:04:45
+Right now. So yeah, you just share your screen, and then… Let's start using the app.
+
+[Cong Chen] 14:06:14
+So, are you sharing screen, or you want me to share the screen?
+
+[Mateo Nader] 14:06:19
+I want you to share the screen.
+
+[Cong Chen] 14:06:21
+You… you… you're gonna share a screen.
+
+[Mateo Nader] 14:06:26
+Oh, you. Yes.
+
+[Cong Chen] 14:06:28
+So I will share a screen.
+
+[Cong Chen] 14:06:31
+Let's see…
+
+[Cong Chen] 14:06:34
+Okay, uh…
+
+[Cong Chen] 14:06:37
+Are you looking at my screen?
+
+[Mateo Nader] 14:06:40
+Yep.
+
+[Cong Chen] 14:06:44
+Let me pull this along this side. Okay.
+
+[Cong Chen] 14:06:50
+So, um, I'm looking at this one. It's a powerful one. So basically, I'm gonna test these two locations one by one, right?
+
+[Mateo Nader] 14:07:01
+Uh, we just need to test one of them.
+
+[Cong Chen] 14:07:05
+And I put this first one here, so I can load as a location, or test the coordinates. Which one?
+
+[Mateo Nader] 14:07:13
+I can do test coordinates, and then… Yeah, let me compress load location.
+
+[Cong Chen] 14:07:17
+Oh, okay. Okay, gotcha. It's preloaded.
+
+[Mateo Nader] 14:07:20
+Yeah. Yeah. And so, yeah, it'll give you a street view, so… You can move around a bit.
+
+[Mateo Nader] 14:07:29
+Since your view, but… Just to go in and do is, like, find a good… view of a street you want to analyze?
+
+[Mateo Nader] 14:07:39
+So it's like… Find a good street, not an intersection.
+
+[Cong Chen] 14:07:44
+Okay, yeah, so if you have those second one.
+
+[Mateo Nader] 14:07:45
+But you'd want to analyze, but… Yeah.
+
+[Cong Chen] 14:07:46
+like I said, so I'm… okay.
+
+[Mateo Nader] 14:07:50
+Yeah, and then, like, the view that you pick… will be sent to the… AI to analyze.
+
+[Cong Chen] 14:07:56
+Mm-hmm, okay, then generate evaluation?
+
+[Mateo Nader] 14:08:00
+Yeah.
+
+[Mateo Nader] 14:08:30
+Okay, so this starts off by showing you… the ratings from different.
+
+[Mateo Nader] 14:08:35
+Cyclist personas. So it's just based on, like.
+
+[Mateo Nader] 14:08:39
+Their confidence and perceived safety. Of the road.
+
+[Mateo Nader] 14:08:45
+So… I just want to take a second, like… read through these and… Just say aloud, like, anything you find interesting, they seem.
+
+[Cong Chen] 14:08:53
+Mm-hmm. Mm-hmm.
+
+[Mateo Nader] 14:08:56
+accurate and useful in any way.
+
+[Cong Chen] 14:09:00
+Okay, um…
+
+[Cong Chen] 14:09:52
+Okay, um, driver, cyclist…
+
+[Mateo Nader] 14:10:00
+Yeah, those two tabs up there are just for the pros and cons.
+
+[Cong Chen] 14:10:03
+Mm-hmm.
+
+[Cong Chen] 14:10:20
+Okay, this looks good, and looks, uh, very comprehensive. Let me see if I can still, uh…
+
+[Cong Chen] 14:10:33
+So maybe some layout issue here, so I think…
+
+[Cong Chen] 14:10:33
+I'm not able to track anymore, I think. Oh, there we go.
+
+[Mateo Nader] 14:10:33
+Yeah. Yeah. On the bottom right, there's, like, the plus and minus, so you can zoom in and out.
+
+[Cong Chen] 14:10:35
+Okay.
+
+[Cong Chen] 14:10:41
+Yeah, yeah.
+
+[Mateo Nader] 14:10:42
+Yeah, it's just…
+
+[Cong Chen] 14:10:46
+kind of think of some nose here, so…
+
+[Cong Chen] 14:10:49
+Okay, then, uh, what's next?
+
+[Mateo Nader] 14:10:49
+Yeah. Next up, we're gonna test out the in-depth analysis tool.
+
+[Mateo Nader] 14:10:58
+Something good on, yeah. Yeah.
+
+[Cong Chen] 14:10:59
+as well. Yeah.
+
+[Mateo Nader] 14:11:08
+If you click on that, come to the front, or you can move to the side.
+
+[Mateo Nader] 14:11:12
+Yeah, this is more like discussion style. So, yeah, again, if you wanna… read through the… prompts. Let me know what you think about them, and then afterwards, at the bottom, there's an option to ask them questions.
+
+[Cong Chen] 14:12:03
+So, what is a boilers or armor driver, so I'm not quite…
+
+[Cong Chen] 14:12:07
+familiar with those terms.
+
+[Mateo Nader] 14:12:11
+Allards, sir. I like those little pillars that stick out of the ground, like… I put them along a cyclist's lane.
+
+[Mateo Nader] 14:12:22
+Um, ball arts are more solid. So, like, if a car were to run into it.
+
+[Cong Chen] 14:12:24
+Okay.
+
+[Mateo Nader] 14:12:29
+It'll stop the car, and then the armadillo dividers… It's, like, similar layout, but they're more like these smaller humps on the ground.
+
+[Cong Chen] 14:12:30
+Oh, okay.
+
+[Cong Chen] 14:12:37
+Oh, okay.
+
+[Mateo Nader] 14:12:37
+They only, like, stuck out a few inches.
+
+[Cong Chen] 14:12:39
+Gotcha. Mm-hmm.
+
+[Cong Chen] 14:12:58
+Okay, so this is kind of like the, uh…
+
+[Cong Chen] 14:13:02
+So, uh…
+
+[Cong Chen] 14:13:04
+AI analyzed and, uh, generative AI produced
+
+[Cong Chen] 14:13:09
+comments on this, right?
+
+[Cong Chen] 14:13:11
+Okay, okay. Looks good, looks good, I think.
+
+[Mateo Nader] 14:13:11
+Yeah.
+
+[Cong Chen] 14:13:16
+That's what I'm probably saying, so…
+
+[Cong Chen] 14:13:19
+And there was snacks.
+
+[Cong Chen] 14:13:21
+I'll put this on the…
+
+[Mateo Nader] 14:13:22
+I don't know if you wanted to try at the bottom there, you could ask.
+
+[Mateo Nader] 14:13:26
+Any questions? It's, like, about… The existing conditioner as some… About any designs?
+
+[Cong Chen] 14:13:28
+Mmm…
+
+[Cong Chen] 14:13:37
+I think overall, as the analysis is good, and uh…
+
+[Cong Chen] 14:13:43
+I saw there are some comments, like I say here, uh, narrow lanes limits overtaking, so actually…
+
+[Cong Chen] 14:13:50
+Here, I feel like it's not a narrow land in its overtaken, it's a double yellow stripe limits.
+
+[Cong Chen] 14:13:56
+rotating. So, basically, when you see a solid double yellow stripes,
+
+[Cong Chen] 14:14:01
+So that means you cannot overtake either way, no matter how wide or how…
+
+[Cong Chen] 14:14:06
+How narrow to actually travel is, so there may be something wrong.
+
+[Cong Chen] 14:14:11
+I would want to say rather, maybe a son was saying yin accurate here, so…
+
+[Cong Chen] 14:14:17
+Um… Proker cross-crossed Obstacles…
+
+[Cong Chen] 14:14:21
+So, other stock calls, um…
+
+[Cong Chen] 14:14:25
+cars from August 2course.
+
+[Cong Chen] 14:14:30
+I'm curious to see…
+
+[Cong Chen] 14:14:33
+Uyosi parked the cars across obstacles, what kind of obstacles it?
+
+[Cong Chen] 14:14:38
+If, I mean, let's say if… let's say for here we are evaluating the safety component… the safety perception of the cyclist.
+
+[Mateo Nader] 14:14:39
+Mm-hmm.
+
+[Cong Chen] 14:14:45
+So, basically,
+
+[Cong Chen] 14:14:49
+Um…
+
+[Cong Chen] 14:14:50
+Depending on the local law,
+
+[Cong Chen] 14:14:53
+either the cyclists can drive, can cycling on the sidewalk, or they share the travel lane with the vehicles.
+
+[Cong Chen] 14:15:01
+So, if they share the traveling with a vehicle, that means…
+
+[Cong Chen] 14:15:05
+I don't think that's a parked the car as a sh…
+
+[Cong Chen] 14:15:08
+create a much obstacle because, let's say,
+
+[Cong Chen] 14:15:11
+So, public currency is on the right… on the outermost side of the lane.
+
+[Cong Chen] 14:15:16
+And there's a vehicle, and as a cyclist gonna ride.
+
+[Cong Chen] 14:15:20
+On the rightmost, next to the car, so for the… for both sides of the traffic, the vehicle is still able to see the car, and the car is still able to see the…
+
+[Cong Chen] 14:15:32
+So… so a vehicle is still able to see the cyclist, and the cyclist is also able to see the vehicle, so…
+
+[Cong Chen] 14:15:39
+Parked cars create obstacles, it's kind of like too general. Across this part of the car that creates an obstacle.
+
+[Cong Chen] 14:15:46
+It mainly creates the obstacles for the dodge or dash out.
+
+[Cong Chen] 14:15:52
+Pedestrians or bikes, let's say there is a vehicle… there is a bike operator trying to cross the street, and it come…
+
+[Cong Chen] 14:15:59
+from the space between the two cards. That's where the obstacle is, because we are… so here at USF, we are
+
+[Cong Chen] 14:16:07
+with FDOT on the pedestrian bicycle crash typing, we analyze all kinds of behavior and contributing factors for the pet bike.
+
+[Cong Chen] 14:16:14
+So, and a dark shot…
+
+[Cong Chen] 14:16:17
+Dosh, D-A-S-H-R.
+
+[Cong Chen] 14:16:21
+thought out, D-A-R-T. So, dash, the dash or dart are kind of like, you know, the sudden behavior of the non-motor, and that's where the…
+
+[Cong Chen] 14:16:33
+obstacle is a form, so…
+
+[Cong Chen] 14:16:35
+So my point is, when we say create obstacles, it's creating obstacles.
+
+[Cong Chen] 14:16:40
+on what road users. So, there may be something needs to be refined.
+
+[Cong Chen] 14:16:46
+Um, model traffic allows steady pace and a potential door hazard and present. I think that both of these are good.
+
+[Cong Chen] 14:16:55
+No dedicated bike lane visible, potential door has improvement in the model space, moderate space for cycling.
+
+[Cong Chen] 14:17:03
+moderator space for cycling.
+
+[Cong Chen] 14:17:07
+Um, when we say moderator space for cycling, I would say probably here we want to add what kind of, like, space is a moderate.
+
+[Mateo Nader] 14:17:16
+Mm-hmm.
+
+[Cong Chen] 14:17:17
+uh… lateral space, I think for Florida, it's usually… for the condition, if it allows, 4 to 6 feet is, uh, is…
+
+[Cong Chen] 14:17:24
+sufficient for, uh…
+
+[Cong Chen] 14:17:28
+cycling either can't be. I think it's…
+
+[Cong Chen] 14:17:31
+narrow as 3 feet…
+
+[Cong Chen] 14:17:33
+I can't remember the exact, uh…
+
+[Cong Chen] 14:17:36
+number, but when we say moderate space, we may want to provide some quantitative measure.
+
+[Cong Chen] 14:17:42
+Um, about, um…
+
+[Cong Chen] 14:17:44
+above that, so people have a feeling it.
+
+[Cong Chen] 14:17:47
+A part of how wide, actually, it is.
+
+[Cong Chen] 14:17:50
+predictable riding with caution, okay?
+
+[Cong Chen] 14:17:54
+Interested about because there are no dedicated parking car up a slide, but above burr.
+
+[Cong Chen] 14:18:02
+So, Park Card offers slight buffer.
+
+[Cong Chen] 14:18:07
+It's, um… it's a little bit, um, coerced, I think. It's a little bit of, oh, I would…
+
+[Cong Chen] 14:18:13
+It's a little bit of weight. So what kind of buffer and buffers
+
+[Cong Chen] 14:18:19
+space or protection on what? Is it on the drivers, or is it on the cyclist? When we were doing the switch,
+
+[Cong Chen] 14:18:26
+With a driver and a cyclist, so we kind of, like, see the same…
+
+[Cong Chen] 14:18:30
+Uh, the same kind of, like, SWOT analysis, you know, the strengths…
+
+[Cong Chen] 14:18:35
+weakness, you know, this kind of analysis on.
+
+[Cong Chen] 14:18:40
+are the four parts, so I would rather…
+
+[Cong Chen] 14:18:44
+I think it's better to say protocols offer a slight buffer.
+
+[Cong Chen] 14:18:49
+from what kind of a risk?
+
+[Cong Chen] 14:18:51
+So, and the traffic appears…
+
+[Cong Chen] 14:18:54
+traffic up here as a lifetime slower, so that's fine. Narrow lanes can be intimidating, that's fine.
+
+[Cong Chen] 14:19:01
+Uh, no way, no how.
+
+[Cong Chen] 14:19:03
+no directly in the backlane, visible, car parks,
+
+[Cong Chen] 14:19:06
+on the street.
+
+[Cong Chen] 14:19:07
+potential toher part of the cycle in the air, moving, traffic likely. This is, um…
+
+[Cong Chen] 14:19:15
+These are all good apartments.
+
+[Cong Chen] 14:19:18
+Um, so no way, no hall, it was kind of like a slum, and uh…
+
+[Cong Chen] 14:19:24
+I don't know if he's already a well-known slob, but no way, no how, uh, I would say…
+
+[Cong Chen] 14:19:30
+It's kind of like a dust or…
+
+[Cong Chen] 14:19:32
+salon to me, and uh…
+
+[Cong Chen] 14:19:35
+Probably a moist explanation on what this, uh, this
+
+[Cong Chen] 14:19:39
+parties are trying to say it's just a no.
+
+[Cong Chen] 14:19:42
+Is it a certain noise kind of like K and OW we want to know.
+
+[Cong Chen] 14:19:47
+the way, and we want to know how we're gonna respond. Is there a kind of no way, no how means?
+
+[Mateo Nader] 14:19:56
+Well, this is like… The most skeptical type of writer, like.
+
+[Mateo Nader] 14:20:01
+No, pretty much no matter what. Improvements are way… are made.
+
+[Mateo Nader] 14:20:06
+It'll be very skeptical about using the biking lane.
+
+[Cong Chen] 14:20:09
+Mm-hmm. Okay.
+
+[Cong Chen] 14:20:12
+Yeah. Uh, so this is what kind of, like, my feeling about this…
+
+[Cong Chen] 14:20:17
+interface and also the comments. I think this, uh, adds to the in-depth analysis. I think it looks very good.
+
+[Cong Chen] 14:20:24
+balanced the approach buffer zone.
+
+[Cong Chen] 14:20:28
+opportunity for improvement and maintaining good traffic flow, painted the bike lane.
+
+[Cong Chen] 14:20:36
+grain painted by clay.
+
+[Cong Chen] 14:20:39
+with at least painted buffer zone.
+
+[Cong Chen] 14:20:43
+Automakers are possible.
+
+[Cong Chen] 14:20:46
+to a daily commuting…
+
+[Cong Chen] 14:20:48
+Location has 4 permissions that needs major safety improvement. I absolutely need a physical protection.
+
+[Cong Chen] 14:20:58
+Let me know the driver or the circuit.
+
+[Cong Chen] 14:21:01
+So, you see it here trying to…
+
+[Cong Chen] 14:21:04
+the, uh, the response from one…
+
+[Cong Chen] 14:21:08
+One person's also got interviewed, or it's kind of like a collective comments.
+
+[Cong Chen] 14:21:13
+a collective summary of comments from different people, because when we see here, when we see the…
+
+[Cong Chen] 14:21:19
+you feel that confident, we see.
+
+[Cong Chen] 14:21:22
+I would love to see a great painting by Philo at least some buffer zone. Other than on the other one coming about interested and concerned,
+
+[Cong Chen] 14:21:30
+They say, I absolutely need a physical protection. So when you say grid-painted
+
+[Cong Chen] 14:21:36
+lands. This is kind of like a steel to visual, you know, so…
+
+[Cong Chen] 14:21:40
+So, it's a pavement.
+
+[Cong Chen] 14:21:42
+potentially, it's not a physical
+
+[Cong Chen] 14:21:44
+protection, like, a physical barrier also says unleashal.
+
+[Cong Chen] 14:21:51
+separation, so I just feel like there are… if this is…
+
+[Cong Chen] 14:21:55
+trying to mimic the comments from one person, since there are maybe some conflicts on that.
+
+[Cong Chen] 14:22:01
+I don't know if it's from different people, then it's totally fine. I know this is the AI-generated, but just trying to…
+
+[Cong Chen] 14:22:07
+No more. What you are trying to simulate, you know.
+
+[Mateo Nader] 14:22:10
+Yeah, visits? Yeah, these each represent different types of people.
+
+[Cong Chen] 14:22:16
+Okay.
+
+[Mateo Nader] 14:22:16
+So it's based on, like… their perceived safety.
+
+[Cong Chen] 14:22:20
+Okay. Okay.
+
+[Mateo Nader] 14:22:21
+When cycling.
+
+[Cong Chen] 14:22:22
+Yeah, local Illinois, Noah, even though, I don't know.
+
+[Cong Chen] 14:22:26
+So, once I call it civilized, you know, fully protected, cycle tracks, completely from traffic, using Copenhagen-style infrastructure, it's really involved.
+
+[Cong Chen] 14:22:38
+Good, good, uh…
+
+[Cong Chen] 14:22:41
+So is it. So overall, I think, is this still, uh…
+
+[Cong Chen] 14:22:46
+possible, like, when generating these commas. I know, like, when we do interview, we just, uh…
+
+[Cong Chen] 14:22:52
+Pass all the words, but, like, here, when you say ballers or arm a little driver, like, separation, or the Copenhagen-style infrastructure,
+
+[Cong Chen] 14:23:00
+Or is it still? For those I do not,
+
+[Cong Chen] 14:23:03
+quite know what other country or what type of structure is.
+
+[Cong Chen] 14:23:07
+Is it still generate, uh, like, a typical example? Like, what is a Copenhagen-style infrastructure?
+
+[Cong Chen] 14:23:13
+And the water is a bollard or a Malaysia, you know.
+
+[Cong Chen] 14:23:17
+I'm allegor.
+
+[Cong Chen] 14:23:18
+separation. Um…
+
+[Cong Chen] 14:23:21
+So that's kind of, like, um…
+
+[Cong Chen] 14:23:23
+making it a more intuitive.
+
+[Mateo Nader] 14:23:27
+Mm-hmm.
+
+[Cong Chen] 14:23:27
+Um, what is that? So, since we rely on AI, I think it would be easier to pull out some, uh,
+
+[Cong Chen] 14:23:36
+sample images.
+
+[Cong Chen] 14:23:38
+From there, so… Um, that's another comment I have. I think overall it's good, so that's what I feel.
+
+[Mateo Nader] 14:23:40
+Yeah.
+
+[Cong Chen] 14:23:46
+Uh, the good parts, or the parts that need to be improved.
+
+[Mateo Nader] 14:23:52
+Right then. So we could move on to the next tool, which is the adjust design.
+
+[Cong Chen] 14:23:58
+Adjust the design tape.
+
+[Mateo Nader] 14:24:00
+Yeah, so… this will generate a new image, like a new… Street design based on the parameters you give it.
+
+[Mateo Nader] 14:24:09
+And then, yeah, and the design requirements, you can either.
+
+[Cong Chen] 14:24:09
+a group, I'm
+
+[Mateo Nader] 14:24:13
+add more context about what's going on in the street, or add, like, a specific improvement you'd want to see.
+
+[Cong Chen] 14:24:19
+Mm-hmm. Buffer times, then they're the one or the next.
+
+[Cong Chen] 14:24:25
+Hope to involve our next little park across the next little moving cars.
+
+[Cong Chen] 14:24:29
+Mm-hmm, backlane, backwards.
+
+[Cong Chen] 14:24:45
+Let's, uh… I don't have anything else to add. I think this should be sufficient, these four parts.
+
+[Cong Chen] 14:24:52
+Um…
+
+[Mateo Nader] 14:24:54
+And yeah, I could just click Generate Design.
+
+[Cong Chen] 14:24:56
+Generally sign…
+
+[Mateo Nader] 14:24:59
+Yeah, this looks like, a minute or two to generate in the background.
+
+[Cong Chen] 14:25:01
+Okay. Okay.
+
+[Cong Chen] 14:25:10
+Maybe we can add an indicator somewhere, meaning, like, say, generating, and…
+
+[Cong Chen] 14:25:16
+add a progress bar or something on there, so…
+
+[Cong Chen] 14:25:19
+So the users know it's being generated, otherwise we are just sitting there.
+
+[Mateo Nader] 14:25:20
+Yeah.
+
+[Cong Chen] 14:25:25
+Seeing, uh, you know, static
+
+[Cong Chen] 14:25:27
+image, so…
+
+[Cong Chen] 14:25:55
+Also, I'll hear from the cons, it says frequent crossings and traffic signals may interrupt. Okay.
+
+[Cong Chen] 14:26:02
+It's being generated behind us.
+
+[Cong Chen] 14:26:03
+So traffic is either may interrupt cycling flow underground.
+
+[Cong Chen] 14:26:07
+extra culture. So, this is definitely, uh, definitely a good point, but from this image, from this, uh, Google Street View image,
+
+[Cong Chen] 14:26:19
+by analyzing solely from this image, we did not… we do not see too many crossings. Of course, there are maybe, you know, the parked
+
+[Cong Chen] 14:26:28
+cars, and people can cross the car.
+
+[Cong Chen] 14:26:31
+people can't cross the street between the cross, like, the Darsh or
+
+[Cong Chen] 14:26:35
+Uh, it's a dash behavior, but if…
+
+[Cong Chen] 14:26:39
+let's say you're from. Let's say an infrastructure perspective, we did not see any market crosswalks.
+
+[Cong Chen] 14:26:44
+I know we didn't see many, uh…
+
+[Cong Chen] 14:26:47
+intersection, since we are analyzing this, uh…
+
+[Cong Chen] 14:26:51
+to throw the segment. I know we didn't see many signals, so I feel like this comment is a little bit…
+
+[Cong Chen] 14:26:58
+is not quite a lie.
+
+[Cong Chen] 14:27:01
+versus what we see from the image here, so…
+
+[Cong Chen] 14:27:04
+My question is, when the AI tool
+
+[Cong Chen] 14:27:08
+doing the automated safety analysis. You're just analyzing this image from what we see here, or it's kind of, like, analyzing
+
+[Cong Chen] 14:27:16
+the surroundings of this…
+
+[Cong Chen] 14:27:18
+coordinate, because definitely it's the other side, there's, uh, like, the…
+
+[Cong Chen] 14:27:23
+The railway access intersections and maybe signals somewhere, but…
+
+[Cong Chen] 14:27:27
+Let's say when we…
+
+[Cong Chen] 14:27:30
+analyzing performances.
+
+[Cong Chen] 14:27:32
+point of view. We didn't see many signals.
+
+[Mateo Nader] 14:27:37
+I'm pretty sure it does take the information from the surrounding area.
+
+[Cong Chen] 14:27:40
+Okay. Okay, okay, so, okay, yeah. So that may be something, uh…
+
+[Mateo Nader] 14:27:41
+Some, like, Google Maps.
+
+[Cong Chen] 14:27:47
+I think other users may also want.
+
+[Cong Chen] 14:27:49
+ask, so you may want to, uh, maybe check this stock again, or the team to see.
+
+[Cong Chen] 14:27:55
+how to fine-tune, here are the calls.
+
+[Cong Chen] 14:27:57
+So… and so this is a generated design.
+
+[Cong Chen] 14:28:06
+So, for the song sheet here, um, it's a great beta line with a 3-foot buffer.
+
+[Cong Chen] 14:28:11
+Okay, sorry, so… I'm a cyclists.
+
+[Cong Chen] 14:28:18
+Aiding and maintaining traffic of power, yeah.
+
+[Cong Chen] 14:29:15
+So, when we visually apply this, uh…
+
+[Cong Chen] 14:29:19
+Painting the… painting the bike lane with extra buffer on it, and this is the remaining width.
+
+[Cong Chen] 14:29:25
+for the travel… for the travel traffic.
+
+[Cong Chen] 14:29:28
+Um… since the Vero looks good, and maybe here is, uh…
+
+[Cong Chen] 14:29:34
+like, towards you or towards a near the viewer's side. This may be too wide, like, if you say it's 3 feet, 3 feet somewhere here,
+
+[Cong Chen] 14:29:42
+This would at least to be a 6th fitted.
+
+[Cong Chen] 14:29:46
+So here, I use a lot of the…
+
+[Cong Chen] 14:29:48
+for traveling space. So, I know…
+
+[Cong Chen] 14:29:52
+This one is a side street, maybe a connector street, and there's, um…
+
+[Cong Chen] 14:29:56
+Limited space to provide the…
+
+[Cong Chen] 14:29:58
+So, pipeline. So, visually,
+
+[Cong Chen] 14:30:01
+for the form of the video design, I would say maybe make it further.
+
+[Cong Chen] 14:30:05
+narrower in the nearer end, so there are…
+
+[Cong Chen] 14:30:09
+Understandable if there are more travel space, otherwise it's kind of like a tool.
+
+[Cong Chen] 14:30:13
+to, um… to…
+
+[Cong Chen] 14:30:16
+narrow for traveling. Of course, this is just a…
+
+[Cong Chen] 14:30:19
+So, graphic design matters up.
+
+[Cong Chen] 14:30:22
+But as a design improvement point is well taken, so…
+
+[Cong Chen] 14:30:26
+So that is a developer.
+
+[Cong Chen] 14:30:29
+I'll say something like that.
+
+[Cong Chen] 14:30:37
+So these are kind of like the same…
+
+[Cong Chen] 14:30:49
+I feel like, uh, this is also, um, what I'm trying to understand from this one, and this one.
+
+[Cong Chen] 14:30:57
+strong fearless, enthusiastic and confident, interested, and… but concerned, and knowing how to just kind of like…
+
+[Cong Chen] 14:31:05
+simulators of four types of cyclists.
+
+[Cong Chen] 14:31:09
+cyclists. It is either for the cyclists or for the driver, or for any, like, the road user?
+
+[Cong Chen] 14:31:16
+All from the…
+
+[Mateo Nader] 14:31:16
+It's only for the cyclist.
+
+[Cong Chen] 14:31:17
+Okay. So, it's kind of, like, simulated the Baldist.
+
+[Cong Chen] 14:31:23
+And the most safe-oriented driver 123464 type of road users.
+
+[Cong Chen] 14:31:30
+Um… I think this looks good, um…
+
+[Mateo Nader] 14:31:31
+Yeah.
+
+[Cong Chen] 14:31:35
+And, um…
+
+[Cong Chen] 14:31:37
+So, you may want to do some improved design.
+
+[Cong Chen] 14:31:40
+clear on the interface, as I said.
+
+[Cong Chen] 14:31:43
+When we click the driver,
+
+[Cong Chen] 14:31:45
+We see the pros and the cons, and when we see the sectors, we see the respective pros and cons for cyclists. So, there are differentiations, or differences between these two types of user drivers.
+
+[Cong Chen] 14:31:56
+So, all the users. But what we see here,
+
+[Cong Chen] 14:32:00
+person, no, so… and I saw still…
+
+[Cong Chen] 14:32:03
+So, same as Soul here, you may want to add something like, uh…
+
+[Cong Chen] 14:32:09
+like, say in some similar statement, uh, this is for… this is the simulated four types of cyclists.
+
+[Cong Chen] 14:32:17
+with different, uh, risk perception levels.
+
+[Cong Chen] 14:32:21
+trying to indicate this is from the cyclist's perspective view, not the driver's perspective view, so…
+
+[Cong Chen] 14:32:30
+Time to make it clear, uh, and better.
+
+[Cong Chen] 14:32:33
+Um, other than that, I think this…
+
+[Cong Chen] 14:32:36
+It's… it's really good. It's really good.
+
+[Cong Chen] 14:32:38
+Yeah, just some interface or clear, uh, clarifications in the design, so…
+
+[Mateo Nader] 14:32:46
+Yeah, sure. Yeah, the last feature for this is the comparative analysis.
+
+[Cong Chen] 14:32:52
+Okay, do I just click here?
+
+[Mateo Nader] 14:32:55
+Yeah, click the… on that one, and then… The comparative analysis on the other tab.
+
+[Cong Chen] 14:33:01
+Okay, so you say the kind that I've had before, after analysis.
+
+[Mateo Nader] 14:33:03
+And then… Yeah.
+
+[Cong Chen] 14:33:06
+Uh, there's an activity comparison…
+
+[Mateo Nader] 14:33:15
+See, this has a discussion similar to in-depth analysis, and also… There's the comparison tab.
+
+[Cong Chen] 14:33:22
+Mm-hmm.
+
+[Mateo Nader] 14:33:23
+On the top, if you click on the… Other top… yeah, that one shows, like, graphs comparing the.
+
+[Cong Chen] 14:33:31
+Mm-hmm.
+
+[Mateo Nader] 14:33:32
+scores between the two.
+
+[Cong Chen] 14:33:35
+Yeah.
+
+[Cong Chen] 14:34:35
+We're also going to add the…
+
+[Cong Chen] 14:34:37
+So these are product summary for the cyclist. I didn't see it.
+
+[Cong Chen] 14:34:43
+here, I saw.
+
+[Cong Chen] 14:34:49
+a driver pearls, grammar calls, maybe we can also add the…
+
+[Cong Chen] 14:34:53
+So, cyclists are prol, cyclists cons.
+
+[Mateo Nader] 14:35:04
+What do you think about the graphs? It's not clear.
+
+[Cong Chen] 14:35:07
+graphs… there's graphs is simple and intuitive, um…
+
+[Cong Chen] 14:35:14
+see… see the improvements…
+
+[Cong Chen] 14:35:22
+Are we able to pull out the before-after data from this tool? Let's say we tested 30…
+
+[Cong Chen] 14:35:28
+of 50 different interviewers.
+
+[Cong Chen] 14:35:31
+And we can pull out of their resp…
+
+[Cong Chen] 14:35:33
+No, no, no, no, it's not like that. This is AI-generated.
+
+[Cong Chen] 14:35:38
+So, I was just thinking how to…
+
+[Cong Chen] 14:35:42
+Of course, what we see is that you improved.
+
+[Cong Chen] 14:35:46
+you improve, like, a form of six, uh, six portals or 7 points.
+
+[Cong Chen] 14:35:50
+Uh, the workers increased by, let's say, 16%, and this one includes about 20%.
+
+[Cong Chen] 14:35:59
+just from one case.
+
+[Cong Chen] 14:36:04
+I want to discussing how to test.
+
+[Cong Chen] 14:36:08
+from a statistical point of view, how to test the significance of the improvement. Like, one case may be just too limited, and there may be some personal…
+
+[Cong Chen] 14:36:19
+Uh, differences…
+
+[Cong Chen] 14:36:23
+kind of like as an AI-simulated the personal differences between the cases. So, from a…
+
+[Cong Chen] 14:36:28
+how to generate a large sample may be using, um…
+
+[Cong Chen] 14:36:33
+different fees, or different ACs.
+
+[Cong Chen] 14:36:36
+So…
+
+[Cong Chen] 14:36:38
+I mean, this definitely provided some good visual
+
+[Cong Chen] 14:36:42
+on the improvement, like, before-after analysis, but how…
+
+[Cong Chen] 14:36:46
+significant as a improvement is.
+
+[Cong Chen] 14:36:50
+thoughts, so maybe it's an extra step, what we can improve from there, so…
+
+[Mateo Nader] 14:36:50
+Mm-hmm. Okay.
+
+[Cong Chen] 14:36:55
+Um, other than that, I think it's good.
+
+[Cong Chen] 14:36:58
+Uh, the descriptions of…
+
+[Cong Chen] 14:37:01
+how good are fine.
+
+[Cong Chen] 14:37:02
+And, yeah, forms the significance, and also add the, uh, the driver design scenario.
+
+[Cong Chen] 14:37:09
+So, um, cyclists are pros, cyclists cons, ecosystem conditions, cyclists approach, cyclist cons.
+
+[Cong Chen] 14:37:16
+So, uh, yeah.
+
+[Cong Chen] 14:37:19
+That's, uh… I think it's pretty good. It's very promising, and with some improvements, so…
+
+[Cong Chen] 14:37:26
+Really good.
+
+[Mateo Nader] 14:37:27
+Yeah. Um, overall, like… between all the different tools we use.
+
+[Mateo Nader] 14:37:33
+were the ones that you found, like, more useful or the most promising?
+
+[Cong Chen] 14:37:37
+I think this would… it would be useful.
+
+[Cong Chen] 14:37:41
+I believe so, you to provide some, um…
+
+[Cong Chen] 14:37:45
+Um, as a new tool,
+
+[Cong Chen] 14:37:48
+As I knew to, I think it offers a good option for some, uh, exploratory analysis.
+
+[Cong Chen] 14:37:54
+Let's say we have, um…
+
+[Mateo Nader] 14:37:55
+Mm-hmm.
+
+[Cong Chen] 14:37:58
+We have a location with existence.
+
+[Cong Chen] 14:38:02
+situation that existing risk.
+
+[Cong Chen] 14:38:05
+Safety risk, and we want to test.
+
+[Cong Chen] 14:38:08
+And we want to do a quick
+
+[Cong Chen] 14:38:11
+analysis. This is a kind of, like, a quicker road safety audit analysis, and it generates some, uh,
+
+[Cong Chen] 14:38:19
+it generates a sum.
+
+[Cong Chen] 14:38:20
+potential countermeasures for analysis, so…
+
+[Cong Chen] 14:38:24
+Uh, phase one, when we do the test, we use the, uh, the painted
+
+[Cong Chen] 14:38:29
+bike lane as a countermeasure. Are there… so, in the…
+
+[Cong Chen] 14:38:34
+user database for this tool, are there any other different cultures that may be applicable? I'm just thinking.
+
+[Cong Chen] 14:38:43
+If there are other tools… if there are other countermeasures.
+
+[Cong Chen] 14:38:47
+So I can be selected or can't offer.
+
+[Cong Chen] 14:38:50
+Also, another different… another, maybe, design scenario tool with another content matter, design scenario 3 as another quantum matter.
+
+[Cong Chen] 14:38:58
+Uh, that we can do some cross-analysis between different account measures.
+
+[Cong Chen] 14:39:03
+And this would also be a good tool.
+
+[Cong Chen] 14:39:07
+for the road designers.
+
+[Cong Chen] 14:39:09
+Before they actually go to…
+
+[Cong Chen] 14:39:11
+Go to implement as a…
+
+[Cong Chen] 14:39:14
+to account managers, they can use that to test a different type of the countermeatters.
+
+[Cong Chen] 14:39:18
+So, and is that a quote?
+
+[Cong Chen] 14:39:21
+with a V-roll, let's say here, you offer, um…
+
+[Cong Chen] 14:39:26
+painted a bike lane with some, uh, with some extra buffer between the bike lane and the vehicle.
+
+[Cong Chen] 14:39:32
+What about, due to the limited space, we can only provide, uh…
+
+[Cong Chen] 14:39:39
+Maybe we can only provide a…
+
+[Cong Chen] 14:39:42
+offer, uh, we can only provide a physical separation. Let's say a very narrow physical
+
+[Mateo Nader] 14:39:46
+Mm-hmm.
+
+[Cong Chen] 14:39:48
+separation, uh, between the parked cars and the bike lane.
+
+[Cong Chen] 14:39:54
+So, that may be another thing.
+
+[Cong Chen] 14:39:57
+And, um…
+
+[Cong Chen] 14:40:01
+I mean…
+
+[Cong Chen] 14:40:04
+It's just, uh, just why it's just testing one kind of measure, and that
+
+[Cong Chen] 14:40:10
+And if it looks good, what about others? What about other color meters? Are we able to test?
+
+[Cong Chen] 14:40:17
+simultaneously across different account measures. That will be interesting to see.
+
+[Mateo Nader] 14:40:23
+Yeah, you can keep, like… Generating designs if you want, and I remember there was one.
+
+[Mateo Nader] 14:40:29
+participant who, like, typed in. their own countermaster, like, it was like a raised.
+
+[Mateo Nader] 14:40:36
+curb slash barrier, and it was able to generate it, so…
+
+[Cong Chen] 14:40:39
+So, if that, maybe…
+
+[Cong Chen] 14:40:42
+When we generate the evalu… when we, um…
+
+[Cong Chen] 14:40:46
+Where is it? Um…
+
+[Cong Chen] 14:40:48
+where we adjusted the design.
+
+[Cong Chen] 14:40:50
+Maybe we can add some text here.
+
+[Cong Chen] 14:40:53
+past another one, so…
+
+[Mateo Nader] 14:40:55
+Yeah.
+
+[Cong Chen] 14:40:56
+So I thought would be interesting to see.
+
+[Cong Chen] 14:40:58
+Um… but overall, I think it's good that it looks very, uh, visually appealing.
+
+[Cong Chen] 14:41:04
+And provide, uh, informative, uh, feedback, so…
+
+[Mateo Nader] 14:41:12
+So you can move on to the… ChatGPT Pyrenext, but first, could you press the download project button on the top right?
+
+[Cong Chen] 14:41:19
+Yeah.
+
+[Mateo Nader] 14:41:22
+So, download all the images, and also, like, the.
+
+[Mateo Nader] 14:41:25
+a JSON file. So… you'll send these to us after, but for the… Yeah. For the ChatGPT prompt you'll use the existing condition.
+
+[Cong Chen] 14:41:33
+And as I said, signature.
+
+[Mateo Nader] 14:41:39
+I'm gonna share… the login for a ChatGPT account we're using for these interviews.
+
+[Cong Chen] 14:41:47
+I say I'm using my own China GPT here, so it's just a general Chinese GPT.
+
+[Mateo Nader] 14:41:55
+I've sent a login for ours in the chat, we just have it, so… Like, we can go back and look at the… logs later on.
+
+[Cong Chen] 14:42:04
+Yeah.
+
+[Cong Chen] 14:42:09
+So, am I going to load anything here?
+
+[Mateo Nader] 14:42:13
+Yeah. If you open… First, could you open the Zoom chat, and… Use the login I sent you.
+
+[Cong Chen] 14:42:23
+a full chart, and then we'll see.
+
+[Mateo Nader] 14:42:33
+That's the email and password.
+
+[Cong Chen] 14:42:34
+So, I may need a tool, let's say, log off here.
+
+[Cong Chen] 14:42:40
+log out.
+
+[Cong Chen] 14:42:50
+So, basically, I use this one, um…
+
+[Cong Chen] 14:43:00
+So you may get a code, and uh…
+
+[Cong Chen] 14:43:04
+I don't know what's this called?
+
+[Mateo Nader] 14:43:04
+Yeah.
+
+[Mateo Nader] 14:43:14
+I just saw that in the chat.
+
+[Mateo Nader] 14:43:26
+Yeah, if you go to the… PDF I sent you. There's, like, a Google Doc that has all the prompts that we'll be using.
+
+[Cong Chen] 14:43:41
+And the CPT is a prompt.
+
+[Mateo Nader] 14:43:44
+Yeah, so you just copy… prompt them, and then what's in bold is what you'll… Choose and edit.
+
+[Cong Chen] 14:43:53
+Oh, okay.
+
+[Mateo Nader] 14:43:55
+Yeah. And then…
+
+[Cong Chen] 14:43:56
+So let's say that here…
+
+[Cong Chen] 14:44:00
+And the icon truths are…
+
+[Cong Chen] 14:44:03
+controls are anything, right? Anything of this, let's say, narrow…
+
+[Mateo Nader] 14:44:06
+Yeah.
+
+[Cong Chen] 14:44:08
+And there's a green…
+
+[Cong Chen] 14:44:11
+And, uh, so I've just put a narrow.
+
+[Cong Chen] 14:44:18
+And…
+
+[Mateo Nader] 14:44:18
+And then you also… Attach the.
+
+[Mateo Nader] 14:44:22
+existing condition image that we downloaded from the app.
+
+[Cong Chen] 14:44:24
+Okay, and let's say…
+
+[Cong Chen] 14:44:29
+Um…
+
+[Cong Chen] 14:44:32
+Naroplanors…
+
+[Cong Chen] 14:44:38
+And, uh, prompt cross.
+
+[Cong Chen] 14:44:48
+Ah, the file and the photo…
+
+[Cong Chen] 14:44:54
+Well, basically, uh…
+
+[Cong Chen] 14:44:56
+existing conditions.
+
+[Mateo Nader] 14:44:58
+Yeah. Yeah, and then you can send it.
+
+[Cong Chen] 14:45:04
+and send.
+
+[Cong Chen] 14:46:25
+Okay, so this is the image created, um…
+
+[Cong Chen] 14:46:31
+Yeah, very appealing, and definitely…
+
+[Cong Chen] 14:46:35
+physical barriers, and… okay.
+
+[Cong Chen] 14:46:38
+Although you can have some space, but I think the point is well taken.
+
+[Cong Chen] 14:46:43
+Soy stuff. Yeah, it's just, uh…
+
+[Cong Chen] 14:46:45
+So just a little bit of placement of those stripes, but…
+
+[Cong Chen] 14:46:49
+It's fine. I think it definitely shows the idea.
+
+[Cong Chen] 14:46:53
+So, it's good. It's good.
+
+[Mateo Nader] 14:46:57
+We can move on to the next prompt. It's, like, 3 more.
+
+[Cong Chen] 14:46:59
+Okay.
+
+[Cong Chen] 14:47:07
+So, if they say the second prompt…
+
+[Cong Chen] 14:47:10
+And, um…
+
+[Cong Chen] 14:47:16
+Are there any things that I need to change? No?
+
+[Mateo Nader] 14:47:19
+No. Yeah, that's optional.
+
+[Cong Chen] 14:47:20
+Well, it does a location contest.
+
+[Cong Chen] 14:47:25
+Okay, okay, so let's say we're doing Coronado.
+
+[Cong Chen] 14:47:30
+Loading any images or his, uh…
+
+[Cong Chen] 14:47:33
+So, scenarios.
+
+[Cong Chen] 14:47:37
+Are there any other images that I need to load?
+
+[Cong Chen] 14:47:41
+Okay, Trust Ball.
+
+[Mateo Nader] 14:47:42
+No.
+
+[Mateo Nader] 14:48:35
+Notice any major differences between. these responses and the one from the app.
+
+[Cong Chen] 14:48:41
+Mm-hmm, yeah.
+
+[Cong Chen] 14:48:58
+Yeah, this prop that definitely provides more details and more…
+
+[Cong Chen] 14:49:03
+like, a substantial feedback.
+
+[Cong Chen] 14:49:06
+And, uh, trying to app itself, because it's providing more, uh…
+
+[Mateo Nader] 14:49:09
+Mm-hmm.
+
+[Cong Chen] 14:49:11
+It has more, um…
+
+[Cong Chen] 14:49:13
+space to generate the content.
+
+[Cong Chen] 14:49:20
+Okay, good, good.
+
+[Mateo Nader] 14:49:23
+Yeah, so the prompt 3.
+
+[Cong Chen] 14:49:27
+Home screen…
+
+[Mateo Nader] 14:49:53
+Very successful.
+
+[Mateo Nader] 14:51:26
+Yeah.
+
+[Cong Chen] 14:51:27
+Okay, good, good, yeah.
+
+[Cong Chen] 14:51:32
+The loss of Y is, uh, comparative analysis.
+
+[Cong Chen] 14:52:01
+Is it, or that's a comparative analysis.
+
+[Cong Chen] 14:53:52
+Okay, good. Good.
+
+[Cong Chen] 14:53:57
+So I saw the four prompts. Yeah.
+
+[Mateo Nader] 14:53:59
+Alright. Yeah.
+
+[Mateo Nader] 14:54:02
+So, let's… comparing this to the tool… Is there anything you found the?
+
+[Mateo Nader] 14:54:08
+ChatGPT did. Butter.
+
+[Cong Chen] 14:54:12
+Thanks for my generated news.
+
+[Cong Chen] 14:54:13
+I can fill out the survey.
+
+[Mateo Nader] 14:54:17
+Yeah.
+
+[Cong Chen] 14:54:19
+So, here I say the system, it will mean the Challenge GPT,
+
+[Cong Chen] 14:54:24
+system or the tool itself.
+
+[Cong Chen] 14:54:25
+So here.
+
+[Mateo Nader] 14:54:27
+There's a separate survey for the tool. So this is just for the… ChatGPT prompts we ran.
+
+[Cong Chen] 14:54:29
+Okay.
+
+[Cong Chen] 14:54:33
+the two people
+
+[Cong Chen] 14:54:35
+Okay.
+
+[Cong Chen] 14:55:22
+And the interview questions.
+
+[Mateo Nader] 14:55:27
+We don't need to look through those. So this is for me, I think the… And question is, like… Hearing how you… Like, perceive both the tools you would compare them.
+
+[Mateo Nader] 14:55:47
+That's be an art tool in the ChatGPT tool.
+
+[Cong Chen] 14:55:52
+I think about both those tools are very good tools, and definitely…
+
+[Cong Chen] 14:55:56
+Uh, the, um…
+
+[Cong Chen] 14:55:59
+As a street AI tool. So, first tool we tested provided some good feedback.
+
+[Cong Chen] 14:56:04
+And also, it's visually unattractive, and we can…
+
+[Cong Chen] 14:56:10
+We can generate a different type of analysis just using one… one click way.
+
+[Cong Chen] 14:56:15
+And, uh,
+
+[Cong Chen] 14:56:18
+That's very intuitive and very quick.
+
+[Cong Chen] 14:56:20
+And for the ChatGPT tool, I think it's offered, and you have provided a good…
+
+[Cong Chen] 14:56:27
+prompts, and by radiance is a prompt, so we can definitely understand what's, uh…
+
+[Cong Chen] 14:56:32
+What's the evaluation criteria? What's, uh, what's the, um…
+
+[Cong Chen] 14:56:37
+customize the inputs that we need to do for each
+
+[Cong Chen] 14:56:40
+prompt, and so we…
+
+[Cong Chen] 14:56:42
+By reading these prompts and applying those customized changes, we will be able to understand more
+
+[Cong Chen] 14:56:50
+uh… deeply about how this analysis has been generalized, and what's the logic behind it. So there are…
+
+[Cong Chen] 14:56:58
+There are both school departments on…
+
+[Cong Chen] 14:57:01
+on both tools. Um…
+
+[Mateo Nader] 14:57:03
+Mm-hmm.
+
+[Cong Chen] 14:57:07
+Overall, I think from an old designer, and uh… if this is just for some personal use,
+
+[Cong Chen] 14:57:15
+I would just say…
+
+[Cong Chen] 14:57:17
+Um, I would say both tools are good, and if this is for, let's say,
+
+[Cong Chen] 14:57:23
+I say as a role designer, you know, consultant, in a consulting company, and we want to
+
+[Cong Chen] 14:57:29
+proposal for your content managers and, uh,
+
+[Cong Chen] 14:57:31
+Lisa's also counter doing our presentation and doing our showcase study.
+
+[Cong Chen] 14:57:37
+to, uh, to the public, or to some, uh, layman audience.
+
+[Cong Chen] 14:57:43
+So, the ChatGPT tool would be a better one, other than ChatGPT tool provides more descriptive
+
+[Mateo Nader] 14:57:43
+Mm-hmm.
+
+[Cong Chen] 14:57:50
+provide more text.
+
+[Cong Chen] 14:57:53
+responses that we can easily summarize into the slides.
+
+[Cong Chen] 14:57:56
+And, um…
+
+[Cong Chen] 14:57:59
+Passing using a BOST tool, and I really like the ChatGPT tool that it…
+
+[Cong Chen] 14:58:04
+So, it's a first prompt when we… when we load the existing conditioner and we load the exact
+
+[Cong Chen] 14:58:10
+product that we want to customize on the content where the channel is AI,
+
+[Cong Chen] 14:58:15
+picture to visualize.
+
+[Cong Chen] 14:58:16
+So yeah, so you're important, and sales can start.
+
+[Cong Chen] 14:58:20
+That can be a lead on all the discussions, uh…
+
+[Cong Chen] 14:58:26
+start to follow. So, can you comment on the sentencing a representative personal feedback?
+
+[Cong Chen] 14:58:31
+on the generator bus system.
+
+[Cong Chen] 14:58:33
+I will just say, uh…
+
+[Cong Chen] 14:58:36
+I wouldn't say it has been, uh, good enough.
+
+[Cong Chen] 14:58:39
+it hasn't been good enough for us to have a generalized analysis.
+
+[Cong Chen] 14:58:44
+Of course, uh… of course, when we are using AI, we…
+
+[Cong Chen] 14:58:48
+as analyze or Pugo Gemini, or either ChatGP, or some other, like, Microsoft,
+
+[Cong Chen] 14:58:53
+Uh, Bing, or something.
+
+[Cong Chen] 14:58:56
+Um, we use more on those ones, you will definitely see that, yeah, it was using, kind of like using some bigger words, and when you read a lot enough,
+
+[Cong Chen] 14:59:08
+You will easily to see this is a human written, or this AI generated, so…
+
+[Mateo Nader] 14:59:13
+Mm-hmm.
+
+[Cong Chen] 14:59:14
+Um, so, I think that, um, the AI tool can be assistive tool, and definitely human.
+
+[Cong Chen] 14:59:22
+interference would there be…
+
+[Cong Chen] 14:59:24
+needed to fine-tune,
+
+[Cong Chen] 14:59:26
+To find the responses and to fine-tune, you know, the results.
+
+[Cong Chen] 14:59:31
+So… so authenticity, I think it would…
+
+[Cong Chen] 14:59:35
+Of course, it conveys… mostly to convey is correct.
+
+[Cong Chen] 14:59:39
+information, but as long as you read more on that, so we are getting more
+
+[Cong Chen] 14:59:45
+prevalence of these AI-generated tools, so it would be getting more easier and easier to identify if this is AI-generated, so…
+
+[Cong Chen] 14:59:54
+Um…
+
+[Cong Chen] 14:59:56
+interview question for looking after your overall experience of what the semester features system contributes the most to your understanding of the diverse bicycle needs and what to improve.
+
+[Cong Chen] 15:00:05
+I think of the improvements are being…
+
+[Cong Chen] 15:00:09
+Uh, I already talked about when we do the first part, like, from the interface and from what needs to be added, and how to customize the tool.
+
+[Cong Chen] 15:00:18
+Uh, the specific features I like.
+
+[Cong Chen] 15:00:21
+I think it's office features I like is, uh…
+
+[Cong Chen] 15:00:26
+Where is that?
+
+[Cong Chen] 15:00:36
+So, basically, it's a…
+
+[Cong Chen] 15:00:38
+So, the specific tool I like, uh, is, uh…
+
+[Cong Chen] 15:00:44
+is basically the multi-agent discussion. I would be…
+
+[Cong Chen] 15:00:48
+excluded to see…
+
+[Cong Chen] 15:00:51
+how people feel, how different types of the risk perception
+
+[Cong Chen] 15:00:56
+people group.
+
+[Cong Chen] 15:00:59
+taken this as a gold with caution, take this, uh…
+
+[Cong Chen] 15:01:03
+no goal. So…
+
+[Cong Chen] 15:01:06
+Uh, it's really good to see the different people showing different perceptions on the same design, same…
+
+[Cong Chen] 15:01:13
+the improvement, I think that they say to go on the track.
+
+[Cong Chen] 15:01:16
+Uh, being on a tracked.
+
+[Cong Chen] 15:01:18
+Um…
+
+[Cong Chen] 15:01:19
+So, as far as, uh…
+
+[Cong Chen] 15:01:23
+Future decision-making process. Let's say we simulate a diff…
+
+[Cong Chen] 15:01:27
+Basically, here, we simulate 5 kinds of people.
+
+[Cong Chen] 15:01:31
+Uh, there's a four group of risk perception.
+
+[Cong Chen] 15:01:34
+Cyclists, and also the driver.
+
+[Cong Chen] 15:01:37
+So, I would just say, when we make… trying to make the decisions, we may need to…
+
+[Cong Chen] 15:01:44
+combines this survey with some other survey, let's say,
+
+[Cong Chen] 15:01:48
+What's the percentage of those
+
+[Cong Chen] 15:01:50
+It's also, let's say, it's a percentage of what's also for each of the four types of risk perception checklist.
+
+[Cong Chen] 15:01:58
+in our local community, or in abroad, let's say maybe this is a 30%, 25%, a 25%, and a 15%.
+
+[Cong Chen] 15:02:05
+So, something like that, and then you do some weighted calculation, maybe we can…
+
+[Cong Chen] 15:02:11
+give another general score.
+
+[Cong Chen] 15:02:15
+generalized score, if this is a good design or not, because when we propose a design, it's not just fitting one set
+
+[Cong Chen] 15:02:23
+One type of the cyclist is for all the communities, so…
+
+[Cong Chen] 15:02:27
+And the Zata may be as unseen tool, considerate the future, I think.
+
+[Cong Chen] 15:02:32
+Um…
+
+[Cong Chen] 15:02:34
+Also questions…
+
+[Cong Chen] 15:02:36
+lots of questions
+
+[Mateo Nader] 15:02:40
+I have a question's 8. And then those are, like, some big picture questions.
+
+[Cong Chen] 15:02:43
+How do you…
+
+[Cong Chen] 15:02:46
+Okay, how do they envision integrated personal AI into a feedback design flow?
+
+[Cong Chen] 15:02:52
+opportunity that you'll see.
+
+[Cong Chen] 15:02:53
+I believe there's a good opportunity. I already saw some companies.
+
+[Cong Chen] 15:02:59
+Uh, I already saw some company dolls, some intro videos that are from a few companies, especially for some startingup companies.
+
+[Cong Chen] 15:03:07
+using generative AI to provide a new tool in the road.
+
+[Cong Chen] 15:03:11
+It's a building design, the roadway design, or in the custom… in the cost estimate.
+
+[Cong Chen] 15:03:16
+So…
+
+[Cong Chen] 15:03:19
+Samo's a construction worker can also be done in the roadway design, so…
+
+[Cong Chen] 15:03:23
+Uh, since there are, uh, just through the vehicle.
+
+[Cong Chen] 15:03:26
+Just towards the start, and uh…
+
+[Cong Chen] 15:03:29
+I would say there are a lot of opportunities in fine-tune on different aspects. This is for the safety improvement for the
+
+[Cong Chen] 15:03:37
+improvement, and maybe there are, uh, similarly, the cost
+
+[Cong Chen] 15:03:41
+estimated, because here we are just talking about safety effects, and maybe in the future we also need to
+
+[Cong Chen] 15:03:49
+talk about the, uh…
+
+[Cong Chen] 15:03:50
+So, PCA analysis, benefit-cost analysis. Benefit can be come from the safety improvement, and the cost can be from the, uh…
+
+[Cong Chen] 15:03:59
+itemize the cost per mile or per counter, so there are maybe…
+
+[Cong Chen] 15:04:03
+more opportunities towards error using the AI-generated tool, because both can be good… both can be generated based on sufficient, uh,
+
+[Cong Chen] 15:04:13
+Fees into the AI train.
+
+[Cong Chen] 15:04:16
+How do you inter… how do you view the relationship between AI and the role design? Is that one of the augmentational replacement?
+
+[Cong Chen] 15:04:24
+I think of, for short, it would be an augmentation.
+
+[Cong Chen] 15:04:29
+Uh, but the future there would be replacement. It really depends. I think it's…
+
+[Cong Chen] 15:04:36
+is similar to the…
+
+[Cong Chen] 15:04:39
+connected on the autonomous vehicles and the human drivers. There's, uh, here is still in the assistive stage, AI assistive.
+
+[Cong Chen] 15:04:49
+On that, to improve.
+
+[Cong Chen] 15:04:51
+So, desired results.
+
+[Cong Chen] 15:04:52
+Uh, the ones that are good design results, case examples will be the feed, and the sooner
+
+[Cong Chen] 15:04:58
+And sooner or later, I think there will be, um…
+
+[Cong Chen] 15:05:03
+replacement for some basic design.
+
+[Cong Chen] 15:05:05
+And that's also a challenge, and people…
+
+[Cong Chen] 15:05:11
+It's a very raw designer, so we all need to adjust.
+
+[Cong Chen] 15:05:14
+how to prepare for that.
+
+[Cong Chen] 15:05:16
+So, I don't have a good example so far.
+
+[Cong Chen] 15:05:20
+And, uh,
+
+[Cong Chen] 15:05:24
+Um… I don't have a good example so far, and I'm just, uh, I'm just having this kind of feeling is still augmentation, assistive stage, and sooner or later, there will be replacement sold, and…
+
+[Cong Chen] 15:05:36
+Of course, there will be Neil.
+
+[Cong Chen] 15:05:38
+job opportunities from there, from this replacement, but uh…
+
+[Cong Chen] 15:05:44
+It may not be alive, which is also roadway designers.
+
+[Cong Chen] 15:05:47
+And then maybe, like, replace some jobs on the roadway design, on the civil design, but create more jobs on the AI training, create more jobs on the coding, on the programming.
+
+[Cong Chen] 15:05:58
+softwareware, so…
+
+[Cong Chen] 15:06:00
+So that's kind of a shift, so…
+
+[Cong Chen] 15:06:02
+Yeah, that's, uh, that's all I have, so…
+
+[Mateo Nader] 15:06:04
+Yeah. Alright. Well, thanks again. It's like.
+
+[Mateo Nader] 15:06:11
+A few last things, um, if you could finish up filling the surveys. I don't know if… did you find the street design one?
+
+[Mateo Nader] 15:06:18
+This should have been… because I know you did the… pre-study survey, the ChatGPT, and then there's a third survey there.
+
+[Cong Chen] 15:06:23
+Yeah, yeah, I already finished the, uh…
+
+[Cong Chen] 15:06:28
+It's a pre-survey, and also the ChatGPT ones, so…
+
+[Cong Chen] 15:06:31
+So that's already completed.
+
+[Mateo Nader] 15:06:34
+So yeah, there's just the Street Design AI survey to do.
+
+[Cong Chen] 15:06:38
+Let me see street assorted… oh, okay, this one, this one, okay.
+
+[Mateo Nader] 15:06:39
+And then…
+
+[Cong Chen] 15:06:44
+Okay, let me, uh, finish this, and yeah, I think it's either two years.
+
+[Cong Chen] 15:06:51
+Yeah, having the right.
+
+[Cong Chen] 15:07:00
+I would just say give it, um, 41 satisfying, like, used to.
+
+[Cong Chen] 15:07:08
+You don't need function
+
+[Cong Chen] 15:07:25
+Okay. Okay.
+
+[Cong Chen] 15:07:28
+Awesome.
+
+[Mateo Nader] 15:07:28
+Alright, and then aside from that… Uh, if you could just email me… Those things you downloaded from the street design tool?
+
+[Mateo Nader] 15:07:37
+And then also… Yeah.
+
+[Cong Chen] 15:07:37
+Yo mi…
+
+[Cong Chen] 15:07:39
+Give me a history since?
+
+[Cong Chen] 15:07:41
+Okay, okay, gotcha.
+
+[Mateo Nader] 15:07:43
+And then… screenshot, uh, 3 responses you found interesting.
+
+[Mateo Nader] 15:07:49
+Either from ChatGPT or the tool, like, from those discussions.
+
+[Cong Chen] 15:07:53
+Okay.
+
+[Mateo Nader] 15:07:54
+Um, yeah, that's it.
+
+[Cong Chen] 15:07:56
+Okay, sounds good.
+
+[Cong Chen] 15:07:58
+Thank you, Matthew. Thank you for the opportunity. I think it's a great tool, and I look forward to see the future.
+
+[Cong Chen] 15:08:05
+the improvements of it, so…
+
+[Mateo Nader] 15:08:08
+Yeah, I appreciate it. Hello. Yep.
+
+[Cong Chen] 15:08:09
+Okay. Yeah, big time.
+
+[Cong Chen] 15:08:13
+Yeah, beautiful. Happy holidays.
+
+[Mateo Nader] 15:08:13
+Yeah, happy holidays.
+

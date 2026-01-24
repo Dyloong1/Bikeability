@@ -1,0 +1,1968 @@
+[Duanya Lyu] 10:02:40
+In that case, we can use this one, yeah.
+
+[Duanya Lyu] 10:02:42
+And, uh…
+
+[Duanya Lyu] 10:02:46
+If, uh, you can navigate around a little bit, because the…
+
+[Duanya Lyu] 10:02:51
+picture, like, all the, like, street view is going to be the…
+
+[Duanya Lyu] 10:02:55
+like, the starting point of the process, yeah.
+
+[Duanya Lyu] 10:02:59
+You can, like, turn around different angle.
+
+[Louis Merlin] 10:03:02
+Okay, is that… is it weird that there's that blurry area?
+
+[Duanya Lyu] 10:03:07
+I'm not sure. My guess is, like, maybe there are some privacy issues, yeah.
+
+[Louis Merlin] 10:03:15
+That's a lot better.
+
+[Louis Merlin] 10:03:16
+But, um…
+
+[Louis Merlin] 10:03:22
+Should I include an intersection or not?
+
+[Duanya Lyu] 10:03:27
+Uh… not, I think. Yeah, it works better on, like, segments, yeah.
+
+[Louis Merlin] 10:03:34
+Yeah, it's interesting. This is a pretty… this is a pretty constrained segment, so it's hard for me to imagine
+
+[Louis Merlin] 10:03:39
+what it's going to propose.
+
+[Duanya Lyu] 10:03:41
+Yeah, I'm also curious, yeah.
+
+[Louis Merlin] 10:03:42
+I guess we take some of the parking.
+
+[Louis Merlin] 10:03:48
+Also, it seems like it's a one-way street.
+
+[Louis Merlin] 10:03:54
+Well, it is a one-way street, because it's just one lane.
+
+[Louis Merlin] 10:03:56
+Sorry, so what's your suggestion?
+
+[Duanya Lyu] 10:03:58
+Uh, this could be a, like, a starting point, yeah, like…
+
+[Duanya Lyu] 10:04:02
+If you click, like, generate evaluation, it will, like,
+
+[Duanya Lyu] 10:04:06
+analyze this location, like, how bikeable it is.
+
+[Louis Merlin] 10:04:08
+Right? Can I change the size of this?
+
+[Duanya Lyu] 10:04:12
+Uh… I don't think so, but you can zoom in and zoom out.
+
+[Duanya Lyu] 10:04:17
+Yeah.
+
+[Louis Merlin] 10:04:18
+It's just odd to me that it's…
+
+[Louis Merlin] 10:04:20
+small. Um…
+
+[Louis Merlin] 10:04:23
+Okay.
+
+[Duanya Lyu] 10:04:24
+And then, like, hit control and scroll your mouse, it will zoom me into my…
+
+[Louis Merlin] 10:04:31
+Oh, maybe I could do, uh… yeah, I think I could do this.
+
+[Louis Merlin] 10:04:35
+Oh yeah, I can.
+
+[Louis Merlin] 10:04:43
+Oh, but now I lost the app.
+
+[Louis Merlin] 10:04:51
+Oh. Okay, let's see here.
+
+[Louis Merlin] 10:04:59
+Oh, so it's an evaluation… it's not a design, okay.
+
+[Duanya Lyu] 10:05:02
+Uh, yeah, the first step is, like, evaluate this location, yeah.
+
+[Louis Merlin] 10:05:07
+presence of traffic signals and crossings can cross streets and…
+
+[Louis Merlin] 10:05:16
+I'm a little confused why there's…
+
+[Louis Merlin] 10:05:21
+There's four…
+
+[Louis Merlin] 10:05:24
+different categories, each with different scores.
+
+[Duanya Lyu] 10:05:30
+Um, this is based on a…
+
+[Duanya Lyu] 10:05:34
+Portland-based study, like, they, like, this survey, and…
+
+[Duanya Lyu] 10:05:39
+They classify cyclists into these four categories.
+
+[Duanya Lyu] 10:05:42
+based on, like, safety consideration, comfort consideration, yeah.
+
+[Louis Merlin] 10:05:47
+I guess it's four different kinds of writers.
+
+[Duanya Lyu] 10:05:49
+Yeah.
+
+[Louis Merlin] 10:05:54
+Okay, so now what?
+
+[Louis Merlin] 10:05:56
+Okay, wait. Yeah, there's a driver view and a cyclist view.
+
+[Duanya Lyu] 10:06:01
+Yeah.
+
+[Louis Merlin] 10:06:04
+Lack of dedicated bike infrastructure, just so they don't count the lane?
+
+[Louis Merlin] 10:06:10
+That's weird.
+
+[Louis Merlin] 10:06:14
+Okay, what should I do, adjust…
+
+[Louis Merlin] 10:06:17
+Design next?
+
+[Duanya Lyu] 10:06:18
+Um, before we do that, uh…
+
+[Duanya Lyu] 10:06:21
+Do you have any, like…
+
+[Duanya Lyu] 10:06:23
+Thoughts on, like, how well the two did in this function? Do you find the suggestions useful, or…
+
+[Duanya Lyu] 10:06:31
+Uh, you already know them.
+
+[Louis Merlin] 10:06:41
+It's… it's odd to me that it says the lack of dedicated bike infrastructure. It's true, it's not a…
+
+[Louis Merlin] 10:06:47
+protected land, but there's clearly visible bike lane.
+
+[Duanya Lyu] 10:06:53
+That could be them.
+
+[Louis Merlin] 10:06:54
+Here.
+
+[Duanya Lyu] 10:06:55
+Problem, yeah, because it's like…
+
+[Duanya Lyu] 10:06:57
+try to analyze this picture, maybe it didn't…
+
+[Duanya Lyu] 10:07:01
+recognize, like, they're cycling.
+
+[Louis Merlin] 10:07:08
+Notice, of course, for my vehicle.
+
+[Louis Merlin] 10:07:20
+It looks like it didn't.
+
+[Louis Merlin] 10:07:22
+Looks like I didn't see the bike lane.
+
+[Louis Merlin] 10:07:39
+I mean, what I'm reading is consistent with what I would have said. I don't… I didn't see anything that…
+
+[Louis Merlin] 10:07:48
+I didn't see anything that I wouldn't probably have thought of on my own.
+
+[Duanya Lyu] 10:07:55
+Uh, but what they gave you is, like…
+
+[Duanya Lyu] 10:07:58
+makes sense, right?
+
+[Louis Merlin] 10:08:00
+Yeah, most of it makes sense, except for… except for it seems to have missed the bike lane.
+
+[Duanya Lyu] 10:08:01
+Okay.
+
+[Duanya Lyu] 10:08:04
+Okay, and do you find that, like, the…
+
+[Duanya Lyu] 10:08:08
+like, having at least four categories useful, or…?
+
+[Louis Merlin] 10:08:14
+To me, it's too much information.
+
+[Louis Merlin] 10:08:17
+Um…
+
+[Louis Merlin] 10:08:20
+to have four different safety ratings, four different… I understand that there's different cyclists with different preferences.
+
+[Louis Merlin] 10:08:29
+But…
+
+[Louis Merlin] 10:08:33
+that's… you know…
+
+[Louis Merlin] 10:08:35
+I would rather have…
+
+[Louis Merlin] 10:08:38
+One evaluation.
+
+[Louis Merlin] 10:08:42
+Um, or a simpler evaluation.
+
+[Duanya Lyu] 10:08:46
+Yes.
+
+[Louis Merlin] 10:08:46
+So, you know…
+
+[Louis Merlin] 10:08:49
+Yeah, right, because right now I have 4 different safety evaluations, 4 different comfort evaluations.
+
+[Louis Merlin] 10:09:04
+Which is a bit odd. Seems like what you'd want is, like,
+
+[Duanya Lyu] 10:09:06
+Okay.
+
+[Louis Merlin] 10:09:07
+Um, for each of the types of cyclists, how suitable is it for each type of cyclist?
+
+[Louis Merlin] 10:09:15
+And then maybe…
+
+[Louis Merlin] 10:09:19
+And overall, I guess I'm…
+
+[Louis Merlin] 10:09:21
+I mean, you know, I'm sure I could learn to work with this with time.
+
+[Louis Merlin] 10:09:28
+But it wasn't what I was expecting.
+
+[Duanya Lyu] 10:09:32
+I think they designed this tool, like,
+
+[Duanya Lyu] 10:09:34
+that gave you this, all this, uh…
+
+[Duanya Lyu] 10:09:37
+possible ideas, and it, like…
+
+[Duanya Lyu] 10:09:42
+They want the planners to…
+
+[Duanya Lyu] 10:09:44
+like, customize this to their location, like, how, like, what's… what's their cyclist like?
+
+[Duanya Lyu] 10:09:50
+was a category that their cyclists fit, yeah.
+
+[Louis Merlin] 10:09:52
+Yeah, but yeah, but, you know, each category of cycles is present in every environment.
+
+[Louis Merlin] 10:09:58
+So, um…
+
+[Louis Merlin] 10:10:01
+Yeah.
+
+[Duanya Lyu] 10:10:07
+Okay, I think that's all for this window, and if you hit in-depth analysis…
+
+[Louis Merlin] 10:10:14
+in-depth analysis. Oh.
+
+[Duanya Lyu] 10:10:15
+Yeah, the middle one, yeah. It will, like, have a…
+
+[Duanya Lyu] 10:10:20
+conversation-like.
+
+[Duanya Lyu] 10:10:22
+function, like…
+
+[Duanya Lyu] 10:10:23
+It's kind of what you do in community hearing, like, they have
+
+[Louis Merlin] 10:10:26
+Of course, we keep building…
+
+[Duanya Lyu] 10:10:27
+Yeah.
+
+[Louis Merlin] 10:10:29
+It's like characters.
+
+[Duanya Lyu] 10:10:30
+If you click that window, it will pop, like…
+
+[Duanya Lyu] 10:10:32
+in the front, yeah, yeah.
+
+[Louis Merlin] 10:10:52
+it's kind of different perspectives.
+
+[Duanya Lyu] 10:11:05
+Like, sometime we go like this, and like…
+
+[Duanya Lyu] 10:11:08
+If you have any thoughts on this?
+
+[Louis Merlin] 10:11:16
+Well, um, yeah, um…
+
+[Louis Merlin] 10:11:20
+I think this represents different…
+
+[Louis Merlin] 10:11:23
+perspective, fairly,
+
+[Louis Merlin] 10:11:27
+fairly well.
+
+[Louis Merlin] 10:11:29
+But no one's discussing, like, so suppose you did want to protected bike lane here.
+
+[Louis Merlin] 10:11:36
+Um…
+
+[Duanya Lyu] 10:11:36
+Mm-hmm.
+
+[Louis Merlin] 10:11:38
+Do you have enough space for it? And…
+
+[Louis Merlin] 10:11:41
+Would it involve removing parking?
+
+[Louis Merlin] 10:11:46
+Um, so there's not… there's no discussion about the trade-offs.
+
+[Louis Merlin] 10:11:50
+Here. I mean, this is a pretty constrained environment. I don't think you could put in a protected pipeline
+
+[Louis Merlin] 10:11:57
+without taking something out.
+
+[Louis Merlin] 10:12:02
+Um, so there's not, you know, I guess I'd like to see that kind of discussion of trade-offs.
+
+[Duanya Lyu] 10:12:09
+Um, this function is designed, like, in a way, like, you can also ask them questions. Maybe you can ask them your concerns.
+
+[Duanya Lyu] 10:12:16
+Like, there's a chat box below. Maybe you can ask them, yeah.
+
+[Louis Merlin] 10:12:18
+The other sevens, okay, so…
+
+[Louis Merlin] 10:12:20
+Uh, is there space?
+
+[Louis Merlin] 10:12:24
+Or at least protected.
+
+[Louis Merlin] 10:12:44
+It's an AI bot, it's like a chat bot.
+
+[Duanya Lyu] 10:12:47
+Um, it's an AI blog, yeah. Like, AI tried to mimic different, like, personas.
+
+[Duanya Lyu] 10:12:54
+person, like, personalities.
+
+[Louis Merlin] 10:13:01
+Huh, it seems like they just reiterated the same points.
+
+[Duanya Lyu] 10:13:07
+In this slide.
+
+[Louis Merlin] 10:13:07
+It didn't really address my question.
+
+[Duanya Lyu] 10:13:09
+You know, that's like, that's kind of common thing for AI, yeah.
+
+[Louis Merlin] 10:13:29
+reducing the buffer space slightly.
+
+[Louis Merlin] 10:13:32
+widens brain itself.
+
+[Louis Merlin] 10:13:42
+I didn't really respond to my question.
+
+[Duanya Lyu] 10:13:47
+We want to try to ask a different one, like, to see, like, how it…
+
+[Louis Merlin] 10:13:59
+Let me think… that's a different question I could ask.
+
+[Louis Merlin] 10:14:08
+Could ask about the green paint idea.
+
+[Louis Merlin] 10:14:11
+Uh, okay.
+
+[Duanya Lyu] 10:14:11
+Yeah.
+
+[Louis Merlin] 10:14:14
+What if we removed…
+
+[Louis Merlin] 10:14:20
+One of the parking things.
+
+[Louis Merlin] 10:14:23
+Things are in the space.
+
+[Louis Merlin] 10:14:28
+related detection.
+
+[Louis Merlin] 10:14:41
+community-wide information.
+
+[Louis Merlin] 10:14:43
+Like, things do.
+
+[Duanya Lyu] 10:14:55
+By your perspective, kind of, like…
+
+[Duanya Lyu] 10:14:58
+like, relate to the… to the question you asked.
+
+[Duanya Lyu] 10:15:02
+Like, yeah, congestion.
+
+[Louis Merlin] 10:15:04
+doesn't really… that's it.
+
+[Louis Merlin] 10:15:08
+Improvement? Okay, I'll… okay, I'll let Katie. It looks like I…
+
+[Louis Merlin] 10:15:11
+Different responses this time.
+
+[Louis Merlin] 10:15:13
+removing a parking link for an extra space
+
+[Louis Merlin] 10:15:15
+used for a painted buffer, flexible bollard for our insulation.
+
+[Louis Merlin] 10:15:19
+This would enhance safety well.
+
+[Louis Merlin] 10:15:22
+Okay, retaining green paint.
+
+[Louis Merlin] 10:15:25
+Drinking sufficiency, so there's widening the current name.
+
+[Louis Merlin] 10:16:01
+Clearly marking this.
+
+[Louis Merlin] 10:16:07
+Yeah, there's a lot of repetitiveness.
+
+[Louis Merlin] 10:16:11
+Um, but they did kind of respond to my inquiry.
+
+[Louis Merlin] 10:16:18
+some of them liked it more.
+
+[Louis Merlin] 10:16:21
+the, uh…
+
+[Louis Merlin] 10:16:23
+interested but concerned, liked the idea.
+
+[Louis Merlin] 10:16:27
+And then the driver was a little bit skeptical.
+
+[Louis Merlin] 10:16:32
+Avoid negatively impacting local businesses and residents who rely on street parking.
+
+[Louis Merlin] 10:16:41
+I mean, it's… it's good.
+
+[Louis Merlin] 10:16:43
+that it generates a variety of perspectives, rather than a single
+
+[Louis Merlin] 10:16:47
+Single perspective.
+
+[Louis Merlin] 10:16:49
+Uh, it makes you think about, you know,
+
+[Louis Merlin] 10:16:52
+different people having… having different needs.
+
+[Louis Merlin] 10:16:59
+I did find it a little bit.
+
+[Louis Merlin] 10:17:02
+repetitive.
+
+[Louis Merlin] 10:17:07
+Should we do another one?
+
+[Duanya Lyu] 10:17:08
+Yeah, uh, maybe, uh…
+
+[Duanya Lyu] 10:17:12
+Do you want… do you have other questions to ask, or do you want to move to the next?
+
+[Duanya Lyu] 10:17:16
+function.
+
+[Louis Merlin] 10:17:22
+But yes, you're asking Matteo?
+
+[Duanya Lyu] 10:17:24
+Uh, uh, I'm asking, like, what do you feel? Do you have, like, other… yeah.
+
+[Louis Merlin] 10:17:26
+You're asking me.
+
+[Duanya Lyu] 10:17:29
+Do you have other questions to ask?
+
+[Louis Merlin] 10:17:29
+Okay, I play you asking him.
+
+[Louis Merlin] 10:17:32
+Um,
+
+[Duanya Lyu] 10:17:32
+Yeah.
+
+[Louis Merlin] 10:17:34
+Let's see, is there anything else I want to know about?
+
+[Louis Merlin] 10:17:40
+It might be a good idea to work on a different
+
+[Louis Merlin] 10:17:43
+environment which has more width and more, you know, so there's more possibilities.
+
+[Duanya Lyu] 10:17:50
+Uh…
+
+[Duanya Lyu] 10:17:52
+Before we do that, let's, like, because, like, you have, like, one hour limit.
+
+[Duanya Lyu] 10:17:58
+Uh, how about witness move to another, like, function?
+
+[Louis Merlin] 10:17:58
+Mythic movements.
+
+[Louis Merlin] 10:18:03
+Um, I'm just trying to think, like, do I have another question? You know,
+
+[Louis Merlin] 10:18:07
+They talked about green paint a lot, which, you know,
+
+[Louis Merlin] 10:18:10
+Well, I'm not, you know, I've read mixed things.
+
+[Louis Merlin] 10:18:15
+uh… you know.
+
+[Louis Merlin] 10:18:17
+Y…
+
+[Louis Merlin] 10:18:20
+What do you all think?
+
+[Louis Merlin] 10:18:25
+It's so important.
+
+[Louis Merlin] 10:18:33
+green penis at all.
+
+[Louis Merlin] 10:18:40
+I think whether…
+
+[Louis Merlin] 10:18:43
+cars to inspect.
+
+[Louis Merlin] 10:18:45
+by phones pass along to me.
+
+[Louis Merlin] 10:18:49
+the culture.
+
+[Louis Merlin] 10:18:51
+invisibility.
+
+[Duanya Lyu] 10:19:02
+That's interesting, because June also mentioned, like, June also mentioned, like,
+
+[Duanya Lyu] 10:19:08
+they all seems very…
+
+[Duanya Lyu] 10:19:10
+enthusiastic about separation of green paintings.
+
+[Louis Merlin] 10:19:17
+I said this setting and painted Bufferton.
+
+[Louis Merlin] 10:19:20
+Who's one
+
+[Louis Merlin] 10:19:33
+Yeah, so they're not responding.
+
+[Louis Merlin] 10:19:36
+They're not responding to mine.
+
+[Louis Merlin] 10:19:38
+they're kind of just repeating.
+
+[Louis Merlin] 10:19:41
+uh… repeating their points.
+
+[Duanya Lyu] 10:19:47
+Maybe just ask the first part of that question?
+
+[Duanya Lyu] 10:19:51
+Yeah. Like, why do you think green painting's important, and with, like, without the…
+
+[Duanya Lyu] 10:19:57
+Second half, yeah.
+
+[Louis Merlin] 10:19:59
+Doing you anything?
+
+[Louis Merlin] 10:20:02
+Leave things
+
+[Louis Merlin] 10:20:25
+Let's see, what else… what else might I do in this location?
+
+[Duanya Lyu] 10:20:38
+Just do not answer my question here.
+
+[Duanya Lyu] 10:20:42
+Oh, essentially, like, maintaining green payments.
+
+[Louis Merlin] 10:20:47
+I feel like I'm kind of getting the same…
+
+[Louis Merlin] 10:20:52
+It's gonna… like, so what… so let me think. Since it's such a… what else… what else might I think about here?
+
+[Louis Merlin] 10:20:58
+Um, other than it taking me out of a parking lane, what else might I consider here?
+
+[Louis Merlin] 10:21:03
+wouldn't… I probably wouldn't consider any speed bumps or strap… because they're already so narrow.
+
+[Duanya Lyu] 10:21:08
+Mm-hmm.
+
+[Louis Merlin] 10:21:13
+Let's see what else? Um…
+
+[Louis Merlin] 10:21:19
+a design feature.
+
+[Duanya Lyu] 10:21:35
+You want to, like, use the tool to actually
+
+[Duanya Lyu] 10:21:38
+like, render a design and see how it looks like. This tool can also do that.
+
+[Louis Merlin] 10:21:43
+Sure, let's do that.
+
+[Duanya Lyu] 10:21:44
+Yeah, let's keep this window open, because, like, we still want your, like, you select, like, most important function and give us some screenshots. Yeah, let's keep them.
+
+[Louis Merlin] 10:21:52
+So, this is a just design.
+
+[Duanya Lyu] 10:21:55
+Yes. If you click that, it will…
+
+[Duanya Lyu] 10:21:58
+give you some options, or…
+
+[Louis Merlin] 10:22:00
+So, I have some choices, okay.
+
+[Duanya Lyu] 10:22:01
+Yeah.
+
+[Louis Merlin] 10:22:11
+Location of a community park cars.
+
+[Louis Merlin] 10:22:14
+Next to moving cars.
+
+[Louis Merlin] 10:22:22
+I don't think you can run these bike lanes.
+
+[Louis Merlin] 10:22:29
+This is going to be in the same window, or in a new window?
+
+[Duanya Lyu] 10:22:31
+a new window, yeah.
+
+[Duanya Lyu] 10:22:34
+It will send your requirement in this picture to AI, and it will, like,
+
+[Duanya Lyu] 10:22:39
+generate a new…
+
+[Duanya Lyu] 10:22:41
+Like, street view.
+
+[Duanya Lyu] 10:22:47
+It might take… yeah, it might take…
+
+[Louis Merlin] 10:22:47
+Yeah, it's true.
+
+[Duanya Lyu] 10:22:51
+one or two minutes, yeah.
+
+[Louis Merlin] 10:22:52
+There is debris in the bike lane, which is, you know…
+
+[Louis Merlin] 10:22:55
+It looks like it's not just debris, it looks wet.
+
+[Louis Merlin] 10:22:59
+So that's, you know, that's a big… that's a big issue.
+
+[Louis Merlin] 10:23:03
+maintenance.
+
+[Louis Merlin] 10:23:05
+It's a big issue.
+
+[Duanya Lyu] 10:23:13
+So far, how do you feel about the systems?
+
+[Louis Merlin] 10:23:18
+I think it's a… it could be a really good educational tool.
+
+[Louis Merlin] 10:23:21
+like, for someone who doesn't know a lot about design,
+
+[Louis Merlin] 10:23:26
+Um, that's a good way to get them to, like,
+
+[Louis Merlin] 10:23:30
+Learn?
+
+[Louis Merlin] 10:23:33
+what the key issues are, and different perspectives.
+
+[Louis Merlin] 10:23:37
+Um,
+
+[Louis Merlin] 10:23:38
+the interactivity didn't seem to be great. It didn't seem like you could actually have a conversation.
+
+[Louis Merlin] 10:23:47
+seem like there was kind of, like, these fixed points of view.
+
+[Louis Merlin] 10:23:51
+That we're gonna be repeated.
+
+[Louis Merlin] 10:23:54
+Um…
+
+[Louis Merlin] 10:23:57
+I guess maybe for me,
+
+[Louis Merlin] 10:24:00
+It would have been helpful to have, like, an intro.
+
+[Louis Merlin] 10:24:04
+said, okay, this is… this is who your… this is…
+
+[Louis Merlin] 10:24:07
+you're going to be interacting with 5 characters.
+
+[Louis Merlin] 10:24:11
+who represent these points of view.
+
+[Louis Merlin] 10:24:16
+Because I didn't… I didn't know what to expect.
+
+[Duanya Lyu] 10:24:20
+Yeah, yeah.
+
+[Louis Merlin] 10:24:34
+Yeah, the dialogue feature doesn't seem to really work.
+
+[Louis Merlin] 10:24:38
+Oh, wait, do I need to download? No, that's separate.
+
+[Louis Merlin] 10:24:41
+No, this is the design here.
+
+[Duanya Lyu] 10:24:41
+Yeah, that's
+
+[Duanya Lyu] 10:24:43
+Oh, we have them, yeah.
+
+[Louis Merlin] 10:24:45
+Way on the corner, let me see.
+
+[Duanya Lyu] 10:24:47
+We're kind of like…
+
+[Duanya Lyu] 10:24:49
+Move, yeah.
+
+[Louis Merlin] 10:24:51
+Maybe it's because they zoomed in so much, didn't they?
+
+[Louis Merlin] 10:24:55
+Okay, wait a second.
+
+[Louis Merlin] 10:25:05
+That's not right.
+
+[Duanya Lyu] 10:25:08
+Yeah, yes, like, the whole lane is…
+
+[Duanya Lyu] 10:25:12
+green, yeah.
+
+[Louis Merlin] 10:25:14
+They made that.
+
+[Louis Merlin] 10:25:17
+They made that they made… they made the whole lane into a bike lane.
+
+[Duanya Lyu] 10:25:21
+Yeah, that's probably, like, the, like…
+
+[Duanya Lyu] 10:25:23
+Back to the first function, like, it's not recognizing the bike length, yeah.
+
+[Louis Merlin] 10:25:28
+Yeah, I didn't see the previous bike lane, which is, you know, it's very… it's quite narrow.
+
+[Duanya Lyu] 10:25:31
+Yeah.
+
+[Louis Merlin] 10:25:34
+And the lines are in there, the lines have interruptions. Yeah, so this is clearly…
+
+[Louis Merlin] 10:25:39
+Well, I was gonna say, not a good design. Not a good… no, I don't think it is a good… it's not a good design.
+
+[Louis Merlin] 10:25:44
+Um, I think this goes back to the point which I was making earlier, which is, you know,
+
+[Louis Merlin] 10:25:48
+This is a very constrained environment. There's not a lot.
+
+[Louis Merlin] 10:25:52
+You can do with the right-of-way that you have here.
+
+[Louis Merlin] 10:25:56
+But also, yes, it looks like the AI didn't see…
+
+[Louis Merlin] 10:26:00
+the actual bike lane.
+
+[Duanya Lyu] 10:26:04
+The brief thing you mentioned could also, like, be the reason, yeah.
+
+[Louis Merlin] 10:26:08
+Yeah, the debris… the line that's not continuous.
+
+[Louis Merlin] 10:26:15
+Um…
+
+[Louis Merlin] 10:26:16
+But yeah, this kind of highlights the point that I was making, which is…
+
+[Louis Merlin] 10:26:19
+So, the… the…
+
+[Louis Merlin] 10:26:21
+AI was saying, not all of them, but some of them were saying, oh, we need a predictive bike lane, we need a predict bike lane.
+
+[Louis Merlin] 10:26:27
+There's no space, you can't…
+
+[Louis Merlin] 10:26:29
+you can't fit a protected bike lane in here without taking something
+
+[Louis Merlin] 10:26:35
+away. It's already highly constrained. I mean,
+
+[Louis Merlin] 10:26:39
+I mean, I haven't actually physically measured it, but to me, that looks like…
+
+[Louis Merlin] 10:26:43
+a 4-foot bike lane, and maybe, like,
+
+[Louis Merlin] 10:26:47
+a 9-foot travel lane, so it's already…
+
+[Louis Merlin] 10:26:49
+Everything's already at the minute.
+
+[Louis Merlin] 10:26:52
+So, you know, you… so, you know, I guess I what I'm wondering is, is the AI…
+
+[Louis Merlin] 10:26:57
+trying to estimate widths.
+
+[Louis Merlin] 10:27:02
+Um, obviously, you know, I'm guessing at the width, but
+
+[Louis Merlin] 10:27:05
+You need to have some idea of how much space there is to make a proposal.
+
+[Louis Merlin] 10:27:10
+And you can't just propose something because you like it if there's not, if it's not.
+
+[Louis Merlin] 10:27:16
+Physically feasible.
+
+[Louis Merlin] 10:27:18
+Right, that's… that's a key part of the design.
+
+[Louis Merlin] 10:27:22
+process is to, uh…
+
+[Louis Merlin] 10:27:25
+be aware of the…
+
+[Louis Merlin] 10:27:28
+physical constraints.
+
+[Duanya Lyu] 10:27:30
+That's a very interesting question. I'm not sure exactly the…
+
+[Duanya Lyu] 10:27:36
+photo, like, recognition algorithm works, but previous interviews we did
+
+[Duanya Lyu] 10:27:41
+like, some location, they have, like,
+
+[Duanya Lyu] 10:27:44
+four-way street, or, like…
+
+[Duanya Lyu] 10:27:46
+Like, they have forestry and a bike lane, the two will recognize that bike lane and only paint that part green.
+
+[Duanya Lyu] 10:27:53
+So… it may be doing something, yeah.
+
+[Louis Merlin] 10:27:56
+Did I find…
+
+[Louis Merlin] 10:27:58
+I was going to say, maybe I should find…
+
+[Louis Merlin] 10:28:01
+a location around here.
+
+[Louis Merlin] 10:28:11
+Let me… let me see if I can, yeah.
+
+[Louis Merlin] 10:28:14
+I can't get this?
+
+[Louis Merlin] 10:28:16
+We get the… ERP.
+
+[Louis Merlin] 10:28:18
+So can I put this in?
+
+[Duanya Lyu] 10:28:20
+Yeah, if you right-click, you can, like…
+
+[Duanya Lyu] 10:28:23
+copy the LAT song.
+
+[Louis Merlin] 10:28:27
+Copy?
+
+[Duanya Lyu] 10:28:28
+Yeah, and another, like,
+
+[Duanya Lyu] 10:28:32
+Not-so-good design, this is you have to open a new tab, yeah, because…
+
+[Louis Merlin] 10:28:36
+of this?
+
+[Duanya Lyu] 10:28:37
+Yeah, you have to open a new…
+
+[Duanya Lyu] 10:28:40
+I love this.
+
+[Louis Merlin] 10:28:49
+I didn't… it didn't paste it.
+
+[Louis Merlin] 10:29:05
+Oops, that didn't help.
+
+[Louis Merlin] 10:29:09
+Is there an easy way to…
+
+[Louis Merlin] 10:29:12
+Copy this. Let's see.
+
+[Duanya Lyu] 10:29:16
+If you right-click that pin, maybe it will, like, yeah.
+
+[Duanya Lyu] 10:29:21
+Yeah, click that one, yeah.
+
+[Louis Merlin] 10:29:54
+Oh, it's got me on the… it's got me on the, uh…
+
+[Louis Merlin] 10:29:58
+on a driveway, instead of…
+
+[Duanya Lyu] 10:30:01
+You can navigate around a little bit, yeah.
+
+[Louis Merlin] 10:30:11
+Okay.
+
+[Louis Merlin] 10:30:13
+It's okay.
+
+[Louis Merlin] 10:30:17
+Can I take this?
+
+[Duanya Lyu] 10:30:18
+Yeah.
+
+[Louis Merlin] 10:30:23
+Do I need to zoom in more? Because there is a bike lane here.
+
+[Louis Merlin] 10:30:26
+But maybe…
+
+[Duanya Lyu] 10:30:26
+Uh-oh.
+
+[Duanya Lyu] 10:30:30
+Sidewalk pipe, or…?
+
+[Louis Merlin] 10:30:31
+There's the sidewalk and a bike lane, yeah.
+
+[Duanya Lyu] 10:30:33
+Oh…
+
+[Louis Merlin] 10:30:35
+But maybe it's not visible.
+
+[Louis Merlin] 10:30:38
+Does zooming in help?
+
+[Duanya Lyu] 10:30:40
+Um, I think it will take the one, like, the minute you click that button, yeah.
+
+[Louis Merlin] 10:30:47
+Whoa, where did he get 30 mile?
+
+[Duanya Lyu] 10:30:50
+He's also using some math data, though it's maybe not up-to-date.
+
+[Louis Merlin] 10:30:54
+Alright. That's just wrong.
+
+[Duanya Lyu] 10:30:57
+So it's, like, 50 or…
+
+[Louis Merlin] 10:31:01
+Yeah, it's 50.
+
+[Louis Merlin] 10:31:04
+Let me try again.
+
+[Louis Merlin] 10:31:17
+Yeah, so this lane is not very visible, but it's there.
+
+[Duanya Lyu] 10:31:22
+Boosts.
+
+[Duanya Lyu] 10:31:23
+Because it's, uh, like, uh…
+
+[Duanya Lyu] 10:31:27
+photo or picture-based, so, like, the starting point really, like, determines the outcome, yeah.
+
+[Duanya Lyu] 10:31:36
+Thanks, Stu.
+
+[Louis Merlin] 10:31:37
+Main Street. Why are they calling Main Street now?
+
+[Duanya Lyu] 10:31:39
+This knob mastery? No.
+
+[Louis Merlin] 10:31:40
+It's called Yamato.
+
+[Louis Merlin] 10:31:43
+Um, widely nope, dedicated bike clean traffic speed… traffic speed is not… traffic speed is not moderate and manageable.
+
+[Louis Merlin] 10:31:51
+That's not accurate.
+
+[Louis Merlin] 10:31:54
+It's not modern, it's a high-speed road.
+
+[Duanya Lyu] 10:31:57
+Yeah, I thought median, so it's, you know…
+
+[Louis Merlin] 10:32:01
+Um, okay, and do some confidence. Wide… wide lanes?
+
+[Louis Merlin] 10:32:05
+No dedicated bike lane. There is a dedicated bike lane.
+
+[Louis Merlin] 10:32:09
+I'm pretty sure there's a dedicated bike lane.
+
+[Louis Merlin] 10:32:13
+But it is hard to see.
+
+[Louis Merlin] 10:32:22
+Yeah, I don't know where they got the speed, but it's not, um…
+
+[Duanya Lyu] 10:32:26
+And the mainstream is not correct.
+
+[Duanya Lyu] 10:32:29
+Yeah.
+
+[Louis Merlin] 10:32:30
+Not mainstream. The speed's been… I believe it's 50 on this street.
+
+[Duanya Lyu] 10:32:36
+Do you want to try to generate a, like, a design?
+
+[Louis Merlin] 10:32:42
+Yeah.
+
+[Louis Merlin] 10:32:49
+With in-depth analysis,
+
+[Duanya Lyu] 10:32:51
+Uh, I think we can skip that one, yeah, just…
+
+[Louis Merlin] 10:32:53
+The Justice Mayor?
+
+[Duanya Lyu] 10:32:54
+Yeah.
+
+[Louis Merlin] 10:32:56
+make the bike lane wider, we can do that. There's plenty of space.
+
+[Louis Merlin] 10:33:02
+Uh, standard buffer. Guys do standard buffer.
+
+[Louis Merlin] 10:33:05
+Next to one of the items. There are no park cars.
+
+[Louis Merlin] 10:33:17
+You know, what striking me is that, you know, you really have to have good images.
+
+[Louis Merlin] 10:33:23
+And, uh…
+
+[Louis Merlin] 10:33:25
+When a street is this wide, it's hard to see.
+
+[Louis Merlin] 10:33:29
+the full width of the street.
+
+[Louis Merlin] 10:33:31
+Maybe I should have…
+
+[Louis Merlin] 10:33:33
+navigated more to the middle of the street.
+
+[Duanya Lyu] 10:33:40
+It really works better, like, when we have, like, a model street or, like, example…
+
+[Duanya Lyu] 10:33:47
+section, so it can, like, recognize where is the…
+
+[Duanya Lyu] 10:33:51
+Bikeline, yeah.
+
+[Louis Merlin] 10:33:57
+Yeah, I mean, if I didn't know there was a bike lane here, I might not.
+
+[Louis Merlin] 10:34:01
+I've said I'm not even sure. I think there is.
+
+[Louis Merlin] 10:34:07
+Um, I know there's bike lanes on parts of this street. I don't know that there's, you know, a bike lane on this…
+
+[Louis Merlin] 10:34:12
+lot specifically.
+
+[Louis Merlin] 10:34:17
+But yeah, it's not… I would not characterize this as, uh, moderate speed.
+
+[Louis Merlin] 10:34:23
+Hi, Speaker.
+
+[Louis Merlin] 10:34:26
+Does it… did it generate it and it's off the screen?
+
+[Duanya Lyu] 10:34:30
+I'm so sorry.
+
+[Duanya Lyu] 10:34:34
+Menstruate bad things are good to catch, because I remember seeing this.
+
+[Duanya Lyu] 10:34:40
+Or, uh, like, another interview. Maybe it's, like, default fit, yeah.
+
+[Louis Merlin] 10:34:43
+Oh, yeah, here we go.
+
+[Duanya Lyu] 10:34:46
+Oh, it's much better, yeah.
+
+[Louis Merlin] 10:34:51
+Okay, so once again,
+
+[Louis Merlin] 10:34:54
+Um, it took Elaine.
+
+[Louis Merlin] 10:34:57
+This was a… this was a traffic lane.
+
+[Louis Merlin] 10:35:00
+Um…
+
+[Louis Merlin] 10:35:08
+But it is much wider bike lane now.
+
+[Louis Merlin] 10:35:16
+Hmm. Yeah.
+
+[Louis Merlin] 10:35:17
+turning movements are a big problem when you have these lanes, these bike lanes.
+
+[Duanya Lyu] 10:35:44
+Like, this gives you a, like, a fair evaluation of the improved scenario, and you can also
+
+[Duanya Lyu] 10:35:51
+comparison, and, like,
+
+[Duanya Lyu] 10:35:53
+like, comparative analysis, that will, like,
+
+[Duanya Lyu] 10:35:56
+Ask them.
+
+[Louis Merlin] 10:35:56
+Well, the thing that's not…
+
+[Louis Merlin] 10:36:00
+I guess it didn't realize it took a lane. I mean, that's…
+
+[Louis Merlin] 10:36:05
+That's pretty controversial.
+
+[Duanya Lyu] 10:36:08
+Yeah, yeah, yeah, like, took it away.
+
+[Louis Merlin] 10:36:08
+So, you know, you have to list that among the cons as…
+
+[Duanya Lyu] 10:36:11
+Oh, yeah.
+
+[Louis Merlin] 10:36:11
+We're, you know, reduced…
+
+[Louis Merlin] 10:36:15
+Uh, lanes mean reduced capacity for vehicles, right? So…
+
+[Louis Merlin] 10:36:20
+That's a pretty important con that needs to be…
+
+[Duanya Lyu] 10:36:23
+That's a good point, and it's virus is not mentioning, yeah.
+
+[Louis Merlin] 10:36:50
+Can I move this? Okay, now it's complete.
+
+[Louis Merlin] 10:37:02
+It doesn't seem like it's responding to the latest scenario.
+
+[Louis Merlin] 10:37:06
+Because it says, a simple painted bike language suites for my needs, although I understand.
+
+[Louis Merlin] 10:37:11
+But that this is a simple painted bike lane.
+
+[Duanya Lyu] 10:37:16
+In other words to do this is, like, if you…
+
+[Duanya Lyu] 10:37:20
+clicked comparative analysis, that button, if you click
+
+[Duanya Lyu] 10:37:24
+The one we have, like, this one, and the one existing condition.
+
+[Duanya Lyu] 10:37:29
+It will, like, compare the…
+
+[Duanya Lyu] 10:37:32
+to the…
+
+[Louis Merlin] 10:37:32
+Wait, so do I need to…
+
+[Louis Merlin] 10:37:34
+click this.
+
+[Duanya Lyu] 10:37:35
+And the… just, uh, yes.
+
+[Louis Merlin] 10:37:39
+oops, I think I didn't do it right.
+
+[Louis Merlin] 10:37:43
+Selected.
+
+[Duanya Lyu] 10:37:47
+If you click that again…
+
+[Duanya Lyu] 10:37:49
+And in the bottom left, there's…
+
+[Duanya Lyu] 10:37:53
+Yeah.
+
+[Louis Merlin] 10:38:28
+I mean, these are all… these are all, uh, uh, reasonable responses, um…
+
+[Louis Merlin] 10:38:35
+But they're kind of generic.
+
+[Duanya Lyu] 10:38:38
+Yeah, yeah.
+
+[Louis Merlin] 10:38:38
+you know, it doesn't feel like it's…
+
+[Louis Merlin] 10:38:40
+Doesn't feel like the commentary is specific to this street.
+
+[Louis Merlin] 10:38:47
+it was like, we'd get the same comments no matter where we were.
+
+[Duanya Lyu] 10:38:51
+Yeah, that's going, yeah.
+
+[Duanya Lyu] 10:38:57
+She's also, like, what people commonly, like,
+
+[Duanya Lyu] 10:39:03
+This slide about AI.
+
+[Louis Merlin] 10:39:07
+I mean, you know…
+
+[Louis Merlin] 10:39:10
+This street and the last street are so radically different.
+
+[Louis Merlin] 10:39:13
+But the comments are kind of almost the same.
+
+[Louis Merlin] 10:39:17
+So it feels like context is not being fully folded in here.
+
+[Duanya Lyu] 10:39:22
+This is where we fly, yeah.
+
+[Louis Merlin] 10:39:25
+It's interesting. It seems like it needs…
+
+[Louis Merlin] 10:39:28
+a little more work.
+
+[Duanya Lyu] 10:39:31
+Yeah, like, it's all about, like, prompt design, like, works come to AI, yes.
+
+[Louis Merlin] 10:39:36
+But it's very interesting, I think that you get…
+
+[Louis Merlin] 10:39:44
+quick feedback and a variety of perspectives.
+
+[Louis Merlin] 10:39:50
+It says, yeah, I mean…
+
+[Duanya Lyu] 10:39:52
+Yeah, if you click that one, like, it kind of…
+
+[Duanya Lyu] 10:39:55
+As mentioned, Lice.
+
+[Duanya Lyu] 10:39:58
+point more towards professionals, so if you click the design scenario comparison…
+
+[Duanya Lyu] 10:40:02
+It will give you a more report-like thing.
+
+[Louis Merlin] 10:40:07
+What?
+
+[Duanya Lyu] 10:40:07
+If you click that, another tab, yeah.
+
+[Louis Merlin] 10:40:08
+This one?
+
+[Duanya Lyu] 10:40:10
+It will give you a more report-like comparison, yeah.
+
+[Louis Merlin] 10:40:12
+Oh, okay, more of a newcomer. So yes, all that I said, listen.
+
+[Duanya Lyu] 10:40:17
+Same information, yeah.
+
+[Louis Merlin] 10:40:18
+are a bit happier.
+
+[Louis Merlin] 10:40:32
+Can I… can I talk to specific people?
+
+[Louis Merlin] 10:40:36
+Driver, did you see that…
+
+[Louis Merlin] 10:40:38
+The number of travel lanes.
+
+[Louis Merlin] 10:40:42
+Went from Zoologger 3?
+
+[Louis Merlin] 10:40:45
+meeting with Canadians with bad teams.
+
+[Duanya Lyu] 10:40:55
+But when you ask this way the tourist designed to, like,
+
+[Duanya Lyu] 10:40:59
+like, move the driver to the first response, but I'm not sure where it's worked that way, yeah.
+
+[Duanya Lyu] 10:41:09
+Designed selector, most of the stuff.
+
+[Duanya Lyu] 10:41:16
+Oh.
+
+[Louis Merlin] 10:41:18
+The reduction from 4 to 3 lanes may impact traffic flow, particularly during peak hours.
+
+[Louis Merlin] 10:41:23
+The language appears adequate production could lead to congestion.
+
+[Louis Merlin] 10:41:26
+Visibility remains good. Care must be taken with lane changes and turns. The green bike lane is clear, aiding…
+
+[Louis Merlin] 10:41:32
+Identifying cyclists or useful drivers should be cautious at potential.
+
+[Louis Merlin] 10:41:37
+Conflict points.
+
+[Louis Merlin] 10:41:40
+Huh. That's a pretty good answer.
+
+[Duanya Lyu] 10:41:42
+Oh.
+
+[Louis Merlin] 10:41:44
+But I had to prompt it.
+
+[Duanya Lyu] 10:41:49
+Yeah, and it's also, like, nations.
+
+[Duanya Lyu] 10:41:52
+Uh, it's addressing cyclists concerns.
+
+[Duanya Lyu] 10:42:06
+Let's leave this window open, and I think that's all the functions we want to test on this system.
+
+[Duanya Lyu] 10:42:10
+And if you go back to the PDF, there's a…
+
+[Duanya Lyu] 10:42:14
+short survey asking your, like…
+
+[Duanya Lyu] 10:42:17
+Raphini is asking your advice.
+
+[Louis Merlin] 10:42:19
+This one here?
+
+[Duanya Lyu] 10:42:21
+Uh…
+
+[Duanya Lyu] 10:42:23
+Sorry, what? I'm just…
+
+[Louis Merlin] 10:42:24
+For this client.
+
+[Louis Merlin] 10:42:28
+This… this one?
+
+[Duanya Lyu] 10:42:30
+No, like, I think that's all we have to do with this system.
+
+[Duanya Lyu] 10:42:34
+Yeah, that's all the functions we want to test.
+
+[Duanya Lyu] 10:42:37
+And if you click the…
+
+[Duanya Lyu] 10:42:40
+top right, there's a download project button.
+
+[Duanya Lyu] 10:42:44
+So, click that one.
+
+[Duanya Lyu] 10:42:46
+And it will download.
+
+[Louis Merlin] 10:42:48
+What? Oh, you mean… oh, sorry, I, um…
+
+[Louis Merlin] 10:42:50
+I switched what I'm looking at.
+
+[Louis Merlin] 10:42:53
+to the PDF.
+
+[Duanya Lyu] 10:42:53
+Oh.
+
+[Duanya Lyu] 10:42:55
+Oh.
+
+[Louis Merlin] 10:42:58
+Let me, uh…
+
+[Louis Merlin] 10:43:02
+You mentioned a survey, so I thought,
+
+[Louis Merlin] 10:43:04
+Is this… do you see this cert… do you see the PDF now?
+
+[Duanya Lyu] 10:43:07
+Yeah, yeah, yeah, this is the survey I was talking about.
+
+[Louis Merlin] 10:43:09
+Is this the survey?
+
+[Duanya Lyu] 10:43:10
+Yes.
+
+[Louis Merlin] 10:43:18
+Just some good Irish was intuitive. Somewhat.
+
+[Duanya Lyu] 10:43:22
+Um, so clearly she'll pop up.
+
+[Louis Merlin] 10:43:25
+Yeah, I got the survey.
+
+[Duanya Lyu] 10:43:26
+Okay.
+
+[Louis Merlin] 10:43:57
+generate evaluation function.
+
+[Duanya Lyu] 10:44:01
+That is the first scoring window you saw.
+
+[Louis Merlin] 10:44:40
+Okay. I did the survey.
+
+[Louis Merlin] 10:44:43
+Do you want me to download these?
+
+[Duanya Lyu] 10:44:46
+Yeah, let's go back to the tour and download that, because, like, it will have the…
+
+[Duanya Lyu] 10:44:52
+how it interacts with the tool, it will, like, have those informations.
+
+[Louis Merlin] 10:44:55
+Which one should I download, both?
+
+[Duanya Lyu] 10:44:58
+Uh… yeah, let's download those, yeah.
+
+[Louis Merlin] 10:45:04
+Now that's in here.
+
+[Louis Merlin] 10:45:08
+the, uh…
+
+[Louis Merlin] 10:45:09
+Download Project.
+
+[Duanya Lyu] 10:45:24
+You could then… you could, like…
+
+[Duanya Lyu] 10:45:27
+takes, like, a few screenshots of the func… like, of the… how you interact with this.
+
+[Duanya Lyu] 10:45:32
+where you find most interesting, and send it back to us after the interview.
+
+[Duanya Lyu] 10:45:37
+Yeah, that's what they correct, yeah.
+
+[Duanya Lyu] 10:45:39
+We can do it after this interview.
+
+[Louis Merlin] 10:45:43
+Sorry, what are you asking?
+
+[Duanya Lyu] 10:45:45
+Just a few screenshots of this tool, like, the part where you find it interesting or useful.
+
+[Louis Merlin] 10:45:54
+Okay.
+
+[Louis Merlin] 10:46:00
+So it downloaded, um,
+
+[Louis Merlin] 10:46:02
+JSON files, which, you know,
+
+[Louis Merlin] 10:46:05
+I don't typically use those files, so I don't know if you want me to email them to you, or…
+
+[Duanya Lyu] 10:46:10
+Yeah, you can email that to us and, like, uh, we will analyze those.
+
+[Louis Merlin] 10:46:18
+Okay.
+
+[Louis Merlin] 10:46:22
+Yeah, very interesting.
+
+[Duanya Lyu] 10:46:26
+We do have, um, yeah, we're…
+
+[Louis Merlin] 10:46:26
+again, like, for me, the main use I see right now…
+
+[Louis Merlin] 10:46:31
+is for teaching.
+
+[Louis Merlin] 10:46:33
+I probably wouldn't use it.
+
+[Louis Merlin] 10:46:35
+to help me with design in its current state.
+
+[Louis Merlin] 10:46:38
+Because it's not… it's not getting enough of the data accurately.
+
+[Duanya Lyu] 10:46:44
+How do you picture, like, integrate it into teaching?
+
+[Louis Merlin] 10:46:47
+Well, it's particularly good for someone who's new.
+
+[Louis Merlin] 10:46:51
+to street design issues, it's going to give them
+
+[Louis Merlin] 10:46:55
+A very quick way to think about
+
+[Louis Merlin] 10:46:57
+different perspectives.
+
+[Louis Merlin] 10:46:59
+And, um…
+
+[Louis Merlin] 10:47:03
+Yeah.
+
+[Louis Merlin] 10:47:06
+Um…
+
+[Duanya Lyu] 10:47:09
+And, um, how do you see, like, using…
+
+[Duanya Lyu] 10:47:12
+Like, just GPP, like, in, like…
+
+[Duanya Lyu] 10:47:16
+teaching do… do allow students to use GPT while you are teaching them?
+
+[Louis Merlin] 10:47:20
+It's a… it's… I don't have a simple answer. My answer is, it depends. It depends upon the context.
+
+[Louis Merlin] 10:47:29
+you know, sometimes I do, sometimes I don't. Sometimes…
+
+[Louis Merlin] 10:47:34
+I require students to tell me
+
+[Louis Merlin] 10:47:36
+to… I allow them to use AI, but…
+
+[Louis Merlin] 10:47:39
+generative AI, but I require them to tell me how they used it.
+
+[Louis Merlin] 10:47:43
+Um, so it really depends.
+
+[Louis Merlin] 10:47:48
+on the assignment.
+
+[Duanya Lyu] 10:47:51
+Yeah, I'm asking you this because, hmm…
+
+[Duanya Lyu] 10:47:53
+Uh, that if you see the PDF, there's a second part of this interview. It is, like,
+
+[Duanya Lyu] 10:47:59
+trying to replicate the whole process in, like, GPT.
+
+[Duanya Lyu] 10:48:04
+Like, what… yeah, it's like, give the GPT the similar prompt to see how GPT is doing this task, yeah.
+
+[Louis Merlin] 10:48:11
+I see. Yeah, mostly I use, um, I use Gemini, and I use, um,
+
+[Louis Merlin] 10:48:17
+what's it called? What's the Microsoft one called?
+
+[Duanya Lyu] 10:48:20
+Copilot.
+
+[Louis Merlin] 10:48:21
+co-pilot, yeah, because that's what the university…
+
+[Louis Merlin] 10:48:25
+Supports? Yeah.
+
+[Louis Merlin] 10:48:27
+So I actually don't use ChatGPT that much.
+
+[Duanya Lyu] 10:48:32
+I don't know, do we have time to finish all of that, but…
+
+[Duanya Lyu] 10:48:36
+Uh, if you can, like, can you open a GPT, uh…
+
+[Duanya Lyu] 10:48:42
+I open the GPT webpage.
+
+[Louis Merlin] 10:48:44
+Um,
+
+[Duanya Lyu] 10:48:53
+You don't need to have an account, we will share a, like, one for this.
+
+[Duanya Lyu] 10:49:02
+Okay, uh, I'll send you, uh…
+
+[Duanya Lyu] 10:49:06
+that, like, the interviewer account we have been using.
+
+[Duanya Lyu] 10:49:11
+You can use that to plug in.
+
+[Louis Merlin] 10:49:15
+But I'm a little, um… I'm kind of running low on time.
+
+[Duanya Lyu] 10:49:19
+Yeah, um… I was trying to, like, give you a very, like, crash, like…
+
+[Duanya Lyu] 10:49:25
+fresh preview of what it's doing, yeah.
+
+[Louis Merlin] 10:49:29
+Maybe we should schedule the second half
+
+[Duanya Lyu] 10:49:32
+Oh, that would have been nice, yeah.
+
+[Duanya Lyu] 10:49:35
+Yeah, yeah, yeah, that would be nice. Yeah, I was… because, like, like, they asked us to, like, to finish all this, so I'm a little bit anxious about, like…
+
+[Louis Merlin] 10:49:35
+another time.
+
+[Duanya Lyu] 10:49:44
+Yeah.
+
+[Louis Merlin] 10:49:45
+Yeah, I don't think there's any way we could do the same thing again.
+
+[Duanya Lyu] 10:49:48
+Yeah, yeah, yeah, that's… yeah, that would be… yeah.
+
+[Louis Merlin] 10:49:50
+How long did it take with June? Did it take less time with June than with me?
+
+[Duanya Lyu] 10:49:55
+I think it…
+
+[Duanya Lyu] 10:49:57
+Oh, yeah, but also, like, we extend our meeting a little with June, yeah.
+
+[Louis Merlin] 10:50:02
+Okay, yeah, it seems like this is going to be…
+
+[Louis Merlin] 10:50:05
+If you want to do more than one site,
+
+[Louis Merlin] 10:50:08
+And someone's learning the tool for the first time.
+
+[Louis Merlin] 10:50:11
+I think you're going to need more than an hour.
+
+[Duanya Lyu] 10:50:13
+Yeah, yeah.
+
+[Duanya Lyu] 10:50:15
+But, like, we don't really… we don't want to, like,
+
+[Duanya Lyu] 10:50:21
+have a two-hour meeting, or one and a half-worth interviews, they don't really like that long meeting, yeah.
+
+[Louis Merlin] 10:50:27
+Yeah, that's true, but…
+
+[Louis Merlin] 10:50:30
+Yeah, I don't know.
+
+[Duanya Lyu] 10:50:32
+Yeah, it would be great if you, like, have another… like, we can have another session, yeah.
+
+[Louis Merlin] 10:50:36
+Yeah, let's have another session.
+
+[Louis Merlin] 10:50:38
+I need to prepare for this next meeting.
+
+[Duanya Lyu] 10:50:40
+Okay, okay.
+
+[Louis Merlin] 10:50:43
+Um, but I can email you the, uh…
+
+[Louis Merlin] 10:50:46
+the files.
+
+[Louis Merlin] 10:50:50
+Yeah, do you… is it… is it important for the research that ChatGPT be used as the, uh…
+
+[Louis Merlin] 10:50:57
+as the alternative? Could it be other AI?
+
+[Duanya Lyu] 10:51:00
+Um, I think it has to be GPT, as I mentioned, like, in the beginning, the…
+
+[Duanya Lyu] 10:51:05
+research is more on, like, how humans interact with AI, so it tries to see
+
+[Duanya Lyu] 10:51:11
+like, a more… like a…
+
+[Duanya Lyu] 10:51:14
+a more well-organized way, and a more, like, text-based or GPT way.
+
+[Duanya Lyu] 10:51:20
+So it tries to see, are there a difference between the two way of…
+
+[Duanya Lyu] 10:51:25
+Incorrecting, yeah.
+
+[Louis Merlin] 10:51:26
+Okay. All right.
+
+[Louis Merlin] 10:51:28
+Okay, well, yeah, let's schedule another meeting.
+
+[Duanya Lyu] 10:51:31
+Thank you.
+
+[Louis Merlin] 10:51:32
+Okay.
+
+[Louis Merlin] 10:51:35
+I'll talk to you later.
+
+[Duanya Lyu] 10:51:36
+Not too late, bye.
+
+[Louis Merlin] 10:51:40
+Boy, I gotta go.
+
+[Duanya Lyu] 10:51:41
+Thank you for applying.
+
+[Duanya Lyu] 10:51:49
+Stop meeting
+

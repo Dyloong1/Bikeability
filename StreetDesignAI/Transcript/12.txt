@@ -1,0 +1,1065 @@
+[Mateo Nader] 15:01:53
+Questions about, like, the… Website, or what we're doing. I can try to… Give you some answers, but I'm not, like, directly working on the website, I'm just helping them with the interviews, but… Yeah.
+
+[John Lin] 15:02:07
+So I guess, uh, what is the scope of the study?
+
+[John Lin] 15:02:09
+Like, what do you… what do you think the application purpose could be?
+
+[Mateo Nader] 15:02:14
+I mean, that's what we're trying to gauge from.
+
+[Mateo Nader] 15:02:19
+Professionals, I guess, like. How well this can be implemented.
+
+[Mateo Nader] 15:02:25
+And so, like, actual street design, like, in what part of the design process, whether it's just for, like.
+
+[Mateo Nader] 15:02:31
+Coming up with initial ideas, or if we can, like.
+
+[Mateo Nader] 15:02:35
+finalized designs from this. Also, like, one point I liked, uh, this guy we interviewed the other day.
+
+[Mateo Nader] 15:02:42
+He brought up that it could also be used by, like, citizens, like, non-professionals.
+
+[Mateo Nader] 15:02:49
+Who, like, they see an issue. In their community, and they want to, like.
+
+[Mateo Nader] 15:02:54
+Come up with some ideas on how to fix it before, like.
+
+[Mateo Nader] 15:02:57
+reaching out to the city, or… Like, a private company, I guess.
+
+[Mateo Nader] 15:03:03
+So, go out and fix… whatever street design issues there are.
+
+[John Lin] 15:03:07
+Yeah, makes sense. Okay, but that's… that's all the questions I got.
+
+[Mateo Nader] 15:03:13
+Alright. In that case… Yeah, since you already sent us most images.
+
+[Mateo Nader] 15:03:20
+We still wanna just, like, go over the AI tool with you in the interview.
+
+[John Lin] 15:03:25
+Sure.
+
+[Mateo Nader] 15:03:25
+And just, like, if you want to go over… your thought process, again, when you were using it? Anything that stood out to you, or any, like.
+
+[Mateo Nader] 15:03:34
+critiques you'd have… Anything likes got fixed, whether it's with, like, docs or responses or the UI, like, anything helps.
+
+[John Lin] 15:03:43
+Yeah, so… I guess when I popped in there, popped in the coordinates.
+
+[John Lin] 15:03:47
+Um, I think that was pretty intuitive. Um, it gave you, like, here's the image, here's what's wrong with it, or here's what.
+
+[John Lin] 15:03:54
+these various users would probably think. About, like, you know, their score.
+
+[Mateo Nader] 15:03:59
+Mm-hmm.
+
+[John Lin] 15:04:00
+Um, and I thought, okay, so that's some pretty good stuff, and now that I have all these options.
+
+[John Lin] 15:04:06
+Um, to potentially improve it. I was playing around pretty much with, uh.
+
+[John Lin] 15:04:11
+Each different option, uh, seeing… What the design would be.
+
+[John Lin] 15:04:15
+Um, at least in terms of the UI interface, I thought it was mostly pretty good. I like the, um… I guess being able to move everything around. The only problem I had was sometimes… Um, I couldn't… I guess, go wider, because sometimes.
+
+[John Lin] 15:04:29
+Um, at least if I have a lot of different windows, I couldn't, like, maneuver. It took… Some processing to try to get to the point where I could maneuver, but then I was able to get it.
+
+[John Lin] 15:04:40
+Um, so I guess… UI functionality could potentially be an issue, but I do like the comparison tool.
+
+[John Lin] 15:04:48
+And, um, I guess the in-depth analysis, I thought those were really good.
+
+[John Lin] 15:04:52
+Um, I guess the only other thing I could say, I know specifically with bikes.
+
+[John Lin] 15:04:57
+Um, but… Um… I guess I found it interesting, because sometimes you had, like, the bike lane, like, right next to.
+
+[John Lin] 15:05:05
+Uh, the parking, or like, because there was a vehicle already there, the AI wasn't going to, uh… I guess try to, um… move the vehicle, or things like that.
+
+[John Lin] 15:05:17
+Um, so I wasn't sure how some of that would work, like, with the buffers and stuff like that, and with regard to parking.
+
+[John Lin] 15:05:21
+But at least from a rudimentary perspective, like, I think it's pretty useful.
+
+[John Lin] 15:05:27
+Yeah.
+
+[Mateo Nader] 15:05:29
+Yeah, um… what do you think about, like, the… were you able, with the in-depth analysis, like.
+
+[Mateo Nader] 15:05:36
+Test out the, like, Q&A function, like, ask the… Persona's the questions.
+
+[John Lin] 15:05:42
+Oh, I didn't even realize they had that functionality. I did look into the… analysis themselves, because it gave these little blurbs, but I didn't realize that, um… you could ask at questions, so maybe that's an oversight on my part.
+
+[Mateo Nader] 15:05:48
+Mm-hmm.
+
+[Mateo Nader] 15:05:57
+Yeah, I mean, we could go over, like, if you wanna… Go over it again quickly.
+
+[Mateo Nader] 15:06:02
+Try it out. If you could share your screen while you do that, that'd be helpful, too.
+
+[John Lin] 15:06:02
+Sure.
+
+[John Lin] 15:06:08
+Yeah, give me one moment, I gotta pull up… Pull it up…
+
+[Mateo Nader] 15:06:14
+Yeah, but do you understand also, like, the… differences between the personas?
+
+[Mateo Nader] 15:06:22
+I guess, like, the… Yeah.
+
+[John Lin] 15:06:22
+I believe I did. Each of them represent different road users.
+
+[John Lin] 15:06:28
+Um, and their perspectives, you know, some of them are quite confident, some of them are.
+
+[John Lin] 15:06:33
+Uh, definitely not gonna use it. Definitely don't want to ride because they don't think it's safe.
+
+[Mateo Nader] 15:06:36
+Yeah. Yeah, just for a little background, we got the… Those personas were developed in another study in Portland.
+
+[John Lin] 15:06:46
+Hmm.
+
+[Mateo Nader] 15:06:47
+And… yeah, once more, yeah, let's focused on, like, different type of… bike riders.
+
+[John Lin] 15:06:53
+Okay, give me one second, I'm… trying to get this.
+
+[Mateo Nader] 15:06:59
+Mm-hmm.
+
+[John Lin] 15:06:59
+Open. Can you see my screen? Okay.
+
+[Mateo Nader] 15:07:02
+Uh, yeah.
+
+[John Lin] 15:07:08
+So yeah, the Generate Evaluation, I guess that'll take a sec.
+
+[John Lin] 15:07:13
+I guess it takes some time to process, doesn't it?
+
+[Mateo Nader] 15:07:14
+Oh, sorry, what's that? Yeah, especially when it's, like, uh… Creating a new image.
+
+[John Lin] 15:07:23
+Mm-hmm. Yeah, I… Sure.
+
+[Mateo Nader] 15:07:23
+Yeah. Also, I forgot to ask this before, but I wanted to ask, like, what your… Backgrounds, and I like what work you do here at UF.
+
+[John Lin] 15:07:32
+Well, I used to do engineering, um… Or at least, like, you know, I got my master's here, got my bachelor's here in civil engineering.
+
+[John Lin] 15:07:40
+And then I worked in the industry for about, uh, one… a little more than one and a half years.
+
+[John Lin] 15:07:45
+And then, uh, came back to UF to do law school, so something, something different.
+
+[Mateo Nader] 15:07:51
+Oh, nice.
+
+[John Lin] 15:07:52
+Um, yeah, so maybe, maybe that'll add some… Uh…
+
+[Mateo Nader] 15:07:56
+What type of, like… Paul, are you trying against, like, policy, or…
+
+[John Lin] 15:08:02
+You know, I think I'm still trying to figure it out right now. There's a lot of different options before me, um, so we're still trying to figure out. We only got… this is the first semester, so… Oh, I see the question thing, so I guess we can…
+
+[Mateo Nader] 15:08:05
+Yeah.
+
+[Mateo Nader] 15:08:11
+Yeah. Mm-hmm.
+
+[John Lin] 15:08:14
+We can try that. Ah, okay, here we go.
+
+[John Lin] 15:08:20
+Okay, so…
+
+[Mateo Nader] 15:08:22
+Yeah, the biggest thing we've seen people struggle with with regards to the UI is, like, the zoom in and out.
+
+[John Lin] 15:08:28
+Mmm.
+
+[Mateo Nader] 15:08:28
+Because, like, they'll try to use just, like, the… Um, like, the browser, zoom in and zoom out.
+
+[Mateo Nader] 15:08:35
+But then it, like, kind of conflicts with the websites.
+
+[Mateo Nader] 15:08:39
+Zoom function.
+
+[John Lin] 15:08:50
+Yeah.
+
+[John Lin] 15:09:07
+See if… see what happens here. So I guess this will give all 4 people's perspectives.
+
+[John Lin] 15:09:15
+Okay.
+
+[Mateo Nader] 15:09:15
+I think the driver as well.
+
+[John Lin] 15:09:30
+I see, okay, interesting. Yeah, I saw some of the options they had here.
+
+[John Lin] 15:09:36
+And I felt maybe… maybe they could be expanded, but I also understand it's, like, the UI, or, like, the AI's capability up to this point.
+
+[Mateo Nader] 15:09:37
+Mm-hmm.
+
+[John Lin] 15:09:45
+You know, like barriers or elevated pathways, or other things like that.
+
+[Mateo Nader] 15:09:45
+Yeah.
+
+[John Lin] 15:09:49
+Just as, like, hypothetical scenarios.
+
+[Mateo Nader] 15:09:52
+Yeah.
+
+[John Lin] 15:09:54
+So, uh, well, I also didn't really test the enter design requirement, uh, tool functionality.
+
+[John Lin] 15:10:01
+So if I put, like, concrete barrier, it'll… It'll generate it, or…
+
+[Mateo Nader] 15:10:07
+Maybe. We haven't had, like… People have tried just giving it, like.
+
+[Mateo Nader] 15:10:12
+More contextual information, but… Nothing like that, where, like.
+
+[Mateo Nader] 15:10:18
+Trying to… Give it a different design.
+
+[Mateo Nader] 15:10:23
+to implement. So this would be good to see, to try out.
+
+[John Lin] 15:10:26
+Okay.
+
+[John Lin] 15:10:39
+See if it works. And I guess it'll take some time to generate.
+
+[Mateo Nader] 15:10:42
+Yeah. Yeah.
+
+[John Lin] 15:10:43
+But yeah, I generally thought it was useful, you know, seeing the… cyclist and the driver perspectives, pros and cons, makes it very simple.
+
+[John Lin] 15:10:52
+For anybody to use. Yeah.
+
+[Mateo Nader] 15:10:53
+Yeah. And what do you think about, like, the suggestions from each of the personas, like.
+
+[Mateo Nader] 15:11:01
+They seem accurate, and also… Would you say, like, they seem, like, human-like, or… Appropriate to what someone would say.
+
+[John Lin] 15:11:11
+I think so. I think playing around with the functionality here, I was able to get, like, stronger relationship, concern, enthusiasm, confident, you know, pretty up, but no way, no how is… quite a bit more difficult trying to get to.
+
+[John Lin] 15:11:24
+A point where you're safer. Um, but that's also true in real life as well.
+
+[Mateo Nader] 15:11:24
+Yeah.
+
+[John Lin] 15:11:29
+Um, because, you know, sometimes you can't try to please everybody, you can only.
+
+[Mateo Nader] 15:11:29
+Yeah.
+
+[John Lin] 15:11:34
+please as many people as you can. Um, so… I think, yeah, generally they're helpful, at least to trying to craft solutions that are safer for.
+
+[Mateo Nader] 15:11:37
+Yeah.
+
+[John Lin] 15:11:44
+all users, all modes of transportation, yeah. So I think, I think there's good feedback, yeah.
+
+[Mateo Nader] 15:11:46
+Mm-hmm.
+
+[John Lin] 15:11:52
+Let's see if it's generated yet… still do… still working. It's probably gonna take a while.
+
+[John Lin] 15:11:58
+Yeah, I think it's something that's good to, like, maybe… doing the background, it's like, you put your parameters in, and… You wait for a little bit, and then… oh, pops out something.
+
+[John Lin] 15:12:08
+Yeah.
+
+[Mateo Nader] 15:12:12
+So, do you want to check, like, uh… How I answered your question.
+
+[Mateo Nader] 15:12:17
+Just to check the accuracy.
+
+[John Lin] 15:12:17
+Yeah.
+
+[John Lin] 15:12:22
+See, I asked it, would concrete barriers, let's see, a balance between safety and efficiency.
+
+[John Lin] 15:12:27
+A painted barrier, interesting.
+
+[John Lin] 15:12:37
+I guess I was going more for, like, a physical barrier, but I mean, they are enthused and competent, so…
+
+[John Lin] 15:12:59
+Hmm, okay. Yeah, I think it's generally… generally correct.
+
+[John Lin] 15:13:06
+At least, I could see road users… Thinking about that. Oh, wow, it actually did it.
+
+[Mateo Nader] 15:13:13
+Oh, nice. Awesome.
+
+[John Lin] 15:13:14
+And it made everybody happy. So… I don't know about the road user.
+
+[Mateo Nader] 15:13:20
+Yeah.
+
+[John Lin] 15:13:21
+But from a bicyclist perspective. Everybody's very happy.
+
+[Mateo Nader] 15:13:27
+Yeah. It's cool, actually. Put the barrier in, though.
+
+[John Lin] 15:13:31
+Yeah. Interesting, okay. Well, there you go, now we have a different scenario.
+
+[John Lin] 15:13:37
+Yeah, the AI made up, wow.
+
+[Mateo Nader] 15:13:37
+Yeah. Was there, like, the best scores I've seen from the… Cyclists…
+
+[John Lin] 15:13:45
+Yeah, literally. Wow, I'm surprised, but this is good.
+
+[John Lin] 15:13:53
+But yeah, for the drive and the barrier, mate.
+
+[Mateo Nader] 15:13:54
+Yeah.
+
+[John Lin] 15:13:56
+I don't know if it's just the Barrier May limit turning movements, I think the barrier might limit traffic in general.
+
+[John Lin] 15:14:00
+The green makes it unmistakably clear where cyclists should be, and the bollards give that physical reassurance that cars can't drift into the lane.
+
+[Mateo Nader] 15:14:02
+Yeah, we've had some… I've noticed in, like, some cases, the… the AI will confuse which is the, like, existing bike lane, and which is the… Roadway.
+
+[John Lin] 15:14:03
+Yeah.
+
+[John Lin] 15:14:13
+Yeah, yeah. But, you know, I think there's still some limitations to the AI, but I think it's generally on the right track if you can… Like, like, I know it's an image with vehicles in it, but, like, if it can, like, clear the vehicles, see?
+
+[Mateo Nader] 15:14:14
+That's what happened here.
+
+[John Lin] 15:14:30
+the road as it is. So that it can incorporate all standpoints, I think that's what you could use to… improve because, like, from curb to curb, right? I guess when you're… designing things, you're thinking from that perspective, not…
+
+[Mateo Nader] 15:14:32
+Mm-hmm.
+
+[Mateo Nader] 15:14:40
+Yeah.
+
+[John Lin] 15:14:43
+Here's an image, but, you know. That's just a limitation of AI, right?
+
+[Mateo Nader] 15:14:49
+Yeah.
+
+[Mateo Nader] 15:14:54
+No, no, no, you're able to do… use the ChatGPT prompts.
+
+[Mateo Nader] 15:14:59
+As well, how would you say… Like, the outputs from those compared to this tool.
+
+[John Lin] 15:15:00
+Yes.
+
+[John Lin] 15:15:07
+I honestly thought they were somewhat similar. I can see if I can pull it up.
+
+[John Lin] 15:15:11
+Um… Let's see… give me one moment…
+
+[John Lin] 15:15:20
+But, yeah, I mean, I didn't really use ChatGPT.
+
+[John Lin] 15:15:24
+that much before, but I was really intrigued by how quickly I was able to.
+
+[John Lin] 15:15:30
+give me a response. Um, I can share my screen again.
+
+[Mateo Nader] 15:15:32
+Yeah.
+
+[John Lin] 15:15:39
+Okay. So from the beginning, yeah, it took a sec to create this image, but yeah, we were able to create the image here.
+
+[Mateo Nader] 15:15:47
+Mm-hmm.
+
+[John Lin] 15:15:47
+Um, then I set the second prompt… And… I think it kind of general… I know they're key points, but they're pretty general, I guess.
+
+[John Lin] 15:15:59
+Um… But, at least from the safety comfort, I could see it.
+
+[John Lin] 15:16:07
+So the answer of concern, I could see it being a little lower, but… I think it's just whatever the AI decided to come up with that day.
+
+[John Lin] 15:16:17
+At least let's see the responses.
+
+[John Lin] 15:16:27
+I think it's quite similar to what the. other AI generated.
+
+[Mateo Nader] 15:16:32
+Yeah.
+
+[John Lin] 15:16:42
+Yeah, no, I think it's fair, and then… I was able to get this conversation going, I guess, between the personas.
+
+[John Lin] 15:16:52
+Um… Seems better than some of those classroom discussions.
+
+[John Lin] 15:16:58
+They make you right.
+
+[Mateo Nader] 15:17:00
+Yeah.
+
+[Mateo Nader] 15:17:06
+They seem pretty similar to the in-depth analysis.
+
+[John Lin] 15:17:08
+Yeah, I feel… I feel so, yeah. And then you can take this chart.
+
+[Mateo Nader] 15:17:12
+Uh, one thing I remember… When I did this… Uh, I feel like in the… discussions that ChatGPT answers.
+
+[Mateo Nader] 15:17:22
+Would, like, bring up a few things I hadn't thought of.
+
+[John Lin] 15:17:24
+Mm-hmm. Yeah, I would concur that analysis.
+
+[Mateo Nader] 15:17:25
+Compared to the tool, and I noticed that there… It would bring up, like, emergency vehicles.
+
+[John Lin] 15:17:32
+Yeah, I think mine came up with something similar.
+
+[John Lin] 15:17:35
+Well, I was asking… I didn't define scenario 1, 2, but they gave me these other things that I didn't think of, so I think that's… Useful.
+
+[Mateo Nader] 15:17:45
+Oh.
+
+[John Lin] 15:17:48
+So, I don't know, maybe… maybe incorporating, like, suggested scenarios that could be interesting.
+
+[Mateo Nader] 15:17:49
+Oh, okay, yeah.
+
+[Mateo Nader] 15:17:54
+Yeah. Okay, uh, we haven't come across there, that's actually interesting.
+
+[John Lin] 15:17:58
+Yeah, well, that's because they didn't define the parameter, so it was trying to define it for me.
+
+[Mateo Nader] 15:18:02
+Mm-hmm. Yeah.
+
+[John Lin] 15:18:03
+So, I thought that was quite useful. And I did use those, like, 2, 3, 4.
+
+[John Lin] 15:18:23
+So I think I tried to make the conversation interesting, because.
+
+[John Lin] 15:18:28
+Um, with all these different personas.
+
+[John Lin] 15:18:34
+Yeah, I mean, no way this… it's hard to get that guy on board.
+
+[Mateo Nader] 15:18:38
+Yeah.
+
+[John Lin] 15:18:44
+But yeah, I also, like, appreciate that it keeps giving you… More… he wants you to keep using the tool, so it gives you more options at the end.
+
+[John Lin] 15:18:55
+I will say that kind of failed here, where it didn't… quite create a table that I wanted, but it's okay.
+
+[Mateo Nader] 15:19:01
+Oh, I see, yeah.
+
+[John Lin] 15:19:03
+Yeah. But, yeah, no, I generally appreciated it, yeah.
+
+[John Lin] 15:19:07
+It's pretty good. And that was at least more functional.
+
+[John Lin] 15:19:12
+Then the street design AI, but the street design AI can… create the images, I feel like a slightly quicker, potentially.
+
+[Mateo Nader] 15:19:20
+Okay. And so… and you mean, like, for the ChatGPT, just, like, how… I guess it was a bit more… malleable, I guess? Like, it could… get a bit more out of it.
+
+[John Lin] 15:19:36
+Yeah, I'd say so. I think it gives you more… options, at least.
+
+[Mateo Nader] 15:19:38
+Yeah. Mm-hmm.
+
+[John Lin] 15:19:43
+Yeah.
+
+[Mateo Nader] 15:19:46
+And… were there any, like, particular features you… Like, the most, or say, like, if you were… implementing a design, we're in the design process you think would help you out more than the others?
+
+[John Lin] 15:20:03
+Uh, like, with respect to… I guess… like, functionality to make me as an engineer think about these options, or… I guess, like, kind of as a layperson.
+
+[Mateo Nader] 15:20:17
+Uh, it's a… I guess either. Yeah.
+
+[John Lin] 15:20:19
+Either? Okay. Yeah, I feel like the ChatGPT one gives you more options, at least, like we established earlier in the conversation.
+
+[John Lin] 15:20:27
+Um… I think… I think it's helpful that the AI one, like.
+
+[John Lin] 15:20:34
+It tells you the scores automatically, like, in terms of UI.
+
+[John Lin] 15:20:38
+You know, you have to keep asking. ChatGPT for a little bit more information, but at least from a UI perspective, the… Street design AI is pretty good about it.
+
+[John Lin] 15:20:48
+Um… But, yeah, a little bit more clunkier, you know, but… You know, I think there's still things to work out here, but… Um, at least there is a UI compared to ChatGPT, it's just a chat.
+
+[Mateo Nader] 15:20:57
+Yeah.
+
+[Mateo Nader] 15:21:01
+Mm-hmm. Yeah. It's easier to organize.
+
+[John Lin] 15:21:03
+Yeah.
+
+[Mateo Nader] 15:21:11
+And as for, like, the features, like. The scores are the in-depth analysis and comparative analysis, what'd you think about?
+
+[Mateo Nader] 15:21:18
+Those features are… what do you find the most useful?
+
+[John Lin] 15:21:23
+Uh, I find… I was gonna say, I did like the comparison tool… Um, I didn't really take into account the… I guess the in-depth analysis from each perspective with the UI, or the, uh…
+
+[John Lin] 15:21:37
+Street design AI, I kind of just… try to think about what's, like, the best potential.
+
+[John Lin] 15:21:43
+Well, not even the best potential, but, like, probably also the most practical.
+
+[John Lin] 15:21:48
+application out there, at least from an engineering perspective.
+
+[John Lin] 15:21:51
+Um… Because, I mean, you kinda know, at least when you practice, that, like, what is feasible, what's not feasible.
+
+[John Lin] 15:21:59
+What… and of course, you gotta get feedback from the neighborhood and the community.
+
+[Mateo Nader] 15:21:59
+Yeah.
+
+[John Lin] 15:22:04
+Um, or, like, if something's… like armadillos aren't.
+
+[John Lin] 15:22:09
+within regulation of that city or town, or that's not what they want in their neighborhood.
+
+[John Lin] 15:22:14
+At least you kind of know from that perspective.
+
+[John Lin] 15:22:16
+At least going into it, but I think it's still good to have, like, those options that you can.
+
+[John Lin] 15:22:21
+visualize to… you know, officials, or… County people.
+
+[Mateo Nader] 15:22:28
+Yeah. Well, in terms of, like, the… Visualization, you think, like.
+
+[Mateo Nader] 15:22:34
+At the point it is right now. What do you think those outputs… Would those be things you could show in, like, a presentation or a meeting, or do you think.
+
+[John Lin] 15:22:40
+If I were in a rush to a meeting and needed to present design concepts, generating these images would be incredibly helpful. Much faster than Illustrator or Photoshop.
+
+[Mateo Nader] 15:22:45
+You know, you just have that as, like, a… to give you an initial idea of how.
+
+[Mateo Nader] 15:22:51
+You may want to design the street.
+
+[John Lin] 15:22:53
+Yeah, I definitely think it's good from a brainstorming perspective. Um, maybe not further along in the project, but at least from the initial brainstorm, like, okay, here's idea one, here's idea two, I think it's good.
+
+[John Lin] 15:23:00
+useful in the early stages of design, when you're deciding whether a road needs improvement but haven't gotten into detailed plans yet. It feels like a good starting point for exploration.
+
+[Mateo Nader] 15:22:57
+Mm-hmm.
+
+[John Lin] 15:23:05
+Um, yeah, I do think it needs to consider it from a curb-to-curb perspective, uh, going forward at least.
+
+[John Lin] 15:23:12
+You know, and if you want to consider parking, you want… you can consider that as well.
+
+[Mateo Nader] 15:23:12
+Yeah. Mm-hmm.
+
+[John Lin] 15:23:15
+Um, but from a curve-to-curb perspective, I think it would be more useful, because you get to see… you get to.
+
+[John Lin] 15:23:20
+pretty much redesign the road like an engineer would.
+
+[John Lin] 15:23:24
+Um, without consideration, but I realize also that's a limitation of the software at the moment.
+
+[Mateo Nader] 15:23:24
+Yeah.
+
+[John Lin] 15:23:29
+So…
+
+[Mateo Nader] 15:23:30
+Yeah, especially with the… Street view. Like I said, depends a lot on… What you're able to get from the image.
+
+[John Lin] 15:23:38
+Yeah, yeah. But I think generally, it's a good start.
+
+[John Lin] 15:23:42
+Uh, especially in our brainstorming phase, or… Or, especially people who are doing planning work, you know, they can start to visualize without having to.
+
+[John Lin] 15:23:50
+Ask their firms. visual person to mock them something really quickly.
+
+[Mateo Nader] 15:23:57
+Yeah, that's true.
+
+[John Lin] 15:24:00
+Yeah.
+
+[Mateo Nader] 15:24:03
+Okay, well, I think… We covered, like, all the main points about the software itself, so… I'm just gonna ask you, like, two final, like.
+
+[Mateo Nader] 15:24:13
+Big picture questions? So, the first one is… How would you envision integrating persona-based AI feedback into your design workflow?
+
+[John Lin] 15:24:15
+Fair.
+
+[Mateo Nader] 15:24:25
+And what barriers or opportunities would you see in… Integrating this type of stuff.
+
+[John Lin] 15:24:31
+I think I'll go off my previous answer, which is, like.
+
+[John Lin] 15:24:34
+to implement during the planning stage. I definitely think… I think that's definitely where it's most appropriate, because InDesign, you've already been given the contract, or… things like that, so that's kind of all finalized, and if you want to ask, and you got to convey to the state, or the county, whatever agency.
+
+[John Lin] 15:24:52
+But I think the planning… the planning stage, because.
+
+[John Lin] 15:24:54
+Really, I mean, those guys are… In the conceptual stuff, they gotta get the concept down.
+
+[John Lin] 15:25:01
+in order to actually. suggest to a city council or agency that this idea should go forward, and.
+
+[John Lin] 15:25:09
+you know, if it's not just the brainstorm phase, at least, like, the visualization stage to the public.
+
+[John Lin] 15:25:14
+you know, I think it's quite useful. Um, to try to convince people to.
+
+[John Lin] 15:25:20
+go with the best engineering solutions out there. Um, in a very quick manner.
+
+[Mateo Nader] 15:25:22
+Mm-hmm.
+
+[John Lin] 15:25:26
+Um, what was the second question again?
+
+[Mateo Nader] 15:25:30
+Like, what barriers or opportunities you see to implementing?
+
+[John Lin] 15:25:31
+Out of the barrier. Yeah, I think the barriers is… Um… maybe… People not really knowing about this software.
+
+[Mateo Nader] 15:25:34
+It's kind of tools.
+
+[Mateo Nader] 15:25:43
+Mm-hmm.
+
+[John Lin] 15:25:44
+Um, since it's very novel and. And a lot of engineers, especially older ones, are not used to using AI.
+
+[Mateo Nader] 15:25:52
+Yeah, that's true.
+
+[John Lin] 15:25:52
+We're incorporated into workflow. Uh, so I think that definitely could be… A barrier, um… But also, like, I guess if it… If it spits out a lot of clunky things that just aren't useful, that could also be a barrier, you know, especially with the.
+
+[John Lin] 15:26:07
+Uh, Google Map limitation, you know, if it can't… evolved to a further level.
+
+[Mateo Nader] 15:26:11
+Yeah.
+
+[John Lin] 15:26:14
+Um, of usefulness. I definitely think. You know, people would rather just sketch it out on paper rather than.
+
+[John Lin] 15:26:21
+I guess CDEI fail. Um… And I guess… Um… yeah, I guess industry standard, potentially, I guess since this is so new.
+
+[Mateo Nader] 15:26:24
+Yeah.
+
+[John Lin] 15:26:33
+Most people don't really… Know how to use it, I guess? Or at least know of its existence.
+
+[Mateo Nader] 15:26:38
+Yeah.
+
+[John Lin] 15:26:40
+So, yeah, that's all I can really say.
+
+[Mateo Nader] 15:26:43
+Yeah, that's the hope with, like. developing the UI, especially.
+
+[Mateo Nader] 15:26:49
+Just to make it more accessible. And yeah, as you said, so, like.
+
+[Mateo Nader] 15:26:52
+More older engineers, like… to make it still… kind of familiar, that they're able to, I guess, work with AI without entirely realizing it.
+
+[John Lin] 15:27:04
+Yeah, I guess if you can get some planners, because I feel like this is more of their… work, um… To at least get their feedback, it may be quite useful, since… I feel like as an engineer, I'm always doing CAD all day, so…
+
+[Mateo Nader] 15:27:19
+Yeah.
+
+[John Lin] 15:27:20
+Um, it's kind of, like, less useful for me to visualize things, since things have already.
+
+[Mateo Nader] 15:27:25
+Mm-hmm. Let's do, yeah.
+
+[John Lin] 15:27:26
+been decided, or marching order's already down. But at least there's planners, because they get to see that blank canvas and.
+
+[John Lin] 15:27:32
+kind of paint their little picture to… get the right solution, because they're the visionaries!
+
+[Mateo Nader] 15:27:38
+Yeah.
+
+[John Lin] 15:27:39
+So, I think that'd be useful to talk to somebody like that to get their feedback.
+
+[Mateo Nader] 15:27:44
+Yeah. So we've been looking for. We've gotten a few, so… Perfect. And then… Last question.
+
+[John Lin] 15:27:48
+Nice.
+
+[Mateo Nader] 15:27:55
+As an engineer, you'd also be able to answer this better.
+
+[Mateo Nader] 15:27:58
+How do you view the relationship between AI and road designers and.
+
+[Mateo Nader] 15:28:04
+Would you see it as one of augmentation or replacement?
+
+[John Lin] 15:28:09
+I think it's augmentation, though. I've been honestly kind of skeptical about AI and engineering.
+
+[Mateo Nader] 15:28:15
+Mm-hmm.
+
+[John Lin] 15:28:16
+Just because at least, like. I'd be very impressed if it could do some of the work that we do as engineers, because.
+
+[Mateo Nader] 15:28:22
+Yeah.
+
+[John Lin] 15:28:22
+It's always changing, and you gotta consider it from different perspectives, and you gotta worry about signing and sealing things.
+
+[Mateo Nader] 15:28:30
+Yeah.
+
+[John Lin] 15:28:30
+And I could see it on documents, sure, but… At least the actual design work, I haven't seen anything that is able to… do what we do yet, so I guess I haven't really felt very…
+
+[John Lin] 15:28:41
+either threaten or thought about its augmentation capacities, but, you know, I'm certainly sure, you know, given.
+
+[John Lin] 15:28:47
+Like, how computer programs are? Like, if the AI can generate.
+
+[John Lin] 15:28:53
+a suitable solution for certain things that would take a CAD designer.
+
+[John Lin] 15:28:58
+a really long time to generate. I'd be all for it, because… Sometimes you're just trying to fight the program, and if the program can help you.
+
+[John Lin] 15:29:06
+then that's a good thing. So I could see doing that, at least on very tricky elements.
+
+[Mateo Nader] 15:29:08
+Oh, that's true, yeah.
+
+[John Lin] 15:29:11
+But analyzing, like, a survey or things like that, I haven't seen anything… any capability up to that point, so… I guess not too worried about augmentation or replacement on those.
+
+[John Lin] 15:29:22
+capacities yet, because. Even the computer program is struggling to even render in the first place. I don't even know where the AI would come in at that point.
+
+[Mateo Nader] 15:29:24
+Yeah. Mm-hmm.
+
+[John Lin] 15:29:30
+But I can see it as augmentation. I definitely wouldn't see it as replacement, given… You know, the interests of public safety.
+
+[Mateo Nader] 15:29:32
+Yeah.
+
+[John Lin] 15:29:39
+And liability, and those types of factors on engineers.
+
+[Mateo Nader] 15:29:43
+Very true, yeah. I haven't thought about it like that, the liability aspect.
+
+[John Lin] 15:29:46
+Yeah. Yeah, as a lawyer, you gotta think about all the liability.
+
+[Mateo Nader] 15:29:50
+That's probably the best point. Yeah.
+
+[John Lin] 15:29:54
+So, yeah, there could be a negligence claim somewhere in there.
+
+[Mateo Nader] 15:29:58
+Yeah. Like, who do you claim it to?
+
+[John Lin] 15:29:58
+Especially with some lawyers. There's some lawyers who are using AIs to create briefs for judges, and they're getting called out on it, so… Don't be doing that.
+
+[Mateo Nader] 15:30:07
+Oh.
+
+[John Lin] 15:30:10
+Yeah, especially, especially with the signing and ceiling, given how important that is to our… the engineering industry.
+
+[John Lin] 15:30:16
+Um, I mean, that's pretty much your reputation, so you don't want to play with that.
+
+[Mateo Nader] 15:30:21
+Yeah. Have they brought up, like, cases like that in your classes, or…
+
+[John Lin] 15:30:27
+Is it using AI? I mean, we've had to start using AI in terms of legal research, but.
+
+[Mateo Nader] 15:30:32
+Mm-hmm. Yeah.
+
+[John Lin] 15:30:33
+It doesn't necessarily mean it's correct. You always have to verify it, because sometimes it'll… Hallucinate cases themselves, and it's like, well, that's not even a real case, so… Yeah, as long as the AI's not doing that for engineering, you know.
+
+[Mateo Nader] 15:30:44
+That's true, yeah.
+
+[John Lin] 15:30:49
+Definitely wouldn't want that.
+
+[Mateo Nader] 15:30:52
+Yeah.
+
+[Mateo Nader] 15:30:57
+Well, I'll… A hat for you.
+
+[John Lin] 15:30:59
+Okay, perfect.
+
+[Mateo Nader] 15:31:00
+Thanks for taking the time to speak with me, and also… Doing all the… I guess all the testing beforehand.
+
+[John Lin] 15:31:09
+Yeah.
+
+[Mateo Nader] 15:31:09
+What else? Did you see there was one… I think we're asked, like, to take screenshots of, like, responses you found?
+
+[Mateo Nader] 15:31:17
+Most interesting. Had you done that already, or…
+
+[John Lin] 15:31:20
+I guess I took some screenshots, but they're kind of just, like, the general.
+
+[John Lin] 15:31:24
+I guess, response? you know, like, one of these… one of the windows that would just pop up, just like what I thought was, like, the best design. I wasn't sure how to interpret that.
+
+[Mateo Nader] 15:31:30
+Mm-hmm.
+
+[John Lin] 15:31:34
+Or at least in terms of responses.
+
+[Mateo Nader] 15:31:35
+Yeah, it doesn't specify more, but… I don't know if you still had, like, old ones open, or if the one we just did… We're looking for, like, screenshots of… Like, the, like, written responses, whether it's from the in-depth analysis or, like, the bullet points.
+
+[Mateo Nader] 15:31:52
+So, like, any three that you found interesting?
+
+[John Lin] 15:31:56
+Okay, well, perhaps we can… Maybe I'll just download this project.
+
+[John Lin] 15:32:03
+And I'll send it your way. Does that work, or do I need a screenshot?
+
+[Mateo Nader] 15:32:11
+I think you already sent us… A project, so… That's…
+
+[John Lin] 15:32:15
+Well, I was saying this concrete… this concrete, uh… Barrier option…
+
+[Mateo Nader] 15:32:20
+Oh, that's true, yeah. Yeah. We should send those over.
+
+[John Lin] 15:32:25
+Okay, do you need screenshots, or can I just download project and that'll be good enough?
+
+[Mateo Nader] 15:32:31
+You can download project and also… If you look through, like, any… the responses from the in-depth analysis, if there's any you found interesting there, you could also screenshot those and send those over.
+
+[John Lin] 15:32:41
+Okay, let me… let me see if it generated a good response.
+
+[John Lin] 15:32:56
+AS potentially making the…
+
+[John Lin] 15:33:01
+Maybe making this response window bigger? I mean… If you just want it for screenshot purposes, but… Yeah.
+
+[John Lin] 15:33:29
+Should I just… maybe… can I send it through the chat? Is that okay?
+
+[Mateo Nader] 15:33:32
+Uh, sure, yeah.
+
+[John Lin] 15:33:34
+Okay.
+
+[John Lin] 15:33:42
+Then I'll just send the rest of the… well, actually, I can send it here.
+
+[John Lin] 15:34:00
+Okay, I think it should all be uploaded now.
+
+[Mateo Nader] 15:34:06
+Alright, I see it.
+
+[John Lin] 15:34:08
+Okay. Well, anything else, Matteo?
+
+[Mateo Nader] 15:34:12
+That's a lot. Oh, that's everything.
+
+[John Lin] 15:34:16
+Okay, perfect. Well, I appreciate talking with you, and uh… Uh, I guess we need anything else, just email me.
+
+[Mateo Nader] 15:34:24
+Alright, I'll keep that in mind. Thanks again for taking the time.
+
+[John Lin] 15:34:28
+Okay, thank you so much, have a good one!
+
+[Mateo Nader] 15:34:31
+It's a… but…
+
+[John Lin] 15:34:31
+Okay, bye
+

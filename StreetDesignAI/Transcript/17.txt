@@ -1,0 +1,1116 @@
+[Renaissance Planning] 10:02:47
+You just want the screen that we're working on recording, right? Or do you need… like, us… our video to be in it as well.
+
+[Mateo Nader] 10:02:55
+Uh, no, just your screen that we're working on.
+
+[Renaissance Planning] 10:02:57
+Okay. Okay.
+
+[Mateo Nader] 10:03:01
+Have you done a pre-study survey yet?
+
+[Renaissance Planning] 10:03:03
+Um, no, I did not. Do you want me to fill that in? Okay.
+
+[Mateo Nader] 10:03:06
+Okay. Could fill that out quicker. Yeah. It's not too long.
+
+[Mateo Nader] 10:03:14
+Okay, please. I mean, like…
+
+[Mateo Nader] 10:03:22
+We're here, ARC's engineering student. I'll just graduate this coming day.
+
+[Mateo Nader] 10:03:27
+And I'm looking to… Say that you have currently a master's degree here is… Um, and I was just a little bit confused about some remediated admissions.
+
+[Mateo Nader] 10:03:39
+Our average lesion-like requirements and tasks. There's… there's so many, like.
+
+[Mateo Nader] 10:03:44
+Websites off, so whatever you have to go through.
+
+[Mateo Nader] 10:03:47
+Oh, we're not college engineering. Hi! So I can start with the.
+
+[Renaissance Planning] 10:03:51
+Alright.
+
+[Mateo Nader] 10:03:54
+Part 1. Yeah.
+
+[Renaissance Planning] 10:03:55
+Okay, uh, click this. Okay.
+
+[Renaissance Planning] 10:04:01
+Mm-hmm.
+
+[Renaissance Planning] 10:04:13
+Oh. Um… just this for latitude, right? For this first one.
+
+[Renaissance Planning] 10:04:19
+Okay.
+
+[Mateo Nader] 10:04:19
+Yeah. I, uh… Yes, I think…
+
+[Mateo Nader] 10:04:29
+Um, and then… I don't know, so I'm planning to… Your Zoom, so… Alright, so, with this street view.
+
+[Mateo Nader] 10:04:39
+He couldn't move around, go to different streets, got different views, but… Basically, what you want to do is get, like.
+
+[Mateo Nader] 10:04:46
+Like, the perspective of a road. And then, when you click generate evaluation, that would… Basically, send that… perspective to the AI for it to evaluate, and that's what we'll be building the design off of.
+
+[Renaissance Planning] 10:04:48
+Okay.
+
+[Renaissance Planning] 10:04:59
+Okay. Um, so do I need to… click generate evaluation, or no?
+
+[Mateo Nader] 10:05:02
+I pick a road.
+
+[Mateo Nader] 10:05:06
+Uh, yeah, you can move around a bit. See if there's a specific… rotor… Like, feature you want it to analyze.
+
+[Mateo Nader] 10:05:16
+Whether it's with or without a bike lane.
+
+[Mateo Nader] 10:05:21
+Yeah.
+
+[Renaissance Planning] 10:05:23
+Um… trigger points.
+
+[Mateo Nader] 10:05:37
+Oh, seriousness.
+
+[Mateo Nader] 10:05:45
+Hello. This location, it always has this blur, so… might need to, like.
+
+[Mateo Nader] 10:05:50
+Turn around, think one's facing that specific direction, it always does.
+
+[Renaissance Planning] 10:05:50
+Oh, anonym.
+
+[Mateo Nader] 10:05:56
+That player.
+
+[Renaissance Planning] 10:05:59
+Hmm…
+
+[Renaissance Planning] 10:06:08
+I do like that view, or should I do one that actually has the bike lane in it?
+
+[Mateo Nader] 10:06:15
+Yeah, you can do that one. I think I'll probably zoom in on that road a bit.
+
+[Renaissance Planning] 10:06:16
+Okay. Oh… Great. Oh.
+
+[Mateo Nader] 10:06:27
+Yeah, that works. So now you can click the generate evaluation.
+
+[Renaissance Planning] 10:06:28
+Okay.
+
+[Mateo Nader] 10:06:58
+Yeah, the reason why I asked, I… Look here.
+
+[Mateo Nader] 10:07:04
+to where I am now. Nice, yeah. And move the screen around, it's basically like a big whiteboard.
+
+[Renaissance Planning] 10:07:11
+Okay, that's what I was wondering. I was, like, looking for a scroll thing.
+
+[Mateo Nader] 10:07:12
+So… Yeah. On the bottom right, there's also, like, a zoom in and zoom out button.
+
+[Renaissance Planning] 10:07:16
+Okay. Okay, yeah.
+
+[Mateo Nader] 10:07:22
+But yeah, so it's in here, it's the valuation.
+
+[Mateo Nader] 10:07:27
+Each of those boxes represents, like, a different… persona for, like, uh… different cyclist type, just based on their confidence and their abilities, and… How willing they are to cycle in a certain…
+
+[Renaissance Planning] 10:07:37
+Yeah.
+
+[Mateo Nader] 10:07:41
+Type of road. So if you could just… Read through these, and… Well, let me know what you think of, um, if there's anything that sticks out.
+
+[Renaissance Planning] 10:07:42
+Okay.
+
+[Renaissance Planning] 10:07:48
+Yep.
+
+[Mateo Nader] 10:07:53
+Also, whether you think the evaluation's accurate? Or useful in any way.
+
+[Renaissance Planning] 10:08:03
+Um…
+
+[Mateo Nader] 10:08:06
+Yeah.
+
+[Mateo Nader] 10:08:12
+My entry.
+
+[Renaissance Planning] 10:08:17
+Um… I think… I would say it's all accurate. The only one that just seems like, um, a little off, and it might just be because there's leaves on it, but it says not safe as a sidewalk.
+
+[Renaissance Planning] 10:08:29
+But it looks like there is one, so other than that, I would say they're all accurate.
+
+[Mateo Nader] 10:08:34
+Yeah. Okay. Yeah, so the next feature is an in-depth analysis.
+
+[Renaissance Planning] 10:08:41
+Okay, uh, click… Okay.
+
+[Mateo Nader] 10:08:42
+It's become a…
+
+[Mateo Nader] 10:08:48
+Yeah, it's somewhere. Look at you, more thought-out response from each of the personas.
+
+[Renaissance Planning] 10:08:53
+Okay.
+
+[Mateo Nader] 10:08:55
+Not this tab. There's also the feature at the bottom where you can ask it questions about the design and their opinions on it.
+
+[Renaissance Planning] 10:09:02
+Okay.
+
+[Mateo Nader] 10:09:03
+Yeah. So, just do the same. Look through these and let me know what you think.
+
+[Mateo Nader] 10:09:12
+Yeah. Awesome. Um, and then… Oh, what is really?
+
+[Mateo Nader] 10:09:19
+The timeline would… the application, I'm planning to apply for it on January 5 deadline.
+
+[Mateo Nader] 10:09:24
+So, I have to have more of a priority application.
+
+[Mateo Nader] 10:09:29
+And you sort of relate how, like, one of the, uh…
+
+[Renaissance Planning] 10:09:40
+Um, I would say… This is all fairly accurate. The only thing, um… I would say that it's not considering, as it keeps talking about painted bike lanes or.
+
+[Renaissance Planning] 10:09:54
+bollards and physical protections, but it doesn't mention anything about, like, maybe making this, like, a sharrow.
+
+[Mateo Nader] 10:10:01
+Mm-hmm.
+
+[Renaissance Planning] 10:10:02
+Um, but other than that, I would agree with what it is saying.
+
+[Mateo Nader] 10:10:10
+Okay. On the… at the bottom, there's also the feature you can ask a question. Maybe you could ask about the… Cheryl's…
+
+[Renaissance Planning] 10:10:16
+Yeah, um… okay.
+
+[Renaissance Planning] 10:10:50
+And I think my only other comment would be on some of… I'll read what it says in a second here. Um, it's just some of the language that's used, like, so, for example… Um, like, I know what bollards are, but I've honestly never heard them called armadillo dividers, and so just, there's, like, terms like that, or…
+
+[Renaissance Planning] 10:11:10
+Copenhagen style, like, yes, we know what Copenhagen is. If you're a planner, but if you're not a planner, like.
+
+[Mateo Nader] 10:11:11
+that I hope they have for the semester. prior to that, like.
+
+[Renaissance Planning] 10:11:15
+Those terms might be confusing. Alright.
+
+[Renaissance Planning] 10:11:30
+Hmm…
+
+[Renaissance Planning] 10:11:45
+So I think these are funny responses to my Chero, um, because given that.
+
+[Renaissance Planning] 10:11:52
+This is, you know, a… On the top, we've got, you know, this is like a 30 mile per hour minimal traffic neighborhood road, um… It's something that you might expect a sharrow on, but this keeps.
+
+[Renaissance Planning] 10:12:05
+Wanting to guide you into painted lanes, dash lanes, protected… cycle tracks, which is fine if.
+
+[Mateo Nader] 10:12:06
+You don't have a position.
+
+[Renaissance Planning] 10:12:15
+You wanted to get rid of on-street parking, but obviously there's not enough right-of-way to make all that happen.
+
+[Mateo Nader] 10:12:19
+Yeah. Yeah.
+
+[Renaissance Planning] 10:12:23
+So, that would be the only thing.
+
+[Mateo Nader] 10:12:26
+Yeah, something noticed, like, during these interviews. Uh, for this feature specifically.
+
+[Mateo Nader] 10:12:33
+They're pretty, like, persistent on what they want.
+
+[Renaissance Planning] 10:12:35
+Yeah, it's like, this is… this is what it should be. So I would say there's not… Um, as much… Not creativity, but like… reality of, like, what you could put there, um, currently, given that view, yeah.
+
+[Mateo Nader] 10:12:41
+Let's see.
+
+[Mateo Nader] 10:12:50
+Yeah. Yeah. Okay. I can move on to the… generate design feature.
+
+[Renaissance Planning] 10:12:58
+Okay. Um, do you want me… Um…
+
+[Mateo Nader] 10:12:59
+That's on the main thing. Yeah. Oh yeah, that's just design.
+
+[Mateo Nader] 10:13:07
+So yeah, we'll have… pop up a few parameters.
+
+[Renaissance Planning] 10:13:11
+Okay.
+
+[Mateo Nader] 10:13:12
+You can choose her. The new design you want to try on this road? There's also a little text box where you could either.
+
+[Mateo Nader] 10:13:20
+Uh, more context about what's going on on this road, or… Specific features you want to see it implemented.
+
+[Renaissance Planning] 10:13:26
+Okay. Um…
+
+[Mateo Nader] 10:13:36
+But it was just because hiking from pre-As, like, all that is notification.
+
+[Mateo Nader] 10:13:41
+I just want to put that to this. Yeah, it's just generating in the background to take a minute or two.
+
+[Mateo Nader] 10:13:50
+Yeah.
+
+[Mateo Nader] 10:14:01
+Cool, and I'm… I am applying for…
+
+[Mateo Nader] 10:14:14
+I'm also… not necessarily…
+
+[Mateo Nader] 10:14:21
+That is fabulous. Yeah, probably.
+
+[Mateo Nader] 10:14:28
+But, if that doesn't happen to me. Yeah, I would like to consider, like, you'd say, because right now, kind of, like.
+
+[Renaissance Planning] 10:14:33
+Will it just pop up when it's done, or do I need to, like, move anywhere?
+
+[Mateo Nader] 10:14:36
+Okay. And then… It'll pop up. It'll probably be, like… Under one of the… Existing tabs, but… It usually takes the longest.
+
+[Renaissance Planning] 10:14:38
+Okay.
+
+[Renaissance Planning] 10:14:44
+Okay.
+
+[Mateo Nader] 10:15:27
+Okay.
+
+[Mateo Nader] 10:15:56
+Okay. And is that… Yeah, so if I were to… So those courses are, like, being online for the… The entire zones, is it the same courses? Like, when I look up the schedule for the schedule of courses, like, are they talking programs, or some…
+
+[Mateo Nader] 10:16:31
+Okay.
+
+[Mateo Nader] 10:16:40
+Yeah.
+
+[Renaissance Planning] 10:16:45
+So, let's see…
+
+[Renaissance Planning] 10:16:54
+Um… So it's interesting, because it… Looks… It looks like it moved the cars over, but yet it also doesn't look like it moves the cars over, so from this perspective.
+
+[Mateo Nader] 10:17:06
+Um… yeah. Give it on.
+
+[Renaissance Planning] 10:17:09
+it just… I don't know, to me, it… this doesn't make sense, because if you're looking at this, um, obviously the cars are parked in both directions, so it's not like this is a one-way street, so if it was a one-way street.
+
+[Renaissance Planning] 10:17:23
+I can see the green bike lane, like, being okay, but, like, as it is right now.
+
+[Mateo Nader] 10:17:24
+Yeah.
+
+[Renaissance Planning] 10:17:30
+you… like I mentioned, you don't have enough right-of-way for both directions of cars.
+
+[Mateo Nader] 10:17:35
+And is it kind of question, thanks. Yeah.
+
+[Renaissance Planning] 10:17:36
+Um, and then… I guess with the bollards, this… Spacing is a little… Interesting, because I don't know how the cars get in and out.
+
+[Renaissance Planning] 10:17:48
+Of the Waller, so it's like, once you're in, you're in. Uh, but other than that, yeah, like, the concept is good, I like it, how it sort of, you know, translated it, but yeah, just again, the matching realities of.
+
+[Mateo Nader] 10:17:50
+Yeah.
+
+[Mateo Nader] 10:17:57
+Yes.
+
+[Renaissance Planning] 10:18:01
+right away, and just, like, little quirks, like, you know, getting into the parking on the right side and.
+
+[Renaissance Planning] 10:18:07
+These people opening their doors, because it says… I think some of it says, like.
+
+[Mateo Nader] 10:18:14
+Hi. Thank you.
+
+[Renaissance Planning] 10:18:14
+Um… I don't know, it says somewhere, like, protection from the cars, but again, if you're opening… If you're the driver opening your door, like, that's only, like, a, what, 6 inches, 8 inches of space for your door, so the door's still going into the bike lane.
+
+[Renaissance Planning] 10:18:32
+Um… yeah. So, just…
+
+[Mateo Nader] 10:18:35
+To the extension. Yeah, that's the main thing with the… image generation still is, like, lack of context. Like, I noticed… It struggles sometimes to differentiate between, like, moving cars and parked cars.
+
+[Renaissance Planning] 10:18:42
+Yeah.
+
+[Renaissance Planning] 10:18:49
+Yeah. Yeah. Yeah.
+
+[Mateo Nader] 10:18:50
+So that could also be what's happening. With this, especially with the bollard placement.
+
+[Renaissance Planning] 10:18:55
+Yeah.
+
+[Mateo Nader] 10:18:59
+So… yeah, if you want, you can… try another designer by giving it more information, not good.
+
+[Mateo Nader] 10:19:07
+Go on to the comparative analysis. Let's see here.
+
+[Mateo Nader] 10:19:13
+When was wrong for us. You guys?
+
+[Renaissance Planning] 10:19:15
+Doesn't matter which one I click, either, comparative. Okay.
+
+[Mateo Nader] 10:19:19
+Or… so, like, they're pretty much… Wow. You have to click both.
+
+[Renaissance Planning] 10:19:22
+Okay.
+
+[Mateo Nader] 10:19:23
+Where do I stop.
+
+[Mateo Nader] 10:19:36
+Yes, this has a discussion similar to the in-depth, and then… Also, there's a tab for the design scenario comparison.
+
+[Renaissance Planning] 10:19:44
+Okay.
+
+[Renaissance Planning] 10:20:31
+Yeah, I think, like we said, you know, minus the unreality type stuff, but, um, just from, like, a visual perspective and kind of comparing things.
+
+[Renaissance Planning] 10:20:41
+Um, I think it's, yeah, a good way to kind of compare different scenarios on.
+
+[Renaissance Planning] 10:20:46
+One corridor.
+
+[Mateo Nader] 10:20:50
+Yeah, it's like, the… Graph's useful, or… Easy to understand.
+
+[Renaissance Planning] 10:20:56
+Um, I would say that the only thing… would just be some labels on the left side of the bar, just kind of indicating, like, what these numbers represent?
+
+[Mateo Nader] 10:21:10
+Mm-hmm.
+
+[Renaissance Planning] 10:21:11
+Um, like… 0 being… Not at all, 10 being… You know, whatever, however you want to label them, but yeah, I would say that would be helpful.
+
+[Mateo Nader] 10:21:21
+Yeah.
+
+[Renaissance Planning] 10:21:22
+Other than that, yeah, safety, comfort, um… That's fine.
+
+[Mateo Nader] 10:21:32
+Thank you. Alright, um… The latest discussion was similar, but one of the things that Kelsea there.
+
+[Renaissance Planning] 10:21:42
+Um…
+
+[Renaissance Planning] 10:21:54
+Yeah, we talked about it, like it says here, I don't need the buffer, it does keep car doors from drifting into my space. Well, that's not necessarily true, um, since if you open the door, it goes into the bike lane, um…
+
+[Renaissance Planning] 10:22:10
+I think the rest of it, though, is… pretty spot on, like, the green paint helps.
+
+[Renaissance Planning] 10:22:16
+Them feel more legitimate on the roadway, I would agree with that.
+
+[Renaissance Planning] 10:22:22
+Um…
+
+[Renaissance Planning] 10:22:34
+And I guess the only thing… For, like, the driver perspective, it just says, like, losing parking spots affects local businesses. Um, I mean.
+
+[Renaissance Planning] 10:22:43
+Given the context of, like, what this road looks like, it's, like.
+
+[Renaissance Planning] 10:22:47
+clearly a residential area, so… If that's kind of, like, a weird statement, um, given that this is sort of, like, a residential neighborhood, but… Yeah.
+
+[Mateo Nader] 10:22:49
+Mm-hmm.
+
+[Mateo Nader] 10:22:54
+Yeah.
+
+[Mateo Nader] 10:23:00
+Alright, um… yes, we can move on to the… Second part, so if you could… First click on the top right, download project.
+
+[Mateo Nader] 10:23:11
+And yeah, just click OK, and a lot of those…
+
+[Renaissance Planning] 10:23:19
+Okay.
+
+[Mateo Nader] 10:23:19
+So yeah, if you could send… way to download here, it's just after the… Meetings over, and also… You should download… I think I got two PNGs.
+
+[Renaissance Planning] 10:23:26
+Okay.
+
+[Renaissance Planning] 10:23:31
+Yeah.
+
+[Mateo Nader] 10:23:31
+So we'll be using that existing condition one for the… ChatGPT part.
+
+[Renaissance Planning] 10:23:36
+Okay.
+
+[Mateo Nader] 10:23:43
+Yeah.
+
+[Renaissance Planning] 10:23:45
+Alright, those are all downloaded.
+
+[Mateo Nader] 10:23:49
+Okay. On support, too.
+
+[Renaissance Planning] 10:23:52
+Okay.
+
+[Mateo Nader] 10:23:53
+I'm gonna give you… Uh, login for a shared… Sativity account we have.
+
+[Renaissance Planning] 10:24:00
+Okay.
+
+[Mateo Nader] 10:24:04
+Okay, put the email and password in the Zoom chat.
+
+[Renaissance Planning] 10:24:08
+Okay.
+
+[Mateo Nader] 10:24:43
+Alright, so the code.
+
+[Mateo Nader] 10:24:49
+Thanks so much for your time. Good.
+
+[Mateo Nader] 10:25:01
+So for this, let me go back to the PDF, there's a… Talk with all the prompts we'll be using.
+
+[Mateo Nader] 10:25:12
+So yeah, for each pump, you'll just be… Copy and pasting everything written there, and then what's in bold, you'll be adjusting on your own.
+
+[Renaissance Planning] 10:25:21
+Okay.
+
+[Mateo Nader] 10:25:22
+So this first part will be replicating the adjust design feature from the.
+
+[Mateo Nader] 10:25:29
+Uh, our tool.
+
+[Renaissance Planning] 10:25:29
+Okay, um… So, for this first one… Um… okay, upload the existing photo with this first prompt.
+
+[Mateo Nader] 10:25:43
+Yeah.
+
+[Renaissance Planning] 10:25:43
+Okay.
+
+[Renaissance Planning] 10:25:52
+Does it need to stay in these brackets, or do I just… Like, pick which one I want.
+
+[Mateo Nader] 10:25:57
+No. You'll just pick what's having.
+
+[Renaissance Planning] 10:25:58
+Huh. Okay.
+
+[Mateo Nader] 10:26:13
+Yeah.
+
+[Mateo Nader] 10:26:33
+Yeah, thanks. I did see that.
+
+[Mateo Nader] 10:26:56
+generator, or generate the image. Although, recently it's been doing this.
+
+[Mateo Nader] 10:27:26
+I was good. I'm doing, thank you.
+
+[Mateo Nader] 10:27:32
+Yeah, my apologies.
+
+[Mateo Nader] 10:27:38
+Yeah.
+
+[Mateo Nader] 10:27:43
+Yeah.
+
+[Mateo Nader] 10:27:53
+Basically. Yeah.
+
+[Mateo Nader] 10:27:59
+What was that? Right, semester, okay.
+
+[Renaissance Planning] 10:29:09
+Well, I would say this one is already better than the other one.
+
+[Renaissance Planning] 10:29:13
+So, this one addresses some of the concerns I had on the other one, so… Bike lane… well, some of them. Um, so the bike lane does look a little bit more realistic as far as width compared to the other one, and the spacing.
+
+[Mateo Nader] 10:29:15
+We're on the call for her.
+
+[Renaissance Planning] 10:29:29
+Of the bollards is more realistic for cars getting in and out, but it still is the… the door, there's no… buffer, and again, that might just be because we didn't state for it to have a buffer, but there's just no space for the door, um, without going into the bike lane.
+
+[Renaissance Planning] 10:29:49
+But… yeah.
+
+[Mateo Nader] 10:29:52
+It looks like it did the same thing as the bollards, though.
+
+[Renaissance Planning] 10:29:57
+Yeah, but um… but yeah, but there's… there's not as many of them, so it's… Yeah.
+
+[Mateo Nader] 10:30:00
+Are you, like… Yeah. Do you grow.
+
+[Mateo Nader] 10:30:08
+Let me do the second prompt now.
+
+[Renaissance Planning] 10:30:13
+Hmm…
+
+[Mateo Nader] 10:30:16
+These are, like, the number one morning.
+
+[Mateo Nader] 10:30:20
+So, like, you have some other choice. But also, I'm not gonna… Yeah, I'm not… yeah, honey.
+
+[Mateo Nader] 10:30:30
+You sent us, you can… For this one, it's optional.
+
+[Renaissance Planning] 10:30:33
+Okay. Um…
+
+[Mateo Nader] 10:30:35
+I'm gonna add something to that.
+
+[Mateo Nader] 10:30:41
+Those new leadership.
+
+[Mateo Nader] 10:30:46
+Okay.
+
+[Mateo Nader] 10:30:59
+Supermasses, issue.
+
+[Mateo Nader] 10:31:05
+I will definitely try. Cool. You guys should do it 20.
+
+[Mateo Nader] 10:31:18
+Yes. I feel sorry for me.
+
+[Mateo Nader] 10:31:21
+Yeah, but, you know, basically, your application for. Your HC applications are more aligned with updated.
+
+[Renaissance Planning] 10:31:45
+So, on this, um, I would say the scoring is interesting to me, based on ChatGPT. It seems less.
+
+[Renaissance Planning] 10:31:54
+Um, realistic than the other one. So, for example, you have the most experienced cyclists here.
+
+[Renaissance Planning] 10:32:02
+And they're scoring this. lower than, like, a recreational commuter-type cyclist.
+
+[Renaissance Planning] 10:32:09
+Um, and then additionally, they're scoring it lower than.
+
+[Renaissance Planning] 10:32:15
+A nervous cycler, um, the scores seem to be, like.
+
+[Renaissance Planning] 10:32:20
+A little flip-flopped… Um… and then… I would say the no way, no how cyclist, that one seems realistic in line with the other one.
+
+[Renaissance Planning] 10:32:38
+Yeah.
+
+[Mateo Nader] 10:32:46
+Okay, so yeah, move on to the third prompt.
+
+[Renaissance Planning] 10:32:51
+Oh, no, I'm done, yeah.
+
+[Mateo Nader] 10:33:12
+Wow.
+
+[Renaissance Planning] 10:33:24
+Um, do I need to put something in here?
+
+[Renaissance Planning] 10:33:26
+Where it says… Oh, never mind. That's the… yeah, okay.
+
+[Mateo Nader] 10:33:29
+No.
+
+[Renaissance Planning] 10:34:18
+One of the things… so this is enthused and confident, so this is, like, the recreational commuter biker. It says, since parked cars.
+
+[Renaissance Planning] 10:34:27
+Form the outer buffer, the ride feels less exposed to moving traffic.
+
+[Renaissance Planning] 10:34:31
+Um, which isn't true, because… The buffer of cars is on the right side, and so the traffic is on the left of them if they're riding in that.
+
+[Renaissance Planning] 10:34:41
+Direction… Um…
+
+[Renaissance Planning] 10:34:49
+Yeah, like, this one says here, I still worry a bit about car doors opening since the lane is right next to parking, so that… It doesn't protect against door swings, so that's accurate and kind of what we were talking about.
+
+[Renaissance Planning] 10:35:04
+Um…
+
+[Renaissance Planning] 10:35:22
+I do like that, but from the driver perspective, it does mention emergency vehicles.
+
+[Renaissance Planning] 10:35:33
+Yep. Looks good. The rest of it.
+
+[Mateo Nader] 10:35:44
+Awesome. Can we move on to the last prompt.
+
+[Renaissance Planning] 10:35:46
+Okay.
+
+[Mateo Nader] 10:35:50
+No.
+
+[Mateo Nader] 10:35:56
+Mm-hmm.
+
+[Renaissance Planning] 10:36:16
+Um, do I need to do anything, or just… submit this prompt.
+
+[Mateo Nader] 10:36:22
+They can submit it unless you wanted to ask a question.
+
+[Mateo Nader] 10:36:50
+Yeah. Um…
+
+[Renaissance Planning] 10:37:05
+kind of funny that the first cyclist prefers the non-green bike lane, um, so it says it's.
+
+[Renaissance Planning] 10:37:12
+Preferred by me, doesn't slow me down…
+
+[Renaissance Planning] 10:37:24
+Um…
+
+[Renaissance Planning] 10:37:58
+Yeah, I think the rest of the conversation is… Um, realistic.
+
+[Mateo Nader] 10:37:58
+Probably.
+
+[Mateo Nader] 10:38:10
+Got it. As you compare the results, or, like, the… Output of… from this conversation is the one from the… Street design tool.
+
+[Renaissance Planning] 10:38:22
+Um… I would say… This one's a little bit, like, more… Um… detailed in a different way, but the other version, um, I think is easier to compare them all, because you kind of have, like, the quad view, and.
+
+[Renaissance Planning] 10:38:41
+Um, you can kind of see everything all at once, and then also had.
+
+[Renaissance Planning] 10:38:44
+Uh, the graphic bar charts, whereas, like, this one, it's like, you have to, like.
+
+[Renaissance Planning] 10:38:50
+scroll and kind of read everything, and then, even though it's, like, they're all separated, you can't see them all at once unless you, like, you know, zoom out your window or something like that.
+
+[Renaissance Planning] 10:38:59
+So I'd say, like, readability, I think the other one is easier.
+
+[Renaissance Planning] 10:39:03
+To comprehend, but I feel like this one… Um, like, this one talked about the car doors and kind of in a different way, where the other one just kind of, like, ignored.
+
+[Renaissance Planning] 10:39:13
+That sort of, um, feeling that we had.
+
+[Mateo Nader] 10:39:14
+Mm-hmm. And looking at the different, like, tools and features, were there some that.
+
+[Mateo Nader] 10:39:24
+You found more useful than others. Yeah, let's say you're… like, you might be more useful for… Other planners or designers.
+
+[Renaissance Planning] 10:39:29
+Yeah… Yeah, so, um, I would say at first, this first one, um… That we used… so at first, I was like, I don't know why I would ever use this, because if I'm looking at the roadway, I can, you know, kind of.
+
+[Renaissance Planning] 10:39:43
+make all these same assumptions, but I could see this being used as, like, a, um… like, a multi-batch, like, review of roadways and intersections, so if you had, you know, a bunch to review, you could just upload, you know, a bunch of the images, or, like, location points of, like, an existing roadway.
+
+[Renaissance Planning] 10:40:02
+And then, um, you know, get all these different outputs, and then you could compare all of the different existing conditions, so that I could see that being useful.
+
+[Renaissance Planning] 10:40:11
+Um, the only part that, I guess. is a little, like, for both of them is… so, obviously, we're looking at existing roadways, and these are retrofits of existing roadways, but it doesn't… if we were talking about, like, a new road, so I don't know how…
+
+[Renaissance Planning] 10:40:29
+AI would handle it if you showed them. Like, a grass field empty road, and was like… This is what we want to put here in the future kind of thing, so I don't know how that would influence that.
+
+[Mateo Nader] 10:40:39
+Yeah.
+
+[Renaissance Planning] 10:40:40
+And then the only thing I can think of… I don't know, sort of, the background on this first AI, but I guess.
+
+[Renaissance Planning] 10:40:47
+on the chat GPT one, so… Obviously, ChatGPT is catered to.
+
+[Renaissance Planning] 10:40:54
+you as a user, and so the more you keep using… saying certain things, like, it's gonna… cater that to you, so obviously you're doing this study, and you've talked to multiple people, so it's kind of understanding, like, where you're trying to go, so I don't know if that influences anything it might be saying, and like.
+
+[Renaissance Planning] 10:41:10
+As you have more of these interviews, if it, like, gets a little bit better because it, you know, has this background sort of context.
+
+[Mateo Nader] 10:41:18
+That's true. I don't know. I don't remember if I had thought about that or not, because I think there is, like, a… setting where you can, like, kind of turn that off.
+
+[Renaissance Planning] 10:41:29
+Yeah, like, clear the chat history. That would be my only concern with ChatGPT, because, I mean, it's building on your previous, like, conversations that you've had with it, so I don't want, like, your stuff to get skewed or something like that, but… Again, just a thing to, you know, one of your… I would say, like, assumptions that, you know, while you were doing this, you didn't clear the.
+
+[Mateo Nader] 10:41:30
+So…
+
+[Mateo Nader] 10:41:43
+Yeah.
+
+[Renaissance Planning] 10:41:50
+the log, and that could be something that could be explored later on.
+
+[Renaissance Planning] 10:41:54
+To see if it changes anything.
+
+[Mateo Nader] 10:41:55
+Yeah, that's true.
+
+[Renaissance Planning] 10:42:00
+So…
+
+[Mateo Nader] 10:42:00
+Alright, and then… let's… Looking at the tool, based on the current state on the tool.
+
+[Mateo Nader] 10:42:06
+Oh, do you see this being used by designers or engineers and, like.
+
+[Mateo Nader] 10:42:11
+Yes, and what stage of the design process? You see this happening in most usefully.
+
+[Renaissance Planning] 10:42:18
+Yeah, so I think first, like I said, if you were doing sort of an existing conditions review of a bunch of different corridors in an area, or a bunch of different, like, intersections.
+
+[Renaissance Planning] 10:42:29
+Um, this could be used then. Otherwise, like, I could see it being used, like, maybe sort of in the early stages of public meetings and kind of showing.
+
+[Renaissance Planning] 10:42:40
+Um, you know, kind of… like, a high-level scoring of kind of, like, what these corridors might look like compared to different types of users. So, say if you were.
+
+[Mateo Nader] 10:42:41
+Does that sound right?
+
+[Mateo Nader] 10:42:46
+So… I…
+
+[Renaissance Planning] 10:42:50
+presenting to, you know, a bike ped group, like, obviously they're the strong and fearless riders, and kind of showing them, like.
+
+[Renaissance Planning] 10:42:57
+hey, these are kind of what we think, based on, you know, your type of riders, whereas if you go to, like.
+
+[Renaissance Planning] 10:43:03
+Um, you know, just like your everyday person that might not ride all the time, you can be like, hey, these are some of the concerns that we think, um, do these align with, like, how you feel? So you could use it that way.
+
+[Mateo Nader] 10:43:15
+Yes. Okay. I guess, would you say, like… Planners and designers, like, already… have this kind of personas, like, in the back of their mind.
+
+[Renaissance Planning] 10:43:28
+Um, I mean, I would… I mean, so the way… I mean, we're calling it here.
+
+[Mateo Nader] 10:43:29
+Like this.
+
+[Renaissance Planning] 10:43:34
+Like, design scenario, so, like, when I'm, like, doing corridor studies.
+
+[Mateo Nader] 10:43:38
+Yeah, so…
+
+[Renaissance Planning] 10:43:39
+the way, you know, kind of I'm looking at it is, like, this would be… this is all stuff that would be done during, like, the visioning process, so it's a combination of, like, what I was talking about, like, what can we do in reality, but also what does the community want? Because if you… have, you know, and that's kind of, like, where the personas come into play, because if you have.
+
+[Mateo Nader] 10:43:47
+Mm-hmm.
+
+[Mateo Nader] 10:43:58
+I was supposed to try and get…
+
+[Renaissance Planning] 10:43:59
+You know, like, say we had that corridor that we had.
+
+[Renaissance Planning] 10:44:03
+And in reality, right now, it's two-way traffic, there's cars on both sides of the road, there's not really much you can do there unless, like, you get rid of that sidewalk. And so, but if this is, you know.
+
+[Mateo Nader] 10:44:14
+It was a seizure. Empty. Let me get my third… two courses as well.
+
+[Renaissance Planning] 10:44:15
+A place where… people really value riding their bikes over having that sidewalk. Maybe they're willing to.
+
+[Renaissance Planning] 10:44:22
+you know, kind of go over there, but it's one of those where it's like, you'd have to have that conversation, because if people want.
+
+[Renaissance Planning] 10:44:27
+the sidewalk still, then you can't just get rid of it, because that's not what they want, so… And then, obviously, like, whatever codes allow and things like that. So, um, yeah, it would be really cool if, like, you could…
+
+[Mateo Nader] 10:44:30
+Yeah. Oh, no worries.
+
+[Renaissance Planning] 10:44:39
+And again, this is… this would save a lot of people time, but it would be really in-depth, is, like, connecting a location, doing this analysis, and then, like, linking it with, like, existing design standards for, like, whatever location you were in.
+
+[Mateo Nader] 10:44:47
+Really, that's a good practice. Mm-hmm.
+
+[Renaissance Planning] 10:44:51
+Um, that would be another way to kind of, like, tie it and say, like, is this, you know, design that this AI is putting out? Is it even, like, realistic to… based on existing design codes.
+
+[Mateo Nader] 10:44:52
+If we do research.
+
+[Mateo Nader] 10:45:01
+Let's the problem with that. Yeah, the point's been brought up a couple times, and… Because, given more context, so… Oh, it helped us more.
+
+[Renaissance Planning] 10:45:06
+Yeah.
+
+[Renaissance Planning] 10:45:11
+Yeah.
+
+[Mateo Nader] 10:45:13
+Uh, so… there's, like, one or two people that have also brought up, like.
+
+[Mateo Nader] 10:45:17
+Having this tool being used by, like, citizens, like, even, like.
+
+[Mateo Nader] 10:45:21
+or, like, public meetings. Those are so fun. What time is here.
+
+[Renaissance Planning] 10:45:23
+Yeah, exactly, yeah, just to kind of play with it and kind of see, um, and I know, you know, like.
+
+[Renaissance Planning] 10:45:29
+That has been done at public meetings, like. People set up computers and kind of, you know, pre, like, you know, we had here, like, pick a location, this is, like, the corridor we're studying, and then it's, like, here.
+
+[Mateo Nader] 10:45:32
+Mm-hmm.
+
+[Renaissance Planning] 10:45:39
+tell, you know, AI to create, you know, this corridor with bike lanes and transit and show all these different things, and then they kind of, like.
+
+[Renaissance Planning] 10:45:46
+Gave everybody these, um, you know, a chance to do this and kind of compile the images, and then, you know, collectively kind of figured out, like, what, you know, you kind of.
+
+[Renaissance Planning] 10:45:55
+what the vision is for this corridor, so… I think it's a cool way to, um, get people interested, and instead of, um… just looking, like, straight at maps, or straight at a presentation, but, um, I think, you know, with anything, it's one of those where.
+
+[Mateo Nader] 10:45:59
+No.
+
+[Renaissance Planning] 10:46:11
+The people that tend to come to public meetings may not be the most technologically savvy, so just making sure, you know, you have people there to help with the prompts, help with the technical assistance of, like.
+
+[Mateo Nader] 10:46:17
+Mm-hmm.
+
+[Renaissance Planning] 10:46:23
+This is what you do, this is what this is showing you, and.
+
+[Renaissance Planning] 10:46:27
+Um, but yeah, I mean, overall, I mean, I think it's easy to do, and then, of course, you know, it would be… obviously, it's great.
+
+[Renaissance Planning] 10:46:34
+You know, to look at on your laptop, but um… you know, if there was a version that's, like, mobile compatible, um, because I can't… I feel like this… tool would be kind of hard to view, like, on a phone, just because there's, like, different screens, and kind of you're moving around, but I… again, I don't know, since we didn't do it on the phone.
+
+[Mateo Nader] 10:46:51
+Yeah.
+
+[Renaissance Planning] 10:46:54
+So…
+
+[Mateo Nader] 10:46:56
+Yeah, maybe on iPads are probably easier. Yeah.
+
+[Renaissance Planning] 10:46:59
+Yeah, that would be okay, I think.
+
+[Mateo Nader] 10:47:04
+Okay, and then this last question, kind of a… Big picture question, but… Why don't you view the relationship between AI and road designers, and you see it as one is… Of augmentation or replacement?
+
+[Renaissance Planning] 10:47:18
+Um, definitely not replacement effort. So… I think AI has its time and place, but again, we are the professionals, we are the people that are living in reality, and so we have to cross-check.
+
+[Mateo Nader] 10:47:22
+Hopefully not.
+
+[Renaissance Planning] 10:47:34
+Um, what AI is outputting. So again, I think of… I… for me personally, I use AI as, like, a starting point.
+
+[Renaissance Planning] 10:47:42
+To kind of brainstorm ideas. Um, maybe summarize information, get me started, but again, and this is something that I work with FDOT a lot, so they have their AI policies, and one of their things is, like.
+
+[Renaissance Planning] 10:47:58
+The human is at the center of everything AI, so no matter what, humans still have to be involved in the AI process. It's not like we can just, like, let it run free will and say, hey, put together a transportation master plan, because again, we still need to talk to.
+
+[Renaissance Planning] 10:48:11
+the citizens, the community, we still need to cross-check with design standards, changes in policies.
+
+[Renaissance Planning] 10:48:17
+things that, you know, AI might not know just because it didn't find it on the web or something like that.
+
+[Renaissance Planning] 10:48:23
+So… but… I think it's… I think it's good for certain things.
+
+[Mateo Nader] 10:48:24
+Mm-hmm.
+
+[Mateo Nader] 10:48:29
+Yeah, I agree. It's good to hear that. But DLT already has a… Solid policy on that.
+
+[Renaissance Planning] 10:48:37
+Yeah.
+
+[Mateo Nader] 10:48:41
+Alright then, how's it for the questions I had this last few times, just gonna do this after the meeting, but… You can just finish filling out all those surveys.
+
+[Renaissance Planning] 10:48:49
+Okay, let me just hold…
+
+[Mateo Nader] 10:48:51
+Um, it's like the… follow-up email, you could send those files you downloaded.
+
+[Renaissance Planning] 10:48:55
+Okay. Okay.
+
+[Mateo Nader] 10:48:57
+And also, if you could screenshot, like. The responses from the AI that you found most interesting?
+
+[Renaissance Planning] 10:49:04
+Okay. Okay, yeah, I can do that. Um…
+
+[Mateo Nader] 10:49:05
+And, yeah, send those to the email.
+
+[Mateo Nader] 10:49:11
+Yeah, there's two more surveys.
+
+[Renaissance Planning] 10:49:13
+Okay, so… interview questions, and then… wait, what's, um… oh, the chat GPT survey?
+
+[Mateo Nader] 10:49:21
+Yeah, and the street design AI service. So you don't need to do the interview questions.
+
+[Renaissance Planning] 10:49:24
+Okay, all right, so those two… Okay, alright. Yep, I can do that.
+
+[Renaissance Planning] 10:49:33
+Um, and then it's… do I need to do any of this, or this is for you, the interaction logs? Is that…
+
+[Mateo Nader] 10:49:40
+That's, like, one of the things that you downloaded.
+
+[Mateo Nader] 10:49:43
+was, uh, interaction, like, along with those two pictures, so… Yeah, you can just send this to us.
+
+[Renaissance Planning] 10:49:45
+Okay, alright. Yep. Okay.
+
+[Renaissance Planning] 10:49:50
+Yeah. Um, do you want me to do the surveys now, or when we get off the call?
+
+[Mateo Nader] 10:49:52
+Yeah, thanks again for… I'm gonna do them when we get off. It's, like, basically the same as the pre-study survey, just… More towards, uh… Each tool is.
+
+[Renaissance Planning] 10:49:58
+Okay.
+
+[Renaissance Planning] 10:50:05
+Okay, yeah. Um… I think… Yeah, I would say the only… Awesome.
+
+[Renaissance Planning] 10:50:20
+Yeah, no, I'm good. Um… Okay, well, yeah, I will, um… fill out those surveys and send you all the stuff I downloaded, so…
+
+[Mateo Nader] 10:50:34
+Well, thank you for your time. Hope you have a great rest of your week.
+
+[Renaissance Planning] 10:50:37
+Yeah, no problem. Thanks for inviting me to do this, and good luck with the rest of the study, so… Alright, bye.
+
+[Mateo Nader] 10:50:44
+Yeah, thank you. Alright, bye.
+

@@ -1,0 +1,2295 @@
+[Duanya Lyu] 13:03:13
+That's it.
+
+[Duanya Lyu] 13:03:15
+Can you open the…
+
+[Duanya Lyu] 13:03:17
+email Matthew sent to you earlier, there's a PDF online…
+
+[Duanya Lyu] 13:03:22
+I'd like to adjust the office interview.
+
+[Erik Huang (Jacobs)] 13:03:27
+Yeah, let me get the…
+
+[Erik Huang (Jacobs)] 13:03:41
+Okay…
+
+[Erik Huang (Jacobs)] 13:03:43
+Okay, I have the PDF open.
+
+[Erik Huang (Jacobs)] 13:03:48
+With the instructions?
+
+[Duanya Lyu] 13:03:55
+Um, your mind starts sharing our screen, so we can, like,
+
+[Duanya Lyu] 13:04:00
+cloud system, you know.
+
+[Erik Huang (Jacobs)] 13:04:01
+Yeah, yeah, uh-huh.
+
+[Erik Huang (Jacobs)] 13:04:04
+Okay… um…
+
+[Erik Huang (Jacobs)] 13:04:17
+Sorry, we don't use Zoom here, so…
+
+[Erik Huang (Jacobs)] 13:04:19
+Like…
+
+[Erik Huang (Jacobs)] 13:04:21
+figuring this out, okay.
+
+[Erik Huang (Jacobs)] 13:04:25
+Does this work?
+
+[Duanya Lyu] 13:04:28
+Yes.
+
+[Erik Huang (Jacobs)] 13:04:28
+Can you see when I switch the tabs?
+
+[Erik Huang (Jacobs)] 13:04:32
+Or is it just the PDF?
+
+[Duanya Lyu] 13:04:35
+It's still low danger, let's see…
+
+[Erik Huang (Jacobs)] 13:04:37
+Okay.
+
+[Duanya Lyu] 13:04:41
+Yeah, I'm seeing the PDF.
+
+[Duanya Lyu] 13:04:43
+screen now, yeah.
+
+[Erik Huang (Jacobs)] 13:04:44
+Okay. I guess we can look at this first, and then I'll switch.
+
+[Erik Huang (Jacobs)] 13:04:50
+Um, when we have to look at the website.
+
+[Erik Huang (Jacobs)] 13:04:53
+Okay.
+
+[Duanya Lyu] 13:04:56
+Do they have a… like, do they have time, like,
+
+[Duanya Lyu] 13:04:58
+Like, watch the video Jacob shared.
+
+[Erik Huang (Jacobs)] 13:05:02
+Yeah, I looked at the video, and I looked at the tool…
+
+[Erik Huang (Jacobs)] 13:05:06
+Like, maybe last week for a minute, um…
+
+[Erik Huang (Jacobs)] 13:05:10
+So I think I just used the example location, just…
+
+[Erik Huang (Jacobs)] 13:05:14
+So I saw what it looked like, yeah.
+
+[Duanya Lyu] 13:05:16
+Terrific, um, about the free study survey, have you filled in that survey already?
+
+[Erik Huang (Jacobs)] 13:05:16
+Mm-hmm.
+
+[Erik Huang (Jacobs)] 13:05:23
+Um, not yet.
+
+[Duanya Lyu] 13:05:26
+I think we can do that now, yeah, that's just, like, the basic background.
+
+[Erik Huang (Jacobs)] 13:05:28
+Okay.
+
+[Duanya Lyu] 13:05:31
+Questions, yeah.
+
+[Erik Huang (Jacobs)] 13:05:32
+Okay.
+
+[Erik Huang (Jacobs)] 13:05:49
+Am I sharing my screen still right now?
+
+[Erik Huang (Jacobs)] 13:05:53
+Or is it…
+
+[Duanya Lyu] 13:05:53
+I'm not seeing the survey right now, but for now, it's okay, yeah.
+
+[Erik Huang (Jacobs)] 13:05:56
+Okay. Okay.
+
+[Erik Huang (Jacobs)] 13:06:43
+Okay, I submitted the survey.
+
+[Erik Huang (Jacobs)] 13:06:46
+Um…
+
+[Duanya Lyu] 13:06:47
+Let's…
+
+[Erik Huang (Jacobs)] 13:06:48
+I think it's under a different email, actually, now that I realize I submitted it.
+
+[Duanya Lyu] 13:06:51
+That's… yeah, that's okay. Yeah, we will, like, give, like, each interviewer, like, a number, like, yeah, we will.
+
+[Erik Huang (Jacobs)] 13:06:54
+So…
+
+[Duanya Lyu] 13:07:00
+Truck back.
+
+[Erik Huang (Jacobs)] 13:07:00
+Okay. Okay.
+
+[Duanya Lyu] 13:07:06
+Now we can, like, do the…
+
+[Duanya Lyu] 13:07:09
+Right. A very brief, like…
+
+[Duanya Lyu] 13:07:11
+agenda, like, introductions, like, we will first try the system.
+
+[Duanya Lyu] 13:07:14
+And then we will, like, part two will, like, try to…
+
+[Duanya Lyu] 13:07:18
+like, replicate the whole process in, like, classic GPT and, like, we will compare the two, yeah.
+
+[Erik Huang (Jacobs)] 13:07:26
+Okay, cool.
+
+[Erik Huang (Jacobs)] 13:07:29
+So I'll open the street design AI website.
+
+[Duanya Lyu] 13:07:33
+Yes.
+
+[Erik Huang (Jacobs)] 13:07:41
+And let me…
+
+[Erik Huang (Jacobs)] 13:07:43
+Fix my screen share…
+
+[Erik Huang (Jacobs)] 13:07:49
+Okay, I think this should be better.
+
+[Erik Huang (Jacobs)] 13:07:53
+Okay, can you see?
+
+[Duanya Lyu] 13:07:54
+Great, yeah, I can see that.
+
+[Erik Huang (Jacobs)] 13:07:57
+Okay.
+
+[Erik Huang (Jacobs)] 13:07:59
+Amazing then.
+
+[Duanya Lyu] 13:08:00
+Oh, you actually find a way to, like, navigate the UI, yeah, great.
+
+[Erik Huang (Jacobs)] 13:08:03
+Yeah.
+
+[Duanya Lyu] 13:08:05
+No.
+
+[Erik Huang (Jacobs)] 13:08:07
+Okay.
+
+[Duanya Lyu] 13:08:07
+you know, the UI of the system is a little bit, like…
+
+[Duanya Lyu] 13:08:11
+Headache. Yeah, you, like, you…
+
+[Erik Huang (Jacobs)] 13:08:12
+Yeah.
+
+[Erik Huang (Jacobs)] 13:08:16
+It's interesting looking.
+
+[Erik Huang (Jacobs)] 13:08:20
+Okay.
+
+[Duanya Lyu] 13:08:21
+You can load the test coordinate, or you can choose a location, like, you are
+
+[Duanya Lyu] 13:08:26
+quite interested, yeah.
+
+[Erik Huang (Jacobs)] 13:08:29
+Okay, um…
+
+[Erik Huang (Jacobs)] 13:08:36
+Maybe I'll find, like, a different location? Let me…
+
+[Erik Huang (Jacobs)] 13:08:42
+find a coordinate. Is it okay if I take, like, a minute?
+
+[Duanya Lyu] 13:08:45
+Yeah, of course, yeah.
+
+[Duanya Lyu] 13:08:47
+In previous interviewers, like, they sometimes go to Google Maps and right-click and copy the coordinates.
+
+[Erik Huang (Jacobs)] 13:08:56
+Okay, let me think…
+
+[Erik Huang (Jacobs)] 13:09:43
+I'm in Chicago, by the way.
+
+[Duanya Lyu] 13:09:45
+Ooh.
+
+[Erik Huang (Jacobs)] 13:09:46
+Um…
+
+[Erik Huang (Jacobs)] 13:09:48
+So, I'm gonna look for…
+
+[Erik Huang (Jacobs)] 13:09:54
+One location…
+
+[Erik Huang (Jacobs)] 13:09:59
+Yeah, I have the bike filter on, so…
+
+[Erik Huang (Jacobs)] 13:10:03
+Let's see…
+
+[Erik Huang (Jacobs)] 13:10:08
+So I guess if we're interested in a bike corridor,
+
+[Erik Huang (Jacobs)] 13:10:11
+should we select just, like, one…
+
+[Erik Huang (Jacobs)] 13:10:15
+specific example of, like, the street cross-section.
+
+[Duanya Lyu] 13:10:21
+Yeah, that's good. That's a good idea, yeah.
+
+[Duanya Lyu] 13:10:23
+But, like, the… like, like, the system design for segment, not intersection, so, like, we can, like, navigate
+
+[Duanya Lyu] 13:10:31
+Which direction of the camera in the system, yeah.
+
+[Erik Huang (Jacobs)] 13:10:35
+Uh, okay, cool.
+
+[Erik Huang (Jacobs)] 13:10:40
+Okay, so I'll just pick, like, something along here.
+
+[Erik Huang (Jacobs)] 13:10:43
+If I'm interested in this…
+
+[Erik Huang (Jacobs)] 13:10:46
+east-west direction. I'll just pull a coordinate.
+
+[Duanya Lyu] 13:10:50
+Yeah.
+
+[Erik Huang (Jacobs)] 13:11:04
+This is…
+
+[Erik Huang (Jacobs)] 13:11:06
+Oh, we need the latitude…
+
+[Erik Huang (Jacobs)] 13:11:12
+Okay. You can still see, right, the tool?
+
+[Duanya Lyu] 13:11:15
+Mm-hmm.
+
+[Erik Huang (Jacobs)] 13:11:16
+Okay, so I can load location…
+
+[Erik Huang (Jacobs)] 13:11:24
+Okay, cool.
+
+[Duanya Lyu] 13:11:27
+And we can, like, choose a…
+
+[Duanya Lyu] 13:11:29
+camera direction you are interested in, yeah.
+
+[Erik Huang (Jacobs)] 13:11:32
+Okay, so we set up the camera direction, and then…
+
+[Duanya Lyu] 13:11:35
+Yeah, and we can, like…
+
+[Erik Huang (Jacobs)] 13:11:37
+Okay.
+
+[Duanya Lyu] 13:11:38
+Right. Go backward from, like, a little bit, like, if you want, yeah.
+
+[Erik Huang (Jacobs)] 13:11:44
+Uh, so I can still move here.
+
+[Erik Huang (Jacobs)] 13:11:46
+And then…
+
+[Erik Huang (Jacobs)] 13:11:49
+I could do like this, maybe?
+
+[Duanya Lyu] 13:11:51
+Yeah, that's, you know, that's a good angle, yeah.
+
+[Erik Huang (Jacobs)] 13:11:54
+Cool. So, general…
+
+[Duanya Lyu] 13:11:56
+And it's huge.
+
+[Duanya Lyu] 13:11:58
+Yeah.
+
+[Erik Huang (Jacobs)] 13:11:59
+Okay.
+
+[Duanya Lyu] 13:12:02
+Um, and, like, this, like, generating evaluation function.
+
+[Duanya Lyu] 13:12:07
+Like, what it's doing is, like, it's…
+
+[Duanya Lyu] 13:12:10
+use this location to get Google Street View image.
+
+[Duanya Lyu] 13:12:14
+And this image is used as input for, like…
+
+[Duanya Lyu] 13:12:31
+Yeah, it's actually giving results, okay.
+
+[Duanya Lyu] 13:12:34
+I guess, what it does is it used this image, like, to do some, like,
+
+[Duanya Lyu] 13:12:39
+data analysis, like, picture, like, figure analysis.
+
+[Duanya Lyu] 13:12:44
+And, like, generate a…
+
+[Duanya Lyu] 13:12:46
+bike-related evaluation, yeah.
+
+[Duanya Lyu] 13:12:53
+take some time, read through this, and, like, any feedbacks? Like, yes?
+
+[Erik Huang (Jacobs)] 13:13:07
+So, the driver cyclist is just, like, their perspective.
+
+[Erik Huang (Jacobs)] 13:13:12
+for different road users.
+
+[Duanya Lyu] 13:13:16
+Yes.
+
+[Erik Huang (Jacobs)] 13:13:17
+Okay. And this is for the existing condition.
+
+[Erik Huang (Jacobs)] 13:13:22
+Right, okay.
+
+[Duanya Lyu] 13:13:22
+Mm-hmm.
+
+[Erik Huang (Jacobs)] 13:13:37
+Okay…
+
+[Erik Huang (Jacobs)] 13:13:49
+Yeah, okay.
+
+[Erik Huang (Jacobs)] 13:13:52
+Makes sense.
+
+[Erik Huang (Jacobs)] 13:13:56
+And then the four boxes here at the bottom, this is…
+
+[Erik Huang (Jacobs)] 13:14:01
+Like, bicyclists?
+
+[Erik Huang (Jacobs)] 13:14:04
+types of bicyclists?
+
+[Erik Huang (Jacobs)] 13:14:06
+Is that correct?
+
+[Duanya Lyu] 13:14:06
+Yeah, this… yeah, this is based on, um…
+
+[Duanya Lyu] 13:14:10
+Portland study, like, they developed this, like, hypology of…
+
+[Duanya Lyu] 13:14:14
+cyclists, yeah.
+
+[Erik Huang (Jacobs)] 13:14:15
+Yeah.
+
+[Erik Huang (Jacobs)] 13:14:19
+So, like, Strong and Fearless is, like, they'll bike anywhere type of…
+
+[Erik Huang (Jacobs)] 13:14:23
+Biker.
+
+[Duanya Lyu] 13:14:25
+Yeah, yeah, yeah.
+
+[Erik Huang (Jacobs)] 13:14:26
+And then… most people are probably…
+
+[Duanya Lyu] 13:14:27
+Right.
+
+[Erik Huang (Jacobs)] 13:14:32
+interested but concerned, and maybe…
+
+[Erik Huang (Jacobs)] 13:14:36
+Maybe this. Actually, probably not most people.
+
+[Duanya Lyu] 13:14:39
+Yeah, that's a… that's a very accurate guess. I think, like, in the paper, they noticed the interesting and bad concern. They are the most, like, share of the site list.
+
+[Duanya Lyu] 13:14:49
+Yeah.
+
+[Erik Huang (Jacobs)] 13:14:52
+Interesting.
+
+[Erik Huang (Jacobs)] 13:15:07
+So these bullet points are describing the needs of
+
+[Erik Huang (Jacobs)] 13:15:11
+these different types of bikers.
+
+[Duanya Lyu] 13:15:15
+They are actually, like, how they view this…
+
+[Duanya Lyu] 13:15:19
+row segment, this, like, this condition.
+
+[Erik Huang (Jacobs)] 13:15:45
+Yeah, no cycling infrastructure…
+
+[Erik Huang (Jacobs)] 13:15:49
+most people here, yeah, probably avoid.
+
+[Erik Huang (Jacobs)] 13:15:54
+Cycling on this street.
+
+[Erik Huang (Jacobs)] 13:15:59
+Hmm…
+
+[Erik Huang (Jacobs)] 13:16:08
+So all of this is, like, um…
+
+[Erik Huang (Jacobs)] 13:16:12
+100% based on the image.
+
+[Erik Huang (Jacobs)] 13:16:15
+The input is the image, or are there other factors at this point?
+
+[Duanya Lyu] 13:16:21
+There are actually, like, like, supplements data. I don't know how familiar you are with, like, map data.
+
+[Duanya Lyu] 13:16:28
+They actually included open street map data in this, like,
+
+[Duanya Lyu] 13:16:35
+Uh, um, how, like…
+
+[Duanya Lyu] 13:16:37
+Opus Roadmap, they have…
+
+[Duanya Lyu] 13:16:39
+be the data, like number of layers, like, and…
+
+[Duanya Lyu] 13:16:44
+Some has spiked facility data included.
+
+[Duanya Lyu] 13:16:47
+Yeah, so sorry I could joint dataset analysis, yeah.
+
+[Erik Huang (Jacobs)] 13:16:52
+Okay, so there's, like, additional…
+
+[Erik Huang (Jacobs)] 13:16:56
+inputs into the tool.
+
+[Erik Huang (Jacobs)] 13:16:57
+And then the picture is just…
+
+[Erik Huang (Jacobs)] 13:17:00
+supplement for now.
+
+[Erik Huang (Jacobs)] 13:17:01
+And I assume it'll help later.
+
+[Duanya Lyu] 13:17:03
+Yes.
+
+[Erik Huang (Jacobs)] 13:17:05
+With the visualization.
+
+[Erik Huang (Jacobs)] 13:17:10
+Okay.
+
+[Duanya Lyu] 13:17:16
+How do you feel about the valuations? Do they, like, feel realistic? Do they, like…
+
+[Duanya Lyu] 13:17:21
+help pedals?
+
+[Erik Huang (Jacobs)] 13:17:25
+I think this seems correct, especially, like, this interested but concerned…
+
+[Erik Huang (Jacobs)] 13:17:30
+I think that's how most people, or, like, planners, are, like, thinking about, like, oh, we need to improve.
+
+[Erik Huang (Jacobs)] 13:17:37
+We need to make it, like, more comfortable or convenient for people that aren't, you know,
+
+[Erik Huang (Jacobs)] 13:17:42
+confident bikers…
+
+[Erik Huang (Jacobs)] 13:17:45
+And so, they usually look at places with no cycling infrastructure.
+
+[Erik Huang (Jacobs)] 13:17:50
+And yeah, no separated paths is, like, an important topic, I think.
+
+[Erik Huang (Jacobs)] 13:17:57
+But otherwise, yeah, I do agree that, like, okay…
+
+[Erik Huang (Jacobs)] 13:18:00
+Strong and Fearless, isn't confident, would probably be okay here.
+
+[Erik Huang (Jacobs)] 13:18:05
+I forget if it's, like, a local street or not, but, like…
+
+[Erik Huang (Jacobs)] 13:18:08
+you know, let's say you're biking from point A to B, like, and you have to go through this area, it's not…
+
+[Erik Huang (Jacobs)] 13:18:14
+the worst? I guess it depends how much traffic is there, also, so I guess…
+
+[Erik Huang (Jacobs)] 13:18:20
+I'm going into, like, ADT or some other…
+
+[Erik Huang (Jacobs)] 13:18:23
+Traffic volume factors…
+
+[Erik Huang (Jacobs)] 13:18:25
+in the tool.
+
+[Erik Huang (Jacobs)] 13:18:28
+Um…
+
+[Erik Huang (Jacobs)] 13:18:31
+And I guess I'm wondering how, like, parking…
+
+[Erik Huang (Jacobs)] 13:18:34
+influences the tool, but I'm sure…
+
+[Erik Huang (Jacobs)] 13:18:37
+I'll see you a little bit more once the visualization…
+
+[Erik Huang (Jacobs)] 13:18:41
+Works out. Um…
+
+[Duanya Lyu] 13:18:43
+Yeah.
+
+[Erik Huang (Jacobs)] 13:18:44
+Yeah, I think the rankings are reasonable.
+
+[Erik Huang (Jacobs)] 13:18:48
+Safety, comfort,
+
+[Erik Huang (Jacobs)] 13:18:50
+total is… is that, like, an average?
+
+[Duanya Lyu] 13:18:53
+Yes.
+
+[Erik Huang (Jacobs)] 13:18:54
+Okay.
+
+[Erik Huang (Jacobs)] 13:18:56
+Yeah.
+
+[Duanya Lyu] 13:18:59
+For those, like, evaluation, there are, like, additional analysis. If you click this.
+
+[Duanya Lyu] 13:19:04
+in-depth analysis button.
+
+[Duanya Lyu] 13:19:09
+So you are still with…
+
+[Duanya Lyu] 13:19:12
+You need to, like, yeah.
+
+[Duanya Lyu] 13:19:14
+Navigate some of them, yeah.
+
+[Erik Huang (Jacobs)] 13:19:15
+It's very interactive.
+
+[Erik Huang (Jacobs)] 13:19:17
+Which… I like.
+
+[Duanya Lyu] 13:19:20
+Oh, we're actually alive this.
+
+[Erik Huang (Jacobs)] 13:19:23
+Oh, like, I don't know, it seems… I guess it depends, like, in practice, like, how often.
+
+[Erik Huang (Jacobs)] 13:19:28
+someone would need to do it. Um, but I kind of… I like, you know…
+
+[Erik Huang (Jacobs)] 13:19:32
+the process, like, the arrows can help.
+
+[Erik Huang (Jacobs)] 13:19:36
+show the order.
+
+[Erik Huang (Jacobs)] 13:19:38
+of operations, instead of, like, going to a different website, because then you can see, like, all…
+
+[Erik Huang (Jacobs)] 13:19:45
+steps at one time.
+
+[Erik Huang (Jacobs)] 13:19:48
+Um, okay, so in-depth analysis…
+
+[Erik Huang (Jacobs)] 13:19:54
+Okay. So this is, like…
+
+[Duanya Lyu] 13:19:56
+Would this… yeah.
+
+[Erik Huang (Jacobs)] 13:19:57
+Yeah.
+
+[Duanya Lyu] 13:19:57
+you know, what this does is, like, it tries to…
+
+[Duanya Lyu] 13:20:01
+role player over this, like, different personas and, like, mimic their conversations.
+
+[Erik Huang (Jacobs)] 13:20:09
+That's cool.
+
+[Erik Huang (Jacobs)] 13:20:10
+So, like, the AI, like, you give it, like, a persona, and then…
+
+[Erik Huang (Jacobs)] 13:20:15
+They'll provide some sort of commentary that…
+
+[Erik Huang (Jacobs)] 13:20:20
+will likely reflect this person.
+
+[Erik Huang (Jacobs)] 13:20:23
+starts.
+
+[Duanya Lyu] 13:20:24
+Yes.
+
+[Erik Huang (Jacobs)] 13:20:33
+Adding clear lane markings, yeah.
+
+[Erik Huang (Jacobs)] 13:20:51
+So here are the strong and fearless bikers still.
+
+[Erik Huang (Jacobs)] 13:20:55
+is maybe wanting a painted bike lane, like a separate bike lane?
+
+[Erik Huang (Jacobs)] 13:21:01
+According to this?
+
+[Erik Huang (Jacobs)] 13:21:13
+Buffer zone…
+
+[Erik Huang (Jacobs)] 13:21:44
+Yeah, I think this is interesting.
+
+[Erik Huang (Jacobs)] 13:21:48
+I think this is good so far to, like, get initial…
+
+[Erik Huang (Jacobs)] 13:21:54
+ideas or possibilities.
+
+[Erik Huang (Jacobs)] 13:21:57
+for how to design a new bike facility here.
+
+[Erik Huang (Jacobs)] 13:22:01
+If you're interested in somewhere with… that doesn't have anything.
+
+[Duanya Lyu] 13:22:06
+then you can actually, like…
+
+[Duanya Lyu] 13:22:10
+During this conversation, you can ask them about, like,
+
+[Duanya Lyu] 13:22:12
+with, like, specific things, or, like, the design you have in mind, yes.
+
+[Erik Huang (Jacobs)] 13:22:17
+Okay. And then these 5 personas will, like, respond to that?
+
+[Duanya Lyu] 13:22:24
+Yeah.
+
+[Erik Huang (Jacobs)] 13:22:25
+Okay. 1, 2…
+
+[Erik Huang (Jacobs)] 13:22:33
+Think about…
+
+[Erik Huang (Jacobs)] 13:22:50
+So this, I would expect, like…
+
+[Erik Huang (Jacobs)] 13:22:53
+The strong and fearless, to be like, okay, that's fine.
+
+[Erik Huang (Jacobs)] 13:22:57
+If it's just, like, a painted bike.
+
+[Erik Huang (Jacobs)] 13:23:01
+Cheryl… symbol?
+
+[Erik Huang (Jacobs)] 13:23:26
+Yeah, so most people don't want that.
+
+[Erik Huang (Jacobs)] 13:23:38
+signage…
+
+[Erik Huang (Jacobs)] 13:23:47
+Yeah, green, like…
+
+[Erik Huang (Jacobs)] 13:23:51
+guidance, markings are pretty simple.
+
+[Erik Huang (Jacobs)] 13:24:09
+This is cool, we can probably ask a lot more questions, but…
+
+[Erik Huang (Jacobs)] 13:24:13
+Maybe it's okay.
+
+[Duanya Lyu] 13:24:15
+how, like, um…
+
+[Duanya Lyu] 13:24:17
+How do you feel about their, like, replies? Do you think it's, like, human-like, or do you think, like, it's just, like, very GPT-like?
+
+[Erik Huang (Jacobs)] 13:24:27
+Um…
+
+[Erik Huang (Jacobs)] 13:24:29
+Like, some of them aren't really giving their opinions on this.
+
+[Erik Huang (Jacobs)] 13:24:35
+like this one… I guess their answer is they don't like it, but they're not really…
+
+[Erik Huang (Jacobs)] 13:24:42
+talking about it specifically?
+
+[Erik Huang (Jacobs)] 13:24:51
+I guess our… when…
+
+[Erik Huang (Jacobs)] 13:24:54
+I guess the personas are from the paper.
+
+[Erik Huang (Jacobs)] 13:24:57
+But, like, are the personas trained? Like, are you saying, like, oh…
+
+[Erik Huang (Jacobs)] 13:25:04
+the no way, know-how will always want.
+
+[Erik Huang (Jacobs)] 13:25:08
+Like, you know what I mean? Like, will they always say they'll want…
+
+[Erik Huang (Jacobs)] 13:25:12
+the same thing…
+
+[Duanya Lyu] 13:25:17
+Sorry. I know, like, the…
+
+[Duanya Lyu] 13:25:20
+Like, the technical side, like, they see some, like, some instructions.
+
+[Duanya Lyu] 13:25:26
+Like, some profiles, and…
+
+[Duanya Lyu] 13:25:28
+We also use… since this is, like, an established, like, typology, so they also use some…
+
+[Duanya Lyu] 13:25:36
+Like, our knowledge.
+
+[Duanya Lyu] 13:25:38
+Yeah.
+
+[Duanya Lyu] 13:25:40
+So…
+
+[Duanya Lyu] 13:25:45
+And do you feel like these are helpful or not, right?
+
+[Duanya Lyu] 13:25:49
+They are feedbacks.
+
+[Erik Huang (Jacobs)] 13:25:56
+Hmm…
+
+[Erik Huang (Jacobs)] 13:25:59
+I guess when it comes to, like, actually designing and choosing what facility to make here…
+
+[Erik Huang (Jacobs)] 13:26:06
+Typically, we try to always go for, like, the best.
+
+[Erik Huang (Jacobs)] 13:26:11
+facility, like, if there's space to do, like, concrete work.
+
+[Erik Huang (Jacobs)] 13:26:16
+or have concrete barriers, and we always almost want to do that.
+
+[Erik Huang (Jacobs)] 13:26:20
+Especially if it's part of, like,
+
+[Erik Huang (Jacobs)] 13:26:22
+a continuous bike network?
+
+[Erik Huang (Jacobs)] 13:26:27
+So, like, the restrictions of, like, the actual roadway width.
+
+[Erik Huang (Jacobs)] 13:26:31
+And parking and stuff like that, those are…
+
+[Erik Huang (Jacobs)] 13:26:35
+More often, the driving factors and, like, what
+
+[Erik Huang (Jacobs)] 13:26:38
+facility, like a city will install.
+
+[Erik Huang (Jacobs)] 13:26:42
+Um…
+
+[Erik Huang (Jacobs)] 13:26:45
+So, uh, usually we're always, like, trying to consider, like, this.
+
+[Erik Huang (Jacobs)] 13:26:49
+person interested but concerned.
+
+[Erik Huang (Jacobs)] 13:26:52
+Or no, I know how, because…
+
+[Erik Huang (Jacobs)] 13:26:54
+Again, like we discussed, like, that's most people.
+
+[Erik Huang (Jacobs)] 13:26:57
+And the goal is to, like,
+
+[Erik Huang (Jacobs)] 13:27:01
+basically make it, like, accessible or easy for anyone to bike.
+
+[Erik Huang (Jacobs)] 13:27:04
+from different locations.
+
+[Erik Huang (Jacobs)] 13:27:07
+So… surveying, like, the four different people isn't usually part of our…
+
+[Erik Huang (Jacobs)] 13:27:14
+workflow?
+
+[Erik Huang (Jacobs)] 13:27:15
+I'm not really sure on the city side, because I, like, work at, like, a consulting firm, so it's different.
+
+[Erik Huang (Jacobs)] 13:27:21
+So maybe on the city side, they're more interested, or the planning agency side, they're more interested in…
+
+[Erik Huang (Jacobs)] 13:27:27
+actually determining these opinions.
+
+[Erik Huang (Jacobs)] 13:27:32
+Um…
+
+[Erik Huang (Jacobs)] 13:27:33
+So…
+
+[Erik Huang (Jacobs)] 13:27:35
+Yeah, I think it's interesting and helpful.
+
+[Erik Huang (Jacobs)] 13:27:39
+But for, like, as designers…
+
+[Erik Huang (Jacobs)] 13:27:43
+I think there's a lot more factors than just…
+
+[Erik Huang (Jacobs)] 13:27:47
+deciding which comfort level biker to design for.
+
+[Duanya Lyu] 13:27:53
+And, like, following up on what you said about the two groups you are interested in, like, do you feel their feedback's useful, or…?
+
+[Duanya Lyu] 13:28:03
+Like, there are, like, not useful, yeah.
+
+[Erik Huang (Jacobs)] 13:28:09
+I think it's helpful, yeah, like, so those who are interested but concerned know I know how.
+
+[Erik Huang (Jacobs)] 13:28:15
+Um… people that are interested, I think I agree, it's like, yeah, this seems correct that…
+
+[Erik Huang (Jacobs)] 13:28:21
+people don't want to be biking next to a car.
+
+[Erik Huang (Jacobs)] 13:28:25
+So, concrete barriers are always…
+
+[Erik Huang (Jacobs)] 13:28:30
+the most helpful in, like, getting people to actually ride their bike.
+
+[Erik Huang (Jacobs)] 13:28:34
+If they're interested.
+
+[Erik Huang (Jacobs)] 13:28:36
+Um, because usually that's, like,
+
+[Erik Huang (Jacobs)] 13:28:39
+I think that's the main barrier, is like, oh, people don't feel safe.
+
+[Erik Huang (Jacobs)] 13:28:43
+When they're right next to a car.
+
+[Erik Huang (Jacobs)] 13:28:46
+When… especially when, like, cars can easily just go into the bike lane, or park, or, like…
+
+[Erik Huang (Jacobs)] 13:28:50
+pick up or drop-off type of situations.
+
+[Erik Huang (Jacobs)] 13:28:54
+Um, that's always frustrating for, like, a bicyclist, because then they have to…
+
+[Erik Huang (Jacobs)] 13:28:59
+go around this car that's suddenly in the bike lane, so…
+
+[Erik Huang (Jacobs)] 13:29:03
+Yeah, I think it's useful, and it looks… the prompts, like, they look reasonable and correct here.
+
+[Erik Huang (Jacobs)] 13:29:12
+Just reading a little more specifically right now.
+
+[Erik Huang (Jacobs)] 13:29:16
+Um, yeah, raised crossings are useful.
+
+[Erik Huang (Jacobs)] 13:29:20
+Concrete barriers…
+
+[Erik Huang (Jacobs)] 13:29:32
+Yeah.
+
+[Duanya Lyu] 13:29:35
+Okay, um, let's leave this window, like, open, because after the interview, like, we will ask you to…
+
+[Duanya Lyu] 13:29:41
+like, take 3 screenshots of the…
+
+[Duanya Lyu] 13:29:45
+like, the most interesting thing you found about the system?
+
+[Erik Huang (Jacobs)] 13:29:49
+Mm-hmm. Yeah.
+
+[Duanya Lyu] 13:29:50
+So, let's leave this, like, windows open.
+
+[Erik Huang (Jacobs)] 13:29:54
+Okay.
+
+[Duanya Lyu] 13:29:54
+And if we come to the next part, which is the adjust.
+
+[Duanya Lyu] 13:29:59
+design functions, yes.
+
+[Duanya Lyu] 13:30:02
+And based on the discussion you just saw, or, like, what you have in mind, like, you can choose design options.
+
+[Duanya Lyu] 13:30:09
+And it will, like, render…
+
+[Duanya Lyu] 13:30:12
+Wither the image and generate a new design.
+
+[Erik Huang (Jacobs)] 13:30:15
+Okay, based on selections here…
+
+[Duanya Lyu] 13:30:19
+Yes.
+
+[Erik Huang (Jacobs)] 13:30:20
+Okay.
+
+[Duanya Lyu] 13:30:20
+Or we can, like, enter your own requirements below.
+
+[Erik Huang (Jacobs)] 13:30:25
+Oh, so you can have, like, an open…
+
+[Erik Huang (Jacobs)] 13:30:28
+Can I type anything here, kind of, and it'll try to…
+
+[Erik Huang (Jacobs)] 13:30:33
+Add that in.
+
+[Duanya Lyu] 13:30:35
+Yeah, but, like, uh…
+
+[Duanya Lyu] 13:30:38
+This process is, like, based on AI generative pictures, so I'm not sure what will happen.
+
+[Erik Huang (Jacobs)] 13:30:41
+Yeah, uh…
+
+[Erik Huang (Jacobs)] 13:30:44
+Yeah.
+
+[Erik Huang (Jacobs)] 13:30:46
+Okay, so… can we go over, like, the…
+
+[Erik Huang (Jacobs)] 13:30:52
+categories, I guess?
+
+[Duanya Lyu] 13:30:53
+Yeah.
+
+[Erik Huang (Jacobs)] 13:31:00
+Yeah, go ahead.
+
+[Duanya Lyu] 13:31:02
+Yeah, the first ones, like, like, if you want to narrow, or, like…
+
+[Duanya Lyu] 13:31:07
+widen the bike lane?
+
+[Duanya Lyu] 13:31:09
+And since in the picture I'm not seeing a bike lane right now, so…
+
+[Erik Huang (Jacobs)] 13:31:14
+Oh, okay.
+
+[Duanya Lyu] 13:31:15
+Like, my guess is AI will try to…
+
+[Duanya Lyu] 13:31:17
+Find a bike lane from this picture and do some, like…
+
+[Duanya Lyu] 13:31:22
+Uh, rendering and all that.
+
+[Duanya Lyu] 13:31:26
+And color is, like, you paint the…
+
+[Duanya Lyu] 13:31:30
+I couldn't agree or not.
+
+[Duanya Lyu] 13:31:32
+And buffer type is on the, like…
+
+[Duanya Lyu] 13:31:34
+physical or just, like, painting separations.
+
+[Duanya Lyu] 13:31:40
+And location.
+
+[Erik Huang (Jacobs)] 13:31:41
+So…
+
+[Erik Huang (Jacobs)] 13:31:43
+Sorry, wait, so standard…
+
+[Erik Huang (Jacobs)] 13:31:46
+Is that, like, painted? Both? Okay. Um…
+
+[Duanya Lyu] 13:31:48
+Yeah.
+
+[Erik Huang (Jacobs)] 13:31:54
+Yeah, baller, it's just on top of…
+
+[Erik Huang (Jacobs)] 13:31:57
+a buffer. Um…
+
+[Erik Huang (Jacobs)] 13:31:59
+armadillo? Is this concrete?
+
+[Erik Huang (Jacobs)] 13:32:02
+I assume…
+
+[Duanya Lyu] 13:32:04
+It's similar, like, the…
+
+[Duanya Lyu] 13:32:07
+previous generations, not, like, concrete, it's like a…
+
+[Duanya Lyu] 13:32:10
+It's like what you saw in a parking garage, like the…
+
+[Duanya Lyu] 13:32:14
+black and yellow.
+
+[Duanya Lyu] 13:32:17
+thing, like, when you park your car, yes.
+
+[Erik Huang (Jacobs)] 13:32:18
+I don't know
+
+[Erik Huang (Jacobs)] 13:32:20
+Okay. Okay. Maybe I'll just select this so we can see what that looks like.
+
+[Erik Huang (Jacobs)] 13:32:28
+Um… location, a buffer, next parked cars, removing cars…
+
+[Erik Huang (Jacobs)] 13:32:34
+Oh, so just on the left or right side, I guess.
+
+[Duanya Lyu] 13:32:37
+Yeah.
+
+[Erik Huang (Jacobs)] 13:32:38
+Okay.
+
+[Erik Huang (Jacobs)] 13:32:40
+Yes, let's just have it by…
+
+[Duanya Lyu] 13:32:52
+I think that is mostly for, like, the view when you select, like, there are already cars parking there. Yeah, that works better for this tool, yeah.
+
+[Erik Huang (Jacobs)] 13:32:59
+Yeah.
+
+[Erik Huang (Jacobs)] 13:33:01
+Uh, so maybe here we'll do… I guess let's just see what happens.
+
+[Erik Huang (Jacobs)] 13:33:10
+Okay, so I clicked… I clicked generate…
+
+[Erik Huang (Jacobs)] 13:33:15
+I think…
+
+[Duanya Lyu] 13:33:16
+Nothing is fine. It's generating right now, yeah.
+
+[Duanya Lyu] 13:33:24
+This might take a few minutes, because it's, like, sending it back to GPT and ask GPT to do…
+
+[Erik Huang (Jacobs)] 13:33:31
+Yeah… that makes sense.
+
+[Erik Huang (Jacobs)] 13:33:35
+So they're doing that right now in the background?
+
+[Duanya Lyu] 13:33:37
+Yeah, I think, yeah, if you click that, you can see, like, the button is grayed, yeah.
+
+[Erik Huang (Jacobs)] 13:33:38
+Okay.
+
+[Erik Huang (Jacobs)] 13:33:42
+Oh, I see.
+
+[Erik Huang (Jacobs)] 13:33:44
+Okay.
+
+[Duanya Lyu] 13:33:48
+Oh, why is this happening?
+
+[Erik Huang (Jacobs)] 13:33:48
+Okay
+
+[Duanya Lyu] 13:33:54
+Am I, like, zoom in, like, see what the arrow is carrying? Yeah.
+
+[Duanya Lyu] 13:34:02
+The smallest bump.
+
+[Duanya Lyu] 13:34:03
+Both. So, Correo has this, uh, what arrow it's giving.
+
+[Duanya Lyu] 13:34:13
+Oh, that's, uh…
+
+[Duanya Lyu] 13:34:16
+Uh, that brings the question, uh, does Jacob's restrict GPT access?
+
+[Erik Huang (Jacobs)] 13:34:22
+Um, it might be possible… I know we have Copilot and our own AI tool.
+
+[Erik Huang (Jacobs)] 13:34:30
+But I feel like I remember someone saying recently, or some email, like, they…
+
+[Erik Huang (Jacobs)] 13:34:37
+aren't allowing, like, ChatGPT anymore.
+
+[Erik Huang (Jacobs)] 13:34:40
+So…
+
+[Duanya Lyu] 13:34:41
+And because, you know, we do that interview last week with, uh…
+
+[Duanya Lyu] 13:34:45
+Funqi designer, and they have, like, network restriction, and they are also getting this error, yeah.
+
+[Erik Huang (Jacobs)] 13:34:52
+It's in their chat GPT assistance for the…
+
+[Erik Huang (Jacobs)] 13:34:57
+picture.
+
+[Duanya Lyu] 13:35:03
+So, uh, this brings stuff, like a question. Um, do you want to do this interview some weekend? Or, like, if you are not comfortable with that, we can just…
+
+[Duanya Lyu] 13:35:15
+I evaluate the current functions we're seeing.
+
+[Erik Huang (Jacobs)] 13:35:22
+Uh, sorry, can you repeat that, or evaluate the command?
+
+[Duanya Lyu] 13:35:24
+Like, yeah, do, like, do feel comfortable, like, we schedule another meeting during weekends, so we don't have network restrictions?
+
+[Duanya Lyu] 13:35:34
+Or, like, we can just
+
+[Duanya Lyu] 13:35:35
+It's like to, like, do the…
+
+[Duanya Lyu] 13:35:39
+existing functions, like…
+
+[Duanya Lyu] 13:35:41
+Yeah.
+
+[Erik Huang (Jacobs)] 13:35:44
+Um…
+
+[Erik Huang (Jacobs)] 13:35:46
+I don't know about weekend, is there another option? He said…
+
+[Duanya Lyu] 13:35:50
+Like, we can just, like, evaluate the existing function, like, the working functions, yeah.
+
+[Erik Huang (Jacobs)] 13:35:57
+We can do that, I think. It's probably…
+
+[Duanya Lyu] 13:36:01
+Okay. Yeah, because, like, yeah.
+
+[Erik Huang (Jacobs)] 13:36:01
+Easiest.
+
+[Duanya Lyu] 13:36:03
+Yeah, we don't want to, like, ask interviewers to do weekly interviews, yeah.
+
+[Erik Huang (Jacobs)] 13:36:08
+Yeah, I know.
+
+[Erik Huang (Jacobs)] 13:36:12
+I'm sorry that, uh…
+
+[Duanya Lyu] 13:36:14
+It's okay, yeah, yeah, yeah.
+
+[Erik Huang (Jacobs)] 13:36:16
+my company is blocking us.
+
+[Duanya Lyu] 13:36:18
+You're actually the first interviewee from Jacoz. Now we learned, like, Jacobs doesn't allow GPT.
+
+[Erik Huang (Jacobs)] 13:36:25
+Uh, because before, like, it was fine.
+
+[Duanya Lyu] 13:36:29
+Yeah, we did interview with…
+
+[Duanya Lyu] 13:36:31
+Uh, let's see…
+
+[Duanya Lyu] 13:36:34
+uh… Kittleson, and they are okay with this.
+
+[Duanya Lyu] 13:36:36
+And with some, like, H…
+
+[Duanya Lyu] 13:36:40
+then TBU, or… yeah.
+
+[Duanya Lyu] 13:36:42
+And we also did with WSP, I think. They are, like, okay with this.
+
+[Erik Huang (Jacobs)] 13:36:48
+Hmm…
+
+[Duanya Lyu] 13:36:52
+Since we are not, like, able to do… so you are also not able to access
+
+[Duanya Lyu] 13:36:59
+web page GPT, right?
+
+[Erik Huang (Jacobs)] 13:37:02
+Um… I might be able to try?
+
+[Erik Huang (Jacobs)] 13:37:07
+I don't…
+
+[Duanya Lyu] 13:37:08
+Uh… let's…
+
+[Duanya Lyu] 13:37:09
+I will share you a GPT account, and we, like, you can…
+
+[Erik Huang (Jacobs)] 13:37:12
+Sure.
+
+[Duanya Lyu] 13:37:14
+try… if you can, like…
+
+[Duanya Lyu] 13:37:16
+access to GT.
+
+[Erik Huang (Jacobs)] 13:37:19
+Okay.
+
+[Erik Huang (Jacobs)] 13:37:35
+Okay.
+
+[Erik Huang (Jacobs)] 13:37:38
+Do I need to go to the website right now?
+
+[Duanya Lyu] 13:37:43
+Yeah.
+
+[Duanya Lyu] 13:37:45
+Uh, you can, like…
+
+[Duanya Lyu] 13:37:46
+go to GPTN, like, maybe log in with this account.
+
+[Erik Huang (Jacobs)] 13:37:52
+Okay.
+
+[Erik Huang (Jacobs)] 13:38:03
+Yeah, okay, nevermind.
+
+[Erik Huang (Jacobs)] 13:38:07
+You could try my phone? I don't know if that's an option.
+
+[Duanya Lyu] 13:38:09
+Uh…
+
+[Erik Huang (Jacobs)] 13:38:11
+Or it's probably gonna be…
+
+[Erik Huang (Jacobs)] 13:38:15
+that helpful.
+
+[Duanya Lyu] 13:38:17
+This will be a lot of trouble, too, I can assume, like, it will be very difficult to, like, do this.
+
+[Erik Huang (Jacobs)] 13:38:24
+Yeah.
+
+[Duanya Lyu] 13:38:25
+Uh… we can try more, like, locations, do the, like,
+
+[Duanya Lyu] 13:38:29
+try the first function.
+
+[Duanya Lyu] 13:38:32
+Yeah, we can navigate to another location you have in mind and, like, see…
+
+[Duanya Lyu] 13:38:37
+Like, how it's evaluate the condition, yeah.
+
+[Erik Huang (Jacobs)] 13:38:38
+Sure.
+
+[Erik Huang (Jacobs)] 13:38:41
+Okay, yeah, let's do that.
+
+[Erik Huang (Jacobs)] 13:38:53
+Okay.
+
+[Erik Huang (Jacobs)] 13:39:37
+I think this one will have bike lanes.
+
+[Erik Huang (Jacobs)] 13:39:41
+Already, so it'll be a little different.
+
+[Erik Huang (Jacobs)] 13:40:08
+Okay, so I click load, and then it'll…
+
+[Duanya Lyu] 13:40:14
+I think they will have…
+
+[Erik Huang (Jacobs)] 13:40:14
+have the new location.
+
+[Duanya Lyu] 13:40:16
+Yeah, I think we have a new window popping up, yeah.
+
+[Erik Huang (Jacobs)] 13:40:28
+Okay.
+
+[Erik Huang (Jacobs)] 13:40:48
+This one should be interesting, it's, like, different.
+
+[Duanya Lyu] 13:40:51
+Yeah.
+
+[Erik Huang (Jacobs)] 13:40:51
+There's no parking, and…
+
+[Erik Huang (Jacobs)] 13:40:54
+You saw on the map, it's just, like, uh…
+
+[Erik Huang (Jacobs)] 13:40:58
+In between these two streets, so…
+
+[Erik Huang (Jacobs)] 13:41:02
+Looks a little different.
+
+[Erik Huang (Jacobs)] 13:41:08
+I guess if I were to do this, like, something like this would be good. Then generate.
+
+[Duanya Lyu] 13:41:16
+Yeah, I'm also curious, like, how this turns out, yeah.
+
+[Erik Huang (Jacobs)] 13:41:25
+you know
+
+[Erik Huang (Jacobs)] 13:41:31
+Okay.
+
+[Erik Huang (Jacobs)] 13:41:35
+Now, I'm curious about what it would actually look like.
+
+[Erik Huang (Jacobs)] 13:41:45
+Okay, it'll load, I think.
+
+[Erik Huang (Jacobs)] 13:41:54
+Okay, so you can have multiple, uh…
+
+[Erik Huang (Jacobs)] 13:41:57
+Like…
+
+[Erik Huang (Jacobs)] 13:42:00
+examples.
+
+[Erik Huang (Jacobs)] 13:42:15
+Okay, so from first glance, it's interesting that…
+
+[Erik Huang (Jacobs)] 13:42:20
+this… is, like, the same ratings here.
+
+[Erik Huang (Jacobs)] 13:42:25
+For all of the… oh, I guess I can put them closer together.
+
+[Erik Huang (Jacobs)] 13:42:37
+Okay.
+
+[Duanya Lyu] 13:42:46
+There are, in fact, the same.
+
+[Erik Huang (Jacobs)] 13:42:58
+Like, was there an error in the…
+
+[Erik Huang (Jacobs)] 13:43:03
+And this to here, because, like, these sentences are all the same.
+
+[Duanya Lyu] 13:43:07
+That's a… lots of good cash, yeah. Yeah, we haven't noticed this before.
+
+[Erik Huang (Jacobs)] 13:43:10
+And then we have…
+
+[Erik Huang (Jacobs)] 13:43:14
+Yeah, maybe it's when you load multiple in one time? I don't know, but…
+
+[Duanya Lyu] 13:43:20
+Maybe try, like, like, have a new path, and see…
+
+[Erik Huang (Jacobs)] 13:43:24
+Yeah.
+
+[Duanya Lyu] 13:43:25
+Where it's work that way, yes.
+
+[Erik Huang (Jacobs)] 13:43:28
+Mm-hmm.
+
+[Erik Huang (Jacobs)] 13:43:33
+Because I feel like I should be able to identify, like, okay, bike symbol here.
+
+[Erik Huang (Jacobs)] 13:43:39
+or buffer, or something different.
+
+[Erik Huang (Jacobs)] 13:43:42
+Okay.
+
+[Erik Huang (Jacobs)] 13:43:46
+So I'll copy this…
+
+[Erik Huang (Jacobs)] 13:43:57
+But what does the download project do? Does it…?
+
+[Erik Huang (Jacobs)] 13:43:59
+screenshot the whole analysis, or…?
+
+[Duanya Lyu] 13:44:04
+Um, I think it will include a…
+
+[Duanya Lyu] 13:44:07
+JSON file, like, recording the… what you did with the system?
+
+[Erik Huang (Jacobs)] 13:44:12
+Mm-hmm.
+
+[Duanya Lyu] 13:44:12
+And the photos, the pictures.
+
+[Duanya Lyu] 13:44:16
+Which you have?
+
+[Erik Huang (Jacobs)] 13:44:17
+So it's, like, a more full, like, record.
+
+[Duanya Lyu] 13:44:20
+Yeah.
+
+[Duanya Lyu] 13:44:57
+I think the speed, like, the processing speed depends on, like, how many people are using GPT right now.
+
+[Erik Huang (Jacobs)] 13:45:05
+Mmm, so it could be faster or slow.
+
+[Duanya Lyu] 13:45:07
+Yeah, like, it's used to be, like, it usually is faster, yeah, it usually doesn't take this long, yeah.
+
+[Erik Huang (Jacobs)] 13:45:14
+Mm-hmm, yeah, that… like, the one I just did was, like, very quick.
+
+[Erik Huang (Jacobs)] 13:45:19
+Just to get this screen.
+
+[Erik Huang (Jacobs)] 13:45:21
+I don't know.
+
+[Erik Huang (Jacobs)] 13:45:38
+So, does the tool have a capability to show, like, concrete?
+
+[Erik Huang (Jacobs)] 13:45:45
+Protected bike lanes…
+
+[Erik Huang (Jacobs)] 13:45:47
+Or is it mostly, like, Buffer and bollards?
+
+[Erik Huang (Jacobs)] 13:45:50
+In, like, paint right now.
+
+[Duanya Lyu] 13:45:57
+Nobody has tested that, and it's not in the default design, so I'm not sure.
+
+[Duanya Lyu] 13:46:03
+But if you…
+
+[Duanya Lyu] 13:46:05
+You, GPT, this description, maybe it will give you something like that.
+
+[Duanya Lyu] 13:46:10
+Yeah.
+
+[Erik Huang (Jacobs)] 13:46:10
+Okay, yeah.
+
+[Erik Huang (Jacobs)] 13:46:12
+So not built in, but it's possible.
+
+[Duanya Lyu] 13:46:16
+Yeah. Theoretically, yeah.
+
+[Erik Huang (Jacobs)] 13:46:17
+Yeah, okay. Yeah.
+
+[Erik Huang (Jacobs)] 13:46:27
+I guess, is the tool more…
+
+[Erik Huang (Jacobs)] 13:46:30
+Oh, it's loading, okay, cool.
+
+[Erik Huang (Jacobs)] 13:46:35
+Is the tool, like, more geared towards, like…
+
+[Erik Huang (Jacobs)] 13:46:38
+Suburban or rural bike lane design, or is it for, like, urban?
+
+[Erik Huang (Jacobs)] 13:46:43
+scenarios, or is it just for either one? Doesn't matter?
+
+[Duanya Lyu] 13:46:47
+I think it doesn't matter, you know?
+
+[Erik Huang (Jacobs)] 13:46:50
+Okay. So the purpose is for any…
+
+[Duanya Lyu] 13:46:51
+Although the…
+
+[Erik Huang (Jacobs)] 13:46:54
+bike facility, any context?
+
+[Duanya Lyu] 13:46:58
+Yeah, I think so, but… hmm…
+
+[Duanya Lyu] 13:47:00
+I think based on your experience, like, your current, like, interaction, like, maybe you can notice, like,
+
+[Duanya Lyu] 13:47:06
+It tends to work better if the road is designed more standardized way.
+
+[Duanya Lyu] 13:47:12
+Because it can recognize the components, yeah.
+
+[Erik Huang (Jacobs)] 13:47:13
+Yeah.
+
+[Erik Huang (Jacobs)] 13:47:15
+Yeah, like, more examples that I can…
+
+[Erik Huang (Jacobs)] 13:47:19
+be more familiar with, yeah.
+
+[Duanya Lyu] 13:47:33
+We're getting all kinds of errors today.
+
+[Erik Huang (Jacobs)] 13:47:39
+Maybe it's just, like, the restrictions, it's all, like, trying to stop the process, I don't know. Okay, this looks different.
+
+[Erik Huang (Jacobs)] 13:47:49
+So it looks…
+
+[Erik Huang (Jacobs)] 13:47:52
+Yeah, this looks better.
+
+[Erik Huang (Jacobs)] 13:47:54
+So…
+
+[Erik Huang (Jacobs)] 13:47:57
+Yeah, it looks like when we did both, something happened, or…
+
+[Erik Huang (Jacobs)] 13:48:01
+Some error, but…
+
+[Erik Huang (Jacobs)] 13:48:03
+It might just be my computer.
+
+[Erik Huang (Jacobs)] 13:48:06
+system. But…
+
+[Erik Huang (Jacobs)] 13:48:11
+Yeah, the ratings look higher than the previous example.
+
+[Erik Huang (Jacobs)] 13:48:17
+Across all of them, which makes sense.
+
+[Erik Huang (Jacobs)] 13:48:20
+Because here, we already have, like, buffer bike lane, um…
+
+[Erik Huang (Jacobs)] 13:48:26
+So, you expect it to be…
+
+[Erik Huang (Jacobs)] 13:48:28
+better facility.
+
+[Erik Huang (Jacobs)] 13:48:55
+This is kind of like a specific question, but, like, does the tool also take into account, like, driveway?
+
+[Erik Huang (Jacobs)] 13:49:02
+access, or like…
+
+[Erik Huang (Jacobs)] 13:49:04
+you know, if there's, like, a lot of driveways.
+
+[Erik Huang (Jacobs)] 13:49:07
+intersecting with the bike lane, then that's probably more dangerous.
+
+[Duanya Lyu] 13:49:12
+Um, we haven't experienced that before, but I, like…
+
+[Duanya Lyu] 13:49:17
+they are, like, there are pictures with, like, many parked car, the two will mention something like,
+
+[Duanya Lyu] 13:49:25
+Thor hazard? Dooring hazard? Something like that?
+
+[Duanya Lyu] 13:49:29
+Yeah, but I haven't seen, like, mention about driveways before, yeah.
+
+[Erik Huang (Jacobs)] 13:49:34
+Okay. That's interesting with the parked cars, so let's get that. It considers that.
+
+[Erik Huang (Jacobs)] 13:49:42
+Um…
+
+[Erik Huang (Jacobs)] 13:49:44
+Okay. I know we have, like, 10 minutes left, but, like, I guess, are there other things on your…
+
+[Erik Huang (Jacobs)] 13:49:51
+you know, that we should cover before.
+
+[Duanya Lyu] 13:49:53
+Oh, yeah, uh…
+
+[Duanya Lyu] 13:49:56
+do my, like, go to the…
+
+[Duanya Lyu] 13:49:58
+First survey, I know, like, we did only, like, part of the…
+
+[Duanya Lyu] 13:50:02
+like,
+
+[Duanya Lyu] 13:50:05
+two related surveys. Yeah. Uh, yeah.
+
+[Erik Huang (Jacobs)] 13:50:08
+Okay, that's fine, okay.
+
+[Erik Huang (Jacobs)] 13:50:18
+And then I should take 3 screenshots and email them to you? Or is this in the survey?
+
+[Duanya Lyu] 13:50:23
+Yes. Uh… oi.
+
+[Erik Huang (Jacobs)] 13:50:25
+Email… yeah, okay.
+
+[Duanya Lyu] 13:50:25
+Email to me, yeah.
+
+[Duanya Lyu] 13:50:29
+I see, like, many of them are mandatory. Maybe we can just discuss, like, this.
+
+[Duanya Lyu] 13:50:38
+We can discuss the first few.
+
+[Erik Huang (Jacobs)] 13:50:38
+Oh, like, some of them is probably about the…
+
+[Erik Huang (Jacobs)] 13:50:41
+the part that didn't work.
+
+[Duanya Lyu] 13:50:43
+Yeah.
+
+[Erik Huang (Jacobs)] 13:50:44
+Okay.
+
+[Erik Huang (Jacobs)] 13:50:47
+Okay, so I should fill this out right now?
+
+[Duanya Lyu] 13:50:51
+Um… I don't really need to fill that out, like, you can feel free to discuss some… discuss these questions, but yeah.
+
+[Erik Huang (Jacobs)] 13:50:56
+Okay. Okay.
+
+[Erik Huang (Jacobs)] 13:51:04
+Yeah, I mean, I like the UI, or the…
+
+[Erik Huang (Jacobs)] 13:51:07
+the website…
+
+[Erik Huang (Jacobs)] 13:51:09
+I, like, it felt more, like, step-by-step type of thing.
+
+[Erik Huang (Jacobs)] 13:51:17
+Yeah, intuitive…
+
+[Erik Huang (Jacobs)] 13:51:19
+Yeah, I think, you know, the buttons are pretty clear.
+
+[Erik Huang (Jacobs)] 13:51:24
+Um, I guess, what is this purple one? I don't think we…
+
+[Duanya Lyu] 13:51:28
+It is, like, after you, like, upload, like, after you optimize the design, you can compare, like, compare, like, existing and design options.
+
+[Duanya Lyu] 13:51:39
+And the personas we'll discuss about them.
+
+[Erik Huang (Jacobs)] 13:51:41
+Oh…
+
+[Erik Huang (Jacobs)] 13:51:43
+That makes sense. So, like, it'll put, like, a…
+
+[Erik Huang (Jacobs)] 13:51:47
+put the updated picture.
+
+[Erik Huang (Jacobs)] 13:51:49
+in this kind of analysis, and then rerun it with the proposed condition.
+
+[Duanya Lyu] 13:51:56
+Yes, it will, yeah, it will, like, compare the designs.
+
+[Erik Huang (Jacobs)] 13:51:57
+Okay. Interesting.
+
+[Erik Huang (Jacobs)] 13:52:00
+Okay.
+
+[Erik Huang (Jacobs)] 13:52:05
+Um…
+
+[Erik Huang (Jacobs)] 13:52:12
+Yeah, I mean, this makes sense. I think it's easy to explain to somebody if…
+
+[Erik Huang (Jacobs)] 13:52:16
+someone else is interested.
+
+[Erik Huang (Jacobs)] 13:52:19
+like, I think if I, like, talk to my coworkers, it…
+
+[Erik Huang (Jacobs)] 13:52:22
+I think it would make sense to them.
+
+[Erik Huang (Jacobs)] 13:52:36
+And yeah, I think the personas is helpful.
+
+[Erik Huang (Jacobs)] 13:52:39
+But I think for people that design bike lanes pretty often, it's like…
+
+[Erik Huang (Jacobs)] 13:52:45
+you know, it's kind of self-explanatory.
+
+[Erik Huang (Jacobs)] 13:52:49
+If you're, like, in the field.
+
+[Erik Huang (Jacobs)] 13:52:52
+But I think it's good to make sure you… I like the ratings, at least.
+
+[Erik Huang (Jacobs)] 13:52:57
+the description, I don't know if I would read too often.
+
+[Erik Huang (Jacobs)] 13:53:00
+But, like, the ratings are nice, I think.
+
+[Erik Huang (Jacobs)] 13:53:08
+Kind of similar, but…
+
+[Erik Huang (Jacobs)] 13:53:23
+But yeah, I think we all know, like, okay, it's like an AI-generated person, so it's like…
+
+[Erik Huang (Jacobs)] 13:53:31
+It can… it can work, like, to a certain extent.
+
+[Erik Huang (Jacobs)] 13:53:37
+I feel like for it to feel authentic and representative, it's always, like, you know, like, if you have a survey, and you're asking people,
+
+[Erik Huang (Jacobs)] 13:53:43
+like, an open-ended question, they always have, like…
+
+[Erik Huang (Jacobs)] 13:53:47
+strong opinions, or, like, very specific, like, instances of, like, oh,
+
+[Duanya Lyu] 13:53:49
+Yeah…
+
+[Erik Huang (Jacobs)] 13:53:52
+When I was biking on this lane, like…
+
+[Erik Huang (Jacobs)] 13:53:54
+something bad happened, or, like, cars are always…
+
+[Erik Huang (Jacobs)] 13:53:58
+acting crazy or driving too fast near me, or like…
+
+[Erik Huang (Jacobs)] 13:54:01
+Something, like, specific like that, but I understand that's hard to get from, like…
+
+[Erik Huang (Jacobs)] 13:54:07
+And AI, so, like, that's the… I guess the purpose of the AI isn't really to feel authentic, but…
+
+[Erik Huang (Jacobs)] 13:54:14
+It's use of the…
+
+[Duanya Lyu] 13:54:14
+That's a really good opinion, yeah, that's a really good thing, like, yeah, in survey, like, open question already, like, they are very, like, strong opinions.
+
+[Erik Huang (Jacobs)] 13:54:22
+Yeah, exactly.
+
+[Duanya Lyu] 13:54:22
+Yeah.
+
+[Erik Huang (Jacobs)] 13:54:26
+So, but I do like the setup with the four personas. I think it's a good…
+
+[Erik Huang (Jacobs)] 13:54:32
+a good thing to have in this tool.
+
+[Erik Huang (Jacobs)] 13:54:40
+Yeah, I think it's good…
+
+[Erik Huang (Jacobs)] 13:54:47
+I think we would use this in, like, our work.
+
+[Erik Huang (Jacobs)] 13:54:50
+If we were able to, like, get
+
+[Erik Huang (Jacobs)] 13:54:53
+like, the conceptual design quickly, like, from the ChatGBT, like, oh, what would it look like with, um…
+
+[Erik Huang (Jacobs)] 13:55:00
+Buffered bike lanes or a different type of bike.
+
+[Erik Huang (Jacobs)] 13:55:03
+Lane improvements, um…
+
+[Erik Huang (Jacobs)] 13:55:06
+I know some of the AI personas, they talked about, like, signage and…
+
+[Erik Huang (Jacobs)] 13:55:11
+Other factors, so…
+
+[Erik Huang (Jacobs)] 13:55:14
+That might be helpful in, like, the image, I don't know if it'll add it to the image, but…
+
+[Erik Huang (Jacobs)] 13:55:20
+That could be interesting to show, but…
+
+[Erik Huang (Jacobs)] 13:55:23
+I think just, like, with how fast it's able to come up with, like, ideas, I think it's useful for…
+
+[Erik Huang (Jacobs)] 13:55:30
+designers, or even to show to the public if you need something quick to show.
+
+[Erik Huang (Jacobs)] 13:55:34
+Because usually it takes, like, some time to put, like, an actual plan together, and then in those plans, it's not 3D.
+
+[Erik Huang (Jacobs)] 13:55:40
+Or, like, not.
+
+[Erik Huang (Jacobs)] 13:55:42
+Showing what it would look like to someone, like, on the street.
+
+[Erik Huang (Jacobs)] 13:55:45
+So I think in that regard, it's like…
+
+[Erik Huang (Jacobs)] 13:55:49
+a pretty useful tool, and I think it's cool how…
+
+[Erik Huang (Jacobs)] 13:55:52
+You can drop any location, and then adjust the location in the tool.
+
+[Erik Huang (Jacobs)] 13:55:57
+to kind of, like, get the right perspective or direction.
+
+[Erik Huang (Jacobs)] 13:56:01
+that you're interested in, so…
+
+[Duanya Lyu] 13:56:02
+Yeah.
+
+[Duanya Lyu] 13:56:05
+I think that's, like, all for the survey, because the following is, like, downstream functions, yeah.
+
+[Erik Huang (Jacobs)] 13:56:28
+Yeah.
+
+[Erik Huang (Jacobs)] 13:56:36
+the comparative…
+
+[Duanya Lyu] 13:56:37
+You can give them one, I think, yeah, give one, it's okay.
+
+[Erik Huang (Jacobs)] 13:56:37
+I'm gonna… Okay. Okay, if it didn't work.
+
+[Erik Huang (Jacobs)] 13:56:45
+Okay, I'll just… yeah.
+
+[Erik Huang (Jacobs)] 13:56:48
+Okay, should I submit this?
+
+[Duanya Lyu] 13:56:49
+Yeah, yeah.
+
+[Erik Huang (Jacobs)] 13:56:50
+I know, like, we talked about it, too, so…
+
+[Duanya Lyu] 13:56:52
+Yeah.
+
+[Erik Huang (Jacobs)] 13:56:53
+I hope that's useful.
+
+[Erik Huang (Jacobs)] 13:56:56
+Even though we didn't get all the way through.
+
+[Duanya Lyu] 13:56:59
+And the arrow is actually very useful, like,
+
+[Duanya Lyu] 13:57:02
+This is a real, like, real-world problem with GPT, right? Yeah, it's good.
+
+[Erik Huang (Jacobs)] 13:57:06
+Yeah, uh-huh.
+
+[Erik Huang (Jacobs)] 13:57:08
+I don't know, I think, like, yeah, a lot of companies are doing their own AI, like…
+
+[Erik Huang (Jacobs)] 13:57:13
+efforts, or building their own tools, so…
+
+[Erik Huang (Jacobs)] 13:57:17
+I don't know why, like, even, like, co-pilot works for us. I don't know why ChatGPT is, like, specifically…
+
+[Erik Huang (Jacobs)] 13:57:23
+You know?
+
+[Duanya Lyu] 13:57:24
+Yeah, maybe Microsoft has better relationships with all these companies.
+
+[Erik Huang (Jacobs)] 13:57:26
+blocked.
+
+[Erik Huang (Jacobs)] 13:57:29
+Yeah, maybe, with, like, Microsoft Teams and other tools, so…
+
+[Duanya Lyu] 13:57:30
+No.
+
+[Erik Huang (Jacobs)] 13:57:35
+Yeah.
+
+[Duanya Lyu] 13:57:36
+I do have, like, two closing questions. The first one you already answered, like, how do you picture this might be used in your work?
+
+[Duanya Lyu] 13:57:46
+And, um…
+
+[Duanya Lyu] 13:57:47
+I don't know, have you interacted with GPT before, like…
+
+[Duanya Lyu] 13:57:50
+How do you feel like this will, like, compare to GPT? Like, do you feel this might be better, or do you feel like…
+
+[Duanya Lyu] 13:57:58
+Yeah, GPT is good enough.
+
+[Erik Huang (Jacobs)] 13:58:01
+like comparing this tool to, like…
+
+[Erik Huang (Jacobs)] 13:58:03
+Normal AI?
+
+[Duanya Lyu] 13:58:05
+Yeah, yeah.
+
+[Erik Huang (Jacobs)] 13:58:05
+like, to solve, like, this specific issue.
+
+[Duanya Lyu] 13:58:09
+Yeah.
+
+[Erik Huang (Jacobs)] 13:58:10
+Really, for this topic. Um…
+
+[Erik Huang (Jacobs)] 13:58:12
+Yeah, I think it's useful. I think, like…
+
+[Erik Huang (Jacobs)] 13:58:15
+normal AI might be able to get
+
+[Erik Huang (Jacobs)] 13:58:17
+some insights on stuff, but then you always have to type up, like, very specific prompts and that.
+
+[Erik Huang (Jacobs)] 13:58:24
+takes time. So I think having a tool like this is very useful. Again, it's, like, easy to share with
+
+[Erik Huang (Jacobs)] 13:58:30
+other people who want to use it, or look at results.
+
+[Erik Huang (Jacobs)] 13:58:35
+Um, and I like that it's easy to, like…
+
+[Erik Huang (Jacobs)] 13:58:38
+specifically pinpoint, like,
+
+[Erik Huang (Jacobs)] 13:58:40
+a certain location that you're interested in, like how we did it for, like,
+
+[Erik Huang (Jacobs)] 13:58:44
+these two spots in Chicago, so…
+
+[Erik Huang (Jacobs)] 13:58:46
+I think it's useful, and then, again, I like the…
+
+[Erik Huang (Jacobs)] 13:58:50
+interface, and how…
+
+[Erik Huang (Jacobs)] 13:58:52
+it's just, like, easy to use.
+
+[Erik Huang (Jacobs)] 13:58:54
+So, I think it's useful. I get a lot of…
+
+[Erik Huang (Jacobs)] 13:58:57
+initial insights, or like…
+
+[Erik Huang (Jacobs)] 13:59:00
+initial conceptual plans, ideas, like…
+
+[Erik Huang (Jacobs)] 13:59:03
+Quickly… um…
+
+[Erik Huang (Jacobs)] 13:59:06
+So I think that's… yeah, I think it is, like, a useful tool.
+
+[Erik Huang (Jacobs)] 13:59:11
+Compared to regular AI.
+
+[Duanya Lyu] 13:59:12
+Yep.
+
+[Duanya Lyu] 13:59:13
+And the final question is, like, the, like, the very high level. How do you…
+
+[Duanya Lyu] 13:59:19
+view, like, the relationship between AI and, like, role designers or traffic engineers, yeah.
+
+[Erik Huang (Jacobs)] 13:59:26
+I think, like…
+
+[Erik Huang (Jacobs)] 13:59:29
+I don't know, it's like, there's a lot of factors that…
+
+[Erik Huang (Jacobs)] 13:59:33
+in the process of designing, there's always, like, community involvement, or, like, you have to, like, design for your client, or, like, the DOT, they have specific standards, so…
+
+[Erik Huang (Jacobs)] 13:59:42
+There's always, like, a lot of factors, so AI won't be able to help
+
+[Erik Huang (Jacobs)] 13:59:46
+figure out the 100% correct solution.
+
+[Erik Huang (Jacobs)] 13:59:51
+Um…
+
+[Erik Huang (Jacobs)] 13:59:53
+But I think, like, in this case, the tool helps to get that initial…
+
+[Erik Huang (Jacobs)] 13:59:58
+conversation going?
+
+[Erik Huang (Jacobs)] 14:00:00
+Or to help get initial, like
+
+[Erik Huang (Jacobs)] 14:00:04
+you know, like, once you're assigned, like, oh, this location, we're planning to do some type of bike lane,
+
+[Erik Huang (Jacobs)] 14:00:10
+then we can easily go to this tool, and then…
+
+[Erik Huang (Jacobs)] 14:00:13
+use it to help you plan out.
+
+[Erik Huang (Jacobs)] 14:00:16
+your design a little bit.
+
+[Duanya Lyu] 14:00:20
+I think that's all the questions I have.
+
+[Erik Huang (Jacobs)] 14:00:25
+Okay. Um…
+
+[Duanya Lyu] 14:00:25
+Thank you for the time, and sorry about the error, and if you feel like trying this out at home, feel free to do that, yeah.
+
+[Erik Huang (Jacobs)] 14:00:32
+It's okay, yeah. No, it's really cool. I appreciate the time for you to go through it with me.
+
+[Erik Huang (Jacobs)] 14:00:38
+Um… it was nice meeting you too, and I hope everything's going well over there in Florida.
+
+[Duanya Lyu] 14:00:41
+Yeah, nice to meet you.
+
+[Duanya Lyu] 14:00:44
+Yeah. Yeah, I've only seen your, like, photo in Jacob's webpage before. I've only, like, I'm not seeing the…
+
+[Duanya Lyu] 14:00:53
+Like, the moving version.
+
+[Erik Huang (Jacobs)] 14:00:55
+Yeah, it's funny, yeah, because, yeah, that picture's also, like, older. So…
+
+[Duanya Lyu] 14:00:57
+Yeah.
+
+[Erik Huang (Jacobs)] 14:01:02
+Okay. Well…
+
+[Erik Huang (Jacobs)] 14:01:04
+Hope to stay in touch, um…
+
+[Duanya Lyu] 14:01:07
+Yeah.
+
+[Erik Huang (Jacobs)] 14:01:07
+Is there anything else? So I should just send you the pictures…
+
+[Duanya Lyu] 14:01:11
+And, um, download project, like, the interaction data, yeah.
+
+[Erik Huang (Jacobs)] 14:01:13
+Um…
+
+[Erik Huang (Jacobs)] 14:01:15
+Yeah. Okay, so click download on the website, and then send to you.
+
+[Erik Huang (Jacobs)] 14:01:20
+Okay. Okay.
+
+[Erik Huang (Jacobs)] 14:01:22
+Sounds good. Okay, enjoy the rest of your week.
+
+[Duanya Lyu] 14:01:26
+Yeah, you too.
+
+[Erik Huang (Jacobs)] 14:01:28
+Okay, take care. Bye.
+
+[Duanya Lyu] 14:01:31
+Okay, I…
+

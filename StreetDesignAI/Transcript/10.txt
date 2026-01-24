@@ -1,0 +1,478 @@
+14:09:23 Alright.
+14:09:29 So, should we… Should we generate the evaluation?
+14:09:37 Uh, might want to pick, like, a better… Angola doesn't have the blur. Maybe if you turn around, we'll have the…
+14:09:45 Something like this.
+14:09:48 Yeah, that's good.
+14:10:12 So, is this a USDOT project, or… I mean, who is funding for this project?
+14:10:23 Sure, actually. I know… We're working on this with another professor from University of Maryland.
+14:10:30 Oh, okay, okay. Okay.
+14:10:33 Sure, the fundings. Coming from…
+14:10:40 Alright, so…
+14:10:51 So, this is what we got.
+14:10:58 Alright, safety… Interested with concern…
+14:11:07 So we can now try to do that, uh… in-depth analysis.
+14:11:16 Or we can adjust the design first. That's what we were trying to do the other day.
+14:11:15 Yeah.
+14:11:21 So, let me…
+14:11:27 Okay, let's put, like. Bonard.
+14:11:33 Next to moving car. Next to Park also came.
+14:11:42 bike lane…
+14:11:47 I think we can get it done.
+14:11:53 Let's see…
+14:12:00 Take a minute, I guess. Moving on from what we were talking about.
+14:12:06 Mm-hmm.
+14:12:06 The other day. in regards to, like, the… Personas… Would you say they help you in your… Like, design process, or, like, decision-making process?
+14:12:19 Let me think about the feedback from the different persona.
+14:12:18 Mm-hmm.
+14:12:23 Okay.
+14:12:29 What happened is… It didn't generate anything, right?
+14:12:36 What's in the process of doing that. They don't have, like, the visual yet for it.
+14:12:37 Okay. Yeah.
+14:12:41 Like, the loading. It'll just pop up.
+14:12:42 Yeah, it's just…
+14:13:12 I think it's taking some time.
+14:13:16 Yeah. Always takes a minute or two.
+14:13:21 Mm-hmm.
+14:13:58 Looks like…
+14:14:03 Should we try again, or what? No, I think it's… it's still generating.
+14:14:08 Okay. Yeah.
+14:14:09 Yeah.
+14:14:31 So it's… it's trying to access ChatGPT. Now, to generate the image.
+14:14:45 Because that's what I think it was trying to do other day, and it couldn't, because that access wasn't there.
+14:14:52 Yeah, the thing else is… Taking a bit's a good sign that's working.
+14:14:53 Yeah.
+14:14:56 Yeah, I mean, that… I guess, like, that's… that's why it's taking time.
+14:15:12 So, I think, like, this is, uh… This could be a good tool for, uh… And even, like, who's trying to do, uh… who is trying to assess.
+14:15:28 the existing infrastructure. And trying to see, like, you know, uh, what's going on.
+14:15:36 And even, I think, like, it's good for… yeah, I think it did, see.
+14:15:43 Okay. So, yeah. Alright, so…
+14:15:55 I saw those… saw those. Okay. Yeah.
+14:16:01 Oh, see, yeah, that's good. So, it has put those… bollards.
+14:16:08 like, next to the park car.
+14:16:12 Mm-hmm.
+14:16:14 Okay.
+14:16:18 I think I might have misinterpreted, which was the bike lane, though.
+14:16:22 Yeah, I think, like…
+14:16:23 Like, the original…
+14:16:27 Yeah, that's what I'm trying to understand. So, bike lane is, like, you know, this one, the green one?
+14:16:36 Yeah.
+14:16:37 Bullard with living. Green, green… green paint, and yeah, that's the buyer. Bullard.
+14:16:46 Protect from parkas. No traffic signals.
+14:16:51 Okay. Alright.
+14:16:56 And even no way, no, how. the safety has changed to, like, 5 out of 10. Initially, it was like.
+14:17:04 3 out of 10. And, uh… Comfort is now 4 out of 10. Previously, it was, like, 2 out of 10.
+14:17:14 And total is, like, 4 out of 10, and previously it was.
+14:17:18 3 out of 10, okay.
+14:17:24 Yeah, that's good because, like, we. And inclusion confident.
+14:17:32 So, safety is now, like, 8. Yeah, that's good. Comfort has changed.
+14:17:38 Do like 7 until 2 is okay.
+14:17:45 Yeah, that's good. So now, can we do… What?
+14:17:54 Yeah, I mean, I think, like, image is good.
+14:17:48 What do you think about the image? What do you think about the image that generated? It's like the…
+14:17:58 I mean, uh… see, it has… it has installed these, like, bollards.
+14:18:04 which we try to put, like, next to the parked cars.
+14:18:09 Mm-hmm.
+14:18:09 So… Yeah, I think that's good. Or maybe, like, you know, I think… Uh, we can try to put it, like.
+14:18:18 Next to the moving cars, but I think, like, it's… because it's a side street, it doesn't have, like, that much traffic, so… It makes sense, like, uh… these cars, they are, like, kind of protected.
+14:18:33 Uh, or maybe, like, we can try to move it on this side so that… Bikers are like more protected from, like.
+14:18:44 moving vehicles. I think we can try to do that, like, you know, let me… Let me see, like, you know, how it changes.
+14:18:52 Yeah, you can make another one, and then also there's, like, a prop in the bottom you can specify.
+14:18:59 What you want in the design?
+14:18:55 Yeah. Yeah, let's… that's… So, let me try to adjust the design… And try to put it, like, you know.
+14:19:12 Next to moving cars, okay.
+14:19:23 Okay.
+14:19:47 Yeah, I think, like, this is, uh… this tool could be, like, you know.
+14:19:52 pretty good for, uh… like, citizens and, like, you know, people who doesn't have, like, you know, much.
+14:20:01 idea about, like, you know, geometric design and safety and all those kind of thing.
+14:20:06 And, uh, if somebody. Uh, like, neighborhoods and, uh, you know, the side streets where people are living and.
+14:20:17 they… they can see, like, you know, there are some crashes, or something.
+14:20:22 wrong is going on, and like, you know, maybe, like, you know, I mean, this could be a good tool they can… because it's, like, user-friendly, so anybody can… Uh, uh, try to see, like, you know, what improvement could be done, and hey, they can see, hey, I mean, like, you know.
+14:20:39 See, we can improve the safety rating from, like, 3 to.
+14:20:44 7 or, like, 6. And something, and they can come up with, like, you know, they can reach out to county or, like, DOT, or city.
+14:20:07 Mm-hmm.
+14:20:53 So, uh… And even for the agencies, like, I think it's a… It could be a good tool. I mean, I'm pretty sure it will take, like, a lot of… I don't know, like, you know, how it's…
+14:21:10 Yeah.
+14:21:07 what it's doing inside. I mean, if it's just the ChatGPT, or we have some kind of algorithm that.
+14:21:18 That is using… so, uh, that… that is something like, you know.
+14:21:22 we have to see. Because if we have, like, our own stuff, then you can… you can make, like, changes.
+14:21:30 And you can see, okay, so is this the new one?
+14:21:34 Yeah.
+14:21:51 So… alright. What did it next to?
+14:22:03 Right. That's the first one you did.
+14:22:05 Yeah, that's what I was thinking, like, you know, that's the first one, and then…
+14:22:11 Okay. Okay, are you new ones on the right?
+14:22:14 Yeah, but I think, like, they both. They both look same.
+14:22:24 So I'm trying to understand, like, what's going on.
+14:22:27 Okay. Maybe.
+14:22:33 I think this is the first one we did, right?
+14:22:37 And then this is the second one.
+14:22:45 Well, I think, like, you know…
+14:22:51 Do you think any… is there any change on this?
+14:23:00 Yeah, it's… yeah.
+14:22:58 Like, shifted the bike lane more to the middle. I think, like, originally… I think it's just misinterpreted, which is the…
+14:23:06 Because initially, like, we were trying to put it, uh, next to the parked cars.
+14:23:11 like these bollards, and now we are putting… okay. So, yeah, I think, yeah, that's true.
+14:23:17 So, this is basically, um… So, when it moved here, so maybe, like, you know.
+14:23:25 the people who are gonna bike, they'll be using, like, this side.
+14:23:29 And I think that's… that's for the… us to move. That's what looks like to me.
+14:23:38 I think the AI misinterpreted, like, from the original image, which was the car road.
+14:23:42 Yeah. Yeah, that's good.
+14:23:43 Which was the bike lane?
+14:23:49 Because this… this street doesn't have, like. much room for the vehicles to travel. I think it's just, like, one way.
+14:23:57 Yeah.
+14:23:55 No, I don't think, like, you know, because it has, like, cars on both the sides, so… It's not… it's a two-way street, but uh… I don't know. Maybe, like, you know, this is for…
+14:24:07 vehicles to go in this direction, and, like, this is for… That's what I feel, again.
+14:24:14 I don't know what's going.
+14:24:21 Yeah, let's try to do, like, you know, some in-depth analysis, what does it say?
+14:24:39 I think you have to move that out from under.
+14:24:53 Yeah, do you see the text under, like, the… Bottom box.
+14:24:57 This one?
+14:25:03 Yeah, I see. I think it… it moved.
+14:25:04 It's fine, but…
+14:25:11 Yeah, probably move that middle one. I'll put that, and then you'll see the in-depth analysis.
+14:25:17 Well, that's the one at the bottom?
+14:25:21 Yeah.
+14:25:24 Oh, yes. I think, uh, maybe we can… we can make it, like, more, uh… user-friendly in terms of, like, you know, moving around, like, these boxes.
+14:25:42 Yeah. Well, this… The Zoom features.
+14:25:44 Because right now, like, you know, you have… You have to, like, zoom in and zoom out all the time, and sometimes, like, you know, I mean… we can do it, but somebody like, you know, who is not that good, like, for example, like, you know.
+14:25:59 Uh, we try to make this tool. for, like, you know, pretty much everybody.
+14:26:05 Yeah.
+14:26:04 For example, uh… like Signal 4 is there for, like, safety, so FDOT says, oh, okay, like, you know, this is gonna mean… public domain, so anybody can use it. But, uh, if, uh, like, you know, somebody who is not that proficient.
+14:26:23 Uh, in, like, you know, zoom in, zoom out, and do all that. So, they might find it, like, a little difficult, so.
+14:26:28 I think, like, you know… If we can do something that is much easier, something like, you know, we have, like, multiple files open.
+14:26:37 And we can just, like, you know, click like this, and then… it will just give you… Or maybe you can do… yeah, I think, like, you know, that… that could be a pretty good…
+14:26:42 Oh, yeah.
+14:26:48 Good thing. So, that way, like, you know, we don't have to zoom in and zoom out.
+14:26:54 I'm gonna zoom in and zoom out is good, but… Sometimes, like, you know, when you have, like, multiple.
+14:26:59 Alright, so let's see, like… What does it say, like, you know, strong… Looking at this device, I mean, too.
+14:27:08 I see opportunity for improvement, the current configuration will easily be aware.
+14:27:13 For experience like this, like me, prioritize maintaining good travel field.
+14:27:23 I think there is a balanced approach. The current setup is potential.
+14:27:28 I would love to see the green printed lens.
+14:27:31 I'll bring the buffer in.
+14:27:41 Looking at this load. What does this mean, like, no way, no how? I mean, what exactly is that?
+14:27:52 It's like someone who… It's, like, the most skeptical… Cyclists, like someone… No matter how many, like… Uh, safety improvements, they are, they're still gonna be skeptical and probably, like, not gonna use the bike lane.
+14:28:09 Okay. Yeah, so I still… Important cycle for me.
+14:28:15 Okay. Even consider it, uh… fully protected cycle, completely separate from traffic.
+14:28:23 I think Copenhagen Israel infrastructure, anything less is acceptable, given.
+14:28:29 That is keyboard. Sorry, letting drywalls.
+14:28:35 When you use it outright, yeah, I'm open to bike clean improvement, but.
+14:28:39 Concerned about the potential aspect. The solution and then.
+14:28:47 Okay. Yeah, that sounds good.
+14:28:54 Anything about their, like, comments? That stuck out to you?
+14:29:01 Yeah, I think, like, they… they're pretty, like, you know, uh… I mean, general comments, like, you know, with, uh… But, uh, let me…
+14:29:19 Let me look at this, yeah.
+14:29:29 I'll keep you posted.
+14:29:38 Yeah, I think because, like, it's using, like, ChatGPT, so it's kind of, like.
+14:29:46 Mm-hmm.
+14:29:44 I need a fine. I'm not sure, like, you know, how… But, uh, I mean, overall, it's… It's giving, like, you know, what… Uh, somebody like, you know, who has no idea.
+14:30:03 Uh… I mean, I think it… I think it's… it's… it's doing its job, like, you know.
+14:30:12 It's giving, like, a lot of information, so I think that's good.
+14:30:18 talking about, like, all the, like, traffic flow, like, painted lanes, and all those kind of… so I think, like, it's… it's… It's good. Uh, but, um… There could be like, you know, we can.
+14:30:43 Yeah, it's giving that, like, you know, uh…
+14:30:50 How strongly, like, you know, somebody is likely to drive.
+14:30:54 When we… when we did the lane, or put the bowler.
+14:31:08 I mean, um… I think it's, it's good, like, you know, and what, uh, yeah, I mean.
+14:31:14 We can definitely, I mean, this is just one of the scenarios, so… I don't know, like, you know, what to say, but, uh, I mean, overall, like, you know.
+14:31:25 What we have, I think it's. It's… it's… it's decent, I think.
+14:31:31 It's giving, like, lot… enough information for somebody like.
+14:31:30 Mm-hmm.
+14:31:35 who just wants to… who… who has… who doesn't have, like, much idea about… But, uh, I think, like, you know, if… Uh, we… If we can try to integrate, like, you know, traffic data as well, that how much volume is there, because right now.
+14:31:52 We don't know, I mean, like, if we look at, like, this history.
+14:31:57 Let me…
+14:32:03 like, for example, like, this is straight. And we don't know, like, you know, how many… maybe, like, you know, there are not that many.
+14:32:06 Yeah.
+14:32:12 vehicles. crossing this… this history.
+14:32:16 So… I mean, do we… do we really need, uh… do we really have any kind of concern if I'm doing a… I'm biking, like, you know, this is great.
+14:32:28 I mean, maybe not, because, like, there are not many vehicles who are… and I think, like.
+14:32:34 this should be, like, maybe, like, 30-35 miles per hour street.
+14:32:39 So, uh, if we… if we can, uh, integrate, like, you know, some kind of traffic.
+14:32:46 uh, data, uh, I think they… these results might change as well.
+14:32:54 So… so if we… if we look at, like, you know, uh, for example, this safety thing.
+14:33:00 Let me… let me zoom. Okay. For example, there's, like, no way, no how. So, the safety right now, for example, we are getting, like, 5 out of 10.
+14:33:11 So, but… but, for example, there is no… there are, like, not much traffic on this history.
+14:33:18 So, it might happen this… that this safety rating, it might… it could be, like, 7 out of 10.
+14:33:18 Mm-hmm.
+14:33:25 Because, uh, I mean, a lot of things depend… if there are not many vehicles.
+14:33:26 Yeah.
+14:33:31 I'll definitely like to… I might not even care about the bollard being put, uh, like, you know.
+14:33:39 right next to the. cars moving, or maybe the parked ones, because there is not many vehicles, like, you know.
+14:33:52 Mm-hmm.
+14:33:48 And you'd say. low-speed zone, so… I think in future, I mean, I'm pretty sure, like, you know, just… we are just trying to put things together, but, uh, yeah, maybe in future, like, you know, if we try to integrate, like, you know, traffic data.
+14:34:06 Um, or maybe worth of the street. I don't know, like, you know, how it's measuring the width, if that image it's trying to capture, like, how much is the width we have.
+14:34:17 So, all that thing, like, you know, makes, like, a lot of difference, and I think all these ratings, they might change a lot.
+14:34:27 Yeah, that's true.
+14:34:26 Because if I try to… if I try to do the… if I say, hey, I mean, like, you know, I want to change the… I want to adjust the design and.
+14:34:36 try to widen the lane. But if there is not much space available for the vehicles to move, then I don't know, I mean, like, you know, how… good the results are gonna be.
+14:34:48 So that is also… that could also be one area.
+14:34:49 Yeah.
+14:34:52 See, it says, like, you know. Uh, bike is… bike lane width. For example, I would just want to widen it.
+14:34:59 But, uh, I don't know if that… If it's… if our tool is calculating the width correctly, or does it have a lane width data.
+14:35:12 Or something like that, like, you know? So, I mean, I… I mean, not right now, I'm pretty sure, like, you know, this is exactly… I think ChatGPT is what.
+14:35:25 uh, capturing the image. But, um… And doing, like, maybe image processing, uh, kind of thing, like, you know, it's trying to do.
+14:35:35 And that's how it's calculating, hey, okay, like, you know, we can do this, and then suddenly it will change the safety rating and all those kind of thing, but uh… Yeah, I think, like, you know, that… all this thing, like, you know, we can… we can try to.
+14:35:50 integrate, like, you know, slowly. I think that will, uh, that could be, like, you know, more helpful.
+14:35:57 Yeah.
+14:35:58 be like, you know, this will also… change, like, you know, a lot of rating, like, comfort level.
+14:36:03 Uh, like, the safety… Uh, and the total rating.
+14:36:11 Yeah, I think that's a big goal of ours with this tool, is, like, to keep finding ways to… Give the AI more context.
+14:36:19 Right, right. And if we are just focusing on, like, you know, pedestrian and bicyclist.
+14:36:25 Yeah, I think, like, there is, like, a lot of, uh, lot of stuff.
+14:36:30 we can do in, like, you know, just design thing. So… so, are we only, uh, looking at the pedest, uh, bicyclist or the pedestrian as well?
+14:36:40 Uh, just a cyclist.
+14:36:43 Just a cyclist? Okay, okay, that's why it doesn't have, like, you know… ADA-compliant sidewalks and all those kind of thing.
+14:36:52 Yeah.
+14:36:52 But I think, like, you know, um… I mean, I personally feel, uh… when we are looking at the bicycle list.
+14:37:05 Because, see, I mean, we are looking at bicyclists.
+14:37:07 But, uh… Biscalists are the… not the only people who are… Uh, riding on the… on the road.
+14:37:18 I mean, they… there is an interaction with, like, you know, pedestrian, and there is an interaction with.
+14:37:25 Mm-hmm.
+14:37:24 Uh, the cars. So, I'm not sure, like, you know, how… just, like, you know, looking at the bicyclist, we can get, like, you know, uh… right results.
+14:37:40 Because some places, you look at, like, you know, for example, like, there are, like, shops.
+14:37:46 on… right across, like, both the sides. I mean, so many places, like, you know, they're, like, strip mall kind of thing, like, you know, you have, like.
+14:37:55 parked cars on both the sides, and there are, like, you know.
+14:37:59 vehicle can move, like, both direction, and both the sides, like, there is.
+14:38:04 Walk me with, you know, like shops, like, you know, small restaurants.
+14:38:09 Yeah.
+14:38:10 So… so… on that… on that specific street.
+14:38:15 There is a bike lane, but… you see, like, you know, uh, there are bikers, and there are, like.
+14:38:22 lot more pedestrians. So, so… So my, uh… my thing is, like, you know.
+14:38:27 Sorry.
+14:38:31 If there are, like, too many pedestrians, and then, like, you know, some vehicles are also crossing, so even if, like, you know, it's separated, like, you know, if you put the bowler.
+14:38:41 I might… I might not be that confident, like, you know, biking, because I might hit, like, some pedestrian, because pedestrian, they cross from everywhere, I mean.
+14:38:52 Yeah.
+14:38:51 If you have, like, folks somewhere over here. to move from, like, this side to this side, and uh… I mean, I'm not gonna go all the way, like.
+14:39:04 300 feet, and then cross. If there are, like, you know, shops.
+14:39:08 On both the sites, and I mean, people just cross, I mean, like, you know, I mean, that's how it works.
+14:39:14 So, so I think, like, you know, it's… I mean, lot of these things can change.
+14:39:21 And so, I think, like, you know, there has to be some kind of interaction.
+14:39:25 I'm sure, like, you know, I mean, it's… it will be, but right now, because of.
+14:39:31 Uh, research purpose, like, you know, we are only focusing on.
+14:39:35 Uh, cyclist. But I think, like, you know, we… we don't want to look at, uh, bicyclists, like.
+14:39:45 Yeah. Good point.
+14:39:43 alone. I… I mean, that's… that's what I… that's what I feel. I think, like, you know, there is a lot of, like, you know, conflict and, like, you know, interaction, so that… that may change the… the results of, like, what we are trying to do.
+14:39:57 And that's what I think, like, you know, if somebody who doesn't have much idea, and they try to use this tool, I mean, they will be definitely thinking, hey, I mean, like, you know.
+14:40:09 Since we have, uh, we have put the. the coordinates of any specific location.
+14:40:17 So… this… this is… this tool is trying to… This tool understands that, okay, there will be, like, you know, not just the bicyclists, there will be, like, some pedestrians, and also it's… it's trying to take into the account everything.
+14:40:33 Mm-hmm.
+14:40:34 And then that's what, like, you know, I'll be… I'll be… I won't just think that… Hey, this is only looking at the bike space. So, bike space are not the only people who are there. It's like autonomous vehicle.
+14:40:46 If you try to put, like, autonomous vehicle on street.
+14:40:49 They are not the only one who will be driving, so we cannot just think that, like, okay, like, see, everything is all good, we have reduced the timing and all this sort of thing, but because it has to… Um, you know, I'm gonna deal with.
+14:41:10 Yeah.
+14:41:04 existing cars, pedestrian, bicyclists, everything. It's not, uh, the exclusive thing, so… But, uh, yeah, I mean, but, uh, I think it's a… it's a… pretty decent tool, like.
+14:41:21 And then we can do, like, a lot of stuff, like, it's… it's good.
+14:41:25 Because it's at least, like, you know… I mean, it gives you some kind of perspective, like, what's going on.
+14:41:34 how we can improve… we can even try, and if we… I'm pretty sure in future, like, there will be, like, a lot more design options.
+14:41:44 Mm-hmm.
+14:41:43 So that way, like, right now, we just have, like, limited, but I think in future, I think there will be, like, a lot more, and we… you can see customized and all those kind of things.
+14:41:52 I think it's… it's good, I mean. And that's… it's pretty… So, what else we can do on this? Is there anything else, like, comparative analysis we have already done, right?
+14:42:03 Yeah. No, we haven't done that one yet. That's the last feature to try.
+14:42:04 Yeah, so I…
+14:42:08 So, you have to go to, like, each of the… Designs and click that button.
+14:42:13 Okay, okay, we can select, right?
+14:42:19 Yeah. So yeah, on each of the boxes. You can click it.
+14:42:31 And you can also include the original one if you want.
+14:42:40 Yeah, on the bottom left. There should be a prompt that allows you to create comparison.
+14:42:46 Yeah, on the bottom left of your screen.
+14:42:50 Oh, this one?
+14:42:52 Oh…
+14:42:58 Or this generate evaluation.
+14:42:59 All the way, like, the bottom left corner.
+14:43:03 Oh, bottom left. Okay, create comparison. Okay, alright.
+14:43:12 Yes, that tab that just popped up behind the Google Maps.
+14:43:21 Yeah, that one.
+14:43:24 This one?
+14:43:28 Uh… the one behind…
+14:43:35 Looks similar. It's, like, behind the street view. Box.
+14:43:45 Okay, that's the one.
+14:43:44 Yeah, that big one. So yeah, this one has a discussion, and then also… There's the design scenario comparison tab.
+14:43:53 Which shows, like, different… graphs comparing the scoring for each… Design scenario.
+14:44:00 From my perspective and experienced cyclist. I prefer design scenario 2, okay.
+14:44:08 the lane width is adequate for my need. While I don't need the buffer.
+14:44:15 It does keep cars from drifting into my space. Yeah, because, like, you know, now we have put that bollard next to the moving cars.
+14:44:23 So, yeah, that's true. Yeah, so that this is, uh… when we are trying to do the comparison, it says, like, from my perspective.
+14:44:36 as an experienced cyclist, I prefer design scenario 2.
+14:44:41 Uh, the lane width is adequate for my needs.
+14:44:44 So, I mean, how it's… how it's trying to assess the lane width.
+14:44:51 That was the thing I was, uh, saying. It's just like, you know, uh… some kind of image processing? Maybe I haven't used, like, you know, if ChatGPT can… maybe I'll try.
+14:45:05 like, you know, open something and see. Can you calculate, like, you know.
+14:45:10 lane width that maybe I'm… maybe, like, you know, it's giving the right width.
+14:45:17 Yeah.
+14:45:16 I haven't used, uh… I'm a little, like, you know… I'm not sure.
+14:45:22 If it's, uh… if you can look at the image and, like, you know, put it in ChatGPT and say, hey, what is the lane width? Maybe it's doing… If it's doing, then it's… Then it's really good.
+14:45:36 Yeah, because, like, if it has… if it can assess the exact land width data, then definitely, like, you know, it makes more sense.
+14:45:44 And, uh, it also says that design support efficient riding at speed.
+14:45:51 So, how it's taking the speed data? Does it… Are… do we have, like, you know, speed data? Because… you shared, like, two, uh… latitude and longitude, uh, like, you know, coordinates.
+14:46:11 Yeah.
+14:46:10 So I'm using one of those. So, maybe, like, you know, you guys already have something.
+14:46:17 inbuilt in this tool that is calculating the, uh, design speed and the lane width.
+14:46:25 I mean, it could be. I'm not sure. I'm just guessing, because… It says, like, you know, the design support efficient riding at speed.
+14:46:33 So, speed means what is speed? I mean, does it have a speed?
+14:46:38 He's just commenting on, like. Based on the… Width and the safety of the bike lane that the cyclists provide at a decent speed.
+14:46:44 Yeah, like, you know, yeah, something like, you know, some… yeah, yeah, that's true.
+14:46:50 Uh, as a regular cycler, I prefer designing… buffer zone delivery was first.
+14:47:00 Yeah, I think it's good, because it's trying to compare, uh, both the scenarios.
+14:47:07 And it's… and it's giving, like, you know, which one is much better.
+14:47:13 No, if forced to choose, okay, no design scenario 1 is least terrifying option.
+14:47:21 But I would… But I still wouldn't psych it even with barriers.
+14:47:29 sharing old space with cars is unacceptable. Uh, these designs as someone who drives daily understands the name.
+14:47:39 Sure. But I worry about the practical impacts.
+14:47:53 I think it's… it's good. I think it's doing a decent comparison.
+14:48:02 Oh yeah, could ask some… The question…
+14:48:06 Yeah.
+14:48:23 Also, we can put, like, some questions and…
+14:48:29 Let's see…
+14:48:29 Yeah.
+14:48:59 Let's see, like, you know, I just try to understand.
+14:49:28 What does it say, like, what is the download project?
+14:49:31 What is that?
+14:49:34 Um, but then it's like the… I think the images you generated?
+14:49:41 Also, I was like a Jason Hall. Well, I'll ask you to do that afterwards, and, like.
+14:49:41 Oh, okay.
+14:49:45 Email all the things… It downloads to us.
+14:49:50 Okay. So, did it give any response?
+14:49:55 I think so, I just have to scroll up a bit.
+14:50:10 That's the… Like, moving.
+14:50:16 Left and right is the…
+14:50:25 How to bring it down.
+14:50:32 Try zooming out more…
+14:50:35 Yeah, I think so.
+14:50:53 No, I think it gave something, but…
+14:50:58 Design is free.
+14:50:58 Yeah, so the answers.
+14:51:08 No, did it give any? And sir?
+14:51:12 Yeah, that set of answers. It gives one for each persona.
+14:51:15 Oh, okay, okay. So these are the answers, right?
+14:51:18 Yeah. Yeah.
+14:51:23 Okay, yeah, these are the… Initial ones…
+14:51:28 Mm-hmm.
+14:53:23 Generated again, just scroll up.
+14:53:26 Yeah.
+14:53:53 Yes.
+14:54:07 I think, like, this is the most… challenging thing.
+14:54:12 Yeah, it's weird, it's not… Letting you move it.
+14:54:16 Yeah, I tried to zoom in, but I think it has gone somewhere.
+14:54:22 Maybe try using the zoom out function on the bottom right.
+14:54:22 way too up.
+14:54:26 There's, like, one built into the UI.
+14:54:46 You see the plus minus on, like, the bottom right of the website?
+14:54:53 Where is that? Okay, now. Yeah.
+14:55:33 Narrow lens for car. Means more defined space for cyclists, video.
+14:55:49 Ensuring that the drivers are aware of the. By claiming the physical separately.
+14:55:55 Okay, and it's… It can slightly.
+14:56:00 similar food.
+14:56:22 It's the mix.
+14:56:32 And the modified design reduced. Perfect available.
+14:56:36 For vehicle, vehicle traffic. This is an indication of… With narrow lens, there could be a challenge in maintaining the smooth traffic.
+14:56:47 Okay, that's good. Yeah, I think it's… it's good, it's… it's giving, like, you know.
+14:56:54 So, yeah, I think, like, you know. It's like it's linked to ChatGPT.
+14:57:01 Yeah. Is that good or a bad thing?
+14:57:01 Yeah, so… No, I think it's… it's good, because, I mean.
+14:57:10 AI tools, I mean… They are all… they are already there, so… it makes sense to make use of those.
+14:57:18 I mean, only thing, uh, I mean, it's good. I mean, whatever we have, like, available, we can use.
+14:57:24 But, uh… what exact… I mean… Because, for example, like, we are using, like, ChatGPT, or any other available AI tool.
+14:57:36 But… I mean, this is not the only stuff we are trying to do. I mean, we might be trying to do, like, you know, 100 different things.
+14:57:46 Yeah.
+14:57:46 Which could be useful and which. Uh, a specific AI tool which is available, it might not do, I mean.
+14:57:56 because of, like, certain reason, because our focus is a little different.
+14:58:01 And it might not have that kind of capability. So, uh, my thing is, like, you know.
+14:58:07 how exactly we can use the ChatGPT, and also, like, you know, we can have our algorithm or some kind of tool.
+14:58:15 Uh, like, you know, which we are trying to develop, and we can.
+14:58:19 try to integrate, like, you know, different. uh, geometric features and all those kind of thing.
+14:58:25 So that way, like, you know, when you… when you… Uh, when we try to run this thing.
+14:58:32 With, like, different design option, we can get a… very, uh, I would say.
+14:58:41 Mm-hmm.
+14:58:39 the best of the best reserve. like, you know, it can… it can… it can optimize, uh… our output.
+14:58:49 Based on, like, you know, what kind of design changes, like, we are trying to do.
+14:58:53 But I think, like, you know, it's giving, like, a lot of options.
+14:58:57 Because when I put, like, you know, what will happen, like, you know, when we try to reduce the… lay in wait for the vehicle, so it says, like, you know, it's giving different options, that there could be a.
+14:59:08 challenge with, like, uh, it's more, uh, movement of traffic flow and all those kind of things, like, you know, so.
+14:59:16 I mean, I think it's… I mean, it's… it's doing, like, you know, it's good.
+14:59:21 It's taking, like, you know, all those, uh, things into consideration.
+14:59:27 Yeah.
+14:59:27 I think it's good. I will, uh… Yeah, I mean, like, you know, I think this is in… nascent stage, but…
+14:59:37 I'm not sure, like, you know, what… what exactly is the scope of this, uh… project, but… I think it's a good tool.
+14:59:44 Mm-hmm.
+14:59:47 There is a lot, lot of stuff that could be done.
+14:59:52 Yeah.
+14:59:52 And, uh, I think there's… This could be a pretty handy tool for a lot of people.
+15:00:00 Yeah.
+15:00:00 Yeah, not only, uh… like, agencies, but for the… For the normal people.
+15:00:08 And this could… this could be pretty good.
+15:00:11 Yeah, I guess in terms of, like, the scope of the tool.
+15:00:15 That's, like, the main thing where… gauging in this study.
+15:00:19 And that's what we're… could ask you is, like.
+15:00:20 Right.
+15:00:24 What you think of the tool, and also… How you think you could integrate this, or, like, other AI tools into your… Daily workflow.
+15:00:32 Right. Yeah, and like, you know, the tools, like, which are already there.
+15:00:37 I mean, it makes sense to make use of it.
+15:00:42 Unless, like, you know, unless they're… there is some kind of proprietary stuff that, hey, I mean, if you are trying to do it with… use it with this, you need, like, some kind of subscription or something. That's a different thing, but uh…
+15:00:56 I mean, uh, why not? I mean, if something is available, it's… it's always… good to make use of it.
+15:01:05 And plus, like, you know, we can always… integrate our own stuff.
+15:01:10 I mean… AI is basically all… They're just trying to have, like, you know, all the algorithm in place and try to do the thing, so we can specifically.
+15:01:20 take care of a lot of things. That way, like, you know, because… I mean, you do, like, a lot of things.
+15:01:29 Where, like, you might not get the exact results, like… So, if we try to improve that, I mean, the results could be, like, you know, much better. They might not be 100% correct, but.
+15:01:43 Mm-hmm.
+15:01:41 pretty close. Like, you know, so… I think it's a, it's a… it's a good tool, I mean.
+15:01:50 whatever I try to use, I think it's… it's giving pretty… And, uh… Basically, you have something that, hey, I mean.
+15:02:01 This is a tool, like, you can look at the street picture and try to do the things. I mean, that's the thing, right?
+15:02:08 Yeah, I mean, people can take the picture and put it on, like.
+15:02:08 Hmm.
+15:02:12 Copilot or, uh, ChatGPT and try to do all this kind of stuff, but uh… Yeah, I mean, but that's not… Uh, it… I mean, they'll have to think a lot of this stuff.
+15:02:25 But here, if we have a tool that, like, you know, okay, design set, then you can actually see.
+15:02:31 what design changes we can look for. So, I think it's pretty good.
+15:02:36 Yeah. Yeah, I…
+15:02:37 Yeah, so you say you like having, like, this UI that… I guess streamline the AI using process versus having to do it all on your own.
+15:02:47 ChatGPT.
+15:02:48 Yeah, yeah, yeah, definitely. I mean, somebody might say that, like, you know, hey, I mean, we can always… we can also do it, like, you know, take the screenshot, or try to put, like, you know.
+15:02:58 Yeah, that is true, but… Not everybody knows, like, you know, what changes… you would like to see?
+15:03:07 Yeah.
+15:03:06 You don't… you don't understand the options. So, with this tool, like, you know, anybody can look at, like, you know, what.
+15:03:14 You can… you can make changes. You, you know, you can see, like, you know.
+15:03:20 Uh, okay, these are the… we can reduce the lane where, like, you know, we can widen it, and, like, you know, put the bowler, like.
+15:03:27 do 10 different kind of thing, and then see the result. If you can do the comparison.
+15:03:32 You can generate, like, 5 different options and do the comparison.
+15:03:36 So, not everybody will try to do all this stuff with.
+15:03:41 just, like, putting it on ChatGPT, that's not… So, I think it's a good tool.
+15:03:47 I mean, it's giving you pretty much everything. It's comparing, like, 5 different options, or, like, 2 different options.
+15:03:53 and giving you everything, like. in, like, one box. I mean, you can just… read it and try to decide. So I think it's… it's good, like, you know.
+15:04:03 At least, uh… it will give you some kind of sense.
+15:04:08 That what improvement could be done, and like, you know.
+15:04:12 Yeah. Right.
+15:04:14 I think it's good, uh… Especially for, uh… Normal people who are, like, you know.
+15:04:23 I think it's a… it's. Very good tool.
+15:04:28 I mean, people can learn a lot, like, you know.
+15:04:32 And see, like, you know, what they can do.
+15:04:32 Yeah.
+15:04:35 what is needed. So, it's… I think it's a good tool.
+15:04:44 Yeah.
+15:04:43 Right then. Looks like we've… pass their time a bit. I just want to say thanks for taking the time, especially on the weekend, so… Come meet with us.
+15:04:51 Uh, yeah. Yep. It's… it's good.
+15:04:57 Yeah.
+15:04:54 Yeah, really appreciate your feedback. And then… I guess just a few… Like, last things is, uh… to fill out that survey.
+15:05:06 Yeah, I… right.
+15:05:06 That's on the dock, or, like, the street design one, and then also… If you could download the files, like, remember you were talking about that, uh, download project button?
+15:05:18 Yeah, could just download those and email it to us after.
+15:05:15 Well, yeah, yeah, yeah.
+15:05:21 And then also, you could screenshot, like. the responses from the AI that you found the most interesting, and then also email that to us.
+15:05:30 That'd be great.
+15:05:31 Yeah, sure, so let me… Okay.
+15:05:45 I don't need to open the JSON, I think that one, you can just attach in the email.
+15:05:55 Oh, that's what I'm trying to do.
+15:06:07 Yeah. And as long as it's downloaded on your computer and you can.
+15:06:04 Well, it's… Okay, so I think…
+15:06:12 Add in the email, it's fine.
+15:06:15 So is this… is… is it not in the PDF format, or it's a different format?
+15:06:21 No, it's a JSON file. Yeah.
+15:06:23 Okay, okay. So, I think…
+15:06:36 Or just giving, like, some…
+15:06:40 Yeah, so all those things, you could just email it to us afterwards.
+15:06:44 Yeah, sure. Let me see right now.
+15:06:54 Okay. Wow.
+15:06:55 Yeah.
+15:07:01 That's good.
+15:07:04 Alright then. We can end the meeting here.
+15:07:08 Yeah, sure. Yeah, I'll email it to you. All right, thank you.
+15:07:13 Alright. Well… Thanks again.
+15:07:16 Thank you very much, appreciate it. Thank you guys. Thank you. You, bye-bye. Bye.
+15:07:19 Have a good rest of your day. Bye.

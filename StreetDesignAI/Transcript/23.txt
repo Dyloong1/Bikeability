@@ -1,0 +1,1003 @@
+13:02:42 Let me showering for the transcript.
+13:02:46 Okay, uh…
+13:02:47 As you can see in this PDF, we're going to do, like, this interview will contain two parts. The first is we're going to test, uh,
+13:02:57 AI…
+13:02:58 uh, integrated tool on helping people to design bike.
+13:03:04 facilities. And the second is, we're going to
+13:03:08 try to implement this, uh, the… the…
+13:03:12 things we did with the system to chat GPT, and I will ask you, like, how do you feel about the system, and how do you feel about the…
+13:03:21 Classic GPT.
+13:03:22 And, uh, you can start…
+13:03:25 With, like, filling the pre-study survey, if you click that, you can have a… yeah.
+13:03:30 Okay, uh…
+13:03:31 And this is just, like…
+13:03:32 So even though, I mean, it doesn't matter, like, which Gmail account you use, it's not…
+13:03:39 Um, doesn't matter, yeah, I will, like, give you an interviewee number after this.
+13:03:46 So, just watch me to, uh, fill this form, right?
+13:03:51 Okay, okay.
+13:03:50 Yeah, yeah, but yeah. It's very short, yeah.
+13:03:54 Okay, uh…
+13:04:05 draw design, the arcs.
+13:04:08 Uh, I think your project also counts, like, how many projects you're worked on.
+13:04:14 Okay.
+13:04:13 But it's like, you enjoy this, but I'm just not sure about it. Maybe, like, one to three years.
+13:04:19 Okay.
+13:04:21 Some projects involve street design.
+13:04:27 if con… if… if… is this Kant?
+13:04:30 My bachelor's projects, maybe it wasn't this project.
+13:04:35 I have the capability to create
+13:04:38 that accommodate diverse user types.
+13:04:41 Hype.
+13:04:43 Uh…
+13:04:44 Yeah, like, cyclists, drivers, and yeah, those.
+13:04:48 pedestrian.
+13:04:53 Okay.
+13:04:55 Now, move to identify and comprehend the personal requirement.
+13:05:03 No, I will comment on here, but to make inclusive…
+13:05:08 What is, like, inclusion, inclusive design decisions?
+13:05:17 So, you, like, you try to… try to…
+13:05:22 make your road more, like,
+13:05:25 Agit.
+13:05:24 comfortable for all types… yeah, everyone, yeah.
+13:05:26 Oh, good. Cool.
+13:05:32 Okay, this is the…
+13:05:33 Yeah, so that's why it's gone.
+13:05:37 Okay.
+13:05:36 Yes. Uh, now we're going to try the system, or the
+13:05:39 Another one?
+13:05:41 tool that we design. Uh…
+13:05:44 Which browser are you using? Safari?
+13:05:47 Yeah, since our counter support, but I can also, like, open this by…
+13:05:53 Uh, I think I have another one, like, uh, Chrome is okay.
+13:05:56 Yes, uh, because, like, we are, like, after this, we will download your interaction data, and that doesn't…
+13:06:03 works well on Chrome, yeah.
+13:06:08 Okay.
+13:06:09 Maybe you can copy that.
+13:06:10 But, yeah, I need to copy this.
+13:06:14 Runk.
+13:06:19 Okay, uh, now you've entered the system.
+13:06:23 Uh…
+13:06:23 genre.
+13:06:24 Yeah, you can use this, or…
+13:06:27 Like, just preload.
+13:06:27 Although they bought one?
+13:06:28 Yeah.
+13:06:30 So I just need to click load location.
+13:06:33 test the coordinates.
+13:06:35 Then load this in.
+13:06:35 Oh, okay. Oh, okay.
+13:06:40 Lord.
+13:06:44 So, now we have the…
+13:06:48 location, like, the street view image of that location, and you can, like, turn the camera around a little.
+13:06:56 And, like, make it facing the road. Now we can, like, after that, we can…
+13:07:02 start.
+13:07:04 You can, like, uh…
+13:07:08 dragon.
+13:07:08 A lot. Yeah, okay, got it.
+13:07:09 Yes.
+13:07:13 Let's find them.
+13:07:13 facing the road, right?
+13:07:15 Yes.
+13:07:15 Yeah, maybe, like, go back to this one.
+13:07:20 Yeah, this could be a cool point, yeah.
+13:07:22 Okay.
+13:07:22 Or we can, like, try different places if you, like, want to try your apartment road, or, you know, doesn't…
+13:07:28 This one. How about this one?
+13:07:30 But here are some construction, maybe.
+13:07:33 Yeah, maybe move forward a little.
+13:07:38 This? How about…
+13:07:40 Uh… yeah, this could be, yeah.
+13:07:43 Oh, I mean, this is…
+13:07:45 This is a street view of this… okay.
+13:07:47 Yes, yeah.
+13:07:50 cut and larger, can zoom in this one.
+13:07:54 Um, you don't actually… you don't need to, yeah.
+13:07:55 Okay. Okay, got it, yeah.
+13:07:57 This… this could be a good point, and…
+13:08:02 But why am I not seeing… okay. Are you sharing your whole screen, or…?
+13:08:07 Oh, you cannot say my… okay, maybe I can share it again.
+13:08:11 Yeah, I'm seeing, like, part of your… yeah.
+13:08:15 How about…
+13:08:19 current. You still can only say…
+13:08:23 Because we need to find… okay. Can you move your mouse to an empty spot? Yeah.
+13:08:29 Okay, yeah, and track it, like, navigate downward a little… yeah.
+13:08:34 You click Generate Evaluation.
+13:08:37 Okay…
+13:08:39 And what this system is doing now is it, like, used this image to analyze how
+13:08:46 Bike about this road is.
+13:08:50 Okay, but currently, I mean…
+13:08:53 for this view, it's not about it.
+13:09:00 Oof, who did I just…
+13:09:04 And this is the evaluation it gives. It…
+13:09:08 And read about it, and tell me, uh, what you think about it, like…
+13:09:14 The good, the bad thing, and yeah, just anything you have in mind, yeah.
+13:09:17 Okay, okay, okay. Um, prawns are really straightforward with, um, make, uh, manageable speed limit.
+13:09:28 of allowing for…
+13:09:31 Uh, do you mind, like, if I share another screen? Because currently,
+13:09:36 This screen's too small for me.
+13:09:39 Yeah, of course, yeah.
+13:09:41 Just give me another.
+13:09:44 let me stop share…
+13:09:49 Yeah, I can share it.
+13:09:54 Uh, this one? Okay…
+13:09:56 Okay.
+13:09:58 Yeah, good.
+13:09:59 I was noticing this…
+13:10:01 This may be a bad… oh.
+13:10:04 Ooh, okay.
+13:10:08 Uh…
+13:10:12 So, first, uh, for this prawns, it seems like the speed limit is
+13:10:18 25 instead of…
+13:10:20 30. Yeah.
+13:10:21 Okay, that's a good catch, yeah.
+13:10:24 Yeah, and the cost is limitedly.
+13:10:32 Uh, limited liens may cause congestion due times, and parking.
+13:10:41 And parking can, uh, obstruct visibility. Yes, I agree with the cons.
+13:10:48 Oh, sorry, so for this interface, it's just for drivers, right? And if I click this, and it's like the…
+13:10:56 pros and cons for Zacklist.
+13:10:58 Yeah, for those two boxes, yeah, and…
+13:11:02 Okay, yeah, that's for the restroom.
+13:11:01 But for the four, like, bigger ones, the cyclists, yeah.
+13:11:06 Oh, you mean for the…
+13:11:08 For these four blocks is for cyclist, right?
+13:11:11 Yes, yeah.
+13:11:12 Okay, okay.
+13:11:19 Yeah, also, I want to add one more thing about cons. It's like, currently…
+13:11:26 Not sure this one. I mean, not sure this, uh, this…
+13:11:33 This row segment is like, uh, one link only, or, like, always, like, two ways.
+13:11:40 traffic, not sure about it.
+13:11:41 But seems like the two ways.
+13:11:44 But there's no any barriers.
+13:11:48 I mean, it's not like the physical barrier, even though they even don't have, uh, like, uh, lines.
+13:11:57 Yeah, yeah, yeah, Ian.
+13:12:00 And for cyclists, the prompts is, like, the relative
+13:12:06 Relative…
+13:12:08 Slow speed limit may provide a safer environment for showering the roadways vehicles.
+13:12:16 Okay, and the cons is lack of dedicated cycling infrastructure and vacuums.
+13:12:24 Increases the risk.
+13:12:25 of conflict with motor vehicle. Yes, I agree with both of it.
+13:12:29 And there's a strong and the fearless.
+13:12:34 Sifting…
+13:12:37 Yeah.
+13:12:37 Yeah, uh, this is, like, four types of cyclists and their evaluation of this road. Like, how they see this road differently, yeah.
+13:12:47 Oh, so that each block is for a type of cyclist, right?
+13:12:51 Yes.
+13:12:51 Okay. Uh, narrow lens with parked cars. No dedicated back infrastructure.
+13:13:09 To be honest, I think if for…
+13:13:13 strong and fairest cyclists, maybe…
+13:13:17 So, the rate can be a little bit higher, cause…
+13:13:21 This seems like just a, like, small community road.
+13:13:26 role, instead of, like, public arterials or something. So, even though the…
+13:13:33 The number of links is limited, and there are a lot of parked vehicles, but…
+13:13:39 Still seems like
+13:13:41 safer, because they are… don't have a lot of traffic. I mean, the flow…
+13:13:46 The volume is very small.
+13:13:49 Good point, yeah.
+13:13:50 It seems like the volume is very small.
+13:13:52 Yeah, very good point, yeah, like…
+13:13:54 Uh, and for the insuest and confident, uh…
+13:14:02 Circulist, no.
+13:14:05 Potational…
+13:14:07 Don't…
+13:14:09 So, for… from parked cars.
+13:14:11 Yeah, I think for the confident, um…
+13:14:15 Yeah, the rate for the confident, uh, cyclist, I think…
+13:14:20 the rate is reasonable.
+13:14:24 And…
+13:14:26 what is, like, the interested but concerned?
+13:14:30 It's like, what do you… what do you mean by interested? Like…
+13:14:35 A cyclist is…
+13:14:37 The interest is. Glad to hear.
+13:14:42 Oh, yeah.
+13:14:39 Yeah, like, I want to bike here, yeah, but, uh, like, I have some concerns, yeah.
+13:14:52 Mmm…
+13:14:55 potential for panic coexist.
+13:15:16 Actually, I have one question, is…
+13:15:19 For one question, it's like…
+13:15:22 Um…
+13:15:23 You can say, like, even for different type of cyclists, and they give the different rate, right?
+13:15:30 But it seems like the excuse is a little bit similar, like…
+13:15:36 No physical protection.
+13:15:39 present, and the traffic close to a cyclists.
+13:15:42 Is that… and also, like, no dedicated cycling space.
+13:15:47 I mean, first, uh…
+13:15:50 just visiting this block, the traffic close to cyclist and no dedicated cyclist space seems like a little bit overlapped, and if we just cross-blocks
+13:15:59 Seems like, you can say, uh…
+13:16:04 the potential… no, not this one, like, the no-dedicated stuff.
+13:16:08 I mean, couple bullets, they just…
+13:16:13 appears for every…
+13:16:15 every type of second… but maybe this is reasonable, because…
+13:16:19 is, uh… mmm…
+13:16:21 It's, uh, evaluation of odd health.
+13:16:25 Is that close.
+13:16:25 Yeah, yeah, yeah, that's, like, that's kind of feedbacks we want from you, like, do you think this overlap, like, a good thing or a bad thing, yeah?
+13:16:36 Mmm…
+13:16:40 For me, of course, they can reflect, like,
+13:16:46 reflect that different circulates, they have the common concern, but…
+13:16:50 Um, but it's…
+13:16:52 But, I mean, like, you can see narrow, lean, with parked vehicles, and no dedicated back.
+13:16:59 This seems like this tool almost common for all type of… so it's a little bit
+13:17:06 um, can…
+13:17:08 cannot, like, help you distinguish, like, different…
+13:17:13 uh, cyclist.
+13:17:15 Yeah, that's okay.
+13:17:15 Uh, concern, something like that.
+13:17:17 That's a good point, yeah.
+13:17:17 I mean, maybe…
+13:17:20 some, like, the fearless cyclists, maybe their concerns, like, more…
+13:17:26 aggressive, or something? I don't know, like…
+13:17:29 But, um…
+13:17:33 And also, like, you don't… you don't know, like, what's…
+13:17:37 I mean, for each bullet, for example, for no dedicated circling lanes, right?
+13:17:43 For this one, I think maybe different type of cyclists, they have the different route for this one, even though
+13:17:53 They are common for everyone, but…
+13:17:54 Maybe it's a fearless one, they just think, oh, this… this is important, but then…
+13:18:00 But not that important than others.
+13:18:03 you know, what I want to express.
+13:18:05 Yeah, that's a good point, yeah, like, I don't think, like, any other, like, interview you mentioned this, that's really good, yeah.
+13:18:12 Like, we classify the four by the, like, the results we gave us are quite similar, yeah.
+13:18:20 And no way, no hall is, like, a very…
+13:18:25 conservative cyclists, right?
+13:18:27 Yeah, yeah, yeah.
+13:18:30 That's a good point, yes.
+13:18:30 Yeah, also, I want to mention, it's like, you can say,
+13:18:34 For no way, no how, and of… I mean, just, we compare the interested but concerned, and no way I know how. You can say their rate is…
+13:18:42 pretty similar.
+13:18:44 So…
+13:18:47 Yeah, that's it.
+13:18:47 I mean, in my opinion, maybe no way I know how they are written, maybe… maybe…
+13:18:53 lower, like, one… one out of 10, or…
+13:18:57 Or, like, 0 out of 10.
+13:18:59 And for the strong and fearless, maybe their rate is higher, at least compared with confident cyclists.
+13:19:07 Yeah.
+13:19:09 Yes.
+13:19:13 So…
+13:19:14 Uh… if… yeah, this… that is just one of the systems function, and…
+13:19:19 If you click Adjust Design,
+13:19:21 Mm-hmm.
+13:19:21 And you can, like, this, uh, what, like, this gives you some design options, and you can…
+13:19:28 choose them, and uh…
+13:19:30 system will send this…
+13:19:32 image and their requirement, and generate a new image.
+13:19:35 Oh, I see.
+13:19:36 Yeah. You can choose some designs you have in mind, yeah.
+13:19:43 Buffer tab, what is buffer tab?
+13:19:46 uh, like, if you want to separate cyclists from drivers, you have different options.
+13:19:50 Oh, God.
+13:19:51 Yeah.
+13:19:53 location next to Bob.
+13:19:59 Yeah, maybe January this one.
+13:20:05 have a look.
+13:20:06 Okay, so now the system is generating, and it will take, like, 1 or 2 minutes.
+13:20:12 And after it's done, it will pop up a new window.
+13:20:16 Okay.
+13:20:17 Okay, and meanwhile, we can… yeah.
+13:20:20 Meanwhile, we can try another function, it's the in-depth analysis. If you click that one.
+13:20:26 And… yeah.
+13:20:29 It will give you a more conversation-like discussion, like,
+13:20:34 how different cyc… cyclists will see…
+13:20:37 this road.
+13:20:40 Take some time, read about it, and tell me how you feel about this, yeah.
+13:20:45 Okay. Um, can I…
+13:20:49 I see opportunities for food.
+13:20:55 Midage.
+13:20:58 as well.
+13:21:09 Well, adding clearly.
+13:21:13 What's his, like, maintaining good traffic flow? The good traffic flow is low traffic flow, right?
+13:21:20 Um…
+13:21:24 That's a good question. I don't…
+13:21:25 Maybe you just, like…
+13:21:28 more smoothly.
+13:21:30 Yeah.
+13:21:32 Oh, a simple…
+13:21:34 punted backlink woods.
+13:21:37 surface for my need.
+13:21:41 So I understands or needs more protection?
+13:21:45 analyzing this location of Liber needed a balanced approach. The current status has potential.
+13:21:52 has potential, I love… I love to see a green containers with at least a printed bathrooms on.
+13:22:00 It's reasonable.
+13:22:15 How do you feel about this discussion? Do you think they are, like, reasonable?
+13:22:20 For the confident one.
+13:22:22 Oh, only for that one, okay.
+13:22:24 And…
+13:22:25 Oh, I mean, for… yeah, first, for the strong fearless one, I think it's, like, reasonable, and I'm comfortable with that.
+13:22:33 And the faults are, you know, so…
+13:22:35 in COS, uh, in Seoist and confident for this one.
+13:22:39 I think…
+13:22:42 Like he mentioned about, um…
+13:22:46 like, uh, with at least a printed buffer zone.
+13:22:51 And it can also keep costs reasonable, so I just…
+13:22:56 have all questions, cause…
+13:22:59 just based on the street view we just watched, we just seen.
+13:23:03 Seems like there's no space for open bubbers.
+13:23:07 Oh yeah, that's a good point, yeah, like…
+13:23:09 So, yeah, it's not, like, seems like not for this location specifically, yeah.
+13:23:16 Yeah. Uh, this location is currently too dangerous for no recyclops need physical protection, either…
+13:23:27 Armotilo deltas.
+13:23:32 To even consider cycling.
+13:23:34 So, clean here, Pental won't address my safety concern.
+13:23:39 Must clearly separate bicycle from cars with physical.
+13:23:44 I'm looking at this row, even with some insight as to wooden form.
+13:23:49 me to even consider you.
+13:23:51 fully protected circuit track.
+13:23:55 We will, um, completely separate from traffic.
+13:24:00 I'm not… I don't know what it is carbon.
+13:24:04 Against the infrastructure and its analysis, uh, acceptable.
+13:24:08 That means, like, completely separate the, uh, the vehicle and the bicycle.
+13:24:15 Yeah, yeah, yeah.
+13:24:15 Like, maybe you're…
+13:24:19 exclusive…
+13:24:21 infrastructure, I'm saying?
+13:24:23 Yes.
+13:24:26 Yeah. Uh…
+13:24:29 Yeah, I think the…
+13:24:31 the concern cyclists and the no-we-know-how cyclists they are, uh…
+13:24:38 The comments is reasonable.
+13:24:40 Uh, yeah.
+13:24:43 Um, fool.
+13:24:46 Wow, I was fine.
+13:24:48 From driving perspective. This rolls out one with small soft tone down challenge. Will I support safe?
+13:24:57 We need to care for the consider impact on traffic flow, turning movements, and parking.
+13:25:06 An inch in front of my adequate lean.
+13:25:10 wax for vehicles and ensure clear…
+13:25:14 sad lines, sad intersection.
+13:25:19 prisons.
+13:25:25 Do I need to type in the spurs saving improvements?
+13:25:29 I'll do that.
+13:25:29 Uh… yeah, like, for example,
+13:25:32 Yeah, you can take, like, ask them anything you'd like, yeah.
+13:25:38 I mean, the improvements for the
+13:25:41 For this design, all the improvements for their… for… for… for the, uh, comments of this.
+13:25:49 for type of cyclists.
+13:25:51 Both.
+13:25:52 Uh, well, like, either, yeah, you can ask them anything, yeah.
+13:25:57 Mmm, okay.
+13:26:02 Mmm…
+13:26:05 Yeah, I think…
+13:26:08 And even though…
+13:26:12 Yeah, I think…
+13:26:15 And even though, um…
+13:26:21 I don't know of…
+13:26:23 I mean, the…
+13:26:26 Los space is limited bar.
+13:26:29 But, uh…
+13:26:34 However, mmm…
+13:26:38 dedicated, uh…
+13:26:42 So cool. I'm so cooling the…
+13:26:47 Maybe…
+13:26:50 Um…
+13:26:51 calls from Drugs the…
+13:27:06 Yeah, that's true.
+13:27:09 Yeah, that's true, uh…
+13:27:14 I mean, how to describe the infrastructure for pedestrian to work, for pedestrian to work?
+13:27:22 By the way, yeah.
+13:27:25 What can I repeat it?
+13:27:27 By the way, maybe, yeah, separate from sideway.
+13:27:32 outside the… Okay, paid.
+13:27:32 Oh, yeah. Tidal walks, sidewalks, yeah.
+13:27:34 Yeah, okay. He does.
+13:27:38 Shin said the walks.
+13:27:39 Okay.
+13:27:41 Yes.
+13:27:44 Yeah.
+13:27:48 Okay, I don't have others, so…
+13:27:52 The…
+13:27:54 Seems like…
+13:27:59 Okay. So you gave me some feedback.
+13:28:26 I'll do like their reply? Do you think they, like, answered your question, or…?
+13:28:38 Uh… space beta…
+13:28:42 I didn't, uh…
+13:28:49 even though I don't know what is flexible,
+13:28:54 ball lards.
+13:28:54 It's like… hose.
+13:28:55 But…
+13:28:57 Between them.
+13:29:00 Can I repeat it?
+13:29:00 It's, like, posts, like, sticks between…
+13:29:05 Uh, between, uh, cyclists and sidewalks.
+13:29:09 Okay, yeah, but…
+13:29:12 pissed that it will not come from Matt so much, but…
+13:29:16 to enhance efficiency on that, uh, crew.
+13:29:36 do we improve?
+13:29:38 With, uh, dashed line to a lawful quick…
+13:29:42 overtaking yourself.
+13:29:45 Sifting, so…
+13:29:51 physical bag.
+13:29:55 I advocate for a completely separate circle track.
+13:30:00 We are enhancing succinctly.
+13:30:06 for a small strap.
+13:30:08 Uh, and the fifth…
+13:30:10 turning Wolf Front…
+13:30:12 And then you…
+13:30:20 Hmm…
+13:30:22 Uh, I think maybe this…
+13:30:25 Oh, I mean, considering the limited space, maybe this…
+13:30:29 segments is only suitable for the fearless and confident one. It's very hard to meet the requirement of interest type of concern, and no way, no-how, secularist.
+13:30:42 Yeah, yeah, that's a good point, yeah.
+13:30:42 Yeah.
+13:30:44 And we already have a new image, like, the generated one. We can go there and see how do you like about it.
+13:30:51 Do I need to, uh… do I need to, like, reply on… yeah, maybe this…
+13:30:56 Uh, you don't need… yeah.
+13:30:57 And…
+13:31:00 What happened?
+13:31:00 Now, we have the new image.
+13:31:02 Oh, yeah, uh…
+13:31:04 That means…
+13:31:04 click somewhere else, yeah, yeah.
+13:31:07 Okay, uh, and I…
+13:31:11 Okay, so this is new image, right?
+13:31:14 Yeah. Do you like it?
+13:31:16 Uh, is this a buffer line?
+13:31:18 Yeah, that's the buffer, yeah.
+13:31:21 Okay, to be honest.
+13:31:24 I think…
+13:31:28 Uh…
+13:31:30 So first, the bufferland… the buffer zone seems like weathers on the cyclists.
+13:31:37 Uh, yeah, yeah, yeah, yeah, yeah.
+13:31:38 And also, like, you can say the parked vehicle also, like, parked on the cyclist lane, so…
+13:31:47 So it seems also not very safe, and also…
+13:31:51 I'm nowhere to understand. I don't understand why, like, this…
+13:31:58 Like, this dedicated backlink only appears in this direction, but not in the other.
+13:32:04 That's a good point, that's a very good point, yeah, yeah, yeah.
+13:32:06 Obviously, yeah. So…
+13:32:07 Yeah.
+13:32:09 Yes, and also, even though there is, like,
+13:32:14 Even though there is a dedicated
+13:32:18 by Klim, but…
+13:32:21 They are even… don't have a central line for this
+13:32:24 straight to…
+13:32:25 to tell, like, the opposite direction drivers.
+13:32:31 They're…
+13:32:32 Yeah, yeah, the road, yeah.
+13:32:33 the boundaries of their… yeah, the boundaries of their role.
+13:32:38 Hmm, okay, the weather… the weather and clearly.
+13:32:43 green mark… markings improves visibility and development.
+13:32:48 Smalls. Turning movements… where is turning movements? I don't even know where is turning.
+13:32:56 Okay.
+13:32:57 Maybe, yeah, maybe the car, like, drive out of there?
+13:33:03 maybe as an office.
+13:33:06 No?
+13:33:06 30 moments may be more challenging due to the need to cross the eye.
+13:33:12 Yes. Groovy at this point.
+13:33:16 Uh, requiring Chris Dark Attention.
+13:33:20 The green pantillion buffer.
+13:33:23 Offering an enhanced level of comfort and visibility.
+13:33:29 Just by the bathroom.
+13:33:38 Yes, I totally agree with this cons.
+13:33:44 Yeah, if they have such space, why not just construct this?
+13:33:49 there's a collie in…
+13:33:51 On the pedestrian.
+13:33:54 So…
+13:33:56 Um, what the…
+13:34:06 Um, long-term, long-term, momentum…
+13:34:11 Momentumo.
+13:34:14 Primary role.
+13:34:16 service, quality, appearance.
+13:34:20 Oh, widely…
+13:34:24 Inclusive, too.
+13:34:26 Stand their bathroom, in fact, feel good for regular.
+13:34:30 good for regular community.
+13:34:34 well, relax, feel of protection.
+13:34:40 Maybe… I think, like, if it's just on the street,
+13:34:45 Uh, lean, right? Street, uh, row segments. Maybe there's no need for the physical production, but…
+13:34:51 for the, uh, turning.
+13:34:55 turning, uh…
+13:34:57 all the intersections, maybe they can add some physical protection.
+13:35:04 Oh, what does the improveability?
+13:35:07 green color enhance ring recognition intersection.
+13:35:10 You know, inducing all the cold barriers from traffic.
+13:35:23 Uh, yes, uh, this time I agree with this rate.
+13:35:27 Yeah, just adjust, so…
+13:35:30 But this one seems too conservative. I think maybe he's not suitable for backing.
+13:35:36 Yeah, yeah, good point, yeah, yeah, yeah, no way, right?
+13:35:39 Yeah, so just…
+13:35:40 And, yeah, if you click…
+13:35:43 That's okay.
+13:35:44 comparative, you know, like, you can click…
+13:35:46 comparative analysis of this one and the original, like,
+13:35:51 Original Condition 1. There's also a button, yeah.
+13:35:54 You click the…
+13:35:56 per poet in that window.
+13:35:58 Yeah, and on the bottom left of your screen.
+13:36:03 Mm-hmm.
+13:36:03 There should be a bottom left.
+13:36:08 Well, that I have books!
+13:36:07 Yeah. Oh. Ooh!
+13:36:11 Uh, go back…
+13:36:12 Okay.
+13:36:17 Have you found it. We are there?
+13:36:18 Uh, yeah, yeah, yeah, yeah. Take some time, find it.
+13:36:23 Uh, okay.
+13:36:25 Actually, not very…
+13:36:28 this one.
+13:36:31 Oh, this one, yeah. Maybe the 4, uh, I don't… I'm also not a Mac user, so…
+13:36:38 I'm not sure.
+13:36:42 I become panicked this time.
+13:36:47 That's true.
+13:36:51 Yeah, that one. And then maybe Coop.
+13:36:54 But I think it's gone.
+13:36:58 Okay.
+13:36:58 Okay, never mind, I remember a lot of…
+13:37:02 Um…
+13:37:21 Yeah, I think it's this rule.
+13:37:27 completely the same. Do I need to, uh, repeat it again to just…
+13:37:32 Uh…
+13:37:34 Yeah, like, you can just, like, facially click them.
+13:37:37 Yeah, yeah, I got… yeah, because I can just…
+13:37:40 Yeah.
+13:37:53 Okay.
+13:37:52 Okay. Okay, change to everything, it's a shame.
+13:37:56 Okay. Perfect.
+13:38:02 address to… addressed.
+13:38:17 I think last time I chose this one.
+13:38:24 the Quran. I think so.
+13:38:26 Yeah, it doesn't matter, like, doesn't matter that much, like…
+13:38:29 Oh, it doesn't matter. Okay.
+13:38:30 that much, yeah.
+13:38:32 Almost the same is okay.
+13:38:34 And, uh, in-depth analysis.
+13:38:38 Do we need to repeat this again?
+13:38:41 You don't… yeah, you don't need to. We just want the comparative part.
+13:38:44 Okay, yeah, I have a limit. So, we just need to wait for the scanner.
+13:38:49 generate the gen… the generated.
+13:38:52 Yes.
+13:38:53 That's a red hit one.
+13:38:55 And… yeah. While, like, while we're waiting for it, um, we can, like, log in the…
+13:39:03 GPT. Do you, like, can you open a new page, like, a new GPT page?
+13:39:09 Okay.
+13:39:13 Try to meet him, right?
+13:39:14 Yes, yes.
+13:39:16 I will give you a…
+13:39:20 GPT account.
+13:39:22 or not my account, right?
+13:39:21 Let me see…
+13:39:23 Yeah, you don't need to use yours.
+13:39:26 Okay. Okay.
+13:39:27 Let me find it…
+13:39:29 So I have to talk in the US.
+13:39:40 Okay, uh, oh, I remember… oh, nothing. Uh, let me catch the…
+13:39:47 I will send you…
+13:39:50 into…
+13:39:52 Where's two? Okay.
+13:39:52 Can you explain it to me in this chat, chat box.
+13:39:56 Yes.
+13:40:07 I get to where we are in trouble.
+13:40:09 For what?
+13:40:11 Hi, Champs.
+13:40:15 I think so, yeah.
+13:40:16 Alright.
+13:40:29 What happened? Okay.
+13:40:31 Oh, I'm sorry, I didn't…
+13:40:33 Yeah, still sharing that.
+13:40:36 Okay, that let me get that for you.
+13:40:38 Okay.
+13:40:41 Is this a New Yorker?
+13:40:41 all continual-ish password.
+13:40:49 Okay.
+13:40:51 Hm?
+13:40:51 Wait, wait. No, no, no, I have to, like, yeah.
+13:40:55 like all the previous code, but I think they changed.
+13:40:58 Yeah. Uh…
+13:41:00 Ooh.
+13:41:01 login risk.
+13:41:01 copy… copy-paste the password again, yeah.
+13:41:15 I think my computer is a little bit…
+13:41:19 stark.
+13:41:20 It's okay, yeah.
+13:41:31 just paste that, and I will give you the code once I get it.
+13:41:35 Yeah, I'll try to enter the password back.
+13:41:39 That is dark.
+13:41:43 I was gonna say every time I clear this, that's it.
+13:41:49 Yeah, maybe you'll come first.
+13:41:54 Okay.
+13:41:59 Comparative analysis, comparative analysis, and…
+13:42:03 compare.
+13:42:11 a quick comparison, right?
+13:42:13 Yes.
+13:42:19 Where it is.
+13:42:24 Yep, that one.
+13:42:28 Mmm… what should I do?
+13:42:30 Uh, you're saying, like, quickly rate it, like, and, like…
+13:42:36 And yeah, and also click that one. Yeah.
+13:42:38 These are the two things. Yeah.
+13:42:39 Okay.
+13:42:49 Design Scen scenario one is, like, the one I already…
+13:42:54 adjust… adjusted.
+13:42:56 Yeah, the newly generated one, yeah.
+13:42:57 Okay, the weather didn't give me all blah blah blah.
+13:43:01 As a regular tenant every third, because…
+13:43:04 Roma numbers.
+13:43:08 I feel more like the bit of the job.
+13:43:13 From, uh, numbers.
+13:43:18 Still have CRS?
+13:43:20 But I don't address my…
+13:43:25 If false or false, yes.
+13:43:27 But, um…
+13:43:31 Notice that I was somewhat.
+13:43:34 I understand the need to fall back, but I worry about practically max reduce the immune.
+13:43:41 longer commute time.
+13:43:44 losing parking spots effectiveness?
+13:44:05 Where the improvement?
+13:44:08 of, uh, COS and confident cyclists. It's higher than the strong flair list.
+13:44:22 Okay, I think, uh, for… for this type of cyclists, same…
+13:44:28 the improvement. There are evaluations, improvements. It's very limited, but for interested or concerned, this one, almost the same with fairly sensitive.
+13:44:40 So…
+13:44:39 Yeah, that's a good point. Yeah, that's a… that could be the…
+13:44:42 Yeah.
+13:44:44 So, what should I do next?
+13:44:47 Uh…
+13:44:48 This is all the system, like, we tested, and there's a short… can I go back to the PDF? There's a short survey.
+13:44:56 Mm-hmm.
+13:44:58 Wait, uh, let's stay here first. Can you click the top right corner? There's a download project button.
+13:45:03 Click that one. Yeah, and…
+13:45:07 allow multiple downloads.
+13:45:10 On the left, yeah.
+13:45:13 Yeah.
+13:45:13 a lot. So, you should download two photo… yeah, two pictures and one
+13:45:21 Jason, yeah, that's good. Yeah, and there's a short survey in the PDF.
+13:45:26 Can you, like, finish that?
+13:45:29 for that first send you those two figures.
+13:45:32 Uh, we can do that after this interview, yeah.
+13:45:33 Okay, okay, okay, okay.
+13:45:36 Oh, okay, Amazon, I need to…
+13:45:39 do the survey again, right? Okay.
+13:45:41 Yeah, there's a short survey.
+13:45:46 Uh-oh.
+13:45:55 This survey kind…
+13:45:57 use Safari.
+13:45:58 Yes, you can use Safari for that, yeah.
+13:46:00 Okay, okay, good. This is, um, it's general. Do you need to say this? Okay, maybe I can just…
+13:46:05 I don't need to see, I don't need to see that. Yuji can just, like, finish it.
+13:46:07 Okay, okay. This is, um, generally easy to use.
+13:46:14 What's his tone? You mean the adjusted on this?
+13:46:18 the… the tool, the… the… yeah.
+13:46:20 the whole… the whole thing, right?
+13:46:21 Yes.
+13:46:22 Yes.
+13:46:26 interaction is intuitive.
+13:46:31 Intuitive.
+13:46:34 There's some good renewing your insight into it.
+13:46:43 What's the interactions into it?
+13:46:46 Just, like, how you use this tool. Is it easy to use? Yeah.
+13:46:50 Hmm, okay. Interacting with the system gives you new insights into different…
+13:46:57 million sets. No.
+13:46:58 You're like, you have a…
+13:47:01 I think it's just…
+13:47:00 you know, having 30 different, you know…
+13:47:04 it's… I think it's inside of us, they don't have a lot of millions.
+13:47:09 Yeah.
+13:47:09 Maybe… just this is how we understand person.
+13:47:20 Hope we all nurses down first, but I have a previous concern in DLC.
+13:47:25 Straight along.
+13:47:32 It was a personal feedback generated versus the left, so…
+13:47:36 Oh, son, I feel… felt authentic and representative.
+13:47:43 Overall, I had… what's hard to say, huh?
+13:47:48 I'm not understanding all.
+13:47:51 I see a lot to use our system like this in my work.
+13:47:57 Frequently.
+13:48:06 Mmm, the January evaluation function provides useful feedback.
+13:48:13 Yes, the general new design function produced one.
+13:48:18 useful at all night.
+13:48:27 Horrifying.
+13:48:31 Hmm, and compare how my understanding.
+13:48:34 Uh, I have the accountability to create…
+13:48:42 I want to…
+13:48:45 I don't know if I comprehensive.
+13:48:57 Okay, alright, it is submitted.
+13:48:59 Okay. Uh…
+13:49:02 Uh, can you, like, now we need to do the GPT thing again, yeah.
+13:49:04 Oh, yeah, okay, okay. Uh, let me…
+13:49:10 kind of closest, uh…
+13:49:13 Pep.
+13:49:14 a sleeve that open.
+13:49:16 Yeah.
+13:49:19 Yeah, uh…
+13:49:17 I'm not sure, because this has a memory of my computer is very limited, I'm pretty, like…
+13:49:23 Okay, okay. Uh…
+13:49:25 Can I… can I often tell you it on Safari?
+13:49:28 How about…
+13:49:28 Yes. Yes, you can do that.
+13:49:31 Insofari.
+13:49:34 Oh, okay…
+13:49:46 Okay, I'm afraid I…
+13:49:49 Make this disappear, okay.
+13:49:53 Uh, and the ChatGPT, uh, but not on my…
+13:50:01 Oh, God.
+13:50:03 Okay.
+13:50:06 Uh, login, other account…
+13:50:18 Okay.
+13:50:21 This time, it's not stop.
+13:50:27 And wait for it, I will give you the…
+13:50:31 code. Okay, I have the code. I will send it to you.
+13:50:37 Okay, where is the chat box? Okay.
+13:50:39 Okay, it's this one.
+13:50:54 Okay.
+13:50:56 And if you go to the PDF, uh, we have already written the prompt for you.
+13:51:01 Yeah.
+13:51:01 can just copy-paste, and add the image.
+13:51:08 Oh, no?
+13:51:08 So, this one is, like, what, yeah, use this one, yeah.
+13:51:13 Uh…
+13:51:13 Um, again, I copy-paste all the, like, prompt one.
+13:51:18 Yes. Uh…
+13:51:18 from here, or from the medial.
+13:51:20 I need you. Yes.
+13:51:22 So, copy and paste, all of it, or copy-paste one by one.
+13:51:27 uh… one prompt by one prompt, yeah.
+13:51:29 So, and then just paste here, and it…
+13:51:32 No, no, no, like, you have to choose your design.
+13:51:36 Oh…
+13:51:38 Uh-oh.
+13:51:41 We are to choose my data.
+13:51:43 Uh, you paste the text here first.
+13:51:47 Yeah. What if I see this right? Like, this is other interviewees.
+13:51:52 New chat, new chat, this is allowing…
+13:51:54 Oh, Yung Pan.
+13:51:54 Yeah.
+13:51:56 Okay.
+13:51:56 Yes. Paste it here.
+13:51:58 And…
+13:52:02 like, you change the text.
+13:52:06 Okay.
+13:52:07 I need to help me create a modified.
+13:52:11 Blah, blah.
+13:52:15 design parameter.
+13:52:21 So I… so do you mean, like, I can choose any of it, so it doesn't matter, it's, like, a proper one, or…?
+13:52:28 Yeah, like, they give you options. You choose one of the options, yeah.
+13:52:44 And to… after choosing you.
+13:52:47 like, add that picture you downloaded.
+13:52:53 Oh…
+13:52:56 our location, and even don't…
+13:53:06 And do you mean I need to attach the…
+13:53:10 Yes.
+13:53:10 figure or download it.
+13:53:17 Where are we aware?
+13:53:22 any of it, or…
+13:53:23 the existing.
+13:53:26 Okay.
+13:53:36 And then click as well.
+13:53:37 Yes.
+13:53:46 GPT will generate this image.
+13:53:48 And…
+13:53:50 You can tell me, like, how you feel about the image GPT generated, do you like this, or do you like the systems more?
+13:53:57 Okay.
+13:54:13 It's very slow.
+13:54:15 Yeah.
+13:54:16 Oh, okay.
+13:54:19 The thing is because my computer's problem. This computer has very limited memory, so…
+13:54:25 It's only, like,
+13:54:25 How many years have you used it?
+13:54:28 It's not a lot of years, it's only, like, when I bought it, I only chose, like, a term…
+13:54:34 10GB memory.
+13:54:38 Because…
+13:54:38 Oh… it's cheaper.
+13:54:40 Yeah, no, because they told me, like, 10 GB memory is already enough.
+13:54:47 Oh.
+13:54:48 Yeah, different people.
+13:54:49 I don't really… I don't believe this.
+13:54:53 Anymore.
+13:54:55 Maybe, you know, just people, like,
+13:54:57 don't use Hamila that much, yeah.
+13:54:59 How do you all feel like this?
+13:55:03 Yeah, I prefer this one.
+13:55:04 Why do you prefer this one?
+13:55:09 Cause this one don't have buff.
+13:55:12 Oh, uh, oh, wow.
+13:55:13 Yeah, because I think, like, currently for this, like, very limited, uh, street space,
+13:55:21 actually adding the buffer is not worried.
+13:55:25 reasonable. And for this one, I have… already have a dedicated, uh,
+13:55:32 Dedicated the best Colleen.
+13:55:35 So maybe it's already enough.
+13:55:37 I mean, the only difference is, like, the…
+13:55:42 the system-generated one have a buffer.
+13:55:46 Cause I think that buffer area is too wet.
+13:55:49 Yeah, but…
+13:55:51 To be honest, I prefer one, like, maybe the… the best cooling is on the pedestrian.
+13:56:00 Yeah, cause for this…
+13:56:03 type of small neighborhoods, they don't have a lot of pedestrians.
+13:56:08 Yeah, so good for you.
+13:56:07 So, practical and pedestrian, maybe they can.
+13:56:11 share the same space, yeah.
+13:56:13 Not… not exactly the same space, I mean, at least, um…
+13:56:19 separate from traffic, but on the pedestrian sideboard, they can also add a bus cooling.
+13:56:26 Yeah, and also this also, um, I mean, this…
+13:56:29 Adjustment also helps for the turning and intersection.
+13:56:36 Yeah.
+13:56:37 Okay, uh, we have another, like, prompts.
+13:56:41 Yeah, you can just, like…
+13:56:43 Another prompt.
+13:56:44 Yeah, there are four prompts in total, yeah.
+13:56:45 Oh, yeah, yeah, yeah, yeah. Yeah, so I need to copy one memo.
+13:56:47 You don't need… yeah.
+13:56:49 Yeah. And…
+13:56:51 You don't need to change this, like, yeah.
+13:56:53 Oh, I don't need to change it. Good.
+13:56:55 Yeah, okay.
+13:56:58 So I just copy-paste from analysis, let's to…
+13:57:02 Yeah, you can delete the local…
+13:57:05 local condition… like, local context, yeah, I can delete that one.
+13:57:08 If you don't have… yeah.
+13:57:11 You mean delay, there's hole sometimes?
+13:57:13 Yep.
+13:57:16 We're good to go.
+13:57:16 Okay.
+13:57:19 Unclick this one, right?
+13:57:20 Yes.
+13:57:24 And it will give you the scores.
+13:57:27 Just like the system, and tell me how you feel about, like, do you think this is better, or the system is better?
+13:57:33 Hmm, okay. Okay.
+13:57:37 Uh, let me see… well, but only I'll grab a grooming for availability in Alba.
+13:57:48 that they can't handle.
+13:57:52 Fioral Cloth…
+13:57:54 Yeah, I think this one a little bit more reasonable cost.
+13:58:00 I attended this talk, based on their score.
+13:58:03 more distinguishable for different type of…
+13:58:07 users.
+13:58:11 Perfect.
+13:58:12 We don't need to go into that detail, yeah.
+13:58:21 Oh, yeah, yeah, yeah, yeah.
+13:58:17 Yeah, because I don't want to take, like, more time from you. We have, like, one hour session, you know, we're almost there, yeah.
+13:58:23 Oh, yeah. So, do I need to copy-paste another one?
+13:58:26 Yes.
+13:58:27 Oh, yeah.
+13:58:32 Probably, right?
+13:58:33 Yes.
+13:58:34 Okay.
+13:58:35 Yeah, this is enough, yeah.
+13:58:37 You don't need the follow-up part.
+13:58:41 Just clear this one.
+13:58:41 Yes. It's insane.
+13:58:45 they will say, like, more.
+13:58:47 like, in-sentence, yeah.
+13:58:48 Okay, okay.
+13:59:19 Yeah, they are reasonable.
+13:59:22 Okay. Do, like, this.
+13:59:23 Yeah, with more details, yeah.
+13:59:25 Okay, so, say GPT has more detail.
+13:59:28 Mm-hmm.
+13:59:29 Okay, we have the final prompt.
+13:59:35 This is, like, prefer, like, compare the two.
+13:59:47 I'll clear this. Okay.
+13:59:48 Mm-hmm.
+14:00:25 Uh, I think, like, um…
+14:00:28 Compare with… yeah, I prefer this edition, because you can say,
+14:00:32 For example, for the fairness, uh, cyclist.
+14:00:35 They can tell you the reason why
+14:00:40 Like, I don't mind what, what, what.
+14:00:42 Instead of only said…
+14:00:46 Psalms…
+14:00:51 I think for this one, I think it's more… with more detailed to say each type of users, there are specific requirements for the cyclist.
+14:01:06 Yes.
+14:01:12 And…
+14:01:17 Yeah.
+14:01:13 Yeah, that's all for the GPT part, and there's a short survey for GPT, like, how you… like, your interaction with GPT.
+14:01:21 Similar question, yeah.
+14:01:25 You mean, do I need to fill that survey, like, in PDF?
+14:01:31 Try to it. Okay, okay.
+14:01:31 Yes, yes.
+14:01:33 Okay, this is, um, it's generally the two years.
+14:01:40 So this is for stability assessment, generally there to use.
+14:01:45 Yes.
+14:01:49 Interactions, intuitive.
+14:02:10 This is a homeowner or something, I don't know.
+14:02:20 Yeah.
+14:02:31 Oh, good, no.
+14:02:36 I was identified.
+14:02:47 I'm calling for the…
+14:02:48 Okay.
+14:02:52 And the last interview question.
+14:02:55 Uh, you don't need to open that. I will, like, because you already answered many of them, I will just, like, ask you, like, maybe…
+14:03:03 two or three questions.
+14:03:04 Okay, okay.
+14:03:04 First-wise, like, after, like, we tried the two systems for the same function.
+14:03:10 Do you feel like…
+14:03:13 one, like, maybe for certain tasks, some system, like, one system does better than the other.
+14:03:20 Uh, I think, like, for…
+14:03:23 Uh, for the interregion system, the first system is better, because
+14:03:32 And we need to copy-paste a lot of stuff, and uh…
+14:03:37 Uh, yeah, and they already…
+14:03:42 Yeah, and I mean…
+14:03:45 It's like in the beginning, they already led you to choose a street, and then…
+14:03:51 Zah, I…
+14:03:54 Yeah, and then they will, uh, every time just generate all the scenes.
+14:03:59 Okay.
+14:03:59 You just need to click a couple buttons.
+14:04:03 But for charity, it seems like…
+14:04:06 Sometimes I need to…
+14:04:09 ask very specific question with…
+14:04:12 specific prompts in orders, and also…
+14:04:16 Um, yeah.
+14:04:18 To be honest, it's just, like,
+14:04:21 Um, and also, like, charity,
+14:04:24 countless, even though they give a lot of, like, descriptive feedbacks from different type of users, but…
+14:04:34 They don't have very, like, visualization of the…
+14:04:40 Also, the comparison part. I think for that comparison analysis.
+14:04:44 So, the first system is better.
+14:04:47 Um, but for the opinion part,
+14:04:51 I mean, for the different, uh…
+14:04:53 users' opinion, but I think the strategy is more specific and a more sharp.
+14:05:00 Um, they can…
+14:05:03 Yeah, they can… they gave more details, and they read
+14:05:09 that they rate the safety and the…
+14:05:13 That means it gives those scores more reasonable, yeah, and more distinguishable. Yeah, that's it.
+14:05:21 Okay, uh, and…
+14:05:25 Oh, you already answered that. Uh, I do have another question. I do have another two. The first one is, how do you picture
+14:05:32 This tool can be used, like, in real world,
+14:05:35 design, or real-world, like, project working.
+14:05:39 You'll mean for the engineer are sad.
+14:05:42 If engineer is a user.
+14:05:42 Yeah, and renews…
+14:05:45 planners, yeah.
+14:05:49 Mmm…
+14:05:50 how can I picture this? Uh, I think…
+14:05:53 Uh, I think, like, of course,
+14:05:56 Um, instead of previous, like, purple service,
+14:06:00 Um, the generative tours, of course, it can give more comprehensive
+14:06:07 feedback from different users.
+14:06:09 Uh, yeah. And, uh, but I think…
+14:06:14 Uh, maybe…
+14:06:16 maybe, uh, yeah, even though currently it's already…
+14:06:20 I mean, current to… no matter
+14:06:24 ChatGBT and the first system is already, um…
+14:06:30 It's like the…
+14:06:37 It's already… it's…
+14:06:38 I mean, we can see the future, but I can see some improvement in the future. Maybe they can be… instead of, like, qualitatively, they can be more quantitatively.
+14:06:51 Uh, yeah.
+14:06:53 No matter for the…
+14:06:56 Um…
+14:06:58 I mean, oh, I mean for the…
+14:07:02 different users' feedback, they can be more quantitatively, and also for their comparison, they can be more…
+14:07:09 Uh, quantitatively, statistical analysis.
+14:07:13 Something like that.
+14:07:15 The final question.
+14:07:19 Uh, how do you feel, uh, how do you feel… what do you see about the relationship between AI and…
+14:07:27 engineers and designers, planners.
+14:07:33 relationship, Peter.
+14:07:34 Yeah.
+14:07:41 I think, uh, um…
+14:07:44 I think AI is just a tour for planners to use.
+14:07:51 like, um…
+14:07:52 And compare with a traditional planning tours.
+14:07:59 I mean…
+14:08:00 AI can be customized with traditional planning tools, but it can…
+14:08:05 Also, beyond the traditional
+14:08:09 tours by incorporating more data.
+14:08:11 So, yeah.
+14:08:16 So I think they are not, like, contradict with each other. They can be help with each other.
+14:08:20 Designers must take responsibility.
+14:08:27 Google. Uh, I think that's all we have today? Yeah.
+14:08:30 Yes.
+14:08:31 Okay. And thanks for taking the time to do this interview, and after this, uh, can you send me the files you downloaded?
+14:08:43 Which fell?
+14:08:44 The one from the Chrome, yeah.
+14:08:47 Give me one second. Yeah, I just want to make sure.
+14:08:55 Look, this is correct.
+14:09:00 You mean this one, Jason, Jason fail.
+14:09:03 all follow that, okay?
+14:09:02 Yes. Yes.
+14:09:04 Okay, okay. Yeah.
+14:09:06 And, uh, we already had that window open, and I also need 3 screenshots from the system, like, where you find the system interesting, yeah.
+14:09:19 It means this one, right?
+14:09:21 Yes, and you, like…
+14:09:24 We already have all these functions, and you can…
+14:09:27 screenshots the parts where you find interesting.
+14:09:31 Okay, screenshot where I find this interesting. Okay.
+14:09:41 how many…
+14:09:43 Uh…
+14:09:43 Common Israel, sorry.
+14:09:45 Yeah, like, but if you find, like, less than 3, you can send me 1 or 2, yeah.
+14:09:55 I said, this part.
+14:10:00 Yeah, I will send you a lid.
+14:10:02 Okay.
+14:10:02 Uh, and uh…
+14:10:05 Yeah, this part is… is…
+14:10:08 Good.
+14:10:13 Yes. That's it.
+14:10:24 Yeah, and I won't push it, like, adjusted design and appear this one, but I don't know how to screenshot this.
+14:10:36 How about this?
+14:10:38 And this could, yeah.
+14:10:45 Okay, sorry. Yeah, I'll send you.
+14:10:46 Okay. Okay.
+14:10:49 Yeah.
+14:10:49 Thank you, thank you so much for taking the time.
+14:10:52 Okay.

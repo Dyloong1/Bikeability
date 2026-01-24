@@ -1,0 +1,613 @@
+09:00:58 And whenever you are ready, you can…
+09:01:01 Start sharing our screen.
+09:01:05 Oh, do you want me to share all my screen?
+09:01:07 Including, like, when I'm filling the surveys and everything.
+09:01:11 Uh, you don't… you don't need to, like, you just need to, like, share the…
+09:01:15 web, like, browser part, yes.
+09:01:18 system.
+09:01:18 Oh, okay. I'm filling, uh, the survey right now, so I'll start sharing my screen once I finish this one, uh, and I…
+09:01:24 Perfect, yes.
+09:01:45 service done.
+09:01:58 Do I put in the location that's indicated here?
+09:02:04 Yeah, I need to click… I think if you click Test Coordinator, like, fill that location, or you have a…
+09:02:11 like, specific location in mind, we can also use that.
+09:02:14 Okay.
+09:02:14 Oh, no, I'm just using the ones you guys provided.
+09:02:17 Okay.
+09:02:22 And this is, like, uh, you can navigate around your choosing, like, a good…
+09:02:27 like, starting point, it will, like…
+09:02:30 base that location to render this image, like, to analyze this image.
+09:02:35 Okay, so probably here.
+09:02:38 Uh, maybe, like, facing the center of the road, yeah, somewhere, yeah.
+09:02:43 Uh, so both ways?
+09:02:45 Uh… it works better on road segment. Yeah, this could be a good point, yeah.
+09:03:01 And, uh, while we're waiting, uh, what this system is doing now is it tries to…
+09:03:09 uh, send this picture to…
+09:03:11 LLM, and it will try to…
+09:03:15 analyze it in terms of how bikeable it is.
+09:03:19 Yeah, and a very brief introduction about the UI, uh, like, if you hit CTRL and you…
+09:03:27 Scroll your mouse, it will zoom in, zoom out.
+09:03:30 And as you can see, like, the, uh…
+09:03:34 Uh, and you can see, like, you can drag these windows.
+09:03:37 And the zoom in, zoom out, if you click on empty space, it will zoom out this webpage.
+09:04:08 Or you can hit, like, the small buttons.
+09:04:12 in the bottom right, yeah.
+09:04:23 Feel free to share anything you feel about the system, like, the things you find interesting, or it doesn't make sense, or…
+09:04:30 It's good.
+09:04:56 Is this speed limit…
+09:04:58 Estimated by the environment itself, where it is, like, um…
+09:05:02 taken from a, uh, like, from Google Maps or somewhere.
+09:05:06 Because I'm not seeing any speed signs on this image.
+09:05:11 It's a good question. I think it's from OpenShare Lab, it's kind of a joint database, yeah.
+09:05:44 We have a document, like, Sunny…
+09:05:48 Or I can just pendant them in this email, I guess.
+09:05:52 Oh, yeah, that's good, that's… yeah, that was good work.
+09:06:31 And what this function does is tries to…
+09:06:35 use, uh, and to mimic
+09:06:38 conversations, like, with…
+09:06:39 cyclists. They have, like, 4 types of cyclists and drivers, and they want to see
+09:06:45 Like, if, like, you are talking with them, what's their opinion?
+09:06:57 And that function, like, we will go, like, we will see later, yeah, and…
+09:07:02 Uh, in that in-depth analysis, can you go back to that again?
+09:07:07 Yeah, that's one, yeah. And as you can see, like,
+09:07:12 like, the cyclists provided their input.
+09:07:15 You can also, like, ask them questions here, like,
+09:07:20 What do you think of a certain thing? Like, like, what…
+09:07:23 like, improvement do you want to see, or things like that, yeah.
+09:09:57 How do you feel about their replies? Do you think, like, they are useful?
+09:10:00 I feel like the information… I feel like the… they're trying to… I understand that they're trying to mimic almost like an argument, or, like, a discussion environment here, but I think the information provided by them
+09:10:12 It's kind of repetitive.
+09:10:15 probably, uh, I can ask something else.
+09:10:21 And both of our observation, like, built, like…
+09:10:24 we won't, like, ourselves, do things and bad things. It will help, like, really help us understand the…
+09:10:31 What's exactly the system can do, yeah.
+09:11:23 Yeah, so I think…
+09:11:25 I think it's nice to have this kind of, like, a format of information provided, but I think it's just…
+09:11:33 a different version of the information provided here already. It might be very useful for a… how to say…
+09:11:41 Um, it might be useful for a person in planning, but not necessarily…
+09:11:48 specialized in transportation planning to take a look at this interface, but if for somebody is, like, specialized in transportation planning, I think they can get… already get enough information from this
+09:12:00 interface only. Uh, I think this is more for…
+09:12:04 planners, but not really specialized for transportation planning, this might be really useful for them.
+09:12:10 Um, but the kind of information and arguments provided here, uh, is kind of, um…
+09:12:17 reinforcing and repetitive.
+09:12:19 to the ones that already, um, provided here and also at the beginning of the discussion.
+09:12:26 Uh, just for the different personality or, uh, tendency of emotions, um, or attitudes here, I think they are trying to reinforce the same
+09:12:37 design elements that they've been, uh, stating from the beginning.
+09:12:41 So, which I think I can already…
+09:12:46 deducted from this panel only,
+09:12:49 But if for… for example, if the planner specialize in, like, land use, or in housing,
+09:12:55 this might be really helpful for them to get more detailed suggestions.
+09:13:00 Yeah, that sounds alright, like, insightful comment. Yeah, and about the, uh, the summarize window, like, the, the, the, the…
+09:13:10 The initial one. How do you feel about that one? Do you feel like the scores, they are reasonable, the bullet points?
+09:13:18 Do they… do you find them useful?
+09:13:20 Yeah, I think this, uh, I think this interface is really nice. First, because here, it provides…
+09:13:27 Um, some information about, like, uh, crossing, traffic lights, presence, and, uh, uh, speed.
+09:13:35 from the… probably external database you just mentioned.
+09:13:40 Uh, so I think this one is really nice, and it provides…
+09:13:43 the pros and cons, both for cyclists, and for here, by the information given at different, like, personalities here, I think this… the bullet points are summarized really nice.
+09:13:55 And the scoring, also, I think they are reasonable, at least for this scenario, I think the scoring for the four-all personalities are very nice.
+09:14:08 Uh… okay.
+09:14:08 Yeah, you can click that one if you, like, yeah.
+09:14:11 Yeah, I took the screenshot.
+09:14:15 for both of the panel of the…
+09:14:20 Thank you. Mouse.
+09:14:21 Yeah.
+09:14:23 Also, just design.
+09:14:25 Oh, okay.
+09:14:24 as a slightly fancy thing, like, it used this, like,
+09:14:30 options, and you… if you, like, once you send them, it will generate a new image, it will render a new one, yeah.
+09:14:38 Okay.
+09:14:40 Most of the parking lot, not to park cars.
+09:14:44 No buffer.
+09:14:50 That is, like, optional, but if you have anything in mind, you can, like, type it in, yeah.
+09:15:04 Let's see without it first.
+09:15:07 Here, and once you click it, it will send your requirement and this image to…
+09:15:13 like a GPT.
+09:15:14 Yeah, uh, we use GPT for this, yeah, and it will render a new one.
+09:15:20 It might… yeah, it might…
+09:15:21 Do we have to hold for a while?
+09:15:23 It might take 2 or 3 minutes, yeah.
+09:15:26 Okay, no problem.
+09:15:30 And once, like, while we are waiting, uh, to, like, feel, like,
+09:15:35 talking about anything else about this system?
+09:15:38 Yeah, I think it's just the interface of the, like, the user experience itself.
+09:15:43 If this webpage can be scrollable,
+09:15:51 And…
+09:15:47 Like, if I can scrolling up and down, that would be really nice. Um, and also, the panels, if they can be…
+09:15:56 like, enlarged for, like…
+09:15:58 I know this is probably more like a Myra board situation going on here,
+09:16:03 you know, yeah, yeah, exactly, yeah.
+09:16:04 Like, there's a big whiteboard. If we can, like, change the size of the panels a little bit,
+09:16:11 That would be… also be really helpful.
+09:16:13 Um, and uh…
+09:16:17 Yeah, I think that's the two main things I can think right now.
+09:16:22 Uh, and another part is…
+09:16:25 what else? Oh, if there can be some, like…
+09:16:30 Uh, for example, the ones I hit adjust design, I have to wait for a while. If there's, like, a little…
+09:16:38 I call, telling me that I have to wait.
+09:16:41 Uh, that could also be a little bit helpful, because right now, there's no, uh, feedback, so I don't know if it's being executed successfully, or it's just freezed over there, so if there's an icon…
+09:16:52 And telling me, like, oh, it's… they're doing their job, it's just… it might take a few minutes.
+09:16:58 Um, it's avoid me to, like, keep hitting the button here.
+09:17:02 Oh, yeah, uh, about that, like, if you click it, it, like, once, like, while it's generating, that function would be grayed out.
+09:17:11 That may be helpful, yeah.
+09:17:13 Yeah.
+09:17:16 like, a little…
+09:17:19 loading. Um…
+09:17:18 Um, like a little bar or something, or even a small tag was taxing, like, it's generating.
+09:17:25 I think that'll be really helpful, to just give me some feedback, so it… so I don't have…
+09:17:29 So I'm not, like, hitting the button multiple times.
+09:17:33 Yeah, yeah, yeah.
+09:17:35 Um, okay, so that's the new…
+09:17:37 Is that a buffer to walk down the lane?
+09:17:43 So, what I'm supposed to produce.
+09:17:48 And, like, to remind you of your options, it's on the, like, the top bar of this panel, like, what are the options you choose, yeah.
+09:17:55 Bye, Sarah.
+09:18:20 Let's see something else…
+09:18:24 We look at a…
+09:18:25 buffer…
+09:19:24 always regenerating, so let's wait for it.
+09:19:30 Yeah, and if you see this two pictures, you can see the second one is, like, AI generated. It's like…
+09:19:38 Um, like, do some minor, like…
+09:19:41 augmentation, and it also, like, implemented your requirement.
+09:19:46 Yeah.
+09:19:51 And if you could see the score, I think they changed…
+09:19:55 Uh, a little, yeah.
+09:19:57 like, not a, like, a very big change, because the, like, design up, like,
+09:20:03 No.
+09:20:03 Yeah, I feel like there's a… there's a strong sense of protected
+09:20:08 And a physical barrier,
+09:20:09 for the bike lanes.
+09:20:12 almost, like, level of obsession of it.
+09:20:15 to the, uh, different personalities.
+09:20:20 Yeah, let's see, like, will there be a huge score change here?
+09:20:25 Yeah. So now I updated it, let's see.
+09:20:34 And how do you feel about this, like, rendering, uh, function? Do you feel it useful, or…?
+09:20:40 I think it's pretty good right now. The only thing is probably the parked car.
+09:20:46 is capped at the same location from the original
+09:20:51 drawing, but, you know, in reality, it should be a little bit more to the other side, because now we added a biplane on the…
+09:20:58 Inside next sidewalk. Uh, so it's, like, simulates part-time.
+09:21:03 top off the hookah lane, but that's fine, I think it's okay. It's no big deal.
+09:21:17 And also, is it only added to…
+09:21:23 Is it only adding to…
+09:21:31 Yeah, is it only added to one side?
+09:21:39 I think most…
+09:21:39 Or is this the bike lane? This is the bike lane it added.
+09:21:42 I think that is the right plane, yeah.
+09:21:45 Okay, so there's no more, uh, because the right-of-way, we can't change that.
+09:21:47 right-of-way constraints aren't always reflected accurately, but for preliminary concepts, the visualizations are valuable.
+09:21:50 Oh, okay, got it.
+09:22:03 There's no place for all the parked cars now.
+09:22:07 Yeah, that could be a…
+09:22:10 And… if I also ask them about, like, how do you feel about, like, the…
+09:22:17 Yeah.
+09:22:15 conflicts between parked car cyclists, yes. That could be a group.
+09:22:20 Yeah, because when we are adjusting the design, I don't think it's adjusting the right-of-way here. Probably…
+09:22:27 Right? Because we're generating it based on this picture.
+09:22:30 So the total rough wage didn't only adding bike lane to it, they have to keep the…
+09:22:37 parked cars right here on the original image, so there's have to be space for the
+09:22:43 park… for parking lane, and there's also travel lane.
+09:22:47 And once our addition to the bike lane is basically taking away the parked car space.
+09:22:53 But the carts are still here.
+09:22:56 Yeah, yeah.
+09:22:55 So… because the right way didn't change.
+09:23:01 Probably can ask them to widen the right-of-way.
+09:23:05 Yeah, and we also, like, have this image already, like, if you're interested, we can go there. Okay.
+09:23:11 Okay. Let's gear.
+09:23:19 Like, this is the part, like,
+09:23:22 Matera and I, while we are doing, like, this interview, we have no idea, like,
+09:23:26 what's GPT will give us? Yeah, this is the interesting part, yeah.
+09:23:31 How do you feel about it?
+09:23:31 Yeah, I… I think… I definitely feel… again, as I said, the obsession of the different personalities
+09:23:35 the feature I like most. Seeing how different risk perception groups respond to the same design is fascinating and useful.
+09:23:38 Equally to the painting of the bike lane and the physical barrier of it,
+09:23:44 I think probably the inf…
+09:23:46 enthusiasm to this physical barrier and painting of bike lane among different personalities can be adjusted a little bit.
+09:23:54 So not all of them are super obsessed about it.
+09:23:58 Oh, yeah, that's a good… that's a good point, yeah, yeah, yeah.
+09:23:59 Okay. Because I think that, like, the strong and fearless one, probably you guys have to tone down that personalities
+09:24:07 attitudes like enthusiasm to the panted lane and the physical barrier, probably…
+09:24:14 a, uh, panted lane is good enough.
+09:24:17 So, the physical barrier is not as important for this personality, because it's strong, fearless. Right now,
+09:24:23 If you can see it, they almost have, like, equal…
+09:24:27 Oh, obsession to the…
+09:24:28 Oh, yeah, yeah, yeah, yeah, yeah.
+09:24:30 physical barrier and a painted lane. Um…
+09:24:35 Yeah, again, if it's painted and wide enough,
+09:24:39 Even adding the backlink to one site, we no longer have the parked
+09:24:44 space, the parking lane for the cars on the other side, because the right way didn't change. So let's ask them, can they change the…
+09:25:17 This fourth edition of…
+09:25:19 And do you normally have one.
+09:25:22 And, uh…
+09:25:33 What else?
+09:25:35 Yes, there's something more.
+09:26:44 as to this time.
+09:26:47 And about what you just mentioned about, like,
+09:26:52 different improvements should be perceived differently by different groups.
+09:26:57 Uh, that's a really good point. Is there anything else you want to talk about, like…
+09:27:04 Feel fair, yeah.
+09:27:03 Yeah, I'm just thinking, um, see, I think this one, probably the most, uh, like, cautious one to the safety.
+09:27:12 or pedestrians and cyclists.
+09:27:14 But, so, the thing is, a lot of the design elements
+09:27:18 This personality is required here.
+09:27:21 demands a change of right-of-way.
+09:27:23 Sometimes we just don't have enough space for everything it's asking here.
+09:27:27 So, um…
+09:27:31 But I don't think that's a huge issue, because I think people will understand that we have the constraint of the right way, so you can't accommodate everybody's demand.
+09:27:40 So even the scoring of this personality alone is kind of, like, low compared to the other ones.
+09:27:46 I think it's probably already good enough.
+09:27:49 By the end. Um, both, I just asked it to change the right-of-way, let's see how that will look like.
+09:27:56 Yeah, that's a really good point, like, what the system trying to do is, like, as you mentioned, like, tries to mimic an argument, so it wants to include
+09:28:06 As different, like, the many different views.
+09:28:12 And it's up to, like, designers, like, to see, like, which of this makes sense.
+09:28:23 And, um, another listing about this is, like…
+09:28:27 Oh, it's also the affirming thing you just mentioned.
+09:28:31 Uh, like, uh…
+09:28:33 We are already, like, very familiar with spike design, so we're curious to know, like, do you find any, like, new input? Like, things you haven't thought before you see it?
+09:28:45 Yeah, like…
+09:28:49 I… I don't think the concerns are specifically new, but I think the information provided here about these bill limits and the…
+09:29:01 presence of traffic lights or intersection nearby, I think those are very, uh…
+09:29:06 useful information. Um, and sometimes, if we only want to do, like, one project, sometimes we have to probably search the speed limits and everything.
+09:29:17 Like, from different sources for fact-checkers multiple times, but if we can get it just instantly here,
+09:29:23 with those kind of information, I think this is really helpful.
+09:29:26 Right here. Oh, what else?
+09:29:30 So… let's see… so, yeah, I mentions the…
+09:29:36 concern about child safety?
+09:29:39 Like, is this safe for children? I think that's interesting.
+09:29:42 Because sometimes, in certain neighborhoods, there's not a lot of presence of kids,
+09:29:47 So, child safety, and there's no schools nearby.
+09:29:51 Um, and child safety can be overlooked sometimes because of that, so there's the mentioning of
+09:29:58 child safety and calling attention to
+09:30:02 like, his using the space, I think that's really nice.
+09:30:10 And about that, the first, like, maybe, like, automation, like, automate this process?
+09:30:16 That's a really good point, and…
+09:30:20 Um, today we will only try, like, one location, but, like,
+09:30:25 Uh, like, what the system, like, it… it is designed to, like, uh, like, analyze many locations.
+09:30:32 And if you, uh… we're not going to do it today, but, like…
+09:30:38 What it can do is, like, it can, like, own many tabs, and you can…
+09:30:44 Okay.
+09:30:42 load many locations, image, and it will analyze it for you, yeah.
+09:30:47 Yeah.
+09:30:52 Seems like it's taking longer.
+09:30:51 Yeah, this is because we ask a lot of things extra. It's taking a lot of time.
+09:30:56 Yeah.
+09:30:58 I'm very curious about, like, what…
+09:31:01 It will give us, yes.
+09:31:01 Me too.
+09:31:04 Probably will take away the trees, I think.
+09:31:07 Yeah, it's still, yeah.
+09:31:08 Right? Because you can't really take away the buildings.
+09:31:11 Who knows?
+09:31:17 Because, like, I don't know, have you used, um, to generate image? Because, like, uh…
+09:31:23 It really is, like, minor changes is, like, uh, it's better, yeah, because it, like, tends to, like,
+09:31:29 Yeah.
+09:31:30 We're a small…
+09:31:30 Um, because sometimes we work with planning students, but they still have to provide some renderings to their proposal, so if they have, like, a sketch,
+09:31:40 Or, like, at least some, like, rough idea of the skeleton of their proposal or design of their neighborhood, I…
+09:31:47 Because they're a planning student, and they don't know how to do…
+09:31:51 All Renewings very well, like architecture students, so I'll just let them to put it in ChatGPT or other models.
+09:31:57 And use their sketch, or very rough digital drawing, and let the, you know, let the model, let AI render it for them. Most of the time, it works
+09:32:08 much better than their own drawings. So…
+09:32:11 Oh, that's… yeah.
+09:32:12 Yeah, I recommend it to plenty students a lot.
+09:32:15 For that part. Let's see… oh, this one is going.
+09:32:20 Hmm…
+09:32:21 Dungeon change that much.
+09:32:24 Okay.
+09:32:26 Yeah, because, yeah, it's not I am wetting in the right way. I don't think…
+09:32:33 the models are…
+09:32:35 I don't think they're smart enough to understand a lot of things we're asking here.
+09:32:39 But it's okay. Yeah.
+09:32:47 I did add something in the middle of the road, I'm not sure what that is, yeah.
+09:32:52 Yeah.
+09:32:56 Let's see, let's take a screenshot of the comparison of the…
+09:32:59 Uh, I know that, actually, if you clicked the, like, the left, uh…
+09:33:05 export?
+09:33:07 The compare design, that will…
+09:33:10 like, generate a comparison for you.
+09:33:12 Yes, that's…
+09:33:13 You can, like, select as many as you want, yeah.
+09:33:15 This one's not good. Let's compare this two.
+09:33:19 Uh… I think you're quick there.
+09:33:20 Oh, there's in depths. Sorry.
+09:33:24 clicked wrong.
+09:33:27 Comparative divine…
+09:33:29 We can also select the original IETOL, yeah. The same condition.
+09:33:36 And…
+09:33:37 Yes.
+09:33:51 narrow tool.
+09:33:53 room to overtake store.
+09:33:57 Prefer Design Center took two strikes the right balance for me.
+09:34:05 2…
+09:34:09 1, 2…
+09:34:12 Let's see if they can say something different for…
+09:34:17 the… absurd.
+09:34:21 This too. That would be interesting to look.
+09:34:33 Okay.
+09:34:36 There's even ones, like, there are 3?
+09:34:44 This is interesting, I liked, because you mentioned, like, the strong fearless, like, right.
+09:34:49 Do they need separation or not? Like, actually, the first one is preferred.
+09:34:55 Oh, actually, yeah.
+09:34:56 The scenario, too. They still have the physical barrier.
+09:34:57 Yeah. I'll still have to… yeah, I thought of this one.
+09:35:00 Yeah. They always prefer this one over this one.
+09:35:05 But the… this strong, fearless one, preferred this one over…
+09:35:10 The lost absurd one.
+09:35:14 The 'strong and fearless' persona could be less focused on physical barriers since they're supposed to be comfortable with less protection.
+09:35:13 Let's see…
+09:36:05 Okay, this is only one likes to…
+09:36:09 Three…
+09:36:15 Interesting.
+09:36:43 I asked a question…
+09:36:55 And I… I think there's another thing is…
+09:37:01 how to address that.
+09:37:05 Seeing how different risk perception groups react to the same design really changed how I think about inclusive infrastructure. I used to design for the average cyclist, but there's no such thing.
+09:37:03 So… so in practice,
+09:37:07 If the truff…
+09:37:10 the traffic volume or demand on these specific 3 segments is very low, and because it's seeming like most residential on both sides, meaning that
+09:37:20 there's the, like, during the day,
+09:37:22 all the cars might already be left here, and there's probably not a very high volume.
+09:37:27 So, sometimes on this type of street,
+09:37:41 Mm-hmm.
+09:37:31 a physical barrier or painted by claim might not make a huge difference as to the actual safety performance for the cyclist, right? Because of how low the volume is, and most of the cars are the residents nearby, so they drive cautiously here, they park here at night, and they leave
+09:37:48 In the morning, um…
+09:37:51 So… so I think that will be the value of this tool, is to provide this comparison of different
+09:37:59 options for the planner or the traffic engineer, the roadway designer, to look at, like, oh,
+09:38:06 that's the possibilities we can have.
+09:38:08 But at the end of the day,
+09:38:14 Yeah.
+09:38:10 I think it's still, like, this tool is to help, right? To help the planners make the decisions.
+09:38:16 Given the different contexts of the three segments and their actual budget limits,
+09:38:20 and right-of-way limits, all those things.
+09:38:22 So, I think this comparison is really, uh, is really good.
+09:38:28 It's really nice. Um…
+09:38:30 I'd say…
+09:38:37 Yeah, so the comparison tool is very nice.
+09:38:40 I'm not.
+09:38:43 really surprised or being amazed by the in-depth
+09:38:46 discussion, or the discussion panel provided by the…
+09:38:53 uh, liked.
+09:38:54 the original one, but I think the discussion…
+09:38:58 Um, of comparisons between different scenarios, that's, uh, interfaces
+09:39:03 more useful than the original in-depth one for, like,
+09:39:09 the discussion of the existing conditions here.
+09:39:16 I think that's all, like, the first part of this, uh, interview, and we'll go back to that document Matteo sent you, there's a
+09:39:26 like, very short survey on, like, how you feel about the system.
+09:39:32 There are, like, most of the scoring questions, yeah.
+09:39:38 It's very easy news.
+09:39:40 Intuitive, somewhat intuitive.
+09:39:47 Yes.
+09:39:52 Beautiful. Authentic.
+09:40:06 evaluation function…
+09:40:15 That's not important.
+09:40:44 Now, do we go to ChatGPT?
+09:40:46 Yeah, and uh… second part of this…
+09:40:50 What we are going to do is, like, we are trying to mimic this, like, how you interact with… oh!
+09:40:55 Uh, about this. Um, do you mind opening a new, like…
+09:41:00 Maybe, you know, like, a private window, and…
+09:41:03 We have a, like, a project GPT account you can use.
+09:41:08 Okay.
+09:41:10 Uh, let's see, where's that?
+09:41:13 And, yeah, that also helps us, like, log, like, interactions and…
+09:41:18 Okay, let me log out.
+09:41:24 I felt sorry this morning.
+09:41:32 I'm sorry about to go to another place.
+09:41:37 Uh… let's see… 5…
+09:41:49 We'll probably have to speed up a little bit. I have a meeting starting at 10 AM.
+09:41:55 Okay. Uh… let's see…
+09:41:58 Um…
+09:42:04 Let me share the…
+09:42:16 teacher, like, login visa account.
+09:42:26 I send it to June, yeah.
+09:42:38 Got it.
+09:42:55 There's so code sent to you guys, I think.
+09:43:19 Uh, what we are going to do is, like, the, like…
+09:43:22 Uh, we designed some, like,
+09:43:25 we pre-designed some cross-tick and just, like, copy… Oh, and, um, before that, let's go back to the…
+09:43:32 design tool resistance, and if you click, uh, top right corner, there's a download project button.
+09:43:39 Because that shit will.
+09:43:41 download the images and the JSON file, yeah.
+09:43:46 Okay, we can go back to GPT and offload that existing condition.
+09:43:53 paste that prompts.
+09:43:52 Okay, what…
+09:43:55 narrow, widened, stay same.
+09:43:58 Yeah, and the things, like, folded, they are the ones you, like, they are the… where we need your in, like, design.
+09:44:07 Okay. Do I need to regenerate based on this to give the pictures exactly like this, or…?
+09:44:14 That might help comparison, but, like, it's not necessary, yeah.
+09:44:17 Okay. Do you have the original image?
+09:44:21 in the attachment, or…?
+09:44:22 Yeah, it's in the downloaded files. It's one of the downloaded pictures, yeah.
+09:44:27 Oh, in my downloaded picture?
+09:44:28 Yeah, the one you just downloaded, yeah.
+09:44:30 Oh, okay.
+09:44:39 Do I upload the…
+09:44:43 Just, like, paste the…
+09:44:44 Uh, I think you only need the existing one, yeah.
+09:44:50 own the existing one?
+09:44:50 Yeah, because the first prompt, they sound like…
+09:44:53 Okay.
+09:44:54 generate a new one.
+09:45:03 copy the whole thing, yeah.
+09:45:12 change the design part, yeah.
+09:45:16 Uh, change the…
+09:45:19 Yeah.
+09:45:21 Here.
+09:45:22 You can, like, maybe replace…
+09:45:24 do the same as the…
+09:45:27 Do you want me to change it to update it to be the same as the scenarios we just designed here, or…?
+09:45:32 Um, if you want, or you can, like, design new things, yeah, but it's, like, shadow for comparison if you design the same way, yeah.
+09:45:44 Okay, so this one is…
+09:45:46 Wide and opening…
+09:45:57 Okay, let's do this.
+09:45:59 This may be close in arrow 2.
+09:46:18 Okay.
+09:46:21 That's cool.
+09:46:27 Do you want me to rename it to my name?
+09:46:30 Uh…
+09:46:31 Or you can rename them yourself later.
+09:46:33 Yeah, yeah, because I don't remember the, like, how… I think it's 18…
+09:46:39 We have now, yeah.
+09:46:40 Okay.
+09:46:44 reference story, and tries to, like, help you.
+09:46:47 rewrite the prompt first, yeah.
+09:46:53 Generate.
+09:47:08 Let's see who takes longer.
+09:47:20 We love this line. Um, I'm surprised you mentioned you, like…
+09:47:24 Allow student to use GPT to render their image, you know?
+09:47:28 Oh yeah, I have no issue with that.
+09:47:31 They're planning students, so even architecture students, um, right now, the…
+09:47:36 A lot of them are using stable diffusion to have them have, like, some drift.
+09:47:42 of the ideas of their renewal image, because…
+09:47:46 is okay at a, like, really quick lock, or a first look.
+09:47:49 And… but if you really want a rendering, you still have to do it yourself, but they can use it to…
+09:47:57 Like, stable diffusion models are doing it very well to just give you some very rough ideas and initial ideas to test out different
+09:48:04 you know, you're thinking about it.
+09:48:07 Um, but for planning students, they can draw. Most of them,
+09:48:10 Um, the planners in the U.S. are not being trained to design or drawing things.
+09:48:15 Um, so allow them to use AI tools can be really helpful for them. Otherwise, they can't give you an image.
+09:48:23 their proposal.
+09:48:23 Yeah… yeah, but yeah, it's, like, it's very, like, new for me to know, like, U.S. planning students, they don
+09:48:33 South China University of Technology, like, the…
+09:48:34 Yeah.
+09:48:37 structural, department, or urban design departments, like, quite strong, and
+09:48:42 Yeah.
+09:48:41 All the students are there, like, mandatory class to learn drawing, yeah.
+09:48:46 Yes. Here, a lot of the graduate students
+09:48:51 Apparently, you know, it's generated.
+09:48:53 Okay. It's pretty good.
+09:48:57 I see the next prompt.
+09:48:59 Score, generate, sending me.
+09:49:12 This, like, tries to mimic the scoring part, yeah.
+09:49:18 Uh, you don't need to change this, I think, yeah.
+09:49:22 Okay, uh, so let's review image, which one should I provide here?
+09:49:27 The generated one, or the original?
+09:49:31 through your image.
+09:49:31 Uh… which one you want it right, yeah.
+09:49:35 You can…
+09:49:38 You can, like, you can… like, yeah, the one… the… if you wanted to evaluate the existing one, you can upload the existing one.
+09:49:46 Okay, I'll pull the existing one, too.
+09:49:49 Just keep it being…
+09:49:52 Assistant.
+09:50:03 So yeah, a lot of… most of the planning departments in the US, they do not have undergrad.
+09:50:08 school, now there are, like, more institutions have undergrad programs, but most of them do not have it.
+09:50:15 And a lot of students…
+09:50:17 getting into the graduate school, study planning, they're not coming from a design background or design-related background.
+09:50:23 Um, and a lot of them…
+09:50:26 even at the end of their graduate planning study,
+09:50:29 they, uh, they don't even know what is a PSD file.
+09:50:34 So…
+09:50:36 Design is not required as part of their education.
+09:50:54 the war zone.
+09:51:40 It gives us, like, the conversation-like discussion, right?
+09:52:04 Jessica's formatting, you don't need to change that, yeah.
+09:52:07 Okay, do I need to follow up?
+09:52:10 with a question.
+09:52:10 Uh… if you have a question, yeah.
+09:52:12 Okay.
+09:52:16 Oh, it's okay, yeah.
+09:52:23 Recognized notes.
+09:52:31 Do I have to give them the image of this regenerated image again?
+09:52:38 Or…
+09:52:40 Yeah, uh, yeah, because you ask them about existing condition, yeah, later, yeah, so it might…
+09:52:47 default to that one.
+09:52:48 Okay. Yeah, I don't have to.
+09:52:51 Okay, I'll type one…
+09:52:54 Commissioner Wall is on here.
+09:54:23 Where I lost one.
+09:54:25 This is our formatted comparison.
+09:54:41 It's probably, like, for those who probably have to upload the image, yeah.
+09:54:44 Okay.
+09:54:56 Oh, you are good with GPT.
+09:54:59 You know, you have to tell it very detailed.
+09:55:01 Yeah.
+09:55:01 Like, what I want from you.
+09:55:05 What do you have to do?
+09:55:07 Yeah, like, AI, human alignment, yeah.
+09:55:12 Yeah, they're…
+09:55:14 They're not as smart as people think they are.
+09:55:19 What?
+09:55:22 or it's not letting me…
+09:55:29 Let's add photo and ask you to record.
+09:55:43 Okay.
+09:55:41 Okay, um, that means, like, this case, probably the new design, you know, because it's default to the…
+09:55:48 Design to Kimble.
+09:56:29 Okay, I think that should be good, let's see.
+09:57:03 I've never heard this customer from any real human.
+09:57:09 the shadow of the bull, our spleen was a shadow strong trees.
+09:57:12 No, that's… that's a very interesting one, yeah, that's also a very, like, computer vision one, you know, yeah.
+09:57:18 Yeah, so there might be an issue for autonomous vehicles, though.
+09:57:22 Yeah, yeah, yeah, yeah, yeah, yeah.
+09:57:55 Okay, that's it.
+09:57:57 That's it. I know you have to go, but I do have to ask you two more questions.
+09:58:03 Yeah, the first one is, uh…
+09:58:06 How do you picture this to be used? Uh, we previously, like, we did the interview with, like, professionals.
+09:58:14 like, companies, professionals. Yeah, you are the first one we did, like, for, like, institution, from institutions.
+09:58:21 I'll do a picture of this tool will be used in, like, in your case, I think it would be research and teaching, or… yeah.
+09:58:28 Yeah. I think that will be really helpful in teaching, uh, especially working with planning students. A lot of them do not have the skill of drawing or making renderings.
+09:58:38 So, this too can, uh, very quickly help them to put their ideas together in a visualized way.
+09:58:44 And, uh, also the report and the comparison tool in the, uh…
+09:58:50 web page, app, I think that's extremely helpful to help the student conceptualize their initial idea and very early idea of their proposals to, like, a complete street design, or simply improvement of the bike lane or the biking, uh, pedestrian area on a random street segments.
+09:59:09 So, uh, I think this will be very helpful in teaching. Um…
+09:59:15 the rendering, the quick-generated renderings of different options and different combination of the…
+09:59:22 design elements regarding the bike lanes and cyclists are very, very useful.
+09:59:27 And, uh, also, I think this will be a very good tool when you are communicating with the community.
+09:59:36 Because in this way, you can generate
+09:59:39 whatever they are suggesting very quickly. Uh, if you have, like, a workshop or have, like, a seminar with a community, with the residents, they have a lot of concerns and demands regarding the biking and walking area.
+09:59:53 in their community. In the past,
+09:59:55 We do not have, like, lots of time, or we have to, like, sketch it for them. But now, with this tool, uh, we can quickly gather their demand and their concerns and reflect it in a very visualized way, so the community members, the residents, can get
+10:00:11 like, how this will be the ways we address their concerns and how it look like in real life.
+10:00:17 Uh, so I think this will be a really helpful tool for us to not only educate the students on campus, but also, like,
+10:00:23 Uh, to be more engaged with the residents in the communities.
+10:00:29 How do you feel it compared to, like…
+10:00:32 interacting with, like, just GPT.
+10:00:34 I think interacting with just ChatGPT is nice,
+10:00:38 There's a… I think the discussion are definitely more detailed here, because it's not
+10:00:45 You… because we're not, like, as in the interface of the webpage app, you probably ask it to formalize it in the, like, almost like a discussion.
+10:00:54 Uh, the text message format, uh, I think the limitation of the formatting here for ChatGPT are a little bit loosened, so it provides a little bit more…
+10:01:05 like, structured sentences, and a little bit more detail on those parts.
+10:01:10 But, um, I think the drawback of ChatGPT is
+10:01:14 is not formatted as the way, uh, really intuitive.
+10:01:21 you still have to reformatting everything and gather all the information on your own together, and sometimes you have to re-upload and reiterate the image again and again and again.
+10:01:31 So, it might not be as, uh, easy to use at first as the web page tool. I think the big improvement of the webpage tool compared to the original ChatGPT
+10:01:43 generated content is, uh, a lot of part is just the formatting of it. So now we have a report that we can very easily compare from one to another, because they are uniformly formatted.
+10:01:55 And very clean, um, especially when we are communicating with the residents in the community. I think this kind of tool
+10:02:03 It's very, very useful compared to just ChatGPT prompts and generated content without proper formatting and get together.
+10:02:05 You can tell it's AI-generated if you read carefully, but the substance of the feedback is valid and useful regardless of the source.
+10:02:12 Yeah, and yeah, that's… yeah. And, uh, I… I have a very last question, like, the…
+10:02:19 Uh, closing questions, uh, what do you view about, like, what do… what's your stand on…
+10:02:24 like, AI and designer, or, like, yeah.
+10:02:28 I think right now there's a great potential for… because I'm…
+10:02:34 for designer, I'm not a… how to say… I'm not an artist.
+10:02:38 architects, even though they call themselves, or they want to think they were artists, because I think art…
+10:02:43 Architects that are still more closer to… much more… much closer to engineers than being artists.
+10:02:51 So, I think this AI tools right now can really be very helpful to us.
+10:02:56 As opposed to the real artists like, you know, all the artists, um…
+10:03:01 They're, like, real creators, yeah.
+10:03:02 creating those images and pictures is very… it's a detrimental tool for a lot of
+10:03:09 Uh, the artists at the very, kind of, like, lower ranked were less experienced ones, but for us, I think it's…
+10:03:15 still very helpful right now to, um…
+10:03:20 visualize initial and early stage ideas. So, as a urban designer, or a person in the field of architecture, I'd say, like,
+10:03:29 AI tools and generative image pixel-based.
+10:03:34 AI tools are very useful for us, um, to conceptual… at the conceptualization stage.
+10:03:39 of the design.
+10:03:42 how it's gonna…
+10:03:44 how much is gonna contribute?
+10:03:47 to the actual design output of architecture.
+10:03:51 I'm still very not sure right now. Probably we have to rely on, you know, the…
+10:04:03 Yeah, yeah, I know.
+10:03:57 Um, people working on computer science to improve the models a little bit more, to get them really be
+10:04:04 useful in the actual design at the very end stage of it.
+10:04:09 Um, but right now, I think it's very nice to have it at the conceptualization stage.
+10:04:15 Um, now we don't have to, like, make quick renderings again, and even the quick renderings in the past for conceptualization, it can take hours.
+10:04:25 But now, with this, we can give the feedback very quickly to the customers in just a few minutes.
+10:04:34 Yeah, uh… I think that's all I have for this interview, and…
+10:04:40 Uh, there is a very, like, short survey on, like, interacting with GPT, similar to the one you did before.
+10:04:47 And if you could feel that after this, and…
+10:04:51 send back your interaction data and screenshots. Yeah, that would be great, yeah.
+10:04:58 Okay, alright, I'm just fitting this right now.
+10:05:35 All right.
+10:05:38 Finished.
+10:05:39 Yes.
+10:05:42 Thank you for your time, it's very nice talking to you.
+10:05:46 Yeah.
+10:05:46 Yeah, I think I'll log out from your…
+10:05:51 account of ChatGPT, okay. All right.
