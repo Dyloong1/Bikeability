@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "exportDate": "2025-08-29T05:21:41.203Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.909011",
+    "longitude": "-77.036491",
+    "osmData": {
+      "roads": [
+        {
+          "type": "footway",
+          "name": "Unnamed Road",
+          "lanes": "unknown",
+          "maxspeed": "unknown",
+          "surface": "unknown",
+          "width": "unknown",
+          "oneway": "no",
+          "sidewalk": "unknown"
+        },
+        {
+          "type": "footway",
+          "name": "Unnamed Road",
+          "lanes": "unknown",
+          "maxspeed": "unknown",
+          "surface": "unknown",
+          "width": "unknown",
+          "oneway": "no",
+          "sidewalk": "unknown"
+        },
+        {
+          "type": "footway",
+          "name": "Unnamed Road",
+          "lanes": "unknown",
+          "maxspeed": "unknown",
+          "surface": "unknown",
+          "width": "unknown",
+          "oneway": "no",
+          "sidewalk": "unknown"
+        },
+        {
+          "type": "footway",
+          "name": "Unnamed Road",
+          "lanes": "unknown",
+          "maxspeed": "unknown",
+          "surface": "unknown",
+          "width": "unknown",
+          "oneway": "no",
+          "sidewalk": "unknown"
+        },
+        {
+          "type": "footway",
+          "name": "Unnamed Road",
+          "lanes": "unknown",
+          "maxspeed": "unknown",
+          "surface": "unknown",
+          "width": "unknown",
+          "oneway": "no",
+          "sidewalk": "unknown"
+        }
+      ],
+      "amenities": [
+        {
+          "type": "post_box",
+          "name": "post_box",
+          "access": "public"
+        }
+      ],
+      "shops": [],
+      "buildings": 7,
+      "traffic_signals": 0,
+      "crossings": 2,
+      "cycleways": 0,
+      "footways": 10,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": false
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Scenario 1",
+      "coordinates": {
+        "lat": 38.909011,
+        "lon": -77.036491
+      },
+      "address": "38.909011, -77.036491",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 3,
+          "comfort": 4,
+          "total": 3.5
+        },
+        "enthused-confident": {
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        },
+        "interested-concerned": {
+          "safety": 1,
+          "comfort": 1,
+          "total": 1
+        },
+        "no-way": {
+          "safety": 2.5,
+          "comfort": 2.5,
+          "total": 2.5
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lanes for easy overtaking. Minimal traffic signals for flow. No dedicated bike lane present. Good visibility down the road.",
+          "points": [
+            "Wide lanes for easy overtaking",
+            "Minimal traffic signals for flow",
+            "No dedicated bike lane present",
+            "Good visibility down the road"
+          ],
+          "safety": 3,
+          "comfort": 4
+        },
+        "enthused-confident": {
+          "text": "No dedicated bike lane visible. Lacks separation from traffic. Moderate stress due to mixed traffic. Not ideal for regular cycling.",
+          "points": [
+            "No dedicated bike lane visible",
+            "Lacks separation from traffic",
+            "Moderate stress due to mixed traffic",
+            "Not ideal for regular cycling"
+          ],
+          "safety": 2,
+          "comfort": 2
+        },
+        "interested-concerned": {
+          "text": "No physical protection seen. Traffic separation inadequate. Unclear cycling space. High potential driver encroachment.",
+          "points": [
+            "No physical protection seen",
+            "Traffic separation inadequate",
+            "Unclear cycling space",
+            "High potential driver encroachment"
+          ],
+          "safety": 1,
+          "comfort": 1
+        },
+        "no-way": {
+          "text": "No protective barriers present. Close proximity to vehicle traffic. Lack of dedicated bike lane. High fear of vehicle interaction.",
+          "points": [
+            "No protective barriers present",
+            "Close proximity to vehicle traffic",
+            "Lack of dedicated bike lane",
+            "High fear of vehicle interaction"
+          ],
+          "safety": 2.5,
+          "comfort": 2.5
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road appears wide and clear, allowing for smooth traffic flow. The absence of parked cars may reduce obstacles and potential hazards on the driving path.",
+          "cons": "Lack of traffic signals may lead to confusion at intersections. The absence of public transport options could increase vehicle congestion."
+        },
+        "cyclist": {
+          "pros": "The wide road offers ample space for cyclists to navigate alongside vehicles. The presence of sidewalks can provide an alternative for less confident cyclists.",
+          "cons": "No dedicated cycle lanes may increase risk from vehicle traffic. The absence of bike infrastructure and parking could discourage cycling."
+        }
+      },
+      "createdAt": "2025-08-29T05:18:13.482Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1756444794989-3555",
+      "scenario": "Scenario 2",
+      "name": "Standard Green Armadillo Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 4,
+          "comfort": 4,
+          "total": 4
+        },
+        "enthused-confident": {
+          "safety": 4,
+          "comfort": 4,
+          "total": 4
+        },
+        "interested-concerned": {
+          "safety": 4,
+          "comfort": 4,
+          "total": 4
+        },
+        "no-way": {
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Efficient for maintaining high speeds. Standard width limits overtaking. Buffer provides moderate protection. Practical design for daily commuting.",
+          "points": [
+            "Efficient for maintaining high speeds",
+            "Standard width limits overtaking",
+            "Buffer provides moderate protection",
+            "Practical design for daily commuting"
+          ],
+          "safety": 4,
+          "comfort": 4
+        },
+        "enthused-confident": {
+          "text": "Armadillo dividers enhance traffic separation. Green paint improves lane visibility. Standard width provides comfortable space. Appealing for regular commuting and leisure.",
+          "points": [
+            "Armadillo dividers enhance traffic separation",
+            "Green paint improves lane visibility",
+            "Standard width provides comfortable space",
+            "Appealing for regular commuting and leisure"
+          ],
+          "safety": 4,
+          "comfort": 4
+        },
+        "interested-concerned": {
+          "text": "Armadillo dividers for physical protection. Buffer next to parked cars. Clear green lane marking. Encourages cycling with visible separation.",
+          "points": [
+            "Armadillo dividers for physical protection",
+            "Buffer next to parked cars",
+            "Clear green lane marking",
+            "Encourages cycling with visible separation"
+          ],
+          "safety": 4,
+          "comfort": 4
+        },
+        "no-way": {
+          "text": "Insufficient barrier separation. Proximity to parked cars risky. Armadillo dividers not robust enough. Need full physical separation.",
+          "points": [
+            "Insufficient barrier separation",
+            "Proximity to parked cars risky",
+            "Armadillo dividers not robust enough",
+            "Need full physical separation"
+          ],
+          "safety": 2,
+          "comfort": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The green painted bike lane is clearly visible, reducing the chance of accidental encroachment. The armadillo dividers provide a tactile warning when approaching the bike lane. The buffer next to parked cars reduces the risk of dooring accidents.",
+          "cons": "The armadillo dividers may require careful navigation when parking. The buffer space may reduce available road width for motor vehicles. Drivers need to be cautious of cyclists when turning or merging into traffic from parking spaces."
+        },
+        "cyclist": {
+          "pros": "The green painted lane enhances visibility and awareness for cyclists. The 1.5-foot buffer with armadillo dividers offers additional protection from moving traffic. Cyclists are more shielded from the risk of dooring with the buffer placed next to parked cars.",
+          "cons": "Armadillo dividers may present obstacles during emergency maneuvers. The standard lane width might feel narrow with high traffic volume. Cyclists need to be cautious of parked cars potentially encroaching into the buffer."
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "comparison-0",
+      "designs": [
+        "design-1756444794989-3555",
+        "evaluation-0"
+      ],
+      "messages": [
+        {
+          "id": "1756444845809-0-0.06579395444992098",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "From my perspective as an experienced cyclist, I prefer Scenario 2. The lane width is adequate for my needs. While I don't need the buffer, it does keep cars from drifting into my space. This design supports efficient riding at speed.",
+          "highlights": [
+            "wider lane",
+            "room to overtake",
+            "efficient riding",
+            "maintaining momentum"
+          ],
+          "timestamp": "2025-08-29T05:20:45.809Z"
+        },
+        {
+          "id": "1756444846808-1-0.4124298689201328",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "As a regular cyclist, I prefer Scenario 2 because it strikes the right balance for me. The green paint makes me feel more legitimate on the road. The buffer zone reduces my stress level significantly. This design would make this a regular route for me.",
+          "highlights": [
+            "right balance",
+            "green paint",
+            "reduces stress",
+            "regular route"
+          ],
+          "timestamp": "2025-08-29T05:20:46.808Z"
+        },
+        {
+          "id": "1756444847807-2-0.008245764006515888",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "From my nervous cyclist perspective, I strongly prefer Scenario 2. The physical barriers are essential for me to even consider cycling here. The green paint helps but doesn't address my fear of cars. I need maximum protection to feel safe.",
+          "highlights": [
+            "physical barriers",
+            "safety concerns",
+            "fear of cars",
+            "maximum protection"
+          ],
+          "timestamp": "2025-08-29T05:20:47.807Z"
+        },
+        {
+          "id": "1756444848813-3-0.9620896120374095",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "If forced to choose, Scenario 1 is the least terrifying option, but I still wouldn't cycle. Even with barriers, sharing road space with cars is unacceptable. Nothing here would convince me to start cycling.",
+          "highlights": [
+            "least terrifying",
+            "wouldn't cycle",
+            "sharing road space",
+            "unacceptable"
+          ],
+          "timestamp": "2025-08-29T05:20:48.813Z"
+        },
+        {
+          "id": "1756444850310-driver-init",
+          "role": "driver",
+          "content": "Looking at these designs as someone who drives daily, I understand the need for bike infrastructure, but I worry about the practical impacts. Reduced lanes mean longer commute times, and losing parking spots affects local businesses. We need solutions that consider all road users.",
+          "highlights": [
+            "traffic flow",
+            "parking",
+            "road space"
+          ],
+          "timestamp": "2025-08-29T05:20:50.310Z"
+        }
+      ]
+    }
+  ],
+  "chats": []
+}

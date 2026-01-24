@@ -1,0 +1,498 @@
+{
+  "metadata": {
+    "exportDate": "2025-10-17T14:40:49.999Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.956242",
+    "longitude": "-77.032517",
+    "streetViewParams": {
+      "heading": 99.5384672155724,
+      "pitch": -6.765209981752932,
+      "zoom": 1
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": "default-1",
+          "name": "Main Street",
+          "type": "Primary Road",
+          "lanes": 2,
+          "maxspeed": "30 mph",
+          "surface": "asphalt"
+        }
+      ],
+      "buildings": 10,
+      "traffic_signals": 2,
+      "crossings": 3,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": true,
+      "raw": {
+        "totalElements": 0,
+        "timestamp": "2025-10-17T14:16:49.310Z",
+        "error": "Using default data"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.956242,
+        "lon": -77.032517
+      },
+      "streetViewParams": {
+        "lat": 38.95621729345451,
+        "lng": -77.03251087471241,
+        "heading": 99.5384672155724,
+        "pitch": -6.765209981752932,
+        "zoom": 1,
+        "pano_id": "6yQr7nt_syu7Nit1qbAwFA",
+        "date": "2022-08"
+      },
+      "address": "38.956242, -77.032517",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 3,
+          "comfort": 4,
+          "total": 3
+        },
+        "no-way": {
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Narrow lanes limit overtaking. Parked cars create obstacles. Tree cover may obscure visibility. Moderate traffic could slow pace.",
+          "points": [
+            "Narrow lanes limit overtaking",
+            "Parked cars create obstacles",
+            "Tree cover may obscure visibility",
+            "Moderate traffic could slow pace"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "No dedicated cycling space. Potential door zone from parked cars. Traffic appears moderate and manageable. Trees provide some pleasant shade.",
+          "points": [
+            "No dedicated cycling space",
+            "Potential door zone from parked cars",
+            "Traffic appears moderate and manageable",
+            "Trees provide some pleasant shade"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No bike lanes visible. Traffic close and fast. No physical protection present. Narrow spaces for cycling.",
+          "points": [
+            "No bike lanes visible",
+            "Traffic close and fast",
+            "No physical protection present",
+            "Narrow spaces for cycling"
+          ],
+          "safety": 3,
+          "comfort": 4,
+          "total": 3
+        },
+        "no-way": {
+          "text": "No bike lanes present. Cars parked on street. Cyclists near moving vehicles. Sidewalk appears safer.",
+          "points": [
+            "No bike lanes present",
+            "Cars parked on street",
+            "Cyclists near moving vehicles",
+            "Sidewalk appears safer"
+          ],
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road has a moderate speed limit of 30 mph, making it safer for local traffic.",
+          "cons": "Limited lanes and parking availability might cause congestion, especially during peak hours."
+        },
+        "cyclist": {
+          "pros": "The moderate traffic speed can make it slightly safer for cyclists sharing the road.",
+          "cons": "Lack of dedicated cycleways and bike infrastructure poses safety risks for cyclists."
+        }
+      },
+      "createdAt": "2025-10-17T14:12:19.424Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1760711040219-6127",
+      "scenario": "Design Scenario 1",
+      "name": "Wide Green Protected Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-bollards",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "interested-concerned": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane allows speed. Easy passing with buffer. Green paint visible. Momentum maintained well.",
+          "points": [
+            "Wide lane allows speed",
+            "Easy passing with buffer",
+            "Green paint visible",
+            "Momentum maintained well"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Wide lane offers ample space. Green paint enhances lane visibility. Bollards provide effective traffic buffer. Comfortable for daily commuting.",
+          "points": [
+            "Wide lane offers ample space",
+            "Green paint enhances lane visibility",
+            "Bollards provide effective traffic buffer",
+            "Comfortable for daily commuting"
+          ],
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "interested-concerned": {
+          "text": "Bollards provide physical protection. Green color enhances visibility. Buffer separates from moving traffic. Intersection safety remains unclear.",
+          "points": [
+            "Bollards provide physical protection",
+            "Green color enhances visibility",
+            "Buffer separates from moving traffic",
+            "Intersection safety remains unclear"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "text": "Minimal separation from moving vehicles. Bollards provide slight visual barrier. Children safer on sidewalks still. Proximity to parked cars risky.",
+          "points": [
+            "Minimal separation from moving vehicles",
+            "Bollards provide slight visual barrier",
+            "Children safer on sidewalks still",
+            "Proximity to parked cars risky"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Widened lanes improve traffic flow.",
+            "Green paint enhances visibility of bike lanes."
+          ],
+          "cons": [
+            "Bollards may restrict turning movements.",
+            "Buffer zone reduces available space for parking or additional lanes."
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Widened lanes offer more comfort and space.",
+            "Green paint increases lane visibility and safety.",
+            "Bollards provide physical protection from moving vehicles.",
+            "Buffer reduces risk of dooring from parked cars."
+          ],
+          "cons": [
+            "Navigating intersections may still be challenging."
+          ]
+        }
+      }
+    },
+    {
+      "id": "design-1760711373581-4599",
+      "scenario": "Design Scenario 2",
+      "name": "Wide Green Protected Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-bollards",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "Remove parked cars from one side of the road. A moving vehicle is currently visible on each side of the road.",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane allows high speed. Bollards enhance safety perception. Easy passing with widened lane. Green paint improves visibility.",
+          "points": [
+            "Wide lane allows high speed",
+            "Bollards enhance safety perception",
+            "Easy passing with widened lane",
+            "Green paint improves visibility"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Clear green lane marking. 1.5-foot buffer with bollards. Visible to adjacent traffic. Widened lane for comfortable commuting.",
+          "points": [
+            "Clear green lane marking",
+            "1.5-foot buffer with bollards",
+            "Visible to adjacent traffic",
+            "Widened lane for comfortable commuting"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Widened lane increases comfort. Bollards provide physical protection. Green paint enhances visibility. Some anxiety from nearby traffic.",
+          "points": [
+            "Widened lane increases comfort",
+            "Bollards provide physical protection",
+            "Green paint enhances visibility",
+            "Some anxiety from nearby traffic"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "text": "Buffer provides minimal separation. Still close to moving vehicles. Not as safe as sidewalks. Bollards may not stop cars.",
+          "points": [
+            "Buffer provides minimal separation",
+            "Still close to moving vehicles",
+            "Not as safe as sidewalks",
+            "Bollards may not stop cars"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Widened lanes improve traffic flow.",
+            "Green painted bike lane enhances visibility.",
+            "Bollards provide a clear separation from the bike lane, reducing potential for accidental entry."
+          ],
+          "cons": [
+            "Presence of bollards may limit turning movements.",
+            "Reduced parking space due to removal of parked cars on one side.",
+            "Lane width may still be restricted for larger vehicles."
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Widened lane increases comfort and space for cycling.",
+            "Green color enhances lane visibility, increasing safety.",
+            "Bollards provide physical protection from moving vehicles.",
+            "Buffer reduces dooring risk from parked cars."
+          ],
+          "cons": [
+            "Potential confusion at intersections if markings are not clear.",
+            "May still experience discomfort if bollards are too close."
+          ]
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "comparison-0",
+      "designs": [
+        "design-1760711373581-4599",
+        "evaluation-0"
+      ],
+      "messages": [
+        {
+          "id": "1760711489739-0-0.15227065921542393",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "From my perspective as an experienced cyclist, I prefer Design Scenario 2. The wider lane gives me room to overtake slower cyclists. While I don't need the buffer, it does keep cars from drifting into my space. This design supports efficient riding at speed.",
+          "highlights": [
+            "wider lane",
+            "room to overtake",
+            "efficient riding",
+            "maintaining momentum"
+          ],
+          "timestamp": "2025-10-17T14:31:29.739Z"
+        },
+        {
+          "id": "1760711490731-1-0.36906373433741735",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "As a regular cyclist, I prefer Design Scenario 2 because it strikes the right balance for me. The green paint makes me feel more legitimate on the road. The buffer zone reduces my stress level significantly. This design would make this a regular route for me.",
+          "highlights": [
+            "right balance",
+            "green paint",
+            "reduces stress",
+            "regular route"
+          ],
+          "timestamp": "2025-10-17T14:31:30.731Z"
+        },
+        {
+          "id": "1760711491732-2-0.10008939223690805",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "From my nervous cyclist perspective, I strongly prefer Design Scenario 2. The physical barriers are essential for me to even consider cycling here. The green paint helps but doesn't address my fear of cars. I need maximum protection to feel safe.",
+          "highlights": [
+            "physical barriers",
+            "safety concerns",
+            "fear of cars",
+            "maximum protection"
+          ],
+          "timestamp": "2025-10-17T14:31:31.733Z"
+        },
+        {
+          "id": "1760711492723-3-0.7317130670244818",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "If forced to choose, Design Scenario 2 is the least terrifying option, but I still wouldn't cycle. Even with barriers, sharing road space with cars is unacceptable. Nothing here would convince me to start cycling.",
+          "highlights": [
+            "least terrifying",
+            "wouldn't cycle",
+            "sharing road space",
+            "unacceptable"
+          ],
+          "timestamp": "2025-10-17T14:31:32.723Z"
+        },
+        {
+          "id": "1760711494233-driver-init",
+          "role": "driver",
+          "content": "As a driver, I appreciate that you're considering different bike lane designs. While I support cyclist safety, I'm concerned about how these changes affect traffic flow and parking availability. Some designs reduce road width significantly, which could increase congestion during rush hours.",
+          "highlights": [
+            "traffic flow",
+            "parking",
+            "road space"
+          ],
+          "timestamp": "2025-10-17T14:31:34.233Z"
+        },
+        {
+          "id": 1760711652824,
+          "role": "user",
+          "content": "If you're still uncomfortable cycling, would seeing more other cyclists on the road increase your willingness to try cycling?",
+          "timestamp": "2025-10-17T14:34:12.824Z"
+        },
+        {
+          "id": "1760711681923-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "Seeing more cyclists on the road would definitely make me feel more comfortable and affirm that the infrastructure is respected and appreciated. With Design Scenario 2, the combination of the green paint and physical barriers is already reassuring. More cyclists could encourage drivers to be more aware and cautious, enhancing safety for everyone.",
+          "highlights": [
+            "more cyclists",
+            "infrastructure",
+            "safety"
+          ],
+          "relevanceScore": 0.9,
+          "referencedPrevious": false,
+          "timestamp": "2025-10-17T14:34:41.923Z"
+        },
+        {
+          "id": "1760711682522-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "Seeing more cyclists on the road would definitely enhance the cycling culture and maybe influence others to join in. However, for me, it's not a significant factor. The improved infrastructure in Design Scenario 2, with its wider lanes and buffer, already supports my need for speed and efficiency. I appreciate that the bollards keep cars at bay, allowing for a more focused ride.",
+          "highlights": [
+            "cycling culture",
+            "infrastructure",
+            "bollards"
+          ],
+          "relevanceScore": 0.7,
+          "referencedPrevious": false,
+          "timestamp": "2025-10-17T14:34:42.522Z"
+        },
+        {
+          "id": "1760711683142-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "Having more cyclists around would provide some reassurance, as it might make drivers more aware of cyclists generally. However, the fear of traffic is still significant. Design Scenario 2, with its clear lanes and barriers, is a step in the right direction, but I would need a lot more encouragement to feel truly safe.",
+          "highlights": [
+            "reassurance",
+            "fear of traffic",
+            "barriers"
+          ],
+          "relevanceScore": 0.6,
+          "referencedPrevious": false,
+          "timestamp": "2025-10-17T14:34:43.142Z"
+        },
+        {
+          "id": "1760711685130-driver",
+          "role": "driver",
+          "content": "From a driving perspective, the modified design with the widened green lane and bollards does narrow the available space for vehicles. This can impact lane width and potentially lead to congestion, especially during peak hours. Visibility for making turns is affected by the parked cars and the new layout. The road markings are clear, which aids navigation, but passing or overtaking is more challenging. Emergency vehicle access might be slightly restricted due to the reduced lane width.",
+          "highlights": [
+            "lane width",
+            "visibility",
+            "traffic flow"
+          ],
+          "addressesCyclists": true,
+          "timestamp": "2025-10-17T14:34:45.130Z"
+        }
+      ]
+    }
+  ],
+  "inDepthAnalyses": [],
+  "chats": []
+}

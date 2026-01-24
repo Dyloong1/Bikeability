@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "exportDate": "2025-10-02T15:13:00.120Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.909542",
+    "longitude": "-77.066095",
+    "streetViewParams": {
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 1
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": 6053804,
+          "name": "Pomander Walk Northwest",
+          "type": "Service Road",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 6056228,
+          "name": "P Street Northwest",
+          "type": "Residential Street",
+          "lanes": null,
+          "maxspeed": "25 mph",
+          "surface": "sett",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 6059809,
+          "name": "Volta Place Northwest",
+          "type": "Residential Street",
+          "lanes": null,
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 131520244,
+          "name": "33rd Street Northwest",
+          "type": "Residential Street",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 298672971,
+          "name": "Unnamed Road",
+          "type": "steps",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "paved",
+          "bicycle": null,
+          "cycleway": null
+        }
+      ],
+      "buildings": 127,
+      "traffic_signals": 0,
+      "crossings": 13,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": true,
+      "parkingAvailable": false,
+      "raw": {
+        "totalElements": 1002,
+        "timestamp": "2025-10-02T14:15:27.220Z"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.909542,
+        "lon": -77.066095
+      },
+      "streetViewParams": {
+        "lat": 38.90954199126963,
+        "lng": -77.06609323053867,
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 1,
+        "pano_id": "xVPY3L6-5EiyElPWYiDRPQ",
+        "date": "2022-12"
+      },
+      "address": "38.909542, -77.066095",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Bike lane available for cycling. Narrow space limits overtaking. Parked cars create potential hazards. Need to slow for crosswalks.",
+          "points": [
+            "Bike lane available for cycling",
+            "Narrow space limits overtaking",
+            "Parked cars create potential hazards",
+            "Need to slow for crosswalks"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Dedicated bike lane present. Potential door zone hazard. Predictable riding possible. Residential street environment.",
+          "points": [
+            "Dedicated bike lane present",
+            "Potential door zone hazard",
+            "Predictable riding possible",
+            "Residential street environment"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Bike lane lacks physical separation. Traffic appears calm but close. Clear bike lane visible on road. Might feel nervous near parked cars.",
+          "points": [
+            "Bike lane lacks physical separation",
+            "Traffic appears calm but close",
+            "Clear bike lane visible on road",
+            "Might feel nervous near parked cars"
+          ],
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "text": "Bike lane lacks physical barrier. Close proximity to parked cars. Not as safe as a sidewalk. Wouldn't let child cycle here.",
+          "points": [
+            "Bike lane lacks physical barrier",
+            "Close proximity to parked cars",
+            "Not as safe as a sidewalk",
+            "Wouldn't let child cycle here"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The residential street setting with a 25 mph speed limit encourages safe driving.",
+          "cons": "Lack of parking and no traffic signals might make navigation and stopping challenging."
+        },
+        "cyclist": {
+          "pros": "Presence of bike infrastructure improves safety and accessibility for cyclists.",
+          "cons": "No dedicated cycleways and frequent crossings may disrupt cycling flow."
+        }
+      },
+      "createdAt": "2025-10-02T14:15:55.230Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1759415313017-6589",
+      "scenario": "Design Scenario 1",
+      "name": "Wide Green Buffered Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "standard",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 8,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 6,
+          "comfort": 7,
+          "total": 7
+        },
+        "no-way": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane for high speed. Easy to pass slower cyclists. Smooth surface enhances momentum. Buffer reduces dooring risk.",
+          "points": [
+            "Wide lane for high speed",
+            "Easy to pass slower cyclists",
+            "Smooth surface enhances momentum",
+            "Buffer reduces dooring risk"
+          ],
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Wide lane enhances space clarity. Green paint increases driver visibility. Buffer offers protection from traffic. Comfortable for regular commuting.",
+          "points": [
+            "Wide lane enhances space clarity",
+            "Green paint increases driver visibility",
+            "Buffer offers protection from traffic",
+            "Comfortable for regular commuting"
+          ],
+          "safety": 8,
+          "comfort": 8,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Wide lane feels spacious. Green paint increases visibility. Buffer reduces dooring risk. Lacks physical barriers for safety.",
+          "points": [
+            "Wide lane feels spacious",
+            "Green paint increases visibility",
+            "Buffer reduces dooring risk",
+            "Lacks physical barriers for safety"
+          ],
+          "safety": 6,
+          "comfort": 7,
+          "total": 7
+        },
+        "no-way": {
+          "text": "Still near moving vehicles. Buffer not fully protective. Not as safe as sidewalks. Children's safety a concern.",
+          "points": [
+            "Still near moving vehicles",
+            "Buffer not fully protective",
+            "Not as safe as sidewalks",
+            "Children's safety a concern"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Widened lane improves traffic flow",
+            "Green paint enhances visibility of bike lane",
+            "Standard buffer provides clear separation from cyclists"
+          ],
+          "cons": [
+            "Buffer may reduce space for parking or driving lanes",
+            "Turning movements might be restricted by bike lane"
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Widened lane provides more space and comfort",
+            "Green paint increases visibility and safety",
+            "Buffer offers protection from parked car doors"
+          ],
+          "cons": [
+            "Standard buffer might not provide enough physical protection",
+            "Intersections may still pose navigation challenges"
+          ]
+        }
+      }
+    },
+    {
+      "id": "design-1759416073070-4545",
+      "scenario": "Design Scenario 2",
+      "name": "Standard Unpainted Protected Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "no-paint",
+        "bufferType": "narrow-bollards",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Standard width limits passing. No special paint for visibility. Bollards provide moderate protection. Surface quality appears smooth.",
+          "points": [
+            "Standard width limits passing",
+            "No special paint for visibility",
+            "Bollards provide moderate protection",
+            "Surface quality appears smooth"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Standard width provides comfort. Bollards offer some traffic buffer. No special paint reduces visibility. Clear space definition with markings.",
+          "points": [
+            "Standard width provides comfort",
+            "Bollards offer some traffic buffer",
+            "No special paint reduces visibility",
+            "Clear space definition with markings"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Bollards provide minimal protection. Buffer reduces traffic proximity. Intersection safety not addressed. Anxiety reduced but not eliminated.",
+          "points": [
+            "Bollards provide minimal protection",
+            "Buffer reduces traffic proximity",
+            "Intersection safety not addressed",
+            "Anxiety reduced but not eliminated"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "no-way": {
+          "text": "Minimal separation from traffic. Bollards provide limited protection. Sidewalk feels much safer. Close to moving vehicles.",
+          "points": [
+            "Minimal separation from traffic",
+            "Bollards provide limited protection",
+            "Sidewalk feels much safer",
+            "Close to moving vehicles"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Standard lane width allows for comfortable driving.",
+            "Bollards increase visibility of the bike lane."
+          ],
+          "cons": [
+            "Bollards may require more attention during turning movements.",
+            "No special paint on bike lane might reduce visibility."
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Bollards provide a physical buffer from moving traffic.",
+            "Standard width ensures adequate space for cycling."
+          ],
+          "cons": [
+            "No special paint could make the lane less visible to drivers.",
+            "Limited protection from opening car doors if parked cars are present.",
+            "Navigation at intersections might still be challenging."
+          ]
+        }
+      }
+    },
+    {
+      "id": "design-1759416911363-3010",
+      "scenario": "Design Scenario 3",
+      "name": "Wide Green Armadillo Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 7,
+          "comfort": 8,
+          "total": 7
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Widened lane allows high speed. Armadillo dividers enhance separation. Green paint enhances visibility. Smooth surface aids in momentum.",
+          "points": [
+            "Widened lane allows high speed",
+            "Armadillo dividers enhance separation",
+            "Green paint enhances visibility",
+            "Smooth surface aids in momentum"
+          ],
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Clear space with green paint. Good buffer with armadillo dividers. Visible to drivers due to color. Comfortable width for commuting.",
+          "points": [
+            "Clear space with green paint",
+            "Good buffer with armadillo dividers",
+            "Visible to drivers due to color",
+            "Comfortable width for commuting"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Armadillo dividers offer moderate protection. Green paint enhances lane visibility. Buffer reduces proximity to traffic. Intersection safety remains a concern.",
+          "points": [
+            "Armadillo dividers offer moderate protection",
+            "Green paint enhances lane visibility",
+            "Buffer reduces proximity to traffic",
+            "Intersection safety remains a concern"
+          ],
+          "safety": 7,
+          "comfort": 8,
+          "total": 7
+        },
+        "no-way": {
+          "text": "Some separation from vehicles. Armadillo dividers offer minimal protection. Proximity to moving traffic remains. Sidewalk feels safer for children.",
+          "points": [
+            "Some separation from vehicles",
+            "Armadillo dividers offer minimal protection",
+            "Proximity to moving traffic remains",
+            "Sidewalk feels safer for children"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Widened bike lane reduces the chance of encroachment into vehicle lanes.",
+            "Green color enhances visibility of the bike lane.",
+            "Armadillo dividers provide clear lane separation, reducing accidental lane crossing."
+          ],
+          "cons": [
+            "Lane width may feel narrower, potentially affecting comfort in driving.",
+            "Turning movements may require more caution due to the presence of bike lanes and dividers.",
+            "Traffic flow could be disrupted if drivers are not accustomed to the lane configuration."
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Widened lane provides extra space for cycling, improving comfort.",
+            "Green lane color increases visibility, enhancing safety.",
+            "Armadillo dividers offer physical protection from moving traffic."
+          ],
+          "cons": [
+            "Proximity to parked cars may pose a risk of dooring.",
+            "Navigating intersections might be challenging due to potential conflicts with turning vehicles.",
+            "Dividers may limit quick exit options in emergencies."
+          ]
+        }
+      }
+    }
+  ],
+  "comparisons": [],
+  "inDepthAnalyses": [],
+  "chats": []
+}

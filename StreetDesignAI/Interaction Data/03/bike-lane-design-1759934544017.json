@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "exportDate": "2025-10-08T14:42:24.016Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.956241",
+    "longitude": "-77.032931",
+    "streetViewParams": {
+      "heading": 89.79940291420534,
+      "pitch": -8.20393971484036,
+      "zoom": 1.2951280355436472
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": 6052178,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 6052513,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 6052613,
+          "name": "Colorado Avenue Spur Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 87468945,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "2",
+          "maxspeed": "25 mph",
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 131052280,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "2",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        }
+      ],
+      "buildings": 56,
+      "traffic_signals": 3,
+      "crossings": 14,
+      "cycleways": 1,
+      "hasPublicTransport": true,
+      "hasBikeInfrastructure": true,
+      "parkingAvailable": false,
+      "raw": {
+        "totalElements": 762,
+        "timestamp": "2025-10-08T14:12:35.596Z"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.956241,
+        "lon": -77.032931
+      },
+      "streetViewParams": {
+        "lat": 38.95622500358172,
+        "lng": -77.03293064919087,
+        "heading": 89.79940291420534,
+        "pitch": -8.20393971484036,
+        "zoom": 1.2951280355436472,
+        "pano_id": "u0XRTxbKe3RveXznh0nmkw",
+        "date": "2019-11"
+      },
+      "address": "38.956241, -77.032931",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "No dedicated bike lanes. Parked cars reduce space. Potential dooring hazard present. Traffic appears light and manageable.",
+          "points": [
+            "No dedicated bike lanes",
+            "Parked cars reduce space",
+            "Potential dooring hazard present",
+            "Traffic appears light and manageable"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "No designated cycling lane visible. Potential door zones from parked cars. Moderate traffic lanes for cycling. Trees provide pleasant environment.",
+          "points": [
+            "No designated cycling lane visible",
+            "Potential door zones from parked cars",
+            "Moderate traffic lanes for cycling",
+            "Trees provide pleasant environment"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No physical protection present. Traffic appears moderately close. No clear cycling space visible. Parked cars increase nervousness.",
+          "points": [
+            "No physical protection present",
+            "Traffic appears moderately close",
+            "No clear cycling space visible",
+            "Parked cars increase nervousness"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        },
+        "no-way": {
+          "text": "No dedicated bike lanes. Cars parked along street. Cyclists share road with vehicles. Sidewalks safer for pedestrians.",
+          "points": [
+            "No dedicated bike lanes",
+            "Cars parked along street",
+            "Cyclists share road with vehicles",
+            "Sidewalks safer for pedestrians"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road has a moderate speed limit of 30 mph, which promotes safety and ease of navigation.",
+          "cons": "Limited lanes and nearby buildings might lead to congestion, especially with parking availability on both sides."
+        },
+        "cyclist": {
+          "pros": "The moderate speed limit provides a safer environment for cyclists sharing the road with vehicles.",
+          "cons": "The lack of dedicated cycleways and bike infrastructure makes it challenging and potentially unsafe for cyclists."
+        }
+      },
+      "createdAt": "2025-10-08T14:08:02.943Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1759933364890-8523",
+      "scenario": "Design Scenario 1",
+      "name": "Wide Green Armadillo Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "interested-concerned": {
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Widened lane allows speed. Easy to pass other cyclists. Green paint enhances visibility. Armadillo dividers protect momentum.",
+          "points": [
+            "Widened lane allows speed",
+            "Easy to pass other cyclists",
+            "Green paint enhances visibility",
+            "Armadillo dividers protect momentum"
+          ],
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "enthused-confident": {
+          "text": "Widened lane enhances space definition. Green color improves driver visibility. Buffer provides effective traffic separation. Comfortable for regular commuting.",
+          "points": [
+            "Widened lane enhances space definition",
+            "Green color improves driver visibility",
+            "Buffer provides effective traffic separation",
+            "Comfortable for regular commuting"
+          ],
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "interested-concerned": {
+          "text": "Widened lane feels spacious. Green paint improves visibility. Armadillo dividers add protection. Buffer reduces traffic anxiety.",
+          "points": [
+            "Widened lane feels spacious",
+            "Green paint improves visibility",
+            "Armadillo dividers add protection",
+            "Buffer reduces traffic anxiety"
+          ],
+          "safety": 7,
+          "comfort": 8,
+          "total": 8
+        },
+        "no-way": {
+          "text": "Minimal separation from traffic. Armadillo dividers offer limited protection. Still close to moving vehicles. Sidewalk feels much safer.",
+          "points": [
+            "Minimal separation from traffic",
+            "Armadillo dividers offer limited protection",
+            "Still close to moving vehicles",
+            "Sidewalk feels much safer"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": {
+            "lane_width": "Widened lane ensures adequate space for vehicles, reducing risk of encroachment.",
+            "visibility": "Green paint and dividers enhance visibility of bike lane, alerting drivers to cyclist presence.",
+            "traffic_flow": "Buffer with armadillo dividers helps maintain separation, contributing to smooth traffic flow."
+          },
+          "cons": {
+            "turning_movements": "Presence of dividers may complicate turning movements, especially for larger vehicles.",
+            "visibility": "Increased focus required to notice cyclists at intersections, potentially affecting reaction times."
+          }
+        },
+        "cyclists": {
+          "pros": {
+            "protection_level": "Buffer and armadillo dividers provide physical separation from moving traffic.",
+            "comfort": "Widened lane and distinct color enhance comfort and visibility.",
+            "safety_from_doors": "Positioning next to traffic reduces risk of dooring incidents from parked cars."
+          },
+          "cons": {
+            "intersection_navigation": "Dividers may limit flexibility in maneuvering, especially at intersections."
+          }
+        }
+      }
+    },
+    {
+      "id": "design-1759934050444-144",
+      "scenario": "Design Scenario 2",
+      "name": "Wide Green Armadillo Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "add a protected bike lane on the other side of the street as well",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Widened lane allows high speed. Green paint enhances visibility. Armadillo dividers limit overtaking. Good surface quality for momentum.",
+          "points": [
+            "Widened lane allows high speed",
+            "Green paint enhances visibility",
+            "Armadillo dividers limit overtaking",
+            "Good surface quality for momentum"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Green lane highly visible. Armadillo dividers add safety. Clear space definition from traffic. Needs protected lane opposite side.",
+          "points": [
+            "Green lane highly visible",
+            "Armadillo dividers add safety",
+            "Clear space definition from traffic",
+            "Needs protected lane opposite side"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Widened lane feels spacious. Armadillo dividers provide minimal protection. Green paint improves visibility. Buffer reduces traffic proximity anxiety.",
+          "points": [
+            "Widened lane feels spacious",
+            "Armadillo dividers provide minimal protection",
+            "Green paint improves visibility",
+            "Buffer reduces traffic proximity anxiety"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "text": "Minimal separation from traffic. Armadillos provide limited protection. Still close to moving vehicles. Sidewalk feels safer for children.",
+          "points": [
+            "Minimal separation from traffic",
+            "Armadillos provide limited protection",
+            "Still close to moving vehicles",
+            "Sidewalk feels safer for children"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "drivers": {
+          "pros": [
+            "Widened lane provides more space for vehicles.",
+            "Green paint increases visibility of bike lane.",
+            "Buffer with armadillo dividers clearly separates bike lane."
+          ],
+          "cons": [
+            "Potential difficulty in making right turns due to the buffer.",
+            "Reduced lane width for moving traffic might affect traffic flow."
+          ]
+        },
+        "cyclists": {
+          "pros": [
+            "Widened lane offers more maneuvering space.",
+            "Green paint enhances visibility and awareness.",
+            "Buffer with armadillo dividers provides a physical separation from traffic."
+          ],
+          "cons": [
+            "Presence of parked cars can pose dooring risks.",
+            "Intersection navigation may be challenging without dedicated signals."
+          ]
+        }
+      }
+    }
+  ],
+  "comparisons": [],
+  "inDepthAnalyses": [],
+  "chats": []
+}

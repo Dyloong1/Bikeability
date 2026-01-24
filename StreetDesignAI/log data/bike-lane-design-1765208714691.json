@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "exportDate": "2025-12-08T15:45:14.691Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "26.394047",
+    "longitude": "-80.115208",
+    "streetViewParams": {
+      "heading": 279.6418229681319,
+      "pitch": -2.2857619800421958,
+      "zoom": 3
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": "default-1",
+          "name": "Main Street",
+          "type": "Primary Road",
+          "lanes": 2,
+          "maxspeed": "30 mph",
+          "surface": "asphalt"
+        }
+      ],
+      "buildings": 10,
+      "traffic_signals": 2,
+      "crossings": 3,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": true,
+      "raw": {
+        "totalElements": 0,
+        "timestamp": "2025-12-08T15:33:33.844Z",
+        "error": "Using default data"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-1",
+      "scenario": "Design Scenario 1",
+      "coordinates": {
+        "lat": 26.394047,
+        "lon": -80.115208
+      },
+      "streetViewParams": {
+        "lat": 26.39407893078636,
+        "lng": -80.11520784841986,
+        "heading": 279.6418229681319,
+        "pitch": -2.2857619800421958,
+        "zoom": 3,
+        "pano_id": "WR-NkS78FoSQ3pd2QDSmKg",
+        "date": "2024-04"
+      },
+      "address": "26.394047, -80.115208",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        },
+        "no-way": {
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lanes for overtaking. No dedicated bike lanes present. Traffic speed moderate and manageable. Few obstacles, maintain good speed.",
+          "points": [
+            "Wide lanes for overtaking",
+            "No dedicated bike lanes present",
+            "Traffic speed moderate and manageable",
+            "Few obstacles, maintain good speed"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "Wide lanes allow space. No dedicated bike lane. Moderate traffic volume present. No visible door zone risk.",
+          "points": [
+            "Wide lanes allow space",
+            "No dedicated bike lane",
+            "Moderate traffic volume present",
+            "No visible door zone risk"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No dedicated cycling lanes visible. Traffic is close and fast-moving. Lack of physical barriers for cyclists. Wide lanes may increase anxiety.",
+          "points": [
+            "No dedicated cycling lanes visible",
+            "Traffic is close and fast-moving",
+            "Lack of physical barriers for cyclists",
+            "Wide lanes may increase anxiety"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        },
+        "no-way": {
+          "text": "No cycle lanes present. Direct contact with vehicle traffic. Not separated from cars. Unsafe for children cycling.",
+          "points": [
+            "No cycle lanes present",
+            "Direct contact with vehicle traffic",
+            "Not separated from cars",
+            "Unsafe for children cycling"
+          ],
+          "safety": 2,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "Main Street offers a straightforward driving experience with a 30 mph speed limit and available parking.",
+          "cons": "The lack of public transport might increase traffic density, and multiple crossings can slow down travel."
+        },
+        "cyclist": {
+          "pros": "The road's 30 mph speed limit is relatively low, potentially making it safer for cyclists.",
+          "cons": "There is no dedicated cycling infrastructure, which can make cycling challenging and potentially unsafe."
+        }
+      },
+      "createdAt": "2025-12-08T15:31:25.427Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1765208053370-1011",
+      "scenario": "Design Scenario 2",
+      "name": "Wide Green Buffered Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "standard",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane for higher speeds. Green paint enhances visibility. Standard buffer feels adequate. Good surface for maintaining momentum.",
+          "points": [
+            "Wide lane for higher speeds",
+            "Green paint enhances visibility",
+            "Standard buffer feels adequate",
+            "Good surface for maintaining momentum"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Clear green lane marking. Standard buffer provides separation. Visible to drivers in traffic. Comfortable for regular commuting.",
+          "points": [
+            "Clear green lane marking",
+            "Standard buffer provides separation",
+            "Visible to drivers in traffic",
+            "Comfortable for regular commuting"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Wider lane offers more space. Green paint increases visibility. Minimal physical protection provided. Standard buffer lacks substantial separation.",
+          "points": [
+            "Wider lane offers more space",
+            "Green paint increases visibility",
+            "Minimal physical protection provided",
+            "Standard buffer lacks substantial separation"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "text": "No physical barriers present. Too close to moving traffic. Sidewalks feel much safer. Buffer insufficient for child safety.",
+          "points": [
+            "No physical barriers present",
+            "Too close to moving traffic",
+            "Sidewalks feel much safer",
+            "Buffer insufficient for child safety"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The widened lane and green painted bike lane enhance visibility, aiding in smoother traffic flow and easier lane management.",
+          "cons": "Turning movements may be challenging due to the need to cross the bike lane, potentially causing delays or confusion."
+        },
+        "cyclist": {
+          "pros": "The green painted lane with a 3-foot buffer from traffic increases visibility and offers a sense of separation from vehicles.",
+          "cons": "The buffer may not provide sufficient protection from moving traffic, and intersection navigation can still be risky without additional safeguards."
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "comparison-0",
+      "designs": [
+        "design-1765208053370-1011",
+        "evaluation-1"
+      ],
+      "messages": [
+        {
+          "id": "1765208268536-0-0.6745068389961801",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "From my perspective as an experienced cyclist, I prefer Design Scenario 2. The wider lane gives me room to overtake slower cyclists. While I don't need the buffer, it does keep cars from drifting into my space. This design supports efficient riding at speed.",
+          "highlights": [
+            "wider lane",
+            "room to overtake",
+            "efficient riding",
+            "maintaining momentum"
+          ],
+          "timestamp": "2025-12-08T15:37:48.536Z"
+        },
+        {
+          "id": "1765208269534-1-0.5506133886171819",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "As a regular cyclist, I prefer Design Scenario 2 because it strikes the right balance for me. The green paint makes me feel more legitimate on the road. The buffer zone reduces my stress level significantly. This design would make this a regular route for me.",
+          "highlights": [
+            "right balance",
+            "green paint",
+            "reduces stress",
+            "regular route"
+          ],
+          "timestamp": "2025-12-08T15:37:49.534Z"
+        },
+        {
+          "id": "1765208270544-2-0.391165614823638",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "From my nervous cyclist perspective, I strongly prefer Design Scenario 2. Though I still have serious safety concerns without physical protection. The green paint helps but doesn't address my fear of cars. I need maximum protection to feel safe.",
+          "highlights": [
+            "physical barriers",
+            "safety concerns",
+            "fear of cars",
+            "maximum protection"
+          ],
+          "timestamp": "2025-12-08T15:37:50.544Z"
+        },
+        {
+          "id": "1765208271541-3-0.7096929357615834",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "If forced to choose, Design Scenario 2 is the least terrifying option, but I still wouldn't cycle. Without physical protection, this confirms why I don't cycle. Nothing here would convince me to start cycling.",
+          "highlights": [
+            "least terrifying",
+            "wouldn't cycle",
+            "sharing road space",
+            "unacceptable"
+          ],
+          "timestamp": "2025-12-08T15:37:51.541Z"
+        },
+        {
+          "id": "1765208273037-driver-init",
+          "role": "driver",
+          "content": "As a driver, I appreciate that you're considering different bike lane designs. While I support cyclist safety, I'm concerned about how these changes affect traffic flow and parking availability. Some designs reduce road width significantly, which could increase congestion during rush hours.",
+          "highlights": [
+            "traffic flow",
+            "parking",
+            "road space"
+          ],
+          "timestamp": "2025-12-08T15:37:53.037Z"
+        },
+        {
+          "id": 1765208446903,
+          "role": "user",
+          "content": "Driver, did you see that the number of travel lanes went from four to three? Are you OK with that change?",
+          "timestamp": "2025-12-08T15:40:46.903Z"
+        },
+        {
+          "id": "1765208466903-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "I really appreciate the updated design. The green paint and buffer make me feel more secure and visible. This design strikes a balance between safety and usability, making it an attractive option for my regular rides. The buffer reduces stress and enhances my confidence on the road.",
+          "highlights": [
+            "green paint",
+            "buffer",
+            "confidence"
+          ],
+          "relevanceScore": 0.9,
+          "referencedPrevious": false,
+          "timestamp": "2025-12-08T15:41:06.903Z"
+        },
+        {
+          "id": "1765208467512-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "The modified design with the widened green lane and buffer is a win for speed and efficiency. The extra space allows for easy overtaking of slower cyclists, which is crucial for maintaining momentum. While the buffer isn't necessary for me, it does help in ensuring cars stay out of my way.",
+          "highlights": [
+            "widened lane",
+            "overtaking",
+            "momentum"
+          ],
+          "relevanceScore": 0.7,
+          "referencedPrevious": false,
+          "timestamp": "2025-12-08T15:41:07.512Z"
+        },
+        {
+          "id": "1765208468115-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "The modified design is an improvement, but I still feel apprehensive without physical barriers. The green lane does increase visibility, but my fear of traffic remains. More protection from vehicles is needed to fully ease my concerns and encourage cycling.",
+          "highlights": [
+            "visibility",
+            "protection",
+            "apprehensive"
+          ],
+          "relevanceScore": 0.6,
+          "referencedPrevious": false,
+          "timestamp": "2025-12-08T15:41:08.115Z"
+        },
+        {
+          "id": "1765208470106-driver",
+          "role": "driver",
+          "content": "The reduction from four to three travel lanes may impact traffic flow, particularly during peak hours. The lane width appears adequate, but the reduction could lead to congestion. Visibility remains good, but care must be taken with lane changes and turns. The green bike lane is clear, aiding in identifying cyclist areas, but drivers should be cautious at potential conflict points.",
+          "highlights": [
+            "lane width",
+            "visibility",
+            "traffic flow"
+          ],
+          "addressesCyclists": true,
+          "timestamp": "2025-12-08T15:41:10.106Z"
+        }
+      ]
+    }
+  ],
+  "inDepthAnalyses": [],
+  "chats": []
+}

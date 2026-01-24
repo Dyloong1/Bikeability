@@ -1,0 +1,644 @@
+{
+  "metadata": {
+    "exportDate": "2025-11-19T15:41:04.496Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.913449",
+    "longitude": "-77.066521",
+    "streetViewParams": {
+      "heading": 159.72644375090857,
+      "pitch": -5.887961828829702,
+      "zoom": 2.8678987833019507
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": "default-1",
+          "name": "Main Street",
+          "type": "Primary Road",
+          "lanes": 2,
+          "maxspeed": "30 mph",
+          "surface": "asphalt"
+        }
+      ],
+      "buildings": 10,
+      "traffic_signals": 2,
+      "crossings": 3,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": true,
+      "raw": {
+        "totalElements": 0,
+        "timestamp": "2025-11-19T15:20:25.264Z",
+        "error": "Using default data"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.913449,
+        "lon": -77.066521
+      },
+      "streetViewParams": {
+        "lat": 38.91344494420925,
+        "lng": -77.06653291373617,
+        "heading": 153.20553985715804,
+        "pitch": -7.874108207505401,
+        "zoom": 1.1881620365141226,
+        "pano_id": "e4vC2ow-4ZTayLn9jInVOQ",
+        "date": "2025-08"
+      },
+      "address": "38.913449, -77.066521",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 3,
+          "comfort": 3,
+          "total": 3
+        },
+        "no-way": {
+          "safety": 2,
+          "comfort": 3,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "No dedicated bike lanes. Moderate traffic, potential delays. Limited space for overtaking. Trees may obstruct view.",
+          "points": [
+            "No dedicated bike lanes",
+            "Moderate traffic, potential delays",
+            "Limited space for overtaking",
+            "Trees may obstruct view"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "No dedicated cycling lanes visible. Potential door zone hazards present. Moderate traffic with parked vehicles. Can ride predictably with caution.",
+          "points": [
+            "No dedicated cycling lanes visible",
+            "Potential door zone hazards present",
+            "Moderate traffic with parked vehicles",
+            "Can ride predictably with caution"
+          ],
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No physical protection present. Traffic is close and steady. No dedicated cycling space. High chance of feeling panicked.",
+          "points": [
+            "No physical protection present",
+            "Traffic is close and steady",
+            "No dedicated cycling space",
+            "High chance of feeling panicked"
+          ],
+          "safety": 3,
+          "comfort": 3,
+          "total": 3
+        },
+        "no-way": {
+          "text": "No dedicated bike lanes. Close proximity to vehicles. Appears busy with traffic. Sidewalk is safer option.",
+          "points": [
+            "No dedicated bike lanes",
+            "Close proximity to vehicles",
+            "Appears busy with traffic",
+            "Sidewalk is safer option"
+          ],
+          "safety": 2,
+          "comfort": 3,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "Main Street offers a straightforward driving experience with a moderate speed limit and available parking.",
+          "cons": "The presence of multiple crossings and traffic signals may cause frequent stops, potentially slowing down travel."
+        },
+        "cyclist": {
+          "pros": "The road has moderate traffic, which can be manageable for experienced cyclists.",
+          "cons": "Lack of dedicated cycleways or bike infrastructure makes cycling less safe and requires sharing the road with cars."
+        }
+      },
+      "createdAt": "2025-11-19T15:09:21.703Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1763566427704-4215",
+      "scenario": "Design Scenario 3",
+      "name": "Narrow Green Unbuffered Lane",
+      "options": {
+        "laneWidth": "narrow",
+        "laneColor": "green",
+        "bufferType": "no-buffer",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "This is a two-way road with two lanes in each direction. Make two bike lanes, one in each direction on the curb side. ",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 4
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Narrow lane limits passing. Green paint increases visibility. Lacks buffer from traffic. Smooth surface aids momentum.",
+          "points": [
+            "Narrow lane limits passing",
+            "Green paint increases visibility",
+            "Lacks buffer from traffic",
+            "Smooth surface aids momentum"
+          ],
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "Green paint improves visibility. No buffer increases traffic exposure. Narrow lane limits maneuverability. Curbside placement aids safety.",
+          "points": [
+            "Green paint improves visibility",
+            "No buffer increases traffic exposure",
+            "Narrow lane limits maneuverability",
+            "Curbside placement aids safety"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No physical protection provided. Adjacent to fast-moving traffic. Narrow lanes increase anxiety. Green paint slightly improves visibility.",
+          "points": [
+            "No physical protection provided",
+            "Adjacent to fast-moving traffic",
+            "Narrow lanes increase anxiety",
+            "Green paint slightly improves visibility"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 4
+        },
+        "no-way": {
+          "text": "No buffer from traffic lanes. Lane too narrow for comfort. Sidewalk feels much safer. Proximity to moving vehicles high.",
+          "points": [
+            "No buffer from traffic lanes",
+            "Lane too narrow for comfort",
+            "Sidewalk feels much safer",
+            "Proximity to moving vehicles high"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The green painted bike lanes provide clear demarcation, improving visibility of cyclists.",
+          "cons": "Narrowed lanes may reduce maneuverability and increase difficulty when turning, especially with no buffer from cyclists."
+        },
+        "cyclist": {
+          "pros": "The green paint enhances lane visibility, increasing awareness and potentially improving safety.",
+          "cons": "Lack of a buffer from moving traffic may decrease comfort and safety, especially with potential dooring from parked cars."
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "comparison-0",
+      "designs": [
+        "design-1763566427704-4215",
+        "evaluation-0"
+      ],
+      "messages": [
+        {
+          "id": "1763566534107-0-0.7214253625897342",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "From my perspective as an experienced cyclist, I prefer Design Scenario 3. The lane width is adequate for my needs. I can navigate without needing extra separation. This design supports efficient riding at speed.",
+          "highlights": [
+            "wider lane",
+            "room to overtake",
+            "efficient riding",
+            "maintaining momentum"
+          ],
+          "timestamp": "2025-11-19T15:35:34.107Z"
+        },
+        {
+          "id": "1763566535108-1-0.7354256941651195",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "As a regular cyclist, I prefer Design Scenario 3 because it strikes the right balance for me. The green paint makes me feel more legitimate on the road. Though I'd prefer more separation from traffic. This design would make this a regular route for me.",
+          "highlights": [
+            "right balance",
+            "green paint",
+            "reduces stress",
+            "regular route"
+          ],
+          "timestamp": "2025-11-19T15:35:35.108Z"
+        },
+        {
+          "id": "1763566536111-2-0.24638297966425216",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "From my nervous cyclist perspective, I strongly prefer Design Scenario 3. Though I still have serious safety concerns without physical protection. The green paint helps but doesn't address my fear of cars. I need maximum protection to feel safe.",
+          "highlights": [
+            "physical barriers",
+            "safety concerns",
+            "fear of cars",
+            "maximum protection"
+          ],
+          "timestamp": "2025-11-19T15:35:36.111Z"
+        },
+        {
+          "id": "1763566537108-3-0.6705659818769065",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "If forced to choose, Design Scenario 3 is the least terrifying option, but I still wouldn't cycle. Without physical protection, this confirms why I don't cycle. Nothing here would convince me to start cycling.",
+          "highlights": [
+            "least terrifying",
+            "wouldn't cycle",
+            "sharing road space",
+            "unacceptable"
+          ],
+          "timestamp": "2025-11-19T15:35:37.108Z"
+        },
+        {
+          "id": "1763566538604-driver-init",
+          "role": "driver",
+          "content": "From a driver's perspective, these bike lane options present trade-offs. The protected designs offer better safety for cyclists, but they take up more road space that we need for turning lanes and parking. I hope we can find a balance that works for everyone.",
+          "highlights": [
+            "traffic flow",
+            "parking",
+            "road space"
+          ],
+          "timestamp": "2025-11-19T15:35:38.604Z"
+        }
+      ]
+    }
+  ],
+  "inDepthAnalyses": [
+    {
+      "id": "in-depth-0",
+      "designId": "evaluation-0",
+      "messages": [
+        {
+          "id": "1763565205726-0-0.04583288990956247",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "Looking at this Existing Condition, I see opportunities for improvement. The current configuration has significant limitations even for experienced riders. I'd prioritize maintaining good traffic flow while adding clearer lane markings. A simple painted bike lane would suffice for my needs, though I understand others need more protection.",
+          "highlights": [
+            "opportunities for improvement",
+            "traffic flow",
+            "painted bike lane"
+          ],
+          "timestamp": "2025-11-19T15:13:25.726Z"
+        },
+        {
+          "id": "1763565206726-1-0.10307243066034988",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "Analyzing this location, I believe we need a balanced approach. The current setup has potential. I'd love to see green-painted lanes with at least a painted buffer zone. This would make it attractive for daily commuting while keeping costs reasonable. Physical separation would be nice but isn't essential for riders like me.",
+          "highlights": [
+            "balanced approach",
+            "green-painted lanes",
+            "buffer zone",
+            "daily commuting"
+          ],
+          "timestamp": "2025-11-19T15:13:26.726Z"
+        },
+        {
+          "id": "1763565207726-2-0.9310102460729524",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "This location is currently too dangerous for nervous cyclists. I absolutely need physical protection - either bollards or armadillo dividers - to even consider cycling here. Paint alone won't address my safety concerns. The infrastructure must clearly separate bikes from cars with physical barriers.",
+          "highlights": [
+            "safety improvements",
+            "physical protection",
+            "bollards",
+            "separate bikes from cars"
+          ],
+          "timestamp": "2025-11-19T15:13:27.726Z"
+        },
+        {
+          "id": "1763565208726-3-0.42613453843482674",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "Looking at this road, it confirms all my fears about urban cycling. For me to even consider it, you'd need fully protected cycle tracks, completely separated from traffic - think Copenhagen-style infrastructure. Anything less is unacceptable given the risks involved.",
+          "highlights": [
+            "wouldn't cycle",
+            "fully protected",
+            "Copenhagen-style",
+            "risks involved"
+          ],
+          "timestamp": "2025-11-19T15:13:28.726Z"
+        },
+        {
+          "id": "1763565210227-driver-init",
+          "role": "driver",
+          "content": "From a driving perspective, this road segment presents both opportunities and challenges. While I support safe cycling infrastructure, we need to carefully consider impacts on traffic flow, turning movements, and parking. Any changes should maintain adequate lane width for vehicles and ensure clear sightlines at intersections.",
+          "highlights": [
+            "road width",
+            "turning movements",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:13:30.227Z"
+        },
+        {
+          "id": 1763565450500,
+          "role": "user",
+          "content": "How wide should protected bike lanes be on this road?",
+          "timestamp": "2025-11-19T15:17:30.500Z"
+        },
+        {
+          "id": "1763565471971-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "A balanced approach would be a 5-foot-wide bike lane with a painted buffer zone. Green paint enhances visibility, and a buffer adds a sense of safety. Physical separation isn't crucial but could be an added bonus.",
+          "highlights": [
+            "balanced",
+            "painted buffer",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:17:51.971Z"
+        },
+        {
+          "id": "1763565472582-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "For efficient travel, I'd recommend a minimum bike lane width of 4-5 feet with clear green paint. This will ensure visibility and a smooth ride. While I value speed, maintaining some buffer between parked cars and cyclists would also be beneficial.",
+          "highlights": [
+            "efficiency",
+            "visibility",
+            "buffer"
+          ],
+          "timestamp": "2025-11-19T15:17:52.582Z"
+        },
+        {
+          "id": "1763565473174-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "The bike lane should be at least 6 feet wide, with physical protection like bollards or armadillo dividers. This would ensure a safe distance from traffic, making me feel more comfortable riding on this road.",
+          "highlights": [
+            "safety",
+            "physical protection",
+            "comfort"
+          ],
+          "timestamp": "2025-11-19T15:17:53.174Z"
+        },
+        {
+          "id": "1763565473772-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "To consider cycling here, I need a fully protected bike lane, ideally 8 feet wide, with a solid barrier separating it from vehicle traffic. This level of separation is necessary for my peace of mind.",
+          "highlights": [
+            "full protection",
+            "solid barrier",
+            "peace of mind"
+          ],
+          "timestamp": "2025-11-19T15:17:53.772Z"
+        },
+        {
+          "id": "1763565475172-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, any bike lane changes should ensure that vehicle lanes remain wide enough for safe travel and turning. Maintaining clear sightlines at intersections is essential. Additionally, any physical barriers should not impede parking or traffic flow.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:17:55.172Z"
+        },
+        {
+          "id": 1763565557998,
+          "role": "user",
+          "content": "How wide are the lanes currently?",
+          "timestamp": "2025-11-19T15:19:17.998Z"
+        },
+        {
+          "id": "1763565575937-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "A balanced improvement would involve a 5-foot-wide bike lane with a painted buffer zone. Green paint increases visibility, making it safer for daily commuting. Physical separation via bollards could be added as an extra safety measure, though not essential for confident cyclists.",
+          "highlights": [
+            "5-foot-wide",
+            "painted buffer",
+            "green paint"
+          ],
+          "timestamp": "2025-11-19T15:19:35.937Z"
+        },
+        {
+          "id": "1763565576537-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "For efficient travel, I recommend a minimum 4-foot-wide bike lane with bold green paint for visibility. Adding a painted buffer between the bike lane and parked cars would enhance safety without compromising speed. It's crucial to maintain a smooth flow, so clear lane markings are essential.",
+          "highlights": [
+            "efficient travel",
+            "green paint",
+            "painted buffer"
+          ],
+          "timestamp": "2025-11-19T15:19:36.537Z"
+        },
+        {
+          "id": "1763565577137-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "For a safer experience, I need at least a 6-foot-wide bike lane with physical protection, such as bollards or armadillo dividers. This would ensure a safe distance from traffic, making me feel more comfortable and protected while cycling.",
+          "highlights": [
+            "6-foot-wide",
+            "physical protection",
+            "bollards"
+          ],
+          "timestamp": "2025-11-19T15:19:37.137Z"
+        },
+        {
+          "id": "1763565577738-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "To consider cycling, a fully protected 8-foot-wide bike lane with a solid barrier separating it from vehicle traffic is required. This level of separation is crucial for ensuring safety and peace of mind, similar to Copenhagen-style infrastructure.",
+          "highlights": [
+            "8-foot-wide",
+            "solid barrier",
+            "fully protected"
+          ],
+          "timestamp": "2025-11-19T15:19:37.738Z"
+        },
+        {
+          "id": "1763565579148-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, any modifications should maintain adequate lane width for vehicles to ensure safe passage and turning movements. It's crucial that sightlines at intersections remain clear for both cyclists and drivers. Implementing physical barriers should not impede parking access or disrupt traffic flow significantly.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:19:39.148Z"
+        },
+        {
+          "id": 1763565629911,
+          "role": "user",
+          "content": "Would you want lanes in both directions?",
+          "timestamp": "2025-11-19T15:20:29.911Z"
+        },
+        {
+          "id": "1763565649764-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "A balanced solution would be implementing a green-painted two-way bike lane with a painted buffer zone. This setup would accommodate cyclists in both directions while enhancing safety and visibility. Adding bollards could be a plus for extra protection.",
+          "highlights": [
+            "two-way",
+            "painted buffer",
+            "bollards"
+          ],
+          "timestamp": "2025-11-19T15:20:49.764Z"
+        },
+        {
+          "id": "1763565650374-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "I'd recommend adding a straightforward two-way bike lane with bold green paint to enhance visibility and ensure efficient travel. A painted buffer zone between cyclists and parked cars would be beneficial to maintain speed while offering some protection.",
+          "highlights": [
+            "two-way",
+            "green paint",
+            "buffer zone"
+          ],
+          "timestamp": "2025-11-19T15:20:50.374Z"
+        },
+        {
+          "id": "1763565650979-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "For a safer experience, I suggest a two-way bike lane with at least 6 feet of width and physical protection such as bollards. This would provide a clear separation from traffic, making cycling more appealing and secure for nervous riders like myself.",
+          "highlights": [
+            "two-way",
+            "physical protection",
+            "6 feet wide"
+          ],
+          "timestamp": "2025-11-19T15:20:50.979Z"
+        },
+        {
+          "id": "1763565651567-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "To consider cycling, I need a fully protected two-way cycle track, ideally 8 feet wide, with robust barriers like concrete dividers. This level of separation is crucial to ensure safety and peace of mind in both directions.",
+          "highlights": [
+            "fully protected",
+            "concrete dividers",
+            "8 feet wide"
+          ],
+          "timestamp": "2025-11-19T15:20:51.567Z"
+        },
+        {
+          "id": "1763565652965-driver",
+          "role": "driver",
+          "content": "From a driving perspective, implementing two-way bike lanes should ensure that vehicle lanes remain adequately wide for safe travel and turning movements. It's crucial to maintain clear sightlines at intersections, and any physical barriers should be designed to avoid impeding parking or disrupting traffic flow. Effective lane management and traffic flow are essential to accommodate both cyclists and drivers safely.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:20:52.965Z"
+        },
+        {
+          "id": 1763565678906,
+          "role": "user",
+          "content": "Do we know if this road is at vehicle capacity?",
+          "timestamp": "2025-11-19T15:21:18.906Z"
+        },
+        {
+          "id": "1763565716534-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "A 5-foot-wide bike lane with a painted buffer zone would provide a good balance between safety and efficiency. The green paint increases visibility, and using bollards as an extra safety measure would make daily commuting more secure.",
+          "highlights": [
+            "painted buffer",
+            "visibility",
+            "bollards"
+          ],
+          "timestamp": "2025-11-19T15:21:56.534Z"
+        },
+        {
+          "id": "1763565717144-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "I recommend maintaining a 4-foot-wide bike lane with bold green paint for maximum visibility. Adding a painted buffer between the bike lane and parked cars would enhance safety while keeping traffic flow smooth. Clear lane markings are essential for efficient cycling.",
+          "highlights": [
+            "visibility",
+            "buffer",
+            "efficiency"
+          ],
+          "timestamp": "2025-11-19T15:21:57.144Z"
+        },
+        {
+          "id": "1763565717740-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "To enhance safety, a 6-foot-wide bike lane with physical protections like bollards is necessary. This would create a safer distance from traffic, making it more comfortable for nervous riders.",
+          "highlights": [
+            "safety",
+            "physical protection",
+            "comfort"
+          ],
+          "timestamp": "2025-11-19T15:21:57.740Z"
+        },
+        {
+          "id": "1763565718343-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "A fully protected 8-foot-wide bike lane with solid barriers is essential for me to consider cycling here. This level of separation would provide the needed safety and peace of mind.",
+          "highlights": [
+            "full protection",
+            "barriers",
+            "safety"
+          ],
+          "timestamp": "2025-11-19T15:21:58.343Z"
+        },
+        {
+          "id": "1763565719737-driver",
+          "role": "driver",
+          "content": "From a driving perspective, any changes to the bike lane should ensure vehicle lanes remain wide enough for safe travel and turning. It's vital to maintain clear sightlines at intersections for both cyclists and drivers. Implementing physical barriers should not hinder parking access or disrupt traffic flow. Effective lane management will help accommodate both cyclists and drivers safely.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-11-19T15:21:59.737Z"
+        }
+      ]
+    }
+  ],
+  "chats": []
+}

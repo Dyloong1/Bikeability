@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "exportDate": "2025-12-08T15:45:07.687Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.910376",
+    "longitude": "-77.066104",
+    "streetViewParams": {
+      "heading": 353.8147399165377,
+      "pitch": -2.893805201698939,
+      "zoom": 0.7881639601862578
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": "default-1",
+          "name": "Main Street",
+          "type": "Primary Road",
+          "lanes": 2,
+          "maxspeed": "30 mph",
+          "surface": "asphalt"
+        }
+      ],
+      "buildings": 10,
+      "traffic_signals": 2,
+      "crossings": 3,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": true,
+      "raw": {
+        "totalElements": 0,
+        "timestamp": "2025-12-08T15:05:23.060Z",
+        "error": "Using default data"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.910376,
+        "lon": -77.066104
+      },
+      "streetViewParams": {
+        "lat": 38.91037572931865,
+        "lng": -77.06610552693435,
+        "heading": 353.8147399165377,
+        "pitch": -2.893805201698939,
+        "zoom": 0.7881639601862578,
+        "pano_id": "Quq5gKvVbbgp6tuURejGMw",
+        "date": "2016-12"
+      },
+      "address": "38.910376, -77.066104",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Narrow lanes limit overtaking. Trees may obscure visibility. Parked cars create obstacles. Frequent slowing at intersections.",
+          "points": [
+            "Narrow lanes limit overtaking",
+            "Trees may obscure visibility",
+            "Parked cars create obstacles",
+            "Frequent slowing at intersections"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "No dedicated bike lane visible. Potential door zone from parked cars. Moderate traffic speed likely manageable. Predictable riding with caution needed.",
+          "points": [
+            "No dedicated bike lane visible",
+            "Potential door zone from parked cars",
+            "Moderate traffic speed likely manageable",
+            "Predictable riding with caution needed"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No physical protection from cars. Traffic proximity is moderately close. Limited safe spaces for cycling. Might feel anxious without bike lanes.",
+          "points": [
+            "No physical protection from cars",
+            "Traffic proximity is moderately close",
+            "Limited safe spaces for cycling",
+            "Might feel anxious without bike lanes"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        },
+        "no-way": {
+          "text": "No separation from vehicles. Cycling near parked cars. Not as safe as sidewalk. Would not let child cycle.",
+          "points": [
+            "No separation from vehicles",
+            "Cycling near parked cars",
+            "Not as safe as sidewalk",
+            "Would not let child cycle"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road has a moderate speed limit and available parking, making it convenient for local access.",
+          "cons": "The presence of traffic signals and crossings can cause frequent stops, potentially slowing down travel."
+        },
+        "cyclist": {
+          "pros": "The moderate speed limit provides a relatively safer environment for cyclists.",
+          "cons": "Lack of dedicated bike infrastructure makes cycling challenging and increases interaction with vehicle traffic."
+        }
+      },
+      "createdAt": "2025-12-08T15:04:47.662Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1765207434048-9183",
+      "scenario": "Design Scenario 1",
+      "name": "Standard Green Armadillo Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Standard lane width limits speed. Armadillo dividers add safety. Green paint improves visibility. Buffer helps maintain momentum.",
+          "points": [
+            "Standard lane width limits speed",
+            "Armadillo dividers add safety",
+            "Green paint improves visibility",
+            "Buffer helps maintain momentum"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Clear lane definition with color. Buffer provides moderate traffic protection. Good visibility for drivers. Comfortable for regular commutes.",
+          "points": [
+            "Clear lane definition with color",
+            "Buffer provides moderate traffic protection",
+            "Good visibility for drivers",
+            "Comfortable for regular commutes"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Armadillo dividers add protection. Green paint improves visibility. Buffer reduces anxiety from traffic. Intersection safety still a concern.",
+          "points": [
+            "Armadillo dividers add protection",
+            "Green paint improves visibility",
+            "Buffer reduces anxiety from traffic",
+            "Intersection safety still a concern"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "text": "Minimal separation from traffic. Armadillo dividers not reassuring. Sidewalk feels safer for children. Proximity to moving cars concerning.",
+          "points": [
+            "Minimal separation from traffic",
+            "Armadillo dividers not reassuring",
+            "Sidewalk feels safer for children",
+            "Proximity to moving cars concerning"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The green-painted bike lane with armadillo dividers enhances visibility, reducing the likelihood of accidental encroachment.",
+          "cons": "The presence of bike lanes and dividers may slightly reduce the maneuvering space for turning movements, especially in tighter areas."
+        },
+        "cyclist": {
+          "pros": "The green paint and armadillo dividers provide a clear demarcation and physical separation from traffic, enhancing safety and comfort.",
+          "cons": "Navigating intersections may still pose challenges due to potential conflicts with turning vehicles, and the buffer may not fully protect against dooring from parked cars."
+        }
+      }
+    }
+  ],
+  "comparisons": [],
+  "inDepthAnalyses": [
+    {
+      "id": "in-depth-0",
+      "designId": "evaluation-0",
+      "messages": [
+        {
+          "id": "1765206614173-0-0.5261236155927065",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "Looking at this Existing Condition, I see opportunities for improvement. The current configuration has significant limitations even for experienced riders. I'd prioritize maintaining good traffic flow while adding clearer lane markings. A simple painted bike lane would suffice for my needs, though I understand others need more protection.",
+          "highlights": [
+            "opportunities for improvement",
+            "traffic flow",
+            "painted bike lane"
+          ],
+          "timestamp": "2025-12-08T15:10:14.173Z"
+        },
+        {
+          "id": "1765206615139-1-0.22710253047334916",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "Analyzing this location, I believe we need a balanced approach. The current setup has potential. I'd love to see green-painted lanes with at least a painted buffer zone. This would make it attractive for daily commuting while keeping costs reasonable. Physical separation would be nice but isn't essential for riders like me.",
+          "highlights": [
+            "balanced approach",
+            "green-painted lanes",
+            "buffer zone",
+            "daily commuting"
+          ],
+          "timestamp": "2025-12-08T15:10:15.139Z"
+        },
+        {
+          "id": "1765206616201-2-0.4909413215393189",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "This location is currently too dangerous for nervous cyclists. I absolutely need physical protection - either bollards or armadillo dividers - to even consider cycling here. Paint alone won't address my safety concerns. The infrastructure must clearly separate bikes from cars with physical barriers.",
+          "highlights": [
+            "safety improvements",
+            "physical protection",
+            "bollards",
+            "separate bikes from cars"
+          ],
+          "timestamp": "2025-12-08T15:10:16.201Z"
+        },
+        {
+          "id": "1765206617129-3-0.10934696773987895",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "Looking at this road, it confirms all my fears about urban cycling. For me to even consider it, you'd need fully protected cycle tracks, completely separated from traffic - think Copenhagen-style infrastructure. Anything less is unacceptable given the risks involved.",
+          "highlights": [
+            "wouldn't cycle",
+            "fully protected",
+            "Copenhagen-style",
+            "risks involved"
+          ],
+          "timestamp": "2025-12-08T15:10:17.129Z"
+        },
+        {
+          "id": "1765206618641-driver-init",
+          "role": "driver",
+          "content": "As a driver who uses this route regularly, I'm open to bike lane improvements but concerned about practical impacts. We need solutions that don't create congestion during peak hours or eliminate essential parking. Clear lane markings and predictable cyclist behavior would actually help drivers too.",
+          "highlights": [
+            "road width",
+            "turning movements",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:10:18.641Z"
+        },
+        {
+          "id": 1765206747552,
+          "role": "user",
+          "content": "Is there space for a protected bike lane here?",
+          "timestamp": "2025-12-08T15:12:27.552Z"
+        },
+        {
+          "id": "1765206767766-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "A balanced approach would be to add a painted buffer zone and possibly install flexible bollards for better separation from traffic. This would increase safety without requiring major infrastructure changes. Keeping the green paint is essential for visibility, and ensuring the lane is well-maintained will encourage regular use.",
+          "highlights": [
+            "painted buffer",
+            "flexible bollards",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:12:47.766Z"
+        },
+        {
+          "id": "1765206768379-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "To improve efficiency, I'd recommend enhancing the visibility of lane markings and ensuring the bike lane remains clear of debris. A wider lane would allow for faster travel, especially during peak hours. Maintaining the green color can help with visibility, and reducing the buffer space slightly could widen the lane itself.",
+          "highlights": [
+            "visibility",
+            "wider lane",
+            "debris"
+          ],
+          "timestamp": "2025-12-08T15:12:48.379Z"
+        },
+        {
+          "id": "1765206768971-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "For my safety concerns, installing physical barriers like bollards or small concrete dividers is crucial. These would provide the necessary protection from car traffic. Additionally, improving signage and ensuring the buffer zone is always clear are important steps to make this a viable route for me.",
+          "highlights": [
+            "physical barriers",
+            "protection",
+            "signage"
+          ],
+          "timestamp": "2025-12-08T15:12:48.971Z"
+        },
+        {
+          "id": "1765206769577-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "To consider cycling here, a fully protected cycle track is necessary. This means a complete physical separation from traffic, such as a raised cycle path or a barrier-separated lane akin to those in cycling-friendly cities. The current design doesn't meet the safety standards I need.",
+          "highlights": [
+            "protected cycle track",
+            "physical separation",
+            "safety"
+          ],
+          "timestamp": "2025-12-08T15:12:49.577Z"
+        },
+        {
+          "id": "1765206770980-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, any changes should ensure that traffic flow is not impeded. Maintaining lane width is crucial to avoid congestion, especially during peak hours. Clear and predictable cyclist behavior, aided by visible lane markings and signals, would enhance overall safety and efficiency. It's also important to preserve necessary parking spaces.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:12:50.980Z"
+        },
+        {
+          "id": 1765206882561,
+          "role": "user",
+          "content": "What if we removed one of the parking lanes, then there would space for a layer of protection and maybe wider bike lanes too.",
+          "timestamp": "2025-12-08T15:14:42.561Z"
+        },
+        {
+          "id": "1765206904119-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "Removing a parking lane can provide the extra space needed for a painted buffer and possibly flexible bollards for added separation. This would enhance safety while keeping the infrastructure cost-effective. Retaining the green paint ensures visibility, making it a practical yet balanced improvement for daily commuting.",
+          "highlights": [
+            "painted buffer",
+            "flexible bollards",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:15:04.119Z"
+        },
+        {
+          "id": "1765206904734-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "To enhance efficiency, I'd suggest widening the current lane by removing one parking lane. This would allow for faster travel without compromising the traffic flow. Maintaining the green paint for visibility is crucial, and ensuring the lane is clear of debris will improve speed and safety. Slightly reducing buffer space could also contribute to a wider lane.",
+          "highlights": [
+            "widening",
+            "green paint",
+            "traffic flow"
+          ],
+          "timestamp": "2025-12-08T15:15:04.734Z"
+        },
+        {
+          "id": "1765206905324-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "For improved safety, removing a parking lane could create space for physical barriers, such as bollards or small concrete dividers. These would provide essential protection from traffic. Clearer signage and a distinct buffer zone would also be important to make this route feel safer for nervous cyclists.",
+          "highlights": [
+            "physical barriers",
+            "bollards",
+            "signage"
+          ],
+          "timestamp": "2025-12-08T15:15:05.324Z"
+        },
+        {
+          "id": "1765206905930-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "Removing a parking lane could allow for a fully protected cycle track, which is necessary for my comfort. A raised cycle path or barrier-separated lane would provide the complete separation needed from traffic to make cycling here a viable option.",
+          "highlights": [
+            "fully protected",
+            "raised cycle path",
+            "complete separation"
+          ],
+          "timestamp": "2025-12-08T15:15:05.930Z"
+        },
+        {
+          "id": "1765206907329-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, removing a parking lane must be carefully considered to avoid negatively impacting local businesses and residents who rely on street parking. It's crucial to maintain smooth traffic flow during peak hours. Enhancements like clear lane markings and signals for cyclists can improve predictability on the road, benefiting both drivers and cyclists.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:15:07.329Z"
+        },
+        {
+          "id": 1765207130740,
+          "role": "user",
+          "content": "Why do you all think green paint is so important? I think whether cars respect bike lanes has more to do with culture than visibility.",
+          "timestamp": "2025-12-08T15:18:50.740Z"
+        },
+        {
+          "id": "1765207149272-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "I suggest adding a painted buffer zone and flexible bollards to separate the bike lane from traffic. This will enhance safety without major infrastructure changes. The green paint is key for visibility and should be maintained. These improvements will make the lane more attractive for daily commuting.",
+          "highlights": [
+            "buffer zone",
+            "bollards",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:19:09.272Z"
+        },
+        {
+          "id": "1765207149872-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "To enhance efficiency, I recommend widening the bike lane by reducing unnecessary buffer space. This would increase speed and comfort for experienced cyclists. Keeping the green paint is crucial for visibility, especially during peak hours. Ensuring regular maintenance to clear debris from the lane will further improve travel conditions.",
+          "highlights": [
+            "widening",
+            "visibility",
+            "maintenance"
+          ],
+          "timestamp": "2025-12-08T15:19:09.872Z"
+        },
+        {
+          "id": "1765207150476-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "Safety improvements are essential. Installing physical barriers like bollards or small concrete dividers is necessary for protection from traffic. Clearly marked buffer zones and improved signage would also help make this route safer for nervous cyclists like me.",
+          "highlights": [
+            "physical barriers",
+            "protection",
+            "signage"
+          ],
+          "timestamp": "2025-12-08T15:19:10.476Z"
+        },
+        {
+          "id": "1765207151080-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "To consider cycling here, a fully protected cycle track is necessary. This means a raised cycle path or barrier-separated lane to ensure complete separation from traffic. Anything less would not meet the safety standards required for someone like me.",
+          "highlights": [
+            "protected cycle track",
+            "complete separation",
+            "safety"
+          ],
+          "timestamp": "2025-12-08T15:19:11.080Z"
+        },
+        {
+          "id": "1765207152490-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, it's important to balance improvements with maintaining smooth traffic flow. Removing a parking lane could be considered if it doesn't negatively impact local businesses. Ensuring clear lane markings and predictable cyclist behavior is crucial for safety. These changes should not create congestion, especially during peak hours.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:19:12.490Z"
+        },
+        {
+          "id": 1765207203321,
+          "role": "user",
+          "content": "Why do you think green paint is important?",
+          "timestamp": "2025-12-08T15:20:03.321Z"
+        },
+        {
+          "id": "1765207224586-enthused-confident-0",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "Introducing a painted buffer zone and flexible bollards can provide better separation from traffic. The green paint is essential for visibility and should be well-maintained. These changes will encourage more regular use while balancing safety and efficiency.",
+          "highlights": [
+            "painted buffer",
+            "flexible bollards",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:20:24.586Z"
+        },
+        {
+          "id": "1765207225197-strong-fearless-1",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "To improve efficiency, increasing the lane width by slightly reducing buffer space can enhance speed. Maintaining the green paint is crucial for visibility, especially during peak hours. Ensuring the lane is clear of debris will also improve travel conditions.",
+          "highlights": [
+            "lane width",
+            "green paint",
+            "debris"
+          ],
+          "timestamp": "2025-12-08T15:20:25.197Z"
+        },
+        {
+          "id": "1765207225787-interested-concerned-2",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "Installing physical barriers like bollards or small dividers is crucial for protection. The green paint enhances visibility, which is important for feeling safe. Clear signage and maintaining the buffer zone would make this route more appealing.",
+          "highlights": [
+            "physical barriers",
+            "visibility",
+            "signage"
+          ],
+          "timestamp": "2025-12-08T15:20:25.787Z"
+        },
+        {
+          "id": "1765207226454-no-way-3",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "A fully protected cycle track with complete separation from traffic is necessary for safety. This could include a raised cycle path or barrier-separated lane. The green paint is less of a concern without full protection.",
+          "highlights": [
+            "protected cycle track",
+            "separation",
+            "safety"
+          ],
+          "timestamp": "2025-12-08T15:20:26.454Z"
+        },
+        {
+          "id": "1765207227808-driver",
+          "role": "driver",
+          "content": "From a driver's perspective, maintaining smooth traffic flow and preserving essential parking are key concerns. Clear lane markings and predictable cyclist behavior, supported by visible signals, can enhance overall safety and efficiency. Any changes should ensure that congestion is minimized, especially during peak hours.",
+          "highlights": [
+            "lane management",
+            "traffic flow",
+            "visibility"
+          ],
+          "timestamp": "2025-12-08T15:20:27.808Z"
+        }
+      ]
+    }
+  ],
+  "chats": []
+}

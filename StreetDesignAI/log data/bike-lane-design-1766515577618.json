@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "exportDate": "2025-12-23T18:46:17.617Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.956239",
+    "longitude": "-77.032812",
+    "streetViewParams": {
+      "heading": 273.317010564987,
+      "pitch": -5.625170024845701,
+      "zoom": 0.3188835993624177
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": "default-1",
+          "name": "Main Street",
+          "type": "Primary Road",
+          "lanes": 2,
+          "maxspeed": "30 mph",
+          "surface": "asphalt"
+        }
+      ],
+      "buildings": 10,
+      "traffic_signals": 2,
+      "crossings": 3,
+      "cycleways": 0,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": false,
+      "parkingAvailable": true,
+      "raw": {
+        "totalElements": 0,
+        "timestamp": "2025-12-23T18:21:30.710Z",
+        "error": "Using default data"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.956239,
+        "lon": -77.032812
+      },
+      "streetViewParams": {
+        "lat": 38.95622312364731,
+        "lng": -77.03281169273691,
+        "heading": 101.05770833880814,
+        "pitch": -17.96917242142007,
+        "zoom": 0.3188835993624177,
+        "pano_id": "X4Cd3ABnYWuNkdAp8zAx1w",
+        "date": "2019-11"
+      },
+      "address": "38.956239, -77.032812",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 4
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane but parked cars. Limited overtaking space. Potholes may cause navigation. Few stops, maintain speed.",
+          "points": [
+            "Wide lane but parked cars",
+            "Limited overtaking space",
+            "Potholes may cause navigation",
+            "Few stops, maintain speed"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "No dedicated bike lane visible. Potential door zone from parked cars. Moderate traffic, manageable for cyclists. Road surface appears slightly uneven.",
+          "points": [
+            "No dedicated bike lane visible",
+            "Potential door zone from parked cars",
+            "Moderate traffic, manageable for cyclists",
+            "Road surface appears slightly uneven"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No bike lane present. Cars parked on both sides. Moderate traffic speed. Limited physical protection.",
+          "points": [
+            "No bike lane present",
+            "Cars parked on both sides",
+            "Moderate traffic speed",
+            "Limited physical protection"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 4
+        },
+        "no-way": {
+          "text": "No separation from vehicles. Cycling near parked cars. Not as safe as sidewalk. Would not allow child here.",
+          "points": [
+            "No separation from vehicles",
+            "Cycling near parked cars",
+            "Not as safe as sidewalk",
+            "Would not allow child here"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road has a moderate speed limit of 25 mph, which allows for safe navigation through the neighborhood.",
+          "cons": "Limited parking availability may create congestion or require longer walks to destinations."
+        },
+        "cyclist": {
+          "pros": "Presence of bike infrastructure and cycleways enhances safety and accessibility for cyclists.",
+          "cons": "High number of crossings and nearby buildings may increase the risk of interactions with pedestrians and vehicles."
+        }
+      },
+      "createdAt": "2025-12-23T18:14:26.086Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1766514329583-7933",
+      "scenario": "Design Scenario 1",
+      "name": "Standard Unpainted Armadillo Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "no-paint",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "- Do not paint the bike lane\n- Split the lane from the traffic\n- creating lights if needed ",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "no-way": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Standard width allows decent speed. Armadillo dividers enhance separation. Surface quality appears smooth. Limited space for overtaking.",
+          "points": [
+            "Standard width allows decent speed",
+            "Armadillo dividers enhance separation",
+            "Surface quality appears smooth",
+            "Limited space for overtaking"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Standard width lane feels adequate. Armadillo dividers provide some protection. Lack of color reduces visibility. No parking improves traffic separation.",
+          "points": [
+            "Standard width lane feels adequate",
+            "Armadillo dividers provide some protection",
+            "Lack of color reduces visibility",
+            "No parking improves traffic separation"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Armadillo dividers offer minimal protection. Standard width may feel cramped. No special paint reduces visibility. Separated from moving traffic.",
+          "points": [
+            "Armadillo dividers offer minimal protection",
+            "Standard width may feel cramped",
+            "No special paint reduces visibility",
+            "Separated from moving traffic"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "no-way": {
+          "text": "Minimal separation from vehicles. Armadillo dividers offer limited protection. Lane near parked cars risky. Sidewalk feels safer for children.",
+          "points": [
+            "Minimal separation from vehicles",
+            "Armadillo dividers offer limited protection",
+            "Lane near parked cars risky",
+            "Sidewalk feels safer for children"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The armadillo dividers clearly separate the bike lane, reducing the likelihood of accidental encroachment.",
+          "cons": "The lack of lane color might make the bike lane less visible, particularly in low-light conditions, potentially affecting driver awareness."
+        },
+        "cyclist": {
+          "pros": "The 1.5-foot buffer with armadillo dividers provides a physical separation from moving vehicles, enhancing safety.",
+          "cons": "The proximity to parked cars increases the risk of dooring, and the lack of painted lanes might reduce visibility to passing vehicles."
+        }
+      }
+    },
+    {
+      "id": "design-1766514590185-7633",
+      "scenario": "Design Scenario 2",
+      "name": "Standard Unpainted Buffered Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "no-paint",
+        "bufferType": "standard",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "- Do not paint the bike lane\n- Split the lane from the traffic\n- creating lights if needed ",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Standard width allows speed. No special paint for visibility. Buffer offers moderate separation. Good surface for maintaining momentum.",
+          "points": [
+            "Standard width allows speed",
+            "No special paint for visibility",
+            "Buffer offers moderate separation",
+            "Good surface for maintaining momentum"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Standard lane width adequate. White paint buffer provides separation. No special lane color used. Visibility to drivers could improve.",
+          "points": [
+            "Standard lane width adequate",
+            "White paint buffer provides separation",
+            "No special lane color used",
+            "Visibility to drivers could improve"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "interested-concerned": {
+          "text": "No physical protection. Standard buffer insufficient. No special paint visibility. Traffic proximity causes anxiety.",
+          "points": [
+            "No physical protection",
+            "Standard buffer insufficient",
+            "No special paint visibility",
+            "Traffic proximity causes anxiety"
+          ],
+          "safety": 5,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "text": "No physical barrier from traffic. Standard width lacks extra protection. Buffer only painted, not physical. Traffic proximity remains concerning.",
+          "points": [
+            "No physical barrier from traffic",
+            "Standard width lacks extra protection",
+            "Buffer only painted, not physical",
+            "Traffic proximity remains concerning"
+          ],
+          "safety": 4,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The standard lane width with a clear buffer allows for smooth traffic flow and clear visibility of the bike lane.",
+          "cons": "Turning movements may require extra caution due to the proximity of the bike lane to moving traffic."
+        },
+        "cyclist": {
+          "pros": "The 3-foot buffer provides a degree of separation from moving vehicles, enhancing comfort.",
+          "cons": "Lack of special paint and proximity to traffic may reduce the perceived safety, especially at intersections."
+        }
+      }
+    },
+    {
+      "id": "design-1766514923018-7641",
+      "scenario": "Design Scenario 3",
+      "name": "Standard Unpainted Buffered Lane",
+      "options": {
+        "laneWidth": "stay-same",
+        "laneColor": "no-paint",
+        "bufferType": "standard",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Standard width allows decent speed. 3-foot buffer offers basic separation. No special paint reduces visibility. Surface quality appears smooth.",
+          "points": [
+            "Standard width allows decent speed",
+            "3-foot buffer offers basic separation",
+            "No special paint reduces visibility",
+            "Surface quality appears smooth"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "enthused-confident": {
+          "text": "Standard width feels adequate. Three-foot buffer provides space. Lack of paint reduces visibility. No parking minimizes dooring risk.",
+          "points": [
+            "Standard width feels adequate",
+            "Three-foot buffer provides space",
+            "Lack of paint reduces visibility",
+            "No parking minimizes dooring risk"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "Standard buffer lacks physical barriers. No special paint for visibility. Few intersections but still concerning. Moderate anxiety due to traffic proximity.",
+          "points": [
+            "Standard buffer lacks physical barriers",
+            "No special paint for visibility",
+            "Few intersections but still concerning",
+            "Moderate anxiety due to traffic proximity"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "text": "No physical barrier present. Traffic proximity feels unsafe. Buffer offers minimal protection. Sidewalk feels far safer.",
+          "points": [
+            "No physical barrier present",
+            "Traffic proximity feels unsafe",
+            "Buffer offers minimal protection",
+            "Sidewalk feels far safer"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 2
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The standard lane width and buffer provide clear separation from cyclists, maintaining good traffic flow.",
+          "cons": "The lack of special paint for the bike lane might reduce visibility of cyclists, especially in busy or low-light conditions."
+        },
+        "cyclist": {
+          "pros": "The 3-foot buffer offers some protection from moving traffic, enhancing comfort and safety.",
+          "cons": "Without special paint, the bike lane might be less visible to drivers, and navigating intersections could be challenging."
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "comparison-0",
+      "designs": [
+        "design-1766514923018-7641",
+        "design-1766514590185-7633",
+        "design-1766514329583-7933"
+      ],
+      "messages": [
+        {
+          "id": "1766515038936-0-0.3565072679560164",
+          "role": "agent",
+          "persona": "strong-fearless",
+          "content": "From my perspective as an experienced cyclist, I prefer Design Scenario 3. The lane width is adequate for my needs. While I don't need the buffer, it does keep cars from drifting into my space. This design supports efficient riding at speed.",
+          "highlights": [
+            "wider lane",
+            "room to overtake",
+            "efficient riding",
+            "maintaining momentum"
+          ],
+          "timestamp": "2025-12-23T18:37:18.936Z"
+        },
+        {
+          "id": "1766515039944-1-0.7743662180250284",
+          "role": "agent",
+          "persona": "enthused-confident",
+          "content": "As a regular cyclist, I prefer Design Scenario 3 because it strikes the right balance for me. The clear lane markings help define my space. The buffer zone reduces my stress level significantly. This design would make this a regular route for me.",
+          "highlights": [
+            "right balance",
+            "green paint",
+            "reduces stress",
+            "regular route"
+          ],
+          "timestamp": "2025-12-23T18:37:19.944Z"
+        },
+        {
+          "id": "1766515040933-2-0.6880144092013645",
+          "role": "agent",
+          "persona": "interested-concerned",
+          "content": "From my nervous cyclist perspective, I strongly prefer Design Scenario 2. Though I still have serious safety concerns without physical protection. Without clear visual separation, I remain very anxious. I need maximum protection to feel safe.",
+          "highlights": [
+            "physical barriers",
+            "safety concerns",
+            "fear of cars",
+            "maximum protection"
+          ],
+          "timestamp": "2025-12-23T18:37:20.933Z"
+        },
+        {
+          "id": "1766515041937-3-0.6549411796575667",
+          "role": "agent",
+          "persona": "no-way",
+          "content": "If forced to choose, Design Scenario 2 is the least terrifying option, but I still wouldn't cycle. Without physical protection, this confirms why I don't cycle. Nothing here would convince me to start cycling.",
+          "highlights": [
+            "least terrifying",
+            "wouldn't cycle",
+            "sharing road space",
+            "unacceptable"
+          ],
+          "timestamp": "2025-12-23T18:37:21.937Z"
+        },
+        {
+          "id": "1766515043437-driver-init",
+          "role": "driver",
+          "content": "From a driver's perspective, these bike lane options present trade-offs. The protected designs offer better safety for cyclists, but they take up more road space that we need for turning lanes and parking. I hope we can find a balance that works for everyone.",
+          "highlights": [
+            "traffic flow",
+            "parking",
+            "road space"
+          ],
+          "timestamp": "2025-12-23T18:37:23.437Z"
+        }
+      ]
+    }
+  ],
+  "inDepthAnalyses": [],
+  "chats": []
+}

@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "exportDate": "2025-11-17T19:28:01.489Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "41.954653",
+    "longitude": "-87.796562",
+    "streetViewParams": {
+      "heading": 331.84677172374717,
+      "pitch": -8.210123367818426,
+      "zoom": 1
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": 97046997,
+          "name": "North Oak Park Avenue",
+          "type": "Tertiary Road",
+          "lanes": "2",
+          "maxspeed": "30 mph",
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": "lane"
+        },
+        {
+          "id": 151319547,
+          "name": "Unnamed Road",
+          "type": "Footpath",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 151319569,
+          "name": "Unnamed Road",
+          "type": "Footpath",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 151319570,
+          "name": "Unnamed Road",
+          "type": "Service Road",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 217377061,
+          "name": "Unnamed Road",
+          "type": "Service Road",
+          "lanes": null,
+          "maxspeed": null,
+          "surface": "unknown",
+          "bicycle": null,
+          "cycleway": null
+        }
+      ],
+      "buildings": 0,
+      "traffic_signals": 0,
+      "crossings": 2,
+      "cycleways": 2,
+      "hasPublicTransport": false,
+      "hasBikeInfrastructure": true,
+      "parkingAvailable": false,
+      "raw": {
+        "totalElements": 124,
+        "timestamp": "2025-11-17T18:46:34.377Z"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 41.954653,
+        "lon": -87.796562
+      },
+      "streetViewParams": {
+        "lat": 41.95464512768326,
+        "lng": -87.7965982760838,
+        "heading": 331.84677172374717,
+        "pitch": -8.210123367818426,
+        "zoom": 1,
+        "pano_id": "BzK9f2k-pDNy7PY1DAFFVA",
+        "date": "2024-08"
+      },
+      "address": "41.954653, -87.796562",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 9,
+          "comfort": 8,
+          "total": 9
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 8,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 6,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "This road has decent cycling infrastructure. While I can handle any condition, dedicated lanes are always appreciated.",
+          "points": [
+            "Decent cycling infrastructure exists",
+            "Can handle any conditions",
+            "Dedicated lanes appreciated",
+            "Speed maintained easily"
+          ],
+          "safety": 9,
+          "comfort": 8,
+          "total": 9
+        },
+        "enthused-confident": {
+          "text": "This road is manageable for my skill level. I feel reasonably confident navigating here.",
+          "points": [
+            "Road manageable for skills",
+            "Reasonably confident here",
+            "Infrastructure could improve",
+            "Regular route potential"
+          ],
+          "safety": 8,
+          "comfort": 8,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "The presence of cycling infrastructure makes this road more appealing, though I still have some concerns about safety.",
+          "points": [
+            "Cycling infrastructure helps somewhat",
+            "Still have safety concerns",
+            "More protection needed",
+            "Might consider cycling here"
+          ],
+          "safety": 6,
+          "comfort": 6,
+          "total": 6
+        },
+        "no-way": {
+          "text": "Even on quieter roads, sharing space with cars feels unsafe. I need completely separated paths.",
+          "points": [
+            "Sharing with cars unsafe",
+            "Need completely separated paths",
+            "Even quiet roads scary",
+            "Cycling not an option"
+          ],
+          "safety": 3,
+          "comfort": 3,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "Clear separation from cyclists reduces conflict points. Predictable cyclist behavior in dedicated lanes.",
+          "cons": "Reduced road width for vehicles. Need to be more cautious when turning across bike lanes."
+        },
+        "cyclist": {
+          "pros": "Dedicated space provides safety from traffic. Clear lane markings improve visibility.",
+          "cons": "Limited space may feel constraining. Potential conflicts at intersections."
+        }
+      },
+      "createdAt": "2025-11-17T18:47:36.295Z"
+    }
+  ],
+  "designs": [],
+  "comparisons": [],
+  "inDepthAnalyses": [],
+  "chats": []
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "exportDate": "2025-11-17T13:51:11.135Z",
+    "version": "1.0",
+    "projectType": "bike-lane-design"
+  },
+  "coordinates": {
+    "latitude": "38.956213",
+    "longitude": "-77.032391",
+    "streetViewParams": {
+      "heading": 89.74962360544747,
+      "pitch": -6.215310643152961,
+      "zoom": 1
+    },
+    "osmData": {
+      "roads": [
+        {
+          "id": 6052178,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 6052613,
+          "name": "Colorado Avenue Spur Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 131052280,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "2",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 131052292,
+          "name": "Colorado Avenue Northwest",
+          "type": "Tertiary Road",
+          "lanes": "1",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": null
+        },
+        {
+          "id": 132601123,
+          "name": "Kennedy Street Northwest",
+          "type": "Tertiary Road",
+          "lanes": "2",
+          "maxspeed": "25 mph",
+          "surface": "asphalt",
+          "bicycle": null,
+          "cycleway": "shared_lane"
+        }
+      ],
+      "buildings": 73,
+      "traffic_signals": 2,
+      "crossings": 11,
+      "cycleways": 1,
+      "hasPublicTransport": true,
+      "hasBikeInfrastructure": true,
+      "parkingAvailable": false,
+      "raw": {
+        "totalElements": 743,
+        "timestamp": "2025-11-17T13:34:02.637Z"
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "id": "evaluation-0",
+      "scenario": "Existing Condition",
+      "coordinates": {
+        "lat": 38.956213,
+        "lon": -77.032391
+      },
+      "streetViewParams": {
+        "lat": 38.95622339528968,
+        "lng": -77.03238699791362,
+        "heading": 89.05546165459229,
+        "pitch": -5.8873744811624675,
+        "zoom": 1,
+        "pano_id": "Zekcj_0-NJajEEH5aGBagQ",
+        "date": "2025-10"
+      },
+      "address": "38.956213, -77.032391",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "safety": 3,
+          "comfort": 2,
+          "total": 3
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Narrow road limits overtaking. Parked cars reduce space. Clear sightlines for navigation. Possible need to slow down.",
+          "points": [
+            "Narrow road limits overtaking",
+            "Parked cars reduce space",
+            "Clear sightlines for navigation",
+            "Possible need to slow down"
+          ],
+          "safety": 6,
+          "comfort": 5,
+          "total": 6
+        },
+        "enthused-confident": {
+          "text": "Road is wide with parked cars. Possible door zone hazards exist. No dedicated bike lane visible. Trees provide pleasant atmosphere.",
+          "points": [
+            "Road is wide with parked cars",
+            "Possible door zone hazards exist",
+            "No dedicated bike lane visible",
+            "Trees provide pleasant atmosphere"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "interested-concerned": {
+          "text": "No physical barriers present. Traffic appears light and slow. Lanes shared with parked cars. Limited dedicated cycling space.",
+          "points": [
+            "No physical barriers present",
+            "Traffic appears light and slow",
+            "Lanes shared with parked cars",
+            "Limited dedicated cycling space"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 5
+        },
+        "no-way": {
+          "text": "No dedicated cycling lane. Cyclists share road with cars. Parked cars create obstacles. Sidewalks safer for pedestrians.",
+          "points": [
+            "No dedicated cycling lane",
+            "Cyclists share road with cars",
+            "Parked cars create obstacles",
+            "Sidewalks safer for pedestrians"
+          ],
+          "safety": 3,
+          "comfort": 2,
+          "total": 3
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The road has a manageable speed limit of 25 mph, which can enhance safety and control for drivers.",
+          "cons": "Limited lanes and lack of parking may lead to congestion and difficulty finding spots for stopping."
+        },
+        "cyclist": {
+          "pros": "Presence of bike infrastructure and cycleways improves safety and convenience for cyclists.",
+          "cons": "Frequent crossings and traffic signals might interrupt the flow and require frequent stops."
+        }
+      },
+      "createdAt": "2025-11-17T13:34:48.923Z"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1763386652992-1892",
+      "scenario": "Design Scenario 1",
+      "name": "Wide Green Protected Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-bollards",
+        "bufferLocation": "moving-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Widened lane allows higher speed. Green paint enhances visibility. Bollards provide clear separation. Maintains momentum with smooth surface.",
+          "points": [
+            "Widened lane allows higher speed",
+            "Green paint enhances visibility",
+            "Bollards provide clear separation",
+            "Maintains momentum with smooth surface"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Wide lane offers ample space. Green color enhances lane visibility. Bollard buffer increases safety. Visible to drivers, reduces conflicts.",
+          "points": [
+            "Wide lane offers ample space",
+            "Green color enhances lane visibility",
+            "Bollard buffer increases safety",
+            "Visible to drivers, reduces conflicts"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Widened lane enhances comfort. Green paint improves visibility. Bollards provide physical protection. Separation reduces traffic anxiety.",
+          "points": [
+            "Widened lane enhances comfort",
+            "Green paint improves visibility",
+            "Bollards provide physical protection",
+            "Separation reduces traffic anxiety"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "text": "Bollards provide some separation. Still close to moving vehicles. No complete physical barrier. Sidewalk feels safer for children.",
+          "points": [
+            "Bollards provide some separation",
+            "Still close to moving vehicles",
+            "No complete physical barrier",
+            "Sidewalk feels safer for children"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The widened lane and green color increase visibility, helping drivers stay aware of the bike lane.",
+          "cons": "Bollards may restrict turning movements and require extra attention when merging or changing lanes."
+        },
+        "cyclist": {
+          "pros": "The green painted lane and bollard buffer provide visual and physical separation, enhancing safety and comfort.",
+          "cons": "Navigating intersections could still be challenging due to potential interactions with turning vehicles."
+        }
+      }
+    },
+    {
+      "id": "design-1763386880632-5295",
+      "scenario": "Design Scenario 2",
+      "name": "Wide Green Armadillo Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-armadillo",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "safety": 6,
+          "comfort": 4,
+          "total": 5
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane for faster speed. Green color enhances visibility. Armadillo dividers limit passing. Surface quality looks smooth.",
+          "points": [
+            "Wide lane for faster speed",
+            "Green color enhances visibility",
+            "Armadillo dividers limit passing",
+            "Surface quality looks smooth"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "enthused-confident": {
+          "text": "Clear lane with green paint. Effective buffer with armadillos. Good visibility to drivers. Comfortable for daily commuting.",
+          "points": [
+            "Clear lane with green paint",
+            "Effective buffer with armadillos",
+            "Good visibility to drivers",
+            "Comfortable for daily commuting"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Armadillo dividers provide some protection. Widened lane reduces close encounters. Green paint enhances visibility. Proximity to parked cars raises concern.",
+          "points": [
+            "Armadillo dividers provide some protection",
+            "Widened lane reduces close encounters",
+            "Green paint enhances visibility",
+            "Proximity to parked cars raises concern"
+          ],
+          "safety": 7,
+          "comfort": 6,
+          "total": 7
+        },
+        "no-way": {
+          "text": "Armadillo dividers offer minimal separation. Green paint improves visibility. Buffer reduces dooring risk slightly. Still close to moving vehicles.",
+          "points": [
+            "Armadillo dividers offer minimal separation",
+            "Green paint improves visibility",
+            "Buffer reduces dooring risk slightly",
+            "Still close to moving vehicles"
+          ],
+          "safety": 6,
+          "comfort": 4,
+          "total": 5
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The widened lane and clear green coloring improve visibility and awareness of the bike lane.",
+          "cons": "Armadillo dividers may restrict turning movements and require careful navigation when parking or exiting."
+        },
+        "cyclist": {
+          "pros": "The green painted lane and buffer with armadillo dividers offer enhanced visibility and protection from traffic.",
+          "cons": "Potential risk from car doors opening despite the buffer, and intersections may require extra caution."
+        }
+      }
+    },
+    {
+      "id": "design-1763387094507-7551",
+      "scenario": "Design Scenario 3",
+      "name": "Wide Green Protected Lane",
+      "options": {
+        "laneWidth": "widen",
+        "laneColor": "green",
+        "bufferType": "narrow-bollards",
+        "bufferLocation": "parked-cars"
+      },
+      "prompt": "",
+      "personaScores": {
+        "strong-fearless": {
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "enthused-confident": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "personaEvaluations": {
+        "strong-fearless": {
+          "text": "Wide lane for high speed. Buffer adds safety from cars. Surface looks smooth and clean. Easy to maintain momentum.",
+          "points": [
+            "Wide lane for high speed",
+            "Buffer adds safety from cars",
+            "Surface looks smooth and clean",
+            "Easy to maintain momentum"
+          ],
+          "safety": 8,
+          "comfort": 9,
+          "total": 9
+        },
+        "enthused-confident": {
+          "text": "Widened lane offers ample space. Green color enhances visibility. Bollard buffer increases safety. Clear separation from parked cars.",
+          "points": [
+            "Widened lane offers ample space",
+            "Green color enhances visibility",
+            "Bollard buffer increases safety",
+            "Clear separation from parked cars"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "interested-concerned": {
+          "text": "Widened lane feels safer. Green paint improves visibility. Bollards provide physical separation. Intersection safety needs improvement.",
+          "points": [
+            "Widened lane feels safer",
+            "Green paint improves visibility",
+            "Bollards provide physical separation",
+            "Intersection safety needs improvement"
+          ],
+          "safety": 8,
+          "comfort": 7,
+          "total": 8
+        },
+        "no-way": {
+          "text": "Bollards provide minimal separation. Close to parked cars, risky. Sidewalk feels safer for children. Lane color improves visibility.",
+          "points": [
+            "Bollards provide minimal separation",
+            "Close to parked cars, risky",
+            "Sidewalk feels safer for children",
+            "Lane color improves visibility"
+          ],
+          "safety": 5,
+          "comfort": 4,
+          "total": 4
+        }
+      },
+      "driverCyclistEvaluations": {
+        "driver": {
+          "pros": "The widened bike lane with a buffer and bollards provides clear separation from the driving lane, reducing the risk of collision with cyclists.",
+          "cons": "The presence of bollards and green-painted lanes may require more caution during turning movements and could slightly reduce visibility."
+        },
+        "cyclist": {
+          "pros": "The green-painted lane and 1.5-foot buffer with bollards offer a high level of protection and comfort, minimizing the risk of dooring and close passing by vehicles.",
+          "cons": "Navigating intersections might still pose challenges due to potential conflicts with turning vehicles, despite the increased protection."
+        }
+      }
+    }
+  ],
+  "comparisons": [],
+  "inDepthAnalyses": [],
+  "chats": []
+}
