@@ -74,6 +74,8 @@ BikeabilityAssessment/
 
 ## 🎨 Image Generation: Multi-Agent Street Design Pipeline
 
+> 🎉 **Accepted at NeurIPS 2025 Workshop!**
+
 **Chenguang Wang<sup>1,2</sup>, Xiang Yan<sup>3</sup>, Yilong Dai<sup>3</sup>, Ziyi Wang<sup>4</sup>, Susu Xu<sup>1</sup>**
 <br><sup>1</sup>Johns Hopkins University &nbsp; <sup>2</sup>Stony Brook University &nbsp; <sup>3</sup>University of Florida &nbsp; <sup>4</sup>University of Maryland
 
