@@ -96,6 +96,8 @@ Experiments across diverse urban scenarios demonstrate that the system can adapt
 
 ## 🛠️ StreetDesignAI: Interactive Design Evaluation System
 
+> 🎉 **Accepted at DIS 2026!**
+
 **Ziyi Wang<sup>1,\*</sup>, Yilong Dai<sup>2,\*</sup>, Duanya Lyu<sup>2</sup>, Mateo Nader<sup>2</sup>, Sihan Chen<sup>3</sup>, Wanghao Ye<sup>1</sup>, Zijian Ding<sup>1</sup>, Xiang Yan<sup>2</sup>**
 <br><sup>1</sup>University of Maryland &nbsp; <sup>2</sup>University of Florida &nbsp; <sup>3</sup>Carnegie Mellon University
 
